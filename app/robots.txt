@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casier.pages.dev/sitemap.xml
