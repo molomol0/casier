@@ -1,0 +1,159 @@
+{
+ "generatedAt": "2026-10-23",
+ "source": "ajouts manuels (affairistes/intermédiaires)",
+ "politicians": [
+  {
+   "qid": "Q356719",
+   "nom": "Carlos Ghosn",
+   "wikiTitle": "Carlos Ghosn",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Ghosn%202010.jpg?width=500",
+   "parti": null,
+   "poste": "chef d'entreprise libano-brésilo-français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q721491",
+   "nom": "Vincent Bolloré",
+   "wikiTitle": "Vincent Bolloré",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Festival%20automobile%20international%202014%20-%20Photocall%20-%20103.jpg?width=500",
+   "parti": null,
+   "poste": "homme d'affaires et entrepreneur français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q16679944",
+   "nom": "Thomas Fabius",
+   "wikiTitle": "Thomas Fabius",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Fabius.jpg?width=500",
+   "parti": null,
+   "poste": "homme d'affaires français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q3305074",
+   "nom": "Pierre Falcone",
+   "wikiTitle": "Pierre Falcone",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Falcone.JPG?width=500",
+   "parti": null,
+   "poste": "homme d'affaires français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q3369058",
+   "nom": "Patrice de Maistre",
+   "wikiTitle": "Patrice de Maistre",
+   "photo": null,
+   "parti": null,
+   "poste": "gestionnaire de fortune français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q1509297",
+   "nom": "Pierre Palmade",
+   "wikiTitle": "Pierre Palmade",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Palmade%202014.jpg?width=500",
+   "parti": null,
+   "poste": "humoriste, metteur en scène et acteur français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q551776",
+   "nom": "Patrick Poivre d'Arvor",
+   "wikiTitle": "Patrick Poivre d'Arvor",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/PPDA%20Cannes%202016.jpg?width=500",
+   "parti": null,
+   "poste": "journaliste, animateur de télévision et écrivain français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q3167121",
+   "nom": "Jean-Luc Delarue",
+   "wikiTitle": "Jean-Luc Delarue",
+   "photo": null,
+   "parti": null,
+   "poste": "animateur et producteur de télévision français",
+   "univers": "celebrite"
+  },
+  {
+   "qid": "Q55649583",
+   "nom": "Alexandre Benalla",
+   "wikiTitle": "Alexandre Benalla",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Benalla.jpg?width=500",
+   "parti": null,
+   "poste": "ancien collaborateur-sécurité auprès du président de la République française",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q822718",
+   "nom": "Bernard Squarcini",
+   "wikiTitle": "Bernard Squarcini",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Squarcini.jpg?width=500",
+   "parti": null,
+   "poste": "haut fonctionnaire français",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q3168248",
+   "nom": "Jean-Noël Guérini",
+   "wikiTitle": "Jean-Noël Guérini",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Noel%20Guerini-IMG%205675.jpg?width=500",
+   "parti": null,
+   "poste": "homme politique français",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q1684727",
+   "nom": "Jean-Christophe Mitterrand",
+   "wikiTitle": "Jean-Christophe Mitterrand",
+   "photo": null,
+   "parti": null,
+   "poste": "journaliste et homme d'affaires français",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q16948153",
+   "nom": "Jérôme Lavrilleux",
+   "wikiTitle": "Jérôme Lavrilleux",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A9r%C3%B4me%20Lavrilleux%20Parlement%20europ%C3%A9en%2026%20novembre%202014.jpg?width=500",
+   "parti": null,
+   "poste": "homme politique français",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q2690428",
+   "nom": "Ziad Takieddine",
+   "wikiTitle": "Ziad Takieddine",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziad%20Takieddine%20(cropped)%20(cropped).jpg?width=500",
+   "parti": null,
+   "poste": "homme d'affaires franco-libanais",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q2833607",
+   "nom": "Alexandre Djouhri",
+   "wikiTitle": "Alexandre Djouhri",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Djouhri.jpg?width=500",
+   "parti": null,
+   "poste": "homme d'affaires franco-algérien",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q477201",
+   "nom": "Teodorin Obiang",
+   "wikiTitle": "Teodoro Nguema Obiang Mangue",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Teodoro%20Nguema%20Obiang%20Mangue%2020250718%20(cropped).jpg?width=500",
+   "parti": null,
+   "poste": "homme politique équatoguinéen",
+   "univers": "politique"
+  },
+  {
+   "qid": "Q519639",
+   "nom": "Rifaat al-Assad",
+   "wikiTitle": "Rifaat al-Assad",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rifaathafezassad%20(cropped).jpg?width=500",
+   "parti": null,
+   "poste": "ancien officier militaire et homme politique syrien",
+   "univers": "politique"
+  }
+ ]
+}

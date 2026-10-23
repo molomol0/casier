@@ -1,0 +1,21 @@
+{
+ "nom": "Jérôme Lavrilleux",
+ "wikiTitle": "Jérôme Lavrilleux",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Faux et financement illégal de campagne (affaire Bygmalion)",
+   "annee": 2021,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+   "prisonTotal": 36,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 24,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lavrilleux"
+   ]
+  }
+ ]
+}

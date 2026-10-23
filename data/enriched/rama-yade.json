@@ -1,0 +1,47 @@
+{
+  "nom": "Rama Yade",
+  "wikiTitle": "Rama Yade",
+  "touched": "2026-10-21T20:21:39Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Diffamation contre Manuel Aeschlimann",
+      "annee": 2013,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 800,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Rama_Yade"
+      ]
+    },
+    {
+      "titre": "Diffamation contre le maire de Colombes Philippe Sarre",
+      "annee": 2013,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 2000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/politique/article/2013/12/04/rama-yade-condamnee-pour-diffamation-contre-le-maire-de-colombes_3525321_823448.html"
+      ]
+    },
+    {
+      "titre": "Injure publique contre Marine Le Pen et Jean-Marie Le Pen",
+      "annee": 2014,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 800,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.lepoint.fr/politique/rama-yade-condamnee-pour-avoir-injurie-marine-et-jean-marie-le-pen-24-01-2014-1784130_20.php"
+      ]
+    }
+  ]
+}

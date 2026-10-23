@@ -1,0 +1,23 @@
+{
+  "nom": "Jean-Paul Tuaiva",
+  "wikiTitle": "Jean-Paul Tuaiva",
+  "touched": "2026-10-20T17:28:26Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire Team Lead – détournement de réserve parlementaire",
+      "annee": 2016,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 73745,
+      "ineligibilite": 60,
+      "sources": [
+        "http://www.tahiti-infos.com/Jean-Paul-Tuaiva-condamne-dans-l-affaire-de-la-reserve-parlementaire-Maj_a149973.html",
+        "http://www.radio1.pf/team-lead-tuaiva-fait-appel-de-sa-condamnation/",
+        "https://fr.wikipedia.org/wiki/Jean-Paul_Tuaiva"
+      ]
+    }
+  ]
+}

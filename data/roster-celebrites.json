@@ -1,0 +1,3008 @@
+{
+ "generatedAt": "2026-10-22T13:09:24.726Z",
+ "topN": 300,
+ "tri": "longueur de l'article Wikipédia FR",
+ "source": "Wikidata (CC0) + Wikipédia FR",
+ "politicians": [
+  {
+   "qid": "Q212015",
+   "nom": "Johnny Hallyday",
+   "wikiTitle": "Johnny Hallyday",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20Hallyday%202012%203.jpg?width=500",
+   "parti": null,
+   "poste": "musicien, chanteur, compositeur et acteur français",
+   "sitelinks": 76,
+   "wikiLength": 304624
+  },
+  {
+   "qid": "Q551439",
+   "nom": "Patrick Dewaere",
+   "wikiTitle": "Patrick Dewaere",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dewaere-portrait.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et auteur-compositeur-interprète français",
+   "sitelinks": 45,
+   "wikiLength": 279791
+  },
+  {
+   "qid": "Q10681",
+   "nom": "Alan Stivell",
+   "wikiTitle": "Alan Stivell",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Stivell%20-%20FIL%202021.jpg?width=500",
+   "parti": null,
+   "poste": "musicien et chanteur breton",
+   "sitelinks": 34,
+   "wikiLength": 273410
+  },
+  {
+   "qid": "Q1716",
+   "nom": "Renaud",
+   "wikiTitle": "Renaud",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Renaud%2C%202017%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "auteur-compositeur-interprète et acteur français",
+   "sitelinks": 33,
+   "wikiLength": 249779
+  },
+  {
+   "qid": "Q106418",
+   "nom": "Catherine Deneuve",
+   "wikiTitle": "Catherine Deneuve",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Deneuve%20Berlinale%202017.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 93,
+   "wikiLength": 193970
+  },
+  {
+   "qid": "Q53939",
+   "nom": "Françoise Hardy",
+   "wikiTitle": "Françoise Hardy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Francoise%20hardy%20february%201966.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse et actrice française",
+   "sitelinks": 61,
+   "wikiLength": 186744
+  },
+  {
+   "qid": "Q358513",
+   "nom": "Michel Sardou",
+   "wikiTitle": "Michel Sardou",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Sardou%202014.jpg?width=500",
+   "parti": null,
+   "poste": "auteur-compositeur-interprète et acteur français",
+   "sitelinks": 31,
+   "wikiLength": 184080
+  },
+  {
+   "qid": "Q8927",
+   "nom": "Marion Cotillard",
+   "wikiTitle": "Marion Cotillard",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marion%20Cotillard-1061%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et productrice française",
+   "sitelinks": 94,
+   "wikiLength": 176392
+  },
+  {
+   "qid": "Q313509",
+   "nom": "Bernard-Henri Lévy",
+   "wikiTitle": "Bernard-Henri Lévy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard-Henri%20L%C3%A9vy%20par%20Marc%20Roussel%20en%202024.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain et polémiste français",
+   "sitelinks": 59,
+   "wikiLength": 160806
+  },
+  {
+   "qid": "Q44709",
+   "nom": "Jean-Jacques Goldman",
+   "wikiTitle": "Jean-Jacques Goldman",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Goldman%20-%20may%202002.jpg?width=500",
+   "parti": null,
+   "poste": "auteur, compositeur et chanteur français",
+   "sitelinks": 37,
+   "wikiLength": 155687
+  },
+  {
+   "qid": "Q231096",
+   "nom": "Léa Seydoux",
+   "wikiTitle": "Léa Seydoux",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9a%20Seydoux%20-%20ALPHAGANG%20-%20TIFF%202026-40.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 65,
+   "wikiLength": 153779
+  },
+  {
+   "qid": "Q484779",
+   "nom": "Luc Besson",
+   "wikiTitle": "Luc Besson",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Luc%20Besson-3729.jpg?width=500",
+   "parti": null,
+   "poste": "producteur, réalisateur et scénariste français",
+   "sitelinks": 82,
+   "wikiLength": 151732
+  },
+  {
+   "qid": "Q106508",
+   "nom": "Gérard Depardieu",
+   "wikiTitle": "Gérard Depardieu",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Depardieu%20%28Berlin%20Film%20Festival%202010%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, chanteur, réalisateur et producteur français",
+   "sitelinks": 102,
+   "wikiLength": 146339
+  },
+  {
+   "qid": "Q106383",
+   "nom": "Isabelle Adjani",
+   "wikiTitle": "Isabelle Adjani",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Adjani%20Cannes%202018.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 92,
+   "wikiLength": 139363
+  },
+  {
+   "qid": "Q185002",
+   "nom": "Mylène Farmer",
+   "wikiTitle": "Mylène Farmer",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Myl%C3%A8ne%20farmer%20Live%202019%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "auteure-compositrice-interprète franco-canadienne",
+   "sitelinks": 61,
+   "wikiLength": 136047
+  },
+  {
+   "qid": "Q378116",
+   "nom": "Régis Debray",
+   "wikiTitle": "Régis Debray",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9gis%20Debray.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain et philosophe français",
+   "sitelinks": 37,
+   "wikiLength": 133432
+  },
+  {
+   "qid": "Q32055",
+   "nom": "Bernard Arnault",
+   "wikiTitle": "Bernard Arnault",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Arnault%20%283%29%20-%202017%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "chef d'entreprise français",
+   "sitelinks": 69,
+   "wikiLength": 129239
+  },
+  {
+   "qid": "Q208258",
+   "nom": "France Gall",
+   "wikiTitle": "France Gall",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurovisie%20Songfestival%201966%20te%20Luxemburg.%20Bestanddeelnr%20918-9214%20%28cropped%29%20-%20France%20Gall.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 69,
+   "wikiLength": 124336
+  },
+  {
+   "qid": "Q103114",
+   "nom": "Michel Houellebecq",
+   "wikiTitle": "Michel Houellebecq",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Houellebecq%20no%20Fronteiras%20do%20Pensamento%20Porto%20Alegre%202016%20%2830895029365%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain, poète, essayiste, acteur et réalisateur français",
+   "sitelinks": 83,
+   "wikiLength": 122780
+  },
+  {
+   "qid": "Q106275",
+   "nom": "Juliette Binoche",
+   "wikiTitle": "Juliette Binoche",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Juliette%20Binoche%20at%20Berlinale%202026-2.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 85,
+   "wikiLength": 118989
+  },
+  {
+   "qid": "Q106365",
+   "nom": "Isabelle Huppert",
+   "wikiTitle": "Isabelle Huppert",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Huppert%20at%20Berlinale%202026-1.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et productrice française",
+   "sitelinks": 72,
+   "wikiLength": 117422
+  },
+  {
+   "qid": "Q104326",
+   "nom": "Jean-Michel Jarre",
+   "wikiTitle": "Jean-Michel Jarre",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Michel%20Jarre%20B10-2016.jpg?width=500",
+   "parti": null,
+   "poste": "musicien français",
+   "sitelinks": 71,
+   "wikiLength": 117412
+  },
+  {
+   "qid": "Q221908",
+   "nom": "Yannick Noah",
+   "wikiTitle": "Yannick Noah",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yannick%20Noah%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur et  joueur de tennis franco-camerounais",
+   "sitelinks": 50,
+   "wikiLength": 107211
+  },
+  {
+   "qid": "Q51023",
+   "nom": "Vanessa Paradis",
+   "wikiTitle": "Vanessa Paradis",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanessa%20Paradis%20C%C3%A9sar%202018.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse, actrice et mannequin français",
+   "sitelinks": 74,
+   "wikiLength": 107090
+  },
+  {
+   "qid": "Q231276",
+   "nom": "Angélique Kidjo",
+   "wikiTitle": "Angélique Kidjo",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/25o%20Premio%20da%20Musica%20Brasileira%20%2814004847740%29.jpg?width=500",
+   "parti": null,
+   "poste": "muscienne béninoise",
+   "sitelinks": 65,
+   "wikiLength": 99309
+  },
+  {
+   "qid": "Q171530",
+   "nom": "Patrick Bruel",
+   "wikiTitle": "Patrick Bruel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20Bruel%20Cabourg%202012.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur et acteur français",
+   "sitelinks": 40,
+   "wikiLength": 97651
+  },
+  {
+   "qid": "Q31353",
+   "nom": "Adèle Haenel",
+   "wikiTitle": "Adèle Haenel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ad%C3%A8le%20Haenel%20Cannes%202017.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 40,
+   "wikiLength": 96449
+  },
+  {
+   "qid": "Q516375",
+   "nom": "Alain de Benoist",
+   "wikiTitle": "Alain de Benoist",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20de%20Benoist%20dans%20le%20documentaire%20Alain%20de%20Benoist.%20R%C3%A9ponses%20de%20Simone%20Olla.png?width=500",
+   "parti": null,
+   "poste": "écrivain et philosophe français",
+   "sitelinks": 44,
+   "wikiLength": 96407
+  },
+  {
+   "qid": "Q8298",
+   "nom": "David Guetta",
+   "wikiTitle": "David Guetta",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-11-16%20Gala%20de%20los%20Latin%20Grammy%2C%2022%20%28David%20Guetta%29.jpg?width=500",
+   "parti": null,
+   "poste": "DJ et producteur de musique électronique français",
+   "sitelinks": 90,
+   "wikiLength": 94136
+  },
+  {
+   "qid": "Q316906",
+   "nom": "Philippe Starck",
+   "wikiTitle": "Philippe Starck",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Phillippe%20Starck%202011.jpg?width=500",
+   "parti": null,
+   "poste": "designer français",
+   "sitelinks": 37,
+   "wikiLength": 94090
+  },
+  {
+   "qid": "Q497770",
+   "nom": "Gaspard Ulliel",
+   "wikiTitle": "Gaspard Ulliel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaspard%20Ulliel%20C%C3%A9sars%202015.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 55,
+   "wikiLength": 90197
+  },
+  {
+   "qid": "Q37793136",
+   "nom": "Aya Nakamura",
+   "wikiTitle": "Aya Nakamura",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aya%20Nakamura%20IMG%204756%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse franco-malienne",
+   "sitelinks": 44,
+   "wikiLength": 88453
+  },
+  {
+   "qid": "Q235231",
+   "nom": "Natasha St-Pier",
+   "wikiTitle": "Natasha St-Pier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Natasha%20St-Pier%20-%20chanteuse%20fran%C3%A7aise%20-%20Denain%20-%20France%20-%2012%20mars%202010%20-%20DSC3256.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse et animatrice canadienne",
+   "sitelinks": 31,
+   "wikiLength": 87473
+  },
+  {
+   "qid": "Q295015",
+   "nom": "Virginie Despentes",
+   "wikiTitle": "Virginie Despentes",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginie%20Despentes%202012.jpg?width=500",
+   "parti": null,
+   "poste": "écrivaine et réalisatrice française",
+   "sitelinks": 42,
+   "wikiLength": 87035
+  },
+  {
+   "qid": "Q1871533",
+   "nom": "Louis de Bourbon",
+   "wikiTitle": "Louis de Bourbon (1974)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/19%20janvier%202020%20%2872%29%20crop.jpg?width=500",
+   "parti": null,
+   "poste": "prétendant légitimiste aux défunts trônes de France et de Navarre depuis 1989",
+   "sitelinks": 30,
+   "wikiLength": 86726
+  },
+  {
+   "qid": "Q3560737",
+   "nom": "Virginie Efira",
+   "wikiTitle": "Virginie Efira",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginie%20Efira-8693.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et animatrice de télévision belge et française",
+   "sitelinks": 36,
+   "wikiLength": 86352
+  },
+  {
+   "qid": "Q207898",
+   "nom": "Manu Chao",
+   "wikiTitle": "Manu Chao",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Manu%20Chao%20Live%20at%20Princep%20Ghat%2002%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur franco-espagnol",
+   "sitelinks": 48,
+   "wikiLength": 83431
+  },
+  {
+   "qid": "Q23844",
+   "nom": "George Clooney",
+   "wikiTitle": "George Clooney",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Clooney%20Jay%20Kelly-19%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur, scénariste et producteur de cinéma américano-français",
+   "sitelinks": 128,
+   "wikiLength": 83347
+  },
+  {
+   "qid": "Q3074245",
+   "nom": "Florian Zeller",
+   "wikiTitle": "Florian Zeller",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/OscarsCoulisses2021.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain, scénariste et réalisateur français",
+   "sitelinks": 33,
+   "wikiLength": 82555
+  },
+  {
+   "qid": "Q212873",
+   "nom": "Jane Birkin",
+   "wikiTitle": "Jane Birkin",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane%20Birkin07.JPG?width=500",
+   "parti": null,
+   "poste": "actrice et chanteuse britannico-française",
+   "sitelinks": 64,
+   "wikiLength": 82115
+  },
+  {
+   "qid": "Q143945",
+   "nom": "Carla Bruni",
+   "wikiTitle": "Carla Bruni",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Carla%20Cannes%202021.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse et mannequin franco-italienne",
+   "sitelinks": 80,
+   "wikiLength": 81872
+  },
+  {
+   "qid": "Q189422",
+   "nom": "Jean Dujardin",
+   "wikiTitle": "Jean Dujardin",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christophe%20Lambert%20et%20Jean%20Dujardin%20%28Cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, scénariste, réalisateur et producteur français",
+   "sitelinks": 71,
+   "wikiLength": 80122
+  },
+  {
+   "qid": "Q21782661",
+   "nom": "Iris Mittenaere",
+   "wikiTitle": "Iris Mittenaere",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Iris%20Mittenaere%202016.05.07%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "miss France, miss Univers 2016 et animatrice de télévision française",
+   "sitelinks": 40,
+   "wikiLength": 79925
+  },
+  {
+   "qid": "Q337226",
+   "nom": "Bertrand Tavernier",
+   "wikiTitle": "Bertrand Tavernier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bertrand%20Tavernier%20Deauville%202017.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur, scénariste, producteur et écrivain français",
+   "sitelinks": 49,
+   "wikiLength": 79686
+  },
+  {
+   "qid": "Q468190",
+   "nom": "Dany Boon",
+   "wikiTitle": "Dany Boon",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dany%20Boon%20C%C3%A9sars%202015.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, humoriste, réalisateur et producteur franco-algérien",
+   "sitelinks": 42,
+   "wikiLength": 79199
+  },
+  {
+   "qid": "Q58168",
+   "nom": "Nolwenn Leroy",
+   "wikiTitle": "Nolwenn Leroy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20-%20Festival%20de%20Cornouaille%202011%20-%20Nolwenn%20Leroy%20en%20concert%20le%2022%20juillet%20-%20014.jpg?width=500",
+   "parti": null,
+   "poste": "artiste française",
+   "sitelinks": 39,
+   "wikiLength": 77918
+  },
+  {
+   "qid": "Q164730",
+   "nom": "Olga Kurylenko",
+   "wikiTitle": "Olga Kurylenko",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Festival%20de%20Cinema%20de%20Sitges%202019%20%2849500414408%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin franco-ukrainienne",
+   "sitelinks": 69,
+   "wikiLength": 77752
+  },
+  {
+   "qid": "Q366057",
+   "nom": "Patrice Chéreau",
+   "wikiTitle": "Patrice Chéreau",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrice%20Ch%C3%A9reau%2066%C3%A8me%20Festival%20de%20Venise%20%28Mostra%29.jpg?width=500",
+   "parti": null,
+   "poste": "metteur en scène de théâtre et d'opéra, réalisateur et scénariste de cinéma, et acteur français",
+   "sitelinks": 43,
+   "wikiLength": 77594
+  },
+  {
+   "qid": "Q284731",
+   "nom": "Arielle Dombasle",
+   "wikiTitle": "Arielle Dombasle",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/DOMBASLE%20Arielle-24x30-2006.jpg?width=500",
+   "parti": null,
+   "poste": "actrice franco-américaine",
+   "sitelinks": 32,
+   "wikiLength": 76798
+  },
+  {
+   "qid": "Q106573",
+   "nom": "Nathalie Baye",
+   "wikiTitle": "Nathalie Baye",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nathalie%20Baye%20Cannes%202019.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 50,
+   "wikiLength": 76291
+  },
+  {
+   "qid": "Q318991",
+   "nom": "Gad Elmaleh",
+   "wikiTitle": "Gad Elmaleh",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gad%20Elmaleh%20Cannes%202019.jpg?width=500",
+   "parti": null,
+   "poste": "comédien et humoriste maroco-canadien",
+   "sitelinks": 39,
+   "wikiLength": 74145
+  },
+  {
+   "qid": "Q19877770",
+   "nom": "Timothée Chalamet",
+   "wikiTitle": "Timothée Chalamet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur franco-américain",
+   "sitelinks": 84,
+   "wikiLength": 72332
+  },
+  {
+   "qid": "Q540631",
+   "nom": "Céline Tran",
+   "wikiTitle": "Céline Tran",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Katsuni%20at%20AVN%20Awards%202011%201crop.jpg?width=500",
+   "parti": null,
+   "poste": "coach en développement personnel, actrice, scénariste et éditrice de BD et blogueuse française, ancienne actrice pornographique",
+   "sitelinks": 30,
+   "wikiLength": 69638
+  },
+  {
+   "qid": "Q5556756",
+   "nom": "Ghislaine Maxwell",
+   "wikiTitle": "Ghislaine Maxwell",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine%20Maxwell%20MDC%20mug%20shot%20%28cropped%29.webp?width=500",
+   "parti": null,
+   "poste": "femme d'affaires et pédocriminelle franco-britannique naturalisée américaine",
+   "sitelinks": 45,
+   "wikiLength": 68735
+  },
+  {
+   "qid": "Q115735",
+   "nom": "Lambert Wilson",
+   "wikiTitle": "Lambert Wilson",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lambert%20Wilson%20Cannes%202017.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, metteur en scène et chanteur français",
+   "sitelinks": 42,
+   "wikiLength": 67720
+  },
+  {
+   "qid": "Q30449",
+   "nom": "Avril Lavigne",
+   "wikiTitle": "Avril Lavigne",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Avril%20Lavigne%20%40%20Grammy%20Museum%2009%2005%202019%20%2849311430057%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse canadienne",
+   "sitelinks": 138,
+   "wikiLength": 63631
+  },
+  {
+   "qid": "Q276005",
+   "nom": "Charlotte Gainsbourg",
+   "wikiTitle": "Charlotte Gainsbourg",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%20Gainsbourg-5201.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et chanteuse franco-britannique",
+   "sitelinks": 64,
+   "wikiLength": 63343
+  },
+  {
+   "qid": "Q42037",
+   "nom": "J. M. G. Le Clézio",
+   "wikiTitle": "J. M. G. Le Clézio",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Marie%20Gustave%20Le%20Cl%C3%A9zio-press%20conference%20Dec%2006th%2C%202008-2.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain français et mauricien",
+   "sitelinks": 103,
+   "wikiLength": 63171
+  },
+  {
+   "qid": "Q207578",
+   "nom": "Laetitia Casta",
+   "wikiTitle": "Laetitia Casta",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Laetitia%20Casta%20janvier%202016%202.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, mannequin, scénariste et réalisatrice française",
+   "sitelinks": 56,
+   "wikiLength": 62774
+  },
+  {
+   "qid": "Q201985",
+   "nom": "Maïwenn",
+   "wikiTitle": "Maïwenn",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ma%C3%AFwenn%20Cannes%202011%202%20cropped%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice, scénariste et actrice française",
+   "sitelinks": 36,
+   "wikiLength": 62730
+  },
+  {
+   "qid": "Q355835",
+   "nom": "Mathieu Amalric",
+   "wikiTitle": "Mathieu Amalric",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathieu%20Amalric%20UCR.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et réalisateur français",
+   "sitelinks": 39,
+   "wikiLength": 62629
+  },
+  {
+   "qid": "Q313362",
+   "nom": "Alexandre Desplat",
+   "wikiTitle": "Alexandre Desplat",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexandreDesplat-gros-plan.jpg?width=500",
+   "parti": null,
+   "poste": "compositeur français",
+   "sitelinks": 51,
+   "wikiLength": 62403
+  },
+  {
+   "qid": "Q126098",
+   "nom": "Michel Gondry",
+   "wikiTitle": "Michel Gondry",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Gondry%20Deauville%202012.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 41,
+   "wikiLength": 61377
+  },
+  {
+   "qid": "Q183471",
+   "nom": "Claude Jade",
+   "wikiTitle": "Claude Jade",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Jade.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 56,
+   "wikiLength": 60476
+  },
+  {
+   "qid": "Q43697",
+   "nom": "Jean Reno",
+   "wikiTitle": "Jean Reno",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Reno%20Cannes%202016.jpg?width=500",
+   "parti": null,
+   "poste": "acteur franco-espagnol",
+   "sitelinks": 84,
+   "wikiLength": 59568
+  },
+  {
+   "qid": "Q125106",
+   "nom": "Salma Hayek",
+   "wikiTitle": "Salma Hayek",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr383631%20Salma%20Hayek%20%28Women%20In%20Motion%2C%20Cannes%202025%29%20crop.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice et productrice mexicano-américano-libanaise",
+   "sitelinks": 105,
+   "wikiLength": 58893
+  },
+  {
+   "qid": "Q191644",
+   "nom": "Eva Green",
+   "wikiTitle": "Eva Green",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Green%20%28Headshot%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 90,
+   "wikiLength": 58738
+  },
+  {
+   "qid": "Q1398256",
+   "nom": "Michel Blanc",
+   "wikiTitle": "Michel Blanc",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Blanc%202009.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur et scénariste français",
+   "sitelinks": 34,
+   "wikiLength": 58711
+  },
+  {
+   "qid": "Q167850",
+   "nom": "Zaz",
+   "wikiTitle": "Zaz (chanteuse)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zaz%20en%20avril%202011%20avant%20son%20tour%20de%20chant%20au%20cirque%20royal%20de%20Bruxelles.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 57,
+   "wikiLength": 57345
+  },
+  {
+   "qid": "Q448021",
+   "nom": "Alain Chabat",
+   "wikiTitle": "Alain Chabat",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Chabat%20au%20Festival%20Lumi%C3%A8re%202019.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, cinéaste, animateur de télévision et humoriste français",
+   "sitelinks": 35,
+   "wikiLength": 57290
+  },
+  {
+   "qid": "Q242868",
+   "nom": "Jean-Paul Gaultier",
+   "wikiTitle": "Jean-Paul Gaultier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Paul%20Gaultier%20im%20Schwuz%20am%2017-Mar-2015%20arte%202.jpg?width=500",
+   "parti": null,
+   "poste": "styliste français",
+   "sitelinks": 56,
+   "wikiLength": 57261
+  },
+  {
+   "qid": "Q437254",
+   "nom": "Josiane Balasko",
+   "wikiTitle": "Josiane Balasko",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Josiane%20Balasko%202014.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice, scénariste et écrivaine française",
+   "sitelinks": 35,
+   "wikiLength": 57223
+  },
+  {
+   "qid": "Q44077",
+   "nom": "Jessica Alba",
+   "wikiTitle": "Jessica Alba",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessica%20Alba%20-%20Los%20Angeles%20Comic%20Con%202025.jpg?width=500",
+   "parti": null,
+   "poste": "actrice américaine",
+   "sitelinks": 114,
+   "wikiLength": 56883
+  },
+  {
+   "qid": "Q357387",
+   "nom": "Omar Sy",
+   "wikiTitle": "Omar Sy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Sy%20%282020%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, producteur de cinéma, scénariste et humoriste français",
+   "sitelinks": 55,
+   "wikiLength": 56649
+  },
+  {
+   "qid": "Q314972",
+   "nom": "Frédéric Beigbeder",
+   "wikiTitle": "Frédéric Beigbeder",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%A9d%C3%A9ric-Beigbeder.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain et critique littéraire français",
+   "sitelinks": 56,
+   "wikiLength": 56336
+  },
+  {
+   "qid": "Q548400",
+   "nom": "Thierry Lhermitte",
+   "wikiTitle": "Thierry Lhermitte",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thierry%20Lhermitte%202015.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 33,
+   "wikiLength": 56150
+  },
+  {
+   "qid": "Q289032",
+   "nom": "Isabelle Carré",
+   "wikiTitle": "Isabelle Carré",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Carr%C3%A9%20janvier%202016.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et romancière française",
+   "sitelinks": 31,
+   "wikiLength": 56006
+  },
+  {
+   "qid": "Q324981",
+   "nom": "Francis Cabrel",
+   "wikiTitle": "Francis Cabrel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Cabrel%2C%202009%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "auteur-compositeur-interprète français",
+   "sitelinks": 31,
+   "wikiLength": 55937
+  },
+  {
+   "qid": "Q223167",
+   "nom": "Bob Sinclar",
+   "wikiTitle": "Bob Sinclar",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Sinclar%202011.jpg?width=500",
+   "parti": null,
+   "poste": "disc jockey et producteur musical français",
+   "sitelinks": 42,
+   "wikiLength": 54983
+  },
+  {
+   "qid": "Q94882",
+   "nom": "Emir Kusturica",
+   "wikiTitle": "Emir Kusturica",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kusturica%202024.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, producteur, réalisateur, scénariste et musicien serbe et français",
+   "sitelinks": 81,
+   "wikiLength": 54798
+  },
+  {
+   "qid": "Q232113",
+   "nom": "Anna Karina",
+   "wikiTitle": "Anna Karina",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20Franse%20filmster%20Anna%20Karina%20op%20Schiphol%2C%20Anna%20Karina%20tijdens%20persconfer%2C%20Bestanddeelnr%20921-0593.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, chanteuse et écrivaine franco-danoise",
+   "sitelinks": 56,
+   "wikiLength": 53552
+  },
+  {
+   "qid": "Q240885",
+   "nom": "Sylvie Vartan",
+   "wikiTitle": "Sylvie Vartan",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vartan-Quaisse0847.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 42,
+   "wikiLength": 53036
+  },
+  {
+   "qid": "Q620118",
+   "nom": "Fabrice Luchini",
+   "wikiTitle": "Fabrice Luchini",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fabrice%20Luchini%202010.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 31,
+   "wikiLength": 52609
+  },
+  {
+   "qid": "Q106349",
+   "nom": "Fanny Ardant",
+   "wikiTitle": "Fanny Ardant",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fanny%20Ardant%2045th%20C%C3%A9sar%20Awards%202020%20%283x4%20cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et cinéaste française",
+   "sitelinks": 52,
+   "wikiLength": 52546
+  },
+  {
+   "qid": "Q16728588",
+   "nom": "DJ Snake",
+   "wikiTitle": "DJ Snake",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/DJS-Presskit05%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "disc-jockey franco-algérien",
+   "sitelinks": 43,
+   "wikiLength": 52470
+  },
+  {
+   "qid": "Q435925",
+   "nom": "Julie Gayet",
+   "wikiTitle": "Julie Gayet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Gayet%202024%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, productrice de cinéma et réalisatrice française",
+   "sitelinks": 41,
+   "wikiLength": 52177
+  },
+  {
+   "qid": "Q71452",
+   "nom": "Mireille Mathieu",
+   "wikiTitle": "Mireille Mathieu",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mireille%20Mathieu%20%C3%A0%20Lille%20-%2014%20novembre%202014%20%28cropped%29.JPG?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 66,
+   "wikiLength": 52094
+  },
+  {
+   "qid": "Q24275199",
+   "nom": "Slimane",
+   "wikiTitle": "Slimane (chanteur)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Slimane%20Eurovision%20Song%20Contest%202024%20semi%202%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "auteur-compositeur-interprète et acteur français",
+   "sitelinks": 35,
+   "wikiLength": 51924
+  },
+  {
+   "qid": "Q28556",
+   "nom": "Michel Hazanavicius",
+   "wikiTitle": "Michel Hazanavicius",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Hazanavicius.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur, scénariste et producteur français",
+   "sitelinks": 60,
+   "wikiLength": 51629
+  },
+  {
+   "qid": "Q162753",
+   "nom": "Sophie Marceau",
+   "wikiTitle": "Sophie Marceau",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Marceau%20taularde%202016%202.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 78,
+   "wikiLength": 51403
+  },
+  {
+   "qid": "Q167889",
+   "nom": "Zazie",
+   "wikiTitle": "Zazie",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zazie%20%C3%A0%20Lille%20en%20mai%202011.jpg?width=500",
+   "parti": null,
+   "poste": "mannequin et auteure-compositrice-interprète française",
+   "sitelinks": 31,
+   "wikiLength": 50908
+  },
+  {
+   "qid": "Q168012",
+   "nom": "Alizée",
+   "wikiTitle": "Alizée",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/French%20singer%20Aliz%C3%A9e%20at%20Les%20Enfoires%202013%20-%20DSC5744%20%28cropped%202%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse et danseuse française",
+   "sitelinks": 63,
+   "wikiLength": 50695
+  },
+  {
+   "qid": "Q314403",
+   "nom": "Guillaume Canet",
+   "wikiTitle": "Guillaume Canet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Canet.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur, scénariste et producteur français",
+   "sitelinks": 43,
+   "wikiLength": 50490
+  },
+  {
+   "qid": "Q106458",
+   "nom": "Emmanuelle Béart",
+   "wikiTitle": "Emmanuelle Béart",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20B%C3%A9art-5709.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 58,
+   "wikiLength": 50162
+  },
+  {
+   "qid": "Q12054",
+   "nom": "Bernard Werber",
+   "wikiTitle": "Bernard Werber",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20WERBER%20par%20Michel%20Restany.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain français",
+   "sitelinks": 45,
+   "wikiLength": 50154
+  },
+  {
+   "qid": "Q18684181",
+   "nom": "Louane",
+   "wikiTitle": "Louane",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louane%20Emera%20Lumi%C3%A8res%202015.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse et actrice française",
+   "sitelinks": 48,
+   "wikiLength": 49588
+  },
+  {
+   "qid": "Q310692",
+   "nom": "Christian Clavier",
+   "wikiTitle": "Christian Clavier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Clavier%20Cannes.jpg?width=500",
+   "parti": null,
+   "poste": "acteur franco-belge",
+   "sitelinks": 46,
+   "wikiLength": 49580
+  },
+  {
+   "qid": "Q236835",
+   "nom": "Clara Morgane",
+   "wikiTitle": "Clara Morgane",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Clara%20morgan%20france%20bleu%20champagne%201008361.jpg?width=500",
+   "parti": null,
+   "poste": "animatrice de télévision, chanteuse, mannequin et actrice pornographique française",
+   "sitelinks": 33,
+   "wikiLength": 49156
+  },
+  {
+   "qid": "Q491766",
+   "nom": "Mathieu Kassovitz",
+   "wikiTitle": "Mathieu Kassovitz",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathieu%20Kassovitz%20Cannes%202017.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, producteur, réalisateur et scénariste français",
+   "sitelinks": 52,
+   "wikiLength": 49119
+  },
+  {
+   "qid": "Q106303",
+   "nom": "Daniel Auteuil",
+   "wikiTitle": "Daniel Auteuil",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Auteuil-8755.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 58,
+   "wikiLength": 48973
+  },
+  {
+   "qid": "Q295834",
+   "nom": "Jean-Pierre Léaud",
+   "wikiTitle": "Jean-Pierre Léaud",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20L%C3%A9aud%20C%C3%A9sars.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 46,
+   "wikiLength": 48882
+  },
+  {
+   "qid": "Q2825427",
+   "nom": "Adèle Exarchopoulos",
+   "wikiTitle": "Adèle Exarchopoulos",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ad%C3%A8le%20Exarchopoulos%20at%2082nd%20Venice%20International%20Film%20Festival-2.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 48,
+   "wikiLength": 48653
+  },
+  {
+   "qid": "Q193504",
+   "nom": "Vincent Cassel",
+   "wikiTitle": "Vincent Cassel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Cassel%20Cannes%202018.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, producteur et réalisateur français",
+   "sitelinks": 60,
+   "wikiLength": 48350
+  },
+  {
+   "qid": "Q207824",
+   "nom": "Varg Vikernes",
+   "wikiTitle": "Varg Vikernes",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Varg%20Vikernes-3%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "musicien norvégien",
+   "sitelinks": 63,
+   "wikiLength": 48108
+  },
+  {
+   "qid": "Q16887680",
+   "nom": "Amir",
+   "wikiTitle": "Amir (chanteur)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amir%20Haddad%202016.jpg?width=500",
+   "parti": null,
+   "poste": "auteur-interprète franco-israélien",
+   "sitelinks": 37,
+   "wikiLength": 48095
+  },
+  {
+   "qid": "Q314223",
+   "nom": "Yann Arthus-Bertrand",
+   "wikiTitle": "Yann Arthus-Bertrand",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yann%20Arthus-Bertrand%2C%202009%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "photographe français",
+   "sitelinks": 40,
+   "wikiLength": 47997
+  },
+  {
+   "qid": "Q15069938",
+   "nom": "Justine Triet",
+   "wikiTitle": "Justine Triet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Justine%20Triet%202017.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice, scénariste et actrice française",
+   "sitelinks": 36,
+   "wikiLength": 47984
+  },
+  {
+   "qid": "Q270005",
+   "nom": "Jeanne Balibar",
+   "wikiTitle": "Jeanne Balibar",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20Balibar%20Cannes%202017.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et chanteuse française",
+   "sitelinks": 30,
+   "wikiLength": 47843
+  },
+  {
+   "qid": "Q267542",
+   "nom": "Judith Godrèche",
+   "wikiTitle": "Judith Godrèche",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/JDE2024%207662.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, scénariste et réalisatrice de cinéma française",
+   "sitelinks": 32,
+   "wikiLength": 47244
+  },
+  {
+   "qid": "Q3046479",
+   "nom": "Earvin Ngapeth",
+   "wikiTitle": "Earvin Ngapeth",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Earvin%20Ngapeth%20%28Legavolley%202018%29.jpg?width=500",
+   "parti": null,
+   "poste": "joueur de volley-ball français",
+   "sitelinks": 32,
+   "wikiLength": 46643
+  },
+  {
+   "qid": "Q576085",
+   "nom": "François Berléand",
+   "wikiTitle": "François Berléand",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Berl%C3%A9and%20avp%20L%27%C3%A9cole%20buissonni%C3%A8re.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 31,
+   "wikiLength": 46299
+  },
+  {
+   "qid": "Q518457",
+   "nom": "André Dussollier",
+   "wikiTitle": "André Dussollier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Dussollier%20Cannes%202010.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 31,
+   "wikiLength": 45658
+  },
+  {
+   "qid": "Q728158",
+   "nom": "Gérard Jugnot",
+   "wikiTitle": "Gérard Jugnot",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%20de%20Paris%202017%20-%20G%C3%A9rard%20Jugnot%20-%20003.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur, scénariste et producteur français",
+   "sitelinks": 32,
+   "wikiLength": 45459
+  },
+  {
+   "qid": "Q234581",
+   "nom": "Mélanie Laurent",
+   "wikiTitle": "Mélanie Laurent",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr377930%20M%C3%A9lanie%20Laurent%20%28Qui%20brille%20au%20combat%2C%20Cannes%202025%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et réalisatrice française",
+   "sitelinks": 57,
+   "wikiLength": 45207
+  },
+  {
+   "qid": "Q228891",
+   "nom": "Yeardley Smith",
+   "wikiTitle": "Yeardley Smith",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yeardley%20Smith%20by%20Gage%20Skidmore.jpg?width=500",
+   "parti": null,
+   "poste": "actrice américaine",
+   "sitelinks": 44,
+   "wikiLength": 44991
+  },
+  {
+   "qid": "Q60458248",
+   "nom": "Bilal Hassani",
+   "wikiTitle": "Bilal Hassani",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Huma2023BilalHassani%204.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur et vidéaste français d'origine marocaine",
+   "sitelinks": 36,
+   "wikiLength": 44986
+  },
+  {
+   "qid": "Q287828",
+   "nom": "Éric-Emmanuel Schmitt",
+   "wikiTitle": "Éric-Emmanuel Schmitt",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric-Emmanuel%20Schmitt%202013.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain franco-belge",
+   "sitelinks": 50,
+   "wikiLength": 44907
+  },
+  {
+   "qid": "Q233742",
+   "nom": "Ludivine Sagnier",
+   "wikiTitle": "Ludivine Sagnier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludivine%20Sagnier%202013.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 39,
+   "wikiLength": 44885
+  },
+  {
+   "qid": "Q312661",
+   "nom": "Jamel Debbouze",
+   "wikiTitle": "Jamel Debbouze",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamel%20Debbouze%20AVP%202016.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et producteur franco-marocain",
+   "sitelinks": 42,
+   "wikiLength": 44681
+  },
+  {
+   "qid": "Q179497",
+   "nom": "Oliver Stone",
+   "wikiTitle": "Oliver Stone",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Stone%20by%20Gage%20Skidmore.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur, scénariste et producteur américain",
+   "sitelinks": 87,
+   "wikiLength": 44602
+  },
+  {
+   "qid": "Q1974920",
+   "nom": "Niels Arestrup",
+   "wikiTitle": "Niels Arestrup",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Arestrup%20C%C3%A9sars%202014.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et réalisateur français",
+   "sitelinks": 31,
+   "wikiLength": 44600
+  },
+  {
+   "qid": "Q239893",
+   "nom": "Marie-France Pisier",
+   "wikiTitle": "Marie-France Pisier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-France%20Pisier%20%281992%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française (1944–2011)",
+   "sitelinks": 33,
+   "wikiLength": 43845
+  },
+  {
+   "qid": "Q271944",
+   "nom": "Karin Viard",
+   "wikiTitle": "Karin Viard",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Karin%20Viard%20Lumi%C3%A8res%202015.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 30,
+   "wikiLength": 43514
+  },
+  {
+   "qid": "Q5362676",
+   "nom": "Elizabeth Debicki",
+   "wikiTitle": "Elizabeth Debicki",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Debicki%20%288121869622%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice australienne",
+   "sitelinks": 48,
+   "wikiLength": 43304
+  },
+  {
+   "qid": "Q78138804",
+   "nom": "Barbara Pravi",
+   "wikiTitle": "Barbara Pravi",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Pravi1.jpg?width=500",
+   "parti": null,
+   "poste": "autrice-compositrice-interprète française",
+   "sitelinks": 40,
+   "wikiLength": 43297
+  },
+  {
+   "qid": "Q3345735",
+   "nom": "Noémie Merlant",
+   "wikiTitle": "Noémie Merlant",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noemie%20Merlant%20BalconettesBFILFF151024%20%281%20of%2033%29%20%2854070028551%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et réalisatrice française",
+   "sitelinks": 31,
+   "wikiLength": 43283
+  },
+  {
+   "qid": "Q449240",
+   "nom": "Anémone",
+   "wikiTitle": "Anémone (actrice)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anemone2-Le%20Petit%20Nicolas-Avant%20Premi%C3%A8re.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et scénariste française",
+   "sitelinks": 30,
+   "wikiLength": 42704
+  },
+  {
+   "qid": "Q239823",
+   "nom": "Chantal Akerman",
+   "wikiTitle": "Chantal Akerman",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chantal%20Akerman%20-%20video%20still%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice et scénariste belge, également actrice, productrice et directrice de la photographie",
+   "sitelinks": 45,
+   "wikiLength": 42649
+  },
+  {
+   "qid": "Q713477",
+   "nom": "Jacques Dutronc",
+   "wikiTitle": "Jacques Dutronc",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dutronc1.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur, compositeur et acteur français",
+   "sitelinks": 33,
+   "wikiLength": 42108
+  },
+  {
+   "qid": "Q240521",
+   "nom": "Agnès Jaoui",
+   "wikiTitle": "Agnès Jaoui",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Agn%C3%A8s%20Jaoui%20Cannes.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice, scénariste et chanteuse française",
+   "sitelinks": 40,
+   "wikiLength": 41683
+  },
+  {
+   "qid": "Q307996",
+   "nom": "Abdellatif Kechiche",
+   "wikiTitle": "Abdellatif Kechiche",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdellatif%20Kechiche%20Cannes%202013.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur, scénariste et acteur franco-tunisien",
+   "sitelinks": 44,
+   "wikiLength": 41207
+  },
+  {
+   "qid": "Q981203",
+   "nom": "Jean-Pierre Bacri",
+   "wikiTitle": "Jean-Pierre Bacri",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Bacri%2020070411%20Fnac%206.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et scénariste français",
+   "sitelinks": 30,
+   "wikiLength": 40894
+  },
+  {
+   "qid": "Q561124",
+   "nom": "Jacques Perrin",
+   "wikiTitle": "Jacques Perrin",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Perrin%202009%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, producteur, réalisateur et scénariste français",
+   "sitelinks": 42,
+   "wikiLength": 40823
+  },
+  {
+   "qid": "Q106709",
+   "nom": "Patrice Leconte",
+   "wikiTitle": "Patrice Leconte",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrice%20Leconte%2020060909%20Fnac%2001.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur, scénariste, metteur en scène, dessinateur et écrivain français",
+   "sitelinks": 43,
+   "wikiLength": 40632
+  },
+  {
+   "qid": "Q1371822",
+   "nom": "François-Henri Pinault",
+   "wikiTitle": "François-Henri Pinault",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Fran%C3%A7ois-Henri%20Pinault%20pris%20aux%20journ%C3%A9e%20de%20la%20terre%20en%202011%20%C3%A0%20l%27unesco%20paris.jpg?width=500",
+   "parti": null,
+   "poste": "homme d'affaires français",
+   "sitelinks": 39,
+   "wikiLength": 40338
+  },
+  {
+   "qid": "Q464712",
+   "nom": "Golshifteh Farahani",
+   "wikiTitle": "Golshifteh Farahani",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Golshifteh%20Farahani%20at%20the%202024%20Toronto%20International%20Film%20Festival%204%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et chanteuse franco-iranienne",
+   "sitelinks": 50,
+   "wikiLength": 40197
+  },
+  {
+   "qid": "Q382389",
+   "nom": "Jacques Audiard",
+   "wikiTitle": "Jacques Audiard",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Audiard%202016.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur et scénariste français",
+   "sitelinks": 50,
+   "wikiLength": 40048
+  },
+  {
+   "qid": "Q451776",
+   "nom": "Catherine Frot",
+   "wikiTitle": "Catherine Frot",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Frot%20C%C3%A9sars%202009.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 32,
+   "wikiLength": 39925
+  },
+  {
+   "qid": "Q18173445",
+   "nom": "Leïla Slimani",
+   "wikiTitle": "Leïla Slimani",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%C3%AFla%20Slimani%20at%20the%202025%20Cannes%20Film%20Festival%2014.jpg?width=500",
+   "parti": null,
+   "poste": "journaliste et écrivaine franco-marocaine",
+   "sitelinks": 44,
+   "wikiLength": 39915
+  },
+  {
+   "qid": "Q3192364",
+   "nom": "Kamel Daoud",
+   "wikiTitle": "Kamel Daoud (écrivain)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamel%20Daoud%20par%20Claude%20Truong-Ngoc%20f%C3%A9vrier%202015.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain et journaliste algérien naturalisé français",
+   "sitelinks": 36,
+   "wikiLength": 39293
+  },
+  {
+   "qid": "Q722733",
+   "nom": "Richard Bohringer",
+   "wikiTitle": "Richard Bohringer",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Bohringer%201994.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, chanteur, écrivain, réalisateur et scénariste français puis sénégalais",
+   "sitelinks": 30,
+   "wikiLength": 38980
+  },
+  {
+   "qid": "Q258630",
+   "nom": "Sophie Calle",
+   "wikiTitle": "Sophie Calle",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Calle%20au%20FILAF.jpg?width=500",
+   "parti": null,
+   "poste": "plasticienne, photographe et écrivaine française",
+   "sitelinks": 30,
+   "wikiLength": 38978
+  },
+  {
+   "qid": "Q38554",
+   "nom": "Dominique Pinon",
+   "wikiTitle": "Dominique Pinon",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Pinon%20Lumi%C3%A8res%202015%202.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 30,
+   "wikiLength": 38780
+  },
+  {
+   "qid": "Q115243",
+   "nom": "Amin Maalouf",
+   "wikiTitle": "Amin Maalouf",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amin%20Maalouf.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain franco-libanais",
+   "sitelinks": 71,
+   "wikiLength": 38717
+  },
+  {
+   "qid": "Q317704",
+   "nom": "Tchéky Karyo",
+   "wikiTitle": "Tchéky Karyo",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tch%C3%A9ky%20Karyo%201992.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et chanteur franco-turc",
+   "sitelinks": 39,
+   "wikiLength": 38174
+  },
+  {
+   "qid": "Q232937",
+   "nom": "Sandrine Bonnaire",
+   "wikiTitle": "Sandrine Bonnaire",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandrine%20Bonnaire%2066%C3%A8me%20Festival%20de%20Venise%20%28Mostra%29%201%20cropped.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice et scénariste française",
+   "sitelinks": 48,
+   "wikiLength": 37934
+  },
+  {
+   "qid": "Q124389",
+   "nom": "Albert Dupontel",
+   "wikiTitle": "Albert Dupontel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Dupontel%20%28c%29%20Chistophe%20Brachet.JPG?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur et scénariste de cinéma français",
+   "sitelinks": 30,
+   "wikiLength": 37535
+  },
+  {
+   "qid": "Q214821",
+   "nom": "Gilad Shalit",
+   "wikiTitle": "Gilad Shalit",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Israel%20Defense%20Forces%20-%20After%205%20Years%20of%20Captivity.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain, militaire et ancien otage israélien",
+   "sitelinks": 42,
+   "wikiLength": 37507
+  },
+  {
+   "qid": "Q317286",
+   "nom": "Samy Naceri",
+   "wikiTitle": "Samy Naceri",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Samy%20Naceri%20%C3%A0%20Cannes%202011.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et producteur franco-algérien",
+   "sitelinks": 43,
+   "wikiLength": 37286
+  },
+  {
+   "qid": "Q234679",
+   "nom": "Charlotte Rampling",
+   "wikiTitle": "Charlotte Rampling",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Actress%20Charlotte%20Rampling%20At%20the%20premiere%20of%20the%20movie%20%2245%20Years%22%20%28cropped1%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice britannique",
+   "sitelinks": 131,
+   "wikiLength": 37152
+  },
+  {
+   "qid": "Q267617",
+   "nom": "Roberto Alagna",
+   "wikiTitle": "Roberto Alagna",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ALAGNA-24x30-2004b.jpg?width=500",
+   "parti": null,
+   "poste": "ténor franco-italien",
+   "sitelinks": 31,
+   "wikiLength": 37067
+  },
+  {
+   "qid": "Q539703",
+   "nom": "Benoît Magimel",
+   "wikiTitle": "Benoît Magimel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Benoit%20Magimel%20C%C3%A9sar%202016.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 32,
+   "wikiLength": 36046
+  },
+  {
+   "qid": "Q983159",
+   "nom": "Kad Merad",
+   "wikiTitle": "Kad Merad",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christophe%20Girard%2C%20Semp%C3%A9%2C%20Kad%20Merad%20-%20Cropped.jpg?width=500",
+   "parti": null,
+   "poste": "acteur franco-algérien",
+   "sitelinks": 33,
+   "wikiLength": 35778
+  },
+  {
+   "qid": "Q259940",
+   "nom": "Valérie Lemercier",
+   "wikiTitle": "Valérie Lemercier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/VLemercier-Le%20Petit%20Nicolas%2C%20Avant%20Premi%C3%A8re.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, chanteuse, humoriste, réalisatrice et scénariste française",
+   "sitelinks": 38,
+   "wikiLength": 35495
+  },
+  {
+   "qid": "Q443516",
+   "nom": "Clotilde Courau",
+   "wikiTitle": "Clotilde Courau",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr384173%20Clotilde%20Courau%20%28Women%20In%20Motion%2C%20Cannes%202025%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 41,
+   "wikiLength": 35279
+  },
+  {
+   "qid": "Q273394",
+   "nom": "Béatrice Dalle",
+   "wikiTitle": "Béatrice Dalle",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9atrice%20Dalle%201999.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 33,
+   "wikiLength": 34952
+  },
+  {
+   "qid": "Q550717",
+   "nom": "Olivier Assayas",
+   "wikiTitle": "Olivier Assayas",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Viennale%202010.10.30%20Olivier%20Assayas.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 37,
+   "wikiLength": 34419
+  },
+  {
+   "qid": "Q557272",
+   "nom": "Vincent Lindon",
+   "wikiTitle": "Vincent Lindon",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Lindon-64225.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur et scénariste français",
+   "sitelinks": 39,
+   "wikiLength": 34353
+  },
+  {
+   "qid": "Q271481",
+   "nom": "Dominique Blanc",
+   "wikiTitle": "Dominique Blanc",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Blanc%20Deauville%202017.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 32,
+   "wikiLength": 34172
+  },
+  {
+   "qid": "Q110462",
+   "nom": "Julie Delpy",
+   "wikiTitle": "Julie Delpy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Delpy%20%282019%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice et chanteuse américaine",
+   "sitelinks": 63,
+   "wikiLength": 33925
+  },
+  {
+   "qid": "Q208590",
+   "nom": "Kristin Scott Thomas",
+   "wikiTitle": "Kristin Scott Thomas",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kristin%20Scott%20Thomas%20Press%20Conference%20The%20Party%20Berlinale%202017%2002%20cropped.jpg?width=500",
+   "parti": null,
+   "poste": "actrice britannique et française",
+   "sitelinks": 57,
+   "wikiLength": 33538
+  },
+  {
+   "qid": "Q159704",
+   "nom": "Patricia Kaas",
+   "wikiTitle": "Patricia Kaas",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Kaas%20%282009%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse et actrice française",
+   "sitelinks": 52,
+   "wikiLength": 33309
+  },
+  {
+   "qid": "Q20670730",
+   "nom": "Lily-Rose Depp",
+   "wikiTitle": "Lily-Rose Depp",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lily-Rose%20Depp%20-%20ALPHAGANG%20-%20TIFF%202026-23.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin franco-américaine",
+   "sitelinks": 57,
+   "wikiLength": 32976
+  },
+  {
+   "qid": "Q106607",
+   "nom": "Carole Bouquet",
+   "wikiTitle": "Carole Bouquet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Carole%20Bouquet%20Cannes%202011.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 57,
+   "wikiLength": 32688
+  },
+  {
+   "qid": "Q713747",
+   "nom": "Emmanuel Carrère",
+   "wikiTitle": "Emmanuel Carrère",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel%20Carr%C3%A8re%20-%20Livre%20sur%20la%20Place%202014%20%2815221395521%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain, scénariste et réalisateur français",
+   "sitelinks": 32,
+   "wikiLength": 32617
+  },
+  {
+   "qid": "Q441272",
+   "nom": "Romain Duris",
+   "wikiTitle": "Romain Duris",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Romain%20Duris%202014.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 40,
+   "wikiLength": 32596
+  },
+  {
+   "qid": "Q232470",
+   "nom": "Valeria Bruni Tedeschi",
+   "wikiTitle": "Valeria Bruni Tedeschi",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Valeria%20Bruni%20Tedeschi%20at%20Berlinale%202022%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, directrice, scénariste franco-italienne",
+   "sitelinks": 45,
+   "wikiLength": 32442
+  },
+  {
+   "qid": "Q157256",
+   "nom": "Yann Tiersen",
+   "wikiTitle": "Yann Tiersen",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yann%20Tiersen%204%202.png?width=500",
+   "parti": null,
+   "poste": "auteur-compositeur et musicien français",
+   "sitelinks": 49,
+   "wikiLength": 32408
+  },
+  {
+   "qid": "Q297453",
+   "nom": "Grégory Lemarchal",
+   "wikiTitle": "Grégory Lemarchal",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gregoryrajz.JPG?width=500",
+   "parti": null,
+   "poste": "chanteur et acteur français",
+   "sitelinks": 35,
+   "wikiLength": 32400
+  },
+  {
+   "qid": "Q304123",
+   "nom": "Audrey Tautou",
+   "wikiTitle": "Audrey Tautou",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Tautou%20janvier%202016.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, mannequin et photographe française",
+   "sitelinks": 74,
+   "wikiLength": 32291
+  },
+  {
+   "qid": "Q126633",
+   "nom": "Marjane Satrapi",
+   "wikiTitle": "Marjane Satrapi",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marjane%20Satrapi%20Cannes%202008%28Cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "autrice de bande dessinée, peintre et réalisatrice franco-iranienne",
+   "sitelinks": 67,
+   "wikiLength": 32243
+  },
+  {
+   "qid": "Q242526",
+   "nom": "Sylvie Testud",
+   "wikiTitle": "Sylvie Testud",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvie%20Testud%202012%20La%20vie%20d%27une%20autre.jpg?width=500",
+   "parti": null,
+   "poste": "comédienne, romancière et réalisatrice française",
+   "sitelinks": 31,
+   "wikiLength": 32175
+  },
+  {
+   "qid": "Q18350026",
+   "nom": "Damien Chazelle",
+   "wikiTitle": "Damien Chazelle",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Damien%20Chazelle%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur et scénariste franco-américain",
+   "sitelinks": 53,
+   "wikiLength": 32099
+  },
+  {
+   "qid": "Q724208",
+   "nom": "Yvan Attal",
+   "wikiTitle": "Yvan Attal",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yvan%20Attal%202009.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur et scénariste français",
+   "sitelinks": 31,
+   "wikiLength": 31964
+  },
+  {
+   "qid": "Q316765",
+   "nom": "Olivier Weber",
+   "wikiTitle": "Olivier Weber",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%202012%20-%20Olivier%20Weber%20-%20001.jpg?width=500",
+   "parti": null,
+   "poste": "journaliste français",
+   "sitelinks": 30,
+   "wikiLength": 31589
+  },
+  {
+   "qid": "Q234683",
+   "nom": "Virginie Ledoyen",
+   "wikiTitle": "Virginie Ledoyen",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/AVP%20Enrag%C3%A9s%202016%203.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin française",
+   "sitelinks": 37,
+   "wikiLength": 31315
+  },
+  {
+   "qid": "Q981690",
+   "nom": "Tahar Rahim",
+   "wikiTitle": "Tahar Rahim",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tahar%20Rahim%202012.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 41,
+   "wikiLength": 31248
+  },
+  {
+   "qid": "Q450429",
+   "nom": "Grace Jones",
+   "wikiTitle": "Grace Jones",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grace%20Jones%20at%20Carriageworks%20%28Vivid%29%20-%201st%20June%202015%2008.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse, actrice et mannequin jamaïcaine",
+   "sitelinks": 52,
+   "wikiLength": 31063
+  },
+  {
+   "qid": "Q283317",
+   "nom": "Chiara Mastroianni",
+   "wikiTitle": "Chiara Mastroianni",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiara%20Mastroianni%20at%2083rd%20Venice%20International%20Film%20Festival-33.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et chanteuse française",
+   "sitelinks": 39,
+   "wikiLength": 30626
+  },
+  {
+   "qid": "Q217324",
+   "nom": "Jean-Pierre Jeunet",
+   "wikiTitle": "Jean-Pierre Jeunet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Jeunet%20M%C3%BCnchen%202014%20%28cropped%29.JPG?width=500",
+   "parti": null,
+   "poste": "cinéaste français",
+   "sitelinks": 59,
+   "wikiLength": 30569
+  },
+  {
+   "qid": "Q28487",
+   "nom": "Bérénice Bejo",
+   "wikiTitle": "Bérénice Bejo",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9r%C3%A9nice%20Bejo%202014%203.jpg?width=500",
+   "parti": null,
+   "poste": "actrice franco-argentine",
+   "sitelinks": 51,
+   "wikiLength": 30306
+  },
+  {
+   "qid": "Q3386444",
+   "nom": "Pierre Niney",
+   "wikiTitle": "Pierre Niney",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Niney%20Cannes%202013.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 31,
+   "wikiLength": 30200
+  },
+  {
+   "qid": "Q333668",
+   "nom": "Enki Bilal",
+   "wikiTitle": "Enki Bilal",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Enki%20Bilal%2020100328%20Salon%20du%20livre%20de%20Paris%205.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur, dessinateur et scénariste de bande dessinée français",
+   "sitelinks": 39,
+   "wikiLength": 30051
+  },
+  {
+   "qid": "Q11485",
+   "nom": "Jean-Claude Killy",
+   "wikiTitle": "Jean-Claude Killy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Claude%20Killy.jpg?width=500",
+   "parti": null,
+   "poste": "skieur alpin et dirigeant sportif français",
+   "sitelinks": 46,
+   "wikiLength": 29947
+  },
+  {
+   "qid": "Q2957653",
+   "nom": "Charb",
+   "wikiTitle": "Charb",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/2011-11-02%20Incendie%20%C3%A0%20Charlie%20Hebdo%20-%20Charb%20-%2006.jpg?width=500",
+   "parti": null,
+   "poste": "dessinateur satirique et journaliste français",
+   "sitelinks": 50,
+   "wikiLength": 29866
+  },
+  {
+   "qid": "Q253845",
+   "nom": "Hélène Grimaud",
+   "wikiTitle": "Hélène Grimaud",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9l%C3%A8ne%20Grimaud%202007.jpg?width=500",
+   "parti": null,
+   "poste": "pianiste française, également écrivaine",
+   "sitelinks": 32,
+   "wikiLength": 29574
+  },
+  {
+   "qid": "Q472613",
+   "nom": "Philippe Claudel",
+   "wikiTitle": "Philippe Claudel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe-Claudel-Il-y-a-longtemps.JPG?width=500",
+   "parti": null,
+   "poste": "écrivain, réalisateur et scénariste français",
+   "sitelinks": 34,
+   "wikiLength": 29360
+  },
+  {
+   "qid": "Q146749",
+   "nom": "Daniel Schneidermann",
+   "wikiTitle": "Daniel Schneidermann",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Schneidermann.jpg?width=500",
+   "parti": null,
+   "poste": "journaliste français",
+   "sitelinks": 44,
+   "wikiLength": 29347
+  },
+  {
+   "qid": "Q235115",
+   "nom": "Maria de Medeiros",
+   "wikiTitle": "Maria de Medeiros",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Maria%20de%20Medeiros%20at%202025%20Cannes%20Photocall%202%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice et chanteuse portugaise d'expression française",
+   "sitelinks": 35,
+   "wikiLength": 29312
+  },
+  {
+   "qid": "Q266229",
+   "nom": "Edwige Fenech",
+   "wikiTitle": "Edwige Fenech",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Edwige%20Fenech%20-%20%E2%80%9CLa%20signora%20gioca%20bene%20a%20scopa%E2%80%9D%20%281974%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice franco-italienne",
+   "sitelinks": 36,
+   "wikiLength": 28912
+  },
+  {
+   "qid": "Q502990",
+   "nom": "Rachid Taha",
+   "wikiTitle": "Rachid Taha",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachid%20Taha.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur franco-algérien (1958-2018)",
+   "sitelinks": 38,
+   "wikiLength": 28785
+  },
+  {
+   "qid": "Q1342843",
+   "nom": "Isaach de Bankolé",
+   "wikiTitle": "Isaach de Bankolé",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaach%20De%20Bankol%C3%A9%2C%202009.jpg?width=500",
+   "parti": null,
+   "poste": "acteur ivoirien",
+   "sitelinks": 30,
+   "wikiLength": 28511
+  },
+  {
+   "qid": "Q267244",
+   "nom": "Jacques Villeret",
+   "wikiTitle": "Jacques Villeret",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Villeret%20C%C3%A9sars%201999.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 31,
+   "wikiLength": 28501
+  },
+  {
+   "qid": "Q232868",
+   "nom": "Clémence Poésy",
+   "wikiTitle": "Clémence Poésy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Clemence%20Poesy%20Paris%20Fashion%20Week%20Autumn%20Winter%202019.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin française",
+   "sitelinks": 43,
+   "wikiLength": 28499
+  },
+  {
+   "qid": "Q269873",
+   "nom": "Louise Bourgoin",
+   "wikiTitle": "Louise Bourgoin",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louise%20Bourgoin%20Cannes%202010.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 31,
+   "wikiLength": 28369
+  },
+  {
+   "qid": "Q454260",
+   "nom": "Amandine Bourgeois",
+   "wikiTitle": "Amandine Bourgeois",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amandine%20Bourgeois%2C%20ESC2013%20press%20conference%2009.JPG?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 32,
+   "wikiLength": 28324
+  },
+  {
+   "qid": "Q437406",
+   "nom": "Catherine Spaak",
+   "wikiTitle": "Catherine Spaak",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/CatherineSpaak-StudioHarcourt-1956.png?width=500",
+   "parti": null,
+   "poste": "actrice et chanteuse franco-belge, naturalisée italienne",
+   "sitelinks": 34,
+   "wikiLength": 27938
+  },
+  {
+   "qid": "Q1684856",
+   "nom": "Jean-François Stévenin",
+   "wikiTitle": "Jean-François Stévenin",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Francois%20Stevenin.jpg?width=500",
+   "parti": null,
+   "poste": "acteur, réalisateur et scénariste français",
+   "sitelinks": 32,
+   "wikiLength": 27843
+  },
+  {
+   "qid": "Q6024866",
+   "nom": "Indila",
+   "wikiTitle": "Indila",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Indila%20-%20EBBA%202015.jpg?width=500",
+   "parti": null,
+   "poste": "auteure-compositrice-interprète française",
+   "sitelinks": 54,
+   "wikiLength": 27746
+  },
+  {
+   "qid": "Q176246",
+   "nom": "Marc Levy",
+   "wikiTitle": "Marc Levy",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Levy%202013-04-11%20B.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain français",
+   "sitelinks": 42,
+   "wikiLength": 27674
+  },
+  {
+   "qid": "Q441502",
+   "nom": "Philippe Jaroussky",
+   "wikiTitle": "Philippe Jaroussky",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Jaroussky%20-%20Misteria%20Paschalia%202011%20%281%29.JPG?width=500",
+   "parti": null,
+   "poste": "artiste lyrique contreténor français",
+   "sitelinks": 31,
+   "wikiLength": 27633
+  },
+  {
+   "qid": "Q382393",
+   "nom": "Louis Garrel",
+   "wikiTitle": "Louis Garrel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Garrel%20at%2082nd%20Venice%20International%20Film%20Festival-1%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 42,
+   "wikiLength": 27188
+  },
+  {
+   "qid": "Q262822",
+   "nom": "Sandrine Kiberlain",
+   "wikiTitle": "Sandrine Kiberlain",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandrine%20Kiberlain%20avp%202013.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice et chanteuse française",
+   "sitelinks": 38,
+   "wikiLength": 26761
+  },
+  {
+   "qid": "Q266535",
+   "nom": "François Ozon",
+   "wikiTitle": "François Ozon",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Ozon.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur et scénariste français de cinéma",
+   "sitelinks": 53,
+   "wikiLength": 26616
+  },
+  {
+   "qid": "Q17385969",
+   "nom": "Kendji Girac",
+   "wikiTitle": "Kendji Girac",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kendji%20Girac%20Belval%202016.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur et acteur français",
+   "sitelinks": 30,
+   "wikiLength": 26590
+  },
+  {
+   "qid": "Q292677",
+   "nom": "Sara Forestier",
+   "wikiTitle": "Sara Forestier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Forestier%20Cannes%202013.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 31,
+   "wikiLength": 26256
+  },
+  {
+   "qid": "Q505626",
+   "nom": "Jean-Jacques Beineix",
+   "wikiTitle": "Jean-Jacques Beineix",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Beineix%20%281989%29%20by%20Erling%20Mandelmann.jpg?width=500",
+   "parti": null,
+   "poste": "cinéaste français",
+   "sitelinks": 31,
+   "wikiLength": 26077
+  },
+  {
+   "qid": "Q434060",
+   "nom": "Nicole Garcia",
+   "wikiTitle": "Nicole Garcia",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicole%20Garcia%202017.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, réalisatrice et scénariste française",
+   "sitelinks": 33,
+   "wikiLength": 26021
+  },
+  {
+   "qid": "Q433979",
+   "nom": "Philippe Garrel",
+   "wikiTitle": "Philippe Garrel",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Garrel%20at%20Berlinale%202023.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 31,
+   "wikiLength": 26016
+  },
+  {
+   "qid": "Q737693",
+   "nom": "Leos Carax",
+   "wikiTitle": "Leos Carax",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Leos%20Carax%20Cannes%202012.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 38,
+   "wikiLength": 25761
+  },
+  {
+   "qid": "Q180491",
+   "nom": "Mélanie Thierry",
+   "wikiTitle": "Mélanie Thierry",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9lanie%20Thierry%20D%C3%A9jeuner%20C%C3%A9sar%202018.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin française",
+   "sitelinks": 32,
+   "wikiLength": 25747
+  },
+  {
+   "qid": "Q487882",
+   "nom": "Demis Roussos",
+   "wikiTitle": "Demis Roussos",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Demis%20Roussos%20in%20Baku%202-cropped.jpg?width=500",
+   "parti": null,
+   "poste": "musicien et chanteur grec (1946–2015)",
+   "sitelinks": 64,
+   "wikiLength": 25707
+  },
+  {
+   "qid": "Q447507",
+   "nom": "Anne Wiazemsky",
+   "wikiTitle": "Anne Wiazemsky",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Wiazemsky%20in%20Il%20seme%20dell%27uomo.png?width=500",
+   "parti": null,
+   "poste": "écrivaine, comédienne et réalisatrice française",
+   "sitelinks": 35,
+   "wikiLength": 25548
+  },
+  {
+   "qid": "Q347950",
+   "nom": "Gaspar Noé",
+   "wikiTitle": "Gaspar Noé",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaspar%20No%C3%A9%20%282021%29.jpg?width=500",
+   "parti": null,
+   "poste": "producteur, réalisateur et scénariste argentin",
+   "sitelinks": 41,
+   "wikiLength": 25143
+  },
+  {
+   "qid": "Q528132",
+   "nom": "Alexandre Aja",
+   "wikiTitle": "Alexandre Aja",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandreaja.jpg?width=500",
+   "parti": null,
+   "poste": "scénariste, producteur et réalisateur de cinéma",
+   "sitelinks": 30,
+   "wikiLength": 25087
+  },
+  {
+   "qid": "Q123476",
+   "nom": "Vincent Perez",
+   "wikiTitle": "Vincent Perez",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20P%C3%A9rez%20Cannes.jpg?width=500",
+   "parti": null,
+   "poste": "acteur franco-suisse",
+   "sitelinks": 37,
+   "wikiLength": 24955
+  },
+  {
+   "qid": "Q272183",
+   "nom": "Marlène Jobert",
+   "wikiTitle": "Marlène Jobert",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MarleneJobert-Italie-1978.png?width=500",
+   "parti": null,
+   "poste": "actrice, romancière et conteuse française",
+   "sitelinks": 35,
+   "wikiLength": 24865
+  },
+  {
+   "qid": "Q464616",
+   "nom": "Zar Amir Ebrahimi",
+   "wikiTitle": "Zar Amir Ebrahimi",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zar%20Amir%20Ebrahimi%20at%20the%202025%20Locarno%20Film%20Festival.jpg?width=500",
+   "parti": null,
+   "poste": "actrice franco-iranienne",
+   "sitelinks": 30,
+   "wikiLength": 24566
+  },
+  {
+   "qid": "Q373034",
+   "nom": "Saïd Taghmaoui",
+   "wikiTitle": "Saïd Taghmaoui",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sa%C3%AFd%20Taghmaoui%202014.jpg?width=500",
+   "parti": null,
+   "poste": "acteur international franco-marocain",
+   "sitelinks": 37,
+   "wikiLength": 23976
+  },
+  {
+   "qid": "Q291765",
+   "nom": "Brigitte Fossey",
+   "wikiTitle": "Brigitte Fossey",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Brigitte%20Fossey%20C%C3%A9sars.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 31,
+   "wikiLength": 23934
+  },
+  {
+   "qid": "Q238315",
+   "nom": "Claire Denis",
+   "wikiTitle": "Claire Denis",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claire%20Denis%20at%202026%20Cannes%20International%20Film%20Festival%2002.jpg?width=500",
+   "parti": null,
+   "poste": "scénariste et réalisatrice française",
+   "sitelinks": 40,
+   "wikiLength": 23805
+  },
+  {
+   "qid": "Q18143",
+   "nom": "Gao Xingjian",
+   "wikiTitle": "Gao Xingjian",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Xingjian%20%282012%2C%20cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain, dramaturge, metteur en scène et peintre français d'origine chinoise",
+   "sitelinks": 104,
+   "wikiLength": 23739
+  },
+  {
+   "qid": "Q60590137",
+   "nom": "Emma Mackey",
+   "wikiTitle": "Emma Mackey",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr385780%20Emma%20Mackey%20%28Alpha%2C%20Cannes%202025%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin franco-britannique",
+   "sitelinks": 46,
+   "wikiLength": 23685
+  },
+  {
+   "qid": "Q523144",
+   "nom": "André Téchiné",
+   "wikiTitle": "André Téchiné",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20T%C3%A9chin%C3%A9%20Cabourg%202018.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 35,
+   "wikiLength": 23247
+  },
+  {
+   "qid": "Q115206",
+   "nom": "Imany",
+   "wikiTitle": "Imany",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Imany.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse franco-comorienne",
+   "sitelinks": 30,
+   "wikiLength": 23152
+  },
+  {
+   "qid": "Q982784",
+   "nom": "Kavinsky",
+   "wikiTitle": "Kavinsky",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kavinsky%202.jpg?width=500",
+   "parti": null,
+   "poste": "DJ, producteur musical électronique et acteur français",
+   "sitelinks": 36,
+   "wikiLength": 23124
+  },
+  {
+   "qid": "Q982049",
+   "nom": "Jean-Pierre Thiollet",
+   "wikiTitle": "Jean-Pierre Thiollet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Thiollet%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain français",
+   "sitelinks": 34,
+   "wikiLength": 22887
+  },
+  {
+   "qid": "Q233968",
+   "nom": "Frida Boccara",
+   "wikiTitle": "Frida Boccara",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Gala%20du%20Disque%20in%20RAI%20Amsterdam.%20Frida%20Boccara%2C%20Bestanddeelnr%20923-3017.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 40,
+   "wikiLength": 22081
+  },
+  {
+   "qid": "Q350844",
+   "nom": "Christian Lacroix",
+   "wikiTitle": "Christian Lacroix",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Lacroix%20-%202018%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "grand couturier français",
+   "sitelinks": 31,
+   "wikiLength": 21922
+  },
+  {
+   "qid": "Q525332",
+   "nom": "Louis Leterrier",
+   "wikiTitle": "Louis Leterrier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Leterrier%20by%20Gage%20Skidmore%202.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 34,
+   "wikiLength": 21886
+  },
+  {
+   "qid": "Q467436",
+   "nom": "Khatia Buniatishvili",
+   "wikiTitle": "Khatia Buniatishvili",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Khatia%20Buniatishvili%20-%20Global%20Citizen%20Festival%20Hamburg%2013.jpg?width=500",
+   "parti": null,
+   "poste": "pianiste géorgienne et française",
+   "sitelinks": 42,
+   "wikiLength": 21719
+  },
+  {
+   "qid": "Q241043",
+   "nom": "Emmanuelle Devos",
+   "wikiTitle": "Emmanuelle Devos",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20Devos%2079th%20Locarno%20Film%20Festival%20-%20Photocall-4.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 34,
+   "wikiLength": 21711
+  },
+  {
+   "qid": "Q326837",
+   "nom": "Élodie Yung",
+   "wikiTitle": "Élodie Yung",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elodie%20Yung%20by%20Gage%20Skidmore.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 31,
+   "wikiLength": 21594
+  },
+  {
+   "qid": "Q154490",
+   "nom": "Jean-Jacques Annaud",
+   "wikiTitle": "Jean-Jacques Annaud",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Annaud%20par%20Claude%20Truong-Ngoc%20f%C3%A9vrier%202015.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 61,
+   "wikiLength": 21581
+  },
+  {
+   "qid": "Q239341",
+   "nom": "Marie-Josée Croze",
+   "wikiTitle": "Marie-Josée Croze",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Jos%C3%A9e%20Croze%20Deauville%202012.jpg?width=500",
+   "parti": null,
+   "poste": "actrice canadienne et française",
+   "sitelinks": 31,
+   "wikiLength": 21560
+  },
+  {
+   "qid": "Q312280",
+   "nom": "Alain Corneau",
+   "wikiTitle": "Alain Corneau",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Corneau%20Cannes%201990.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur français",
+   "sitelinks": 39,
+   "wikiLength": 21280
+  },
+  {
+   "qid": "Q295123",
+   "nom": "Guillaume Depardieu",
+   "wikiTitle": "Guillaume Depardieu",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/DEPARDIEU%20Guillaume-24x30-2005b.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 39,
+   "wikiLength": 21250
+  },
+  {
+   "qid": "Q220826",
+   "nom": "Jessy Matador",
+   "wikiTitle": "Jessy Matador",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessy%20Matador.jpg?width=500",
+   "parti": null,
+   "poste": "chanteur franco-congolais",
+   "sitelinks": 36,
+   "wikiLength": 21164
+  },
+  {
+   "qid": "Q106592",
+   "nom": "Sabine Azéma",
+   "wikiTitle": "Sabine Azéma",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sabine%20Az%C3%A9ma%20Deauville%202018.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 41,
+   "wikiLength": 21111
+  },
+  {
+   "qid": "Q269832",
+   "nom": "Claudine Auger",
+   "wikiTitle": "Claudine Auger",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claudine%20Auger%201966.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 38,
+   "wikiLength": 20152
+  },
+  {
+   "qid": "Q356301",
+   "nom": "Jean-Baptiste Maunier",
+   "wikiTitle": "Jean-Baptiste Maunier",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Maunier%20Cabourg%202016%202.jpg?width=500",
+   "parti": null,
+   "poste": "acteur et chanteur français",
+   "sitelinks": 31,
+   "wikiLength": 20106
+  },
+  {
+   "qid": "Q461350",
+   "nom": "Céline Sciamma",
+   "wikiTitle": "Céline Sciamma",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9line%20Sciamma%20Lumi%C3%A8res%202015.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice et scénariste française",
+   "sitelinks": 40,
+   "wikiLength": 19948
+  },
+  {
+   "qid": "Q289054",
+   "nom": "Catherine Breillat",
+   "wikiTitle": "Catherine Breillat",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Breillat%20in%202023%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice, écrivaine, réalisatrice et scénariste française",
+   "sitelinks": 35,
+   "wikiLength": 19808
+  },
+  {
+   "qid": "Q504627",
+   "nom": "Barbet Schroeder",
+   "wikiTitle": "Barbet Schroeder",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbet%20Schroeder%20%282883902011%29%20cropped.jpg?width=500",
+   "parti": null,
+   "poste": "producteur et réalisateur franco-suisse",
+   "sitelinks": 33,
+   "wikiLength": 19698
+  },
+  {
+   "qid": "Q464305",
+   "nom": "Desireless",
+   "wikiTitle": "Desireless",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Desireless%202013.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 30,
+   "wikiLength": 19541
+  },
+  {
+   "qid": "Q217388",
+   "nom": "Anna Gavalda",
+   "wikiTitle": "Anna Gavalda",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Gavalda%2002.jpg?width=500",
+   "parti": null,
+   "poste": "écrivaine française",
+   "sitelinks": 46,
+   "wikiLength": 19427
+  },
+  {
+   "qid": "Q171557",
+   "nom": "Paul Belmondo",
+   "wikiTitle": "Paul Belmondo (pilote automobile)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Belmondo%202018.jpg?width=500",
+   "parti": null,
+   "poste": "coureur automobile français",
+   "sitelinks": 31,
+   "wikiLength": 18852
+  },
+  {
+   "qid": "Q240157",
+   "nom": "Julie Depardieu",
+   "wikiTitle": "Julie Depardieu",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Depardieu%20Cannes%202016.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 32,
+   "wikiLength": 18803
+  },
+  {
+   "qid": "Q459299",
+   "nom": "Raoul Ruiz",
+   "wikiTitle": "Raoul Ruiz",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Raul%20Ruiz%20Memoria%20Chilena.jpg?width=500",
+   "parti": null,
+   "poste": "cinéaste franco-chilien",
+   "sitelinks": 31,
+   "wikiLength": 18776
+  },
+  {
+   "qid": "Q60304",
+   "nom": "Emma de Caunes",
+   "wikiTitle": "Emma de Caunes",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma%20de%20Caunes%20Cannes%202015.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et animatrice de télévision française",
+   "sitelinks": 33,
+   "wikiLength": 18751
+  },
+  {
+   "qid": "Q236053",
+   "nom": "Marie Myriam",
+   "wikiTitle": "Marie Myriam",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MarieMyriam.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 39,
+   "wikiLength": 18427
+  },
+  {
+   "qid": "Q24061147",
+   "nom": "Julia Ducournau",
+   "wikiTitle": "Julia Ducournau",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr386059%20Julia%20Ducournau%20%28Alpha%2C%20Cannes%202025%29.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice et scénariste française",
+   "sitelinks": 35,
+   "wikiLength": 18310
+  },
+  {
+   "qid": "Q297794",
+   "nom": "Yasmina Reza",
+   "wikiTitle": "Yasmina Reza",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yasmina-reza.jpg?width=500",
+   "parti": null,
+   "poste": "auteure dramatique et actrice française",
+   "sitelinks": 45,
+   "wikiLength": 18305
+  },
+  {
+   "qid": "Q3395911",
+   "nom": "Pom Klementieff",
+   "wikiTitle": "Pom Klementieff",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20-Comic%20Con%20Germany%202019-%207d%20by-RaBoe%20037%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin française",
+   "sitelinks": 47,
+   "wikiLength": 17818
+  },
+  {
+   "qid": "Q235982",
+   "nom": "Françoise Dorléac",
+   "wikiTitle": "Françoise Dorléac",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorleac-Israel-1963-crop.png?width=500",
+   "parti": null,
+   "poste": "actrice française (1942-1967)",
+   "sitelinks": 42,
+   "wikiLength": 17513
+  },
+  {
+   "qid": "Q314969",
+   "nom": "Jonathan Littell",
+   "wikiTitle": "Jonathan Littell",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Littell%20P1200584.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain franco-américain",
+   "sitelinks": 40,
+   "wikiLength": 17336
+  },
+  {
+   "qid": "Q461186",
+   "nom": "Nathalie Delon",
+   "wikiTitle": "Nathalie Delon",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20sorelle%20%281969%29%20Nathalie%20Delon%20%282%29.png?width=500",
+   "parti": null,
+   "poste": "actrice, scénariste et réalisatrice française",
+   "sitelinks": 32,
+   "wikiLength": 17029
+  },
+  {
+   "qid": "Q258777",
+   "nom": "Sofia Boutella",
+   "wikiTitle": "Sofia Boutella",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sofia%20Boutella%202023%2002.jpg?width=500",
+   "parti": null,
+   "poste": "actrice algérienne",
+   "sitelinks": 42,
+   "wikiLength": 16942
+  },
+  {
+   "qid": "Q3299073",
+   "nom": "Mati Diop",
+   "wikiTitle": "Mati Diop",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mati%20Diop%20at%20Berlinale%202024-2.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et réalisatrice franco-sénégalaise",
+   "sitelinks": 30,
+   "wikiLength": 16936
+  },
+  {
+   "qid": "Q234890",
+   "nom": "Emmanuelle Seigner",
+   "wikiTitle": "Emmanuelle Seigner",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20Seigner%2C%202013%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "comédienne et chanteuse française",
+   "sitelinks": 47,
+   "wikiLength": 16865
+  },
+  {
+   "qid": "Q236370",
+   "nom": "Souad Massi",
+   "wikiTitle": "Souad Massi",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Souad-Massi.jpg?width=500",
+   "parti": null,
+   "poste": "auteure-compositrice-interprète et guitariste algérienne",
+   "sitelinks": 33,
+   "wikiLength": 16847
+  },
+  {
+   "qid": "Q569824",
+   "nom": "Just Jaeckin",
+   "wikiTitle": "Just Jaeckin",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Just-Jaeckin-1974.png?width=500",
+   "parti": null,
+   "poste": "réalisateur, photographe, peintre et sculpteur français (1940-2022)",
+   "sitelinks": 33,
+   "wikiLength": 16557
+  },
+  {
+   "qid": "Q3528336",
+   "nom": "Tignous",
+   "wikiTitle": "Tignous",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tignous%2020080318%20Salon%20du%20livre%201.jpg?width=500",
+   "parti": null,
+   "poste": "caricaturiste et dessinateur de presse français",
+   "sitelinks": 38,
+   "wikiLength": 16537
+  },
+  {
+   "qid": "Q127481",
+   "nom": "Tony Gatlif",
+   "wikiTitle": "Tony Gatlif",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Gatlif%20%282016%29.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur, acteur, scénariste, compositeur et producteur français de films",
+   "sitelinks": 42,
+   "wikiLength": 16258
+  },
+  {
+   "qid": "Q126164",
+   "nom": "Tina Aumont",
+   "wikiTitle": "Tina Aumont",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tina%20Aumont.jpg?width=500",
+   "parti": null,
+   "poste": "actrice franco-américaine",
+   "sitelinks": 34,
+   "wikiLength": 16254
+  },
+  {
+   "qid": "Q291205",
+   "nom": "Anne Fontaine",
+   "wikiTitle": "Anne Fontaine (réalisatrice)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Fontaine-3978.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice, actrice, scénariste et dialoguiste française",
+   "sitelinks": 31,
+   "wikiLength": 16192
+  },
+  {
+   "qid": "Q515904",
+   "nom": "Andrzej Żuławski",
+   "wikiTitle": "Andrzej Żuławski",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20%C5%BBu%C5%82awski%2003.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur et écrivain polonais",
+   "sitelinks": 40,
+   "wikiLength": 16064
+  },
+  {
+   "qid": "Q193273",
+   "nom": "Goran Bregović",
+   "wikiTitle": "Goran Bregović",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/20220710-Rudolstadt-Festival-2022-Goran-Bregovic-7849%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "compositeur français originaire de Bosnie-Herzégovine",
+   "sitelinks": 59,
+   "wikiLength": 15726
+  },
+  {
+   "qid": "Q302446",
+   "nom": "Lolo Ferrari",
+   "wikiTitle": "Lolo Ferrari",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lolo%20Ferrari%20-%20Mutter%20Courage%20%28cropped%29.JPG?width=500",
+   "parti": null,
+   "poste": "chanteuse et actrice pornographique française",
+   "sitelinks": 42,
+   "wikiLength": 15703
+  },
+  {
+   "qid": "Q3307854",
+   "nom": "Mia Hansen-Løve",
+   "wikiTitle": "Mia Hansen-Løve",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Seminci%202025%20-%20Mia%20Hansen-L%C3%B8ve-4%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice et scénariste française",
+   "sitelinks": 31,
+   "wikiLength": 15450
+  },
+  {
+   "qid": "Q3293222",
+   "nom": "Marine Vacth",
+   "wikiTitle": "Marine Vacth",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marine%20Vacth%202020%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin français",
+   "sitelinks": 31,
+   "wikiLength": 15267
+  },
+  {
+   "qid": "Q1411012",
+   "nom": "Jeremy Allen White",
+   "wikiTitle": "Jeremy Allen White",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy%20Allen%20White%20Springsteen-33%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur américain",
+   "sitelinks": 40,
+   "wikiLength": 15019
+  },
+  {
+   "qid": "Q117071",
+   "nom": "Laurent Cantet",
+   "wikiTitle": "Laurent Cantet",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurent%20Cantet%20Cannes%202008.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur et scénariste français",
+   "sitelinks": 34,
+   "wikiLength": 14887
+  },
+  {
+   "qid": "Q308097",
+   "nom": "Abderrahmane Sissako",
+   "wikiTitle": "Abderrahmane Sissako",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Abderrahmane%20Sissako%20C%C3%A9sar%202016.jpg?width=500",
+   "parti": null,
+   "poste": "réalisateur mauritanien",
+   "sitelinks": 35,
+   "wikiLength": 14878
+  },
+  {
+   "qid": "Q230747",
+   "nom": "Jacqueline Boyer",
+   "wikiTitle": "Jacqueline Boyer",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacqueline%20Boyer%20%281960%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 45,
+   "wikiLength": 14140
+  },
+  {
+   "qid": "Q504886",
+   "nom": "Olivier Martinez",
+   "wikiTitle": "Olivier Martinez",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Olivier%20Martinez%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 32,
+   "wikiLength": 13837
+  },
+  {
+   "qid": "Q299297",
+   "nom": "Simon Helberg",
+   "wikiTitle": "Simon Helberg",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/CES%202026%20-%20Simon%20Helberg%2002%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "acteur américain",
+   "sitelinks": 52,
+   "wikiLength": 13822
+  },
+  {
+   "qid": "Q3554229",
+   "nom": "Valérie Benguigui",
+   "wikiTitle": "Valérie Benguigui",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Val%C3%A9rie%20Benguigui%20C%C3%A9sars%202013%202%20crop.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 30,
+   "wikiLength": 13398
+  },
+  {
+   "qid": "Q55211",
+   "nom": "Mohsen Makhmalbaf",
+   "wikiTitle": "Mohsen Makhmalbaf",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohsen%20makhmalbaf.jpg?width=500",
+   "parti": null,
+   "poste": "cinéaste iranien",
+   "sitelinks": 38,
+   "wikiLength": 13238
+  },
+  {
+   "qid": "Q291466",
+   "nom": "Nora Arnezeder",
+   "wikiTitle": "Nora Arnezeder",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nora%20Arnezeder%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 34,
+   "wikiLength": 13172
+  },
+  {
+   "qid": "Q179801",
+   "nom": "Atiq Rahimi",
+   "wikiTitle": "Atiq Rahimi",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Atiq%20Rahimi%202010%20a.jpg?width=500",
+   "parti": null,
+   "poste": "romancier et réalisateur franco-afghan",
+   "sitelinks": 31,
+   "wikiLength": 12835
+  },
+  {
+   "qid": "Q15970956",
+   "nom": "Philippe Honoré",
+   "wikiTitle": "Philippe Honoré",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Honor%C3%A9%2C%20dessinateur%20de%20Charlie%20Hebdo%20%28crop%29.jpg?width=500",
+   "parti": null,
+   "poste": "dessinateur de presse et illustrateur français",
+   "sitelinks": 33,
+   "wikiLength": 12787
+  },
+  {
+   "qid": "Q231019",
+   "nom": "Agnieszka Holland",
+   "wikiTitle": "Agnieszka Holland",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MJK32681%20Agnieszka%20Holland%20%28Pokot%2C%20Berlinale%202017%29%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice et scénariste franco-polonaise",
+   "sitelinks": 49,
+   "wikiLength": 12624
+  },
+  {
+   "qid": "Q234015",
+   "nom": "Àstrid Bergès-Frisbey",
+   "wikiTitle": "Àstrid Bergès-Frisbey",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ASTRID%20BERGES-FRISBEY%20DEAUVILLE%202020%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice et mannequin franco-espagnole",
+   "sitelinks": 41,
+   "wikiLength": 12433
+  },
+  {
+   "qid": "Q28736241",
+   "nom": "Alma",
+   "wikiTitle": "Alma (chanteuse française)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alma%20%28Alexandra%20Maquet%29%20Kyiv%202017.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 33,
+   "wikiLength": 12420
+  },
+  {
+   "qid": "Q461132",
+   "nom": "Rose Leslie",
+   "wikiTitle": "Rose Leslie",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose%20Leslie%20%28March%202013%29%20%28headshot%29.jpg?width=500",
+   "parti": null,
+   "poste": "actrice britannique",
+   "sitelinks": 49,
+   "wikiLength": 12138
+  },
+  {
+   "qid": "Q3192216",
+   "nom": "Kalki Koechlin",
+   "wikiTitle": "Kalki Koechlin",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalki%20Koechlin%20launches%20beautifulhomes.jpg?width=500",
+   "parti": null,
+   "poste": "actrice indienne",
+   "sitelinks": 45,
+   "wikiLength": 12060
+  },
+  {
+   "qid": "Q270660",
+   "nom": "Michael Vartan",
+   "wikiTitle": "Michael Vartan",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Vartan%202010%20cropped.jpg?width=500",
+   "parti": null,
+   "poste": "acteur franco-américain",
+   "sitelinks": 40,
+   "wikiLength": 11737
+  },
+  {
+   "qid": "Q60837652",
+   "nom": "Coralie Fargeat",
+   "wikiTitle": "Coralie Fargeat",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Coralie%20Fargeat-2222.jpg?width=500",
+   "parti": null,
+   "poste": "réalisatrice et scénariste française",
+   "sitelinks": 34,
+   "wikiLength": 11192
+  },
+  {
+   "qid": "Q315773",
+   "nom": "Jan Guillou",
+   "wikiTitle": "Jan Guillou",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Guillou%20by%20Christian%20Ursilva.jpg?width=500",
+   "parti": null,
+   "poste": "écrivain et journaliste suédois",
+   "sitelinks": 37,
+   "wikiLength": 11143
+  },
+  {
+   "qid": "Q6162887",
+   "nom": "Jason Kouchak",
+   "wikiTitle": "Jason Kouchak",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Musician%20Jason%20Kouchak.jpg?width=500",
+   "parti": null,
+   "poste": "pianiste/compositeur",
+   "sitelinks": 35,
+   "wikiLength": 11054
+  },
+  {
+   "qid": "Q954841",
+   "nom": "Hervé Villechaize",
+   "wikiTitle": "Hervé Villechaize",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Herve%20Villechaize%201977.jpg?width=500",
+   "parti": null,
+   "poste": "acteur français",
+   "sitelinks": 30,
+   "wikiLength": 10728
+  },
+  {
+   "qid": "Q259123",
+   "nom": "Corinne Cléry",
+   "wikiTitle": "Corinne Cléry",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/CorinneClery-1973-Italie.png?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 33,
+   "wikiLength": 10067
+  },
+  {
+   "qid": "Q232884",
+   "nom": "Anne-Marie David",
+   "wikiTitle": "Anne-Marie David",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Annemariedavid.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 41,
+   "wikiLength": 9710
+  },
+  {
+   "qid": "Q28463",
+   "nom": "Bérénice Marlohe",
+   "wikiTitle": "Bérénice Marlohe",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/BereniceMarloheHWOFNov2012.jpg?width=500",
+   "parti": null,
+   "poste": "actrice française",
+   "sitelinks": 39,
+   "wikiLength": 9071
+  },
+  {
+   "qid": "Q232963",
+   "nom": "Séverine",
+   "wikiTitle": "Séverine (chanteuse)",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9verine%20-%20Un%20Banc...%20Une%20Arbre...%20Une%20Rue...%2C%201971%20%28cropped%29.jpg?width=500",
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 35,
+   "wikiLength": 9068
+  },
+  {
+   "qid": "Q240802",
+   "nom": "Richard Clayderman",
+   "wikiTitle": "Richard Clayderman",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Clayderman.jpg?width=500",
+   "parti": null,
+   "poste": "pianiste français",
+   "sitelinks": 55,
+   "wikiLength": 9050
+  },
+  {
+   "qid": "Q465709",
+   "nom": "Yvette Mimieux",
+   "wikiTitle": "Yvette Mimieux",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yvette%20Mimieux%20-%20still.jpg?width=500",
+   "parti": null,
+   "poste": "actrice américaine",
+   "sitelinks": 31,
+   "wikiLength": 8747
+  },
+  {
+   "qid": "Q317730",
+   "nom": "Jean-Dominique Bauby",
+   "wikiTitle": "Jean-Dominique Bauby",
+   "photo": null,
+   "parti": null,
+   "poste": "journaliste français victime du syndrome d'enfermement (1952-1997)",
+   "sitelinks": 34,
+   "wikiLength": 8578
+  },
+  {
+   "qid": "Q234903",
+   "nom": "Corinne Hermès",
+   "wikiTitle": "Corinne Hermès",
+   "photo": null,
+   "parti": null,
+   "poste": "chanteuse française",
+   "sitelinks": 31,
+   "wikiLength": 8510
+  }
+ ]
+}

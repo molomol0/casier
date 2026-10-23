@@ -1,0 +1,21 @@
+{
+ "nom": "Vincent Bolloré",
+ "wikiTitle": "Vincent Bolloré",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Corruption d'agents publics étrangers (ports du Togo et de Guinée)",
+   "annee": 2024,
+   "statut": "PROCES_EN_COURS",
+   "categorie": "CORRUPTION_ACTIVE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9"
+   ]
+  }
+ ]
+}

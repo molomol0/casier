@@ -1,0 +1,23 @@
+{
+  "nom": "François Ruffin",
+  "wikiTitle": "François Ruffin",
+  "touched": "2026-10-19T10:15:14Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Condamnation pour diffamation (livre Quartier Nord, 2008)",
+      "annee": 2008,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+        "https://fr.wikipedia.org/wiki/Quartier_Nord_(livre)",
+        "https://x.com/InfosMinutesFR/status/1809306871708221647"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "nom": "Florent de Kersauson",
+  "wikiTitle": "Florent de Kersauson",
+  "touched": "2026-10-20T17:26:18Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Délits financiers liés à la gestion de 6S Cosmétiques (abus de biens sociaux, abus de pouvoir, défauts comptables)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "ABUS_BIENS_SOCIAUX",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 50000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://france3-regions.francetvinfo.fr/bretagne/ille-et-vilaine/rennes/condamnation-confirmee-pour-l-elu-rn-du-morbihan-florent-de-kersauson-apres-une-serie-de-delits-financiers-2917422.html"
+      ]
+    },
+    {
+      "titre": "Conduite sans permis et défaut de contrôle technique",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 3,
+      "prisonFerme": 0,
+      "amende": 135,
+      "ineligibilite": 0,
+      "sources": [
+        "https://france3-regions.franceinfo.fr/bretagne/morbihan/il-roulait-sans-permis-l-elu-rassemblement-national-florent-de-kersauson-condamne-3070996.html"
+      ]
+    },
+    {
+      "titre": "Infractions financières liées au fonds Nestadio Capital (abus de confiance, abus de biens, faux et usage de faux)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "ABUS_CONFIANCE",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 50000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://france3-regions.franceinfo.fr/bretagne/morbihan/lorient/le-conseiller-regional-rn-florent-de-kersauson-a-nouveau-condamne-3214832.html",
+        "https://www.lemonde.fr/politique/article/2025/09/11/florent-de-kersauson-conseiller-regional-rn-condamne-pour-cinq-infractions-financieres-dont-abus-de-confiance-faux-et-usages-de-faux_6640421_823448.html",
+        "https://www.ouest-france.fr/societe/justice/prison-avec-sursis-et-cinq-ans-dineligibilite-lelu-rn-florent-de-kersauson-a-nouveau-condamne-15146782-8a75-11f0-a86a-c405a2987708"
+      ]
+    }
+  ]
+}

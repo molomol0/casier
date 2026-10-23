@@ -1,0 +1,91 @@
+{
+  "nom": "Christian Estrosi",
+  "wikiTitle": "Christian Estrosi",
+  "touched": "2026-10-19T10:09:57Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire Mannoni (diffamation envers un universitaire aide aux migrants)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 3000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/christian-estrosi-condamne-pour-diffamation-envers-un-universitaire-engage-dans-une-association-d-aide-aux-migrants-2943066.html",
+        "https://www.20minutes.fr/justice/4042545-20230622-aide-migrants-cour-cassation-annule-relaxe-christian-estrosi-affaire-diffamation"
+      ]
+    },
+    {
+      "titre": "Affaire Grand Prix de France (favoritisme et détournement de fonds publics)",
+      "annee": 2023,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2024/04/24/les-derapages-financiers-du-grand-prix-de-formule-1-de-christian-estrosi_6229493_3224.html",
+        "https://www.mediapart.fr/journal/france/150923/le-voyage-prix-d-or-d-estrosi-et-muselier-au-grand-prix-de-formule-1-d-abou-dhabi"
+      ]
+    },
+    {
+      "titre": "Affaire Eurovision Junior et Nice Climate Summit (détournement de fonds publics et prise illégale d'intérêts)",
+      "annee": 2024,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/perquisitions-a-la-mairie-de-nice-et-a-la-metropole-dans-le-cadre-de-l-affaire-sur-l-eurovision-et-le-nice-climate-summit-3133144.html",
+        "https://www.lefigaro.fr/nice/des-perquisitions-a-nice-et-dans-une-filiale-de-france-televisions-en-lien-avec-christian-estrosi-et-sa-femme-20250403"
+      ]
+    },
+    {
+      "titre": "Affaire Orlinski (corruption liée à des contrats accordés à l'artiste Richard Orlinski)",
+      "annee": 2025,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "CORRUPTION_PASSIVE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.mediapart.fr/journal/france/180325/affaire-orlinski-christian-estrosi-vise-par-une-enquete-pour-corruption"
+      ]
+    },
+    {
+      "titre": "Affaire des chauffeurs municipaux (recel de détournement de fonds publics)",
+      "annee": 2026,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "RECEL",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/a-la-tete-de-nice-les-epoux-estrosi-ont-ils-beneficie-de-chauffeurs-municipaux-pour-des-deplacements-personnels-une-enquete-ouverte-3348175.html",
+        "https://actu.orange.fr/france/nice-une-enquete-ouverte-vise-les-epoux-estrosi-pour-des-soupcons-de-detournement-de-fonds-magic-CNT000002p7yRA.html"
+      ]
+    },
+    {
+      "titre": "Affaire des notes de frais et du banquet « Lou festin nissart » (détournement de fonds publics et prise illégale d'intérêts)",
+      "annee": 2026,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/nice/nice-l-ancien-maire-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-20260916",
+        "https://www.lefigaro.fr/nice/nice-nouvelle-enquete-pour-detournement-de-fonds-publics-visant-l-ancien-maire-christian-estrosi-20260921"
+      ]
+    }
+  ]
+}

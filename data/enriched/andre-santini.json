@@ -1,0 +1,21 @@
+{
+ "nom": "André Santini",
+ "wikiTitle": "André Santini",
+ "touched": "2026-10-21T20:24:09Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire d'injure publique envers Serge Brière",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 1000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.jeanmarcmorandini.com/article-342919-le-depute-maire-d-issy-les-moulineaux-andre-santini-condamne-pour-injure-publique.html"
+   ]
+  }
+ ]
+}

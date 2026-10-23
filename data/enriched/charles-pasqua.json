@@ -1,0 +1,52 @@
+{
+ "nom": "Charles Pasqua",
+ "wikiTitle": "Charles Pasqua",
+ "touched": "2026-10-21T20:25:05Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire du casino d'Annemasse (faux, financement illégal de campagne et abus de confiance)",
+   "annee": 2010,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+   "prisonTotal": 18,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.bfmtv.com/politique/premiere-condamnation-definitive-pour-charles-pasqua_AN-201004080014.html",
+    "https://fr.wikipedia.org/wiki/Charles_Pasqua"
+   ]
+  },
+  {
+   "titre": "Affaire de la Sofremi (corruption active, versement de commissions illicites)",
+   "annee": 2010,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "CORRUPTION_ACTIVE",
+   "prisonTotal": 12,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.bfmtv.com/politique/un-an-avec-sursis-et-deux-relaxes-de-plus-pour-pasqua_AN-201004300010.html",
+    "http://www.lexpress.fr/actualites/2/un-an-avec-sursis-et-deux-relaxes-de-plus-pour-pasqua_888838.html",
+    "https://fr.wikipedia.org/wiki/Charles_Pasqua"
+   ]
+  },
+  {
+   "titre": "Affaire de la Fondation Hamon (corruption passive)",
+   "annee": 2013,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "CORRUPTION_PASSIVE",
+   "prisonTotal": 24,
+   "prisonFerme": 0,
+   "amende": 150000,
+   "ineligibilite": 24,
+   "sources": [
+    "http://www.lepoint.fr/justice/proces-de-la-fondation-hamon-pasqua-combatif-mais-las-face-aux-juges-19-05-2015-1929529_2386.php",
+    "https://www.lemonde.fr/police-justice/article/2015/09/23/andre-santini-relaxe-dans-l-affaire-de-la-fondation-hamon_4768566_1653578.html",
+    "https://fr.wikipedia.org/wiki/Charles_Pasqua"
+   ]
+  }
+ ]
+}

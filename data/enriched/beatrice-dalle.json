@@ -1,0 +1,30 @@
+{
+  "nom": "Béatrice Dalle",
+  "wikiTitle": "Béatrice Dalle",
+  "touched": "2026-10-22T12:48:56Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Vol de bijoux à Paris",
+      "annee": 1992,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": ["https://fr.wikipedia.org/wiki/B%C3%A9atrice_Dalle"]
+    },
+    {
+      "titre": "Usage de stupéfiants (cocaïne)",
+      "annee": 1996,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 3049,
+      "ineligibilite": 0,
+      "sources": ["https://fr.wikipedia.org/wiki/B%C3%A9atrice_Dalle"]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nom": "Taha Bouhafs",
+  "wikiTitle": "Taha Bouhafs",
+  "touched": "2026-10-20T17:32:57Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Injure publique à caractère racial envers la policière Linda Kebbab",
+      "annee": 2023,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.nouvelobs.com/justice/20221027.OBS65209/le-journaliste-taha-bouhafs-condamne-en-appel-pour-injure-raciste-envers-une-policiere.html",
+        "https://www.lefigaro.fr/faits-divers/arabe-de-service-la-cour-de-cassation-confirme-la-condamnation-de-taha-bouhafs-pour-injures-raciales-20240103",
+        "https://www.marianne.net/societe/police-et-justice/je-m-en-cogne-taha-bouhafs-definitivement-condamne-pour-injure-raciste-envers-la-policiere-linda-kebbab"
+      ]
+    }
+  ]
+}

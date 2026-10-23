@@ -1,0 +1,36 @@
+{
+  "nom": "Jacques Lafleur",
+  "wikiTitle": "Jacques Lafleur",
+  "touched": "2026-10-19T10:09:57Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Injures publiques envers Bruno Van Peteghem (lettre à en-tête de l'Assemblée nationale)",
+      "annee": 2000,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.liberation.fr/politiques/0101344435-nouvelle-caledonie-condamne-le-depute-lafleur-demissionne",
+        "https://fr.wikipedia.org/wiki/Jacques_Lafleur"
+      ]
+    },
+    {
+      "titre": "Diffamation envers Michel Levallois (autobiographie L'Assiégé, éditions Plon)",
+      "annee": 2003,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "http://202.22.156.149/pays/justice/155266-affaire-lafleur-levallois--l-lassiege-r-condamne-en-appel.html",
+        "https://fr.wikipedia.org/wiki/Jacques_Lafleur"
+      ]
+    }
+  ]
+}

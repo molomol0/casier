@@ -1,0 +1,23 @@
+{
+  "nom": "Alain Juppé",
+  "wikiTitle": "Alain Juppé",
+  "touched": "10/19/2026 10:09:56",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire des emplois fictifs de la mairie de Paris (prise illégale d'intérêts)",
+      "annee": 2004,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 14,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 12,
+      "sources": [
+        "http://tempsreel.nouvelobs.com/societe/20041201.OBS2715/juppe-condamne-en-appela-un-an-d-ineligibilite.html",
+        "http://www.la-croix.com/Semaine-en-images/Alain-Juppe-declare-ineligible-pour-10-ans-fait-appel-_NG_-2004-01-30-499506",
+        "https://www.nouvelobs.com/politique/20190214.OBS0185/alain-juppe-premier-homme-politique-condamne-a-entrer-au-conseil-constitutionnel.html"
+      ]
+    }
+  ]
+}

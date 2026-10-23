@@ -1,0 +1,24 @@
+{
+  "nom": "Jacques Mellick",
+  "wikiTitle": "Jacques Mellick",
+  "touched": "2026-10-20T17:22:52Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire VA-OM (faux témoignage et subornation de témoin)",
+      "annee": 1997,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FAUX_ET_USAGE_FAUX",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 4573,
+      "ineligibilite": 60,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_VA-OM",
+        "https://fr.wikipedia.org/wiki/Jacques_Mellick",
+        "http://www.liberation.fr/evenement/1996/05/13/les-affaires-du-foot_171891",
+        "http://web.archive.org/web/20180808140256/https://www.lesechos.fr/07/03/1997/LesEchos/17351-165-ECH_lourde-condamnation-pour-jacques-mellick.htm"
+      ]
+    }
+  ]
+}

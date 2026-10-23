@@ -1,0 +1,22 @@
+{
+  "nom": "Gérard Ducray",
+  "wikiTitle": "Gérard Ducray",
+  "touched": "2026-10-20T17:23:56Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire d'agression sexuelle à la mairie de Villefranche-sur-Saône (requalification)",
+      "annee": 2014,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AGRESSION_SEXUELLE",
+      "prisonTotal": 1,
+      "prisonFerme": 0,
+      "amende": 3000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/G%C3%A9rard_Ducray",
+        "https://www.huffingtonpost.fr/2014/11/17/regis-ducray-loi-harcelement-agression-sexuelle_n_6170830.html"
+      ]
+    }
+  ]
+}

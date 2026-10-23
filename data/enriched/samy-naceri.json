@@ -1,0 +1,122 @@
+{
+  "nom": "Samy Naceri",
+  "wikiTitle": "Samy Naceri",
+  "touched": "2026-10-22T12:52:02Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Braquage (complicité de hold-up)",
+      "annee": 1984,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 48,
+      "prisonFerme": 48,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.streetpress.com/sujet/1414404647-samy-naceri-prison-enfance-bagarre",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    },
+    {
+      "titre": "Outrages et injures racistes envers des policiers",
+      "annee": 2006,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 6,
+      "prisonFerme": 6,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "http://lci.tf1.fr/france/justice/2006-12/samy-naceri-condamne-mois-ferme-4865968.html",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    },
+    {
+      "titre": "Menace avec arme (couteau) sur un vigile de boîte de nuit",
+      "annee": 2007,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "MENACE",
+      "prisonTotal": 9,
+      "prisonFerme": 3,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.20minutes.fr/people/139832-20070216-samy-naceri-prend-trois-mois-ferme",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    },
+    {
+      "titre": "Violences volontaires en récidive (agression au cendrier, styliste Von Dutch)",
+      "annee": 2007,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 10,
+      "prisonFerme": 10,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.20minutes.fr/article/183098/People-Samy-Naceri-condamne-a-10-mois-ferme.php",
+        "https://www.streetpress.com/sujet/1414404647-samy-naceri-prison-enfance-bagarre",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    },
+    {
+      "titre": "Conduite sans permis et blessures involontaires (policière renversée)",
+      "annee": 2008,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 6,
+      "prisonFerme": 6,
+      "amende": 7500,
+      "ineligibilite": 0,
+      "sources": [
+        "http://tf1.lci.fr/infos/france/justice/0,,4148360,00-samy-naceri-retourne-en-prison-.html",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    },
+    {
+      "titre": "Blessures volontaires et menaces de mort (agression au couteau d'un proche de son ex-compagne)",
+      "annee": 2011,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 16,
+      "prisonFerme": 16,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.lefigaro.fr/actualite-france/2009/01/11/01016-20090111ARTFIG00142-samy-naceri-mis-en-examen-pour-violences-volontaires-.php",
+        "https://www.20minutes.fr/article/714681/societe-samy-naceri-condamne-16-mois-prison-ferme",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    },
+    {
+      "titre": "Consommation de stupéfiants",
+      "annee": 2015,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1500,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.public.fr/News/Samy-Naceri-a-encore-ete-condamne-768824",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    },
+    {
+      "titre": "Dégradations (bris de vitre lors d'une rixe)",
+      "annee": 2017,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.liberation.fr/societe/2017/03/23/samy-naceri-condamne-a-une-amende-pour-un-bris-de-vitre-lors-d-une-rixe_1557931",
+        "https://fr.wikipedia.org/wiki/Samy_Naceri"
+      ]
+    }
+  ]
+}

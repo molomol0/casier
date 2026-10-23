@@ -1,0 +1,46 @@
+{
+ "nom": "Jean-François Copé",
+ "wikiTitle": "Jean-François Copé",
+ "touched": "2026-10-19T10:15:38Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Affaire des véhicules municipaux de Meaux (usage des chauffeurs à des fins personnelles)",
+   "annee": 2024,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.franceinfo.fr/politique/jean-francois-cope-vise-par-une-enquete-pour-son-utilisation-des-vehicules-municipaux-de-meaux_6924632.html",
+    "https://www.anticor.org/2024/11/28/affaire-jean-francois-coppe/",
+    "https://contribuablesassocies.org/2024/11/29/la-conduite-de-jean-francois-cope-epinglee-par-la-cour-des-comptes/"
+   ]
+  }
+ ],
+ "_affairesEcartees": [
+  {
+   "titre": "Affaire Bygmalion (surfacturation campagne présidentielle Sarkozy 2012)",
+   "raison": "Non-lieu prononcé en 2021 par le parquet national financier. Copé n'a pas été mis en examen dans le volet Bygmalion ; il a été entendu comme témoin assisté en 2016 puis a bénéficié d'un non-lieu définitif. Hors périmètre (non-lieu).",
+   "sources": [
+    "https://www.smart-legal.fr/scandale-bygmalion-cope-blanchi-sarkozy-condamne/",
+    "https://www.franceinfo.fr/societe/affaire/les-affaires-sarkozy/proces-bygmalion-jean-francois-cope-entendu-par-le-tribunal-judiciaire-de-paris_4657371.html"
+   ]
+  },
+  {
+   "titre": "Affaire des pénalités de campagne de Sarkozy payées par l'UMP (abus de confiance)",
+   "raison": "Mis en examen en février 2015 pour abus de confiance. Non-lieu prononcé en septembre 2015 à l'instar de Catherine Vautrin. Dossier clos. Hors périmètre (non-lieu).",
+   "sources": [
+    "https://www.ici.fr/infos/faits-divers-justice/penalites-de-campagne-de-sarkozy-jean-francois-cope-mis-en-examen-pour-abus-de-confiance-1422971303",
+    "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Cop%C3%A9"
+   ]
+  },
+  {
+   "titre": "Affaire des frais de déplacement liés à la campagne présidentielle de Nicolas Sarkozy en 2012 (dataset-externes)",
+   "raison": "Entrée présente dans dataset-externes.json avec statut CONDAMNATION_DEFINITIVE (2024) et CONDAMNATION_EN_APPEL (2023). Aucune source vérifiable ne confirme une condamnation de Copé à ce titre. Toutes les sources disponibles confirment un non-lieu en sa faveur (Bygmalion 2021, abus de confiance 2015). Données du dataset non vérifiées → écartées.",
+   "sources": []
+  }
+ ]
+}

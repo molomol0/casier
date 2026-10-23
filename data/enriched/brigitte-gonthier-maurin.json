@@ -1,0 +1,23 @@
+{
+  "nom": "Brigitte Gonthier-Maurin",
+  "wikiTitle": "Brigitte Gonthier-Maurin",
+  "touched": "2026-10-20T17:24:36Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire du CCAS d'EDF (emploi fictif)",
+      "annee": 2014,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "EMPLOI_FICTIF",
+      "prisonTotal": 10,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Brigitte_Gonthier-Maurin",
+        "https://www.la-croix.com/Actualite/France/La-justice-sanctionne-la-CGT-dans-l-affaire-du-comite-d-entreprise-d-EDF-2014-10-01-1214804",
+        "https://www.europe1.fr/economie/emploi-fictif-et-detournements-au-comite-d-entreprise-edf-2248613"
+      ]
+    }
+  ]
+}

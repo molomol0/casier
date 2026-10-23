@@ -1,0 +1,23 @@
+{
+  "nom": "Jacques Chirac",
+  "wikiTitle": "Jacques Chirac",
+  "touched": "2026-10-19T10:15:02Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire des emplois fictifs de la mairie de Paris (détournement de fonds publics, abus de confiance, prise illégale d'intérêts)",
+      "annee": 2011,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_des_emplois_fictifs_de_la_mairie_de_Paris",
+        "https://www.nouvelobs.com/societe/20110903.OBS9728/jacques-chirac-n-est-pas-en-capacite-d-assister-a-son-proces.html",
+        "http://tempsreel.nouvelobs.com/actualites/politique/20091030.OBS6255/emplois_fictifs__jacques_chirac_est_renvoye_devant_la_j.html"
+      ]
+    }
+  ]
+}

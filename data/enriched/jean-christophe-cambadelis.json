@@ -1,0 +1,53 @@
+{
+  "nom": "Jean-Christophe Cambadélis",
+  "wikiTitle": "Jean-Christophe Cambadélis",
+  "touched": "2026-10-21T20:19:42Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire Agos (recel d'abus de biens sociaux, emploi fictif)",
+      "annee": 2000,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "EMPLOI_FICTIF",
+      "prisonTotal": 5,
+      "prisonFerme": 0,
+      "amende": 15244,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ladepeche.fr/article/2000/01/29/99660-cambadelis-condamne-dsk-mis-en-examen.html",
+        "https://www.lemonde.fr/politique/article/2012/09/08/les-passes-judiciaires-de-mm-cambadelis-et-desir-suscitent-une-gene-au-ps_1757428_823448.html",
+        "https://fr.wikipedia.org/wiki/Jean-Christophe_Cambad%C3%A9lis"
+      ]
+    },
+    {
+      "titre": "Affaire de la MNEF (recel d'abus de confiance, emploi fictif)",
+      "annee": 2006,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "RECEL",
+      "prisonTotal": 6,
+      "prisonFerme": 0,
+      "amende": 20000,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.liberation.fr/societe/2006/06/03/mnef-cambadelis-condamne-a-la-prison-avec-sursis_43530",
+        "https://www.leparisien.fr/faits-divers/un-autre-poids-lourd-du-ps-rattrape-par-la-mnef-01-07-2000-2001474992.php",
+        "https://fr.wikipedia.org/wiki/Jean-Christophe_Cambad%C3%A9lis"
+      ]
+    },
+    {
+      "titre": "Affaire des frais de mandat (détournement d'IRFM à des fins personnelles)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 8,
+      "prisonFerme": 0,
+      "amende": 60000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2024/09/04/jean-christophe-cambadelis-condamne-pour-detournement-de-fonds-publics_6303958_3224.html",
+        "https://www.lefigaro.fr/actualite-france/l-ex-chef-du-ps-jean-christophe-cambadelis-condamne-a-8-mois-de-prison-avec-sursis-pour-detournement-de-frais-de-mandat-20240904",
+        "https://www.leparisien.fr/faits-divers/prison-avec-sursis-pour-lex-patron-du-ps-jean-christophe-cambadelis-condamne-pour-avoir-utilise-ses-frais-de-mandat-a-des-fins-personnelles-27-05-2025-WISJK6AWYJFKTLAPQWXJVATRW4.php"
+      ]
+    }
+  ]
+}

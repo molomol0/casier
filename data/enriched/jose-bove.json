@@ -1,0 +1,132 @@
+{
+  "nom": "José Bové",
+  "wikiTitle": "José Bové",
+  "touched": "2026-10-21T20:23:03Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire du Larzac (activités antimilitaristes, vol de documents)",
+      "annee": 1976,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 4,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaire Novartis à Nérac (destruction de semences transgéniques)",
+      "annee": 1998,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 8,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaire du McDonald's de Millau (dégradation de biens)",
+      "annee": 2000,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 3,
+      "prisonFerme": 3,
+      "amende": 915,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ladepeche.fr/article/2009/08/12/652989-mc-do-de-millau-dix-ans-apres.html",
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaire CIRAD Montpellier (destruction de plants de riz transgénique)",
+      "annee": 2001,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 6,
+      "prisonFerme": 6,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/archives/article/2001/02/09/jose-bove-comparait-devant-le-tribunal-correctionnel-de-montpellier-pour-destruction-de-riz-transgenique_4150702_1819218.html",
+        "https://www.leparisien.fr/faits-divers/deux-mois-de-prison-ferme-requis-contre-jose-bove-montpellier-de-notre-correspondant-16-02-2001-2001962678.php",
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaire CETIOM Gaudiès (fauchage de colza transgénique)",
+      "annee": 2002,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 3000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaires combinées CIRAD et Novartis (révocation de sursis cumulés)",
+      "annee": 2003,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 10,
+      "prisonFerme": 10,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.nouvelobs.com/societe/20030801.OBS4256/le-parcours-judiciaire-de-jose-bove.html",
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaire Menville (destruction de maïs transgénique en Haute-Garonne)",
+      "annee": 2007,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 4800,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ladepeche.fr/article/2007/12/18/420418-jose-bove-4-800-e-de-jours-amende.html",
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaire Lugos (destruction de maïs transgénique, 2006)",
+      "annee": 2008,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 18000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2008/07/10/ogm-le-proces-de-jose-bove-a-nouveau-reporte_1068529_3224.html",
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    },
+    {
+      "titre": "Affaire Monsanto Trèbes (dégradation du site semencier, 2006)",
+      "annee": 2012,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 135702,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/planete/article/2012/02/16/jose-bove-condamne-en-appel-a-dedommager-monsanto_1643962_3244.html",
+        "https://fr.wikipedia.org/wiki/Jos%C3%A9_Bov%C3%A9"
+      ]
+    }
+  ]
+}

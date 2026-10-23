@@ -1,0 +1,23 @@
+{
+  "nom": "Pierre Cabaré",
+  "wikiTitle": "Pierre Cabaré",
+  "touched": "2026-10-20T17:31:40Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire d'agression et harcèlement sexuels sur ancienne suppléante",
+      "annee": 2024,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "AGRESSION_SEXUELLE",
+      "prisonTotal": 15,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2024/06/25/violences-sexuelles-l-ex-depute-macroniste-pierre-cabare-condamne-a-15-mois-avec-sursis_6243652_3224.html",
+        "https://www.lemonde.fr/societe/article/2024/01/04/violences-sexuelles-l-ex-depute-lrm-pierre-cabare-renvoye-devant-la-justice_6209071_3224.html",
+        "https://fr.wikipedia.org/wiki/Pierre_Cabar%C3%A9"
+      ]
+    }
+  ]
+}

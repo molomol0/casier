@@ -1,0 +1,64 @@
+{
+  "nom": "Éric Ciotti",
+  "wikiTitle": "Éric Ciotti",
+  "touched": "2026-10-19T10:14:24Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Enquête pour détournement de fonds publics (moyens du conseil départemental des Alpes-Maritimes)",
+      "annee": 2020,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/politique/article/2020/10/27/le-depute-eric-ciotti-vise-par-une-enquete-pour-detournement-de-fonds-publics_6057570_823448.html",
+        "https://www.lefigaro.fr/nice/anticor-porte-plainte-contre-eric-ciotti-pour-recel-de-detournement-de-fonds-publics-20250409"
+      ]
+    },
+    {
+      "titre": "Enquête préliminaire pour détournement de fonds publics (collaborateurs, mai 2024)",
+      "annee": 2024,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2024/05/14/eric-ciotti-au-centre-d-une-enquete-preliminaire-pour-detournement-de-fonds-publics_6233239_3224.html",
+        "https://www.francetvinfo.fr/elections/nice-une-enquete-a-ete-ouverte-pour-detournement-de-fonds-publics-visant-eric-ciotti-pour-sa-campagne-pour-les-legislatives-de-2022_6609504.html"
+      ]
+    },
+    {
+      "titre": "Enquête préliminaire pour détournement de fonds publics (élections législatives 2022, cartes de parking CCI)",
+      "annee": 2024,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.bfmtv.com/cote-d-azur/eric-ciotti-vise-par-une-enquete-pour-detournement-de-fonds-publics_AN-202406170520.html",
+        "https://www.francetvinfo.fr/alpes-maritimes/nice-la-permanence-du-depute-eric-ciotti-a-ete-perquisitionnee-dans-le-cadre-d-une-enquete-pour-detournement-de-fonds-publics_6909293.html"
+      ]
+    },
+    {
+      "titre": "Enquête pour enregistrement ou conservation de données à caractère personnel sensibles (fichiers sur personnalités niçoises)",
+      "annee": 2025,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.liberation.fr/politique/flic-confession-juive-sourd-les-fichiers-trop-informes-deric-ciotti-sur-des-nicois-influents-20250812_NPESDV3YMVHELD3GC2S4BZT7V4/",
+        "https://actu.fr/provence-alpes-cote-d-azur/nice_06088/nice-eric-ciotti-dans-le-viseur-de-la-justice-pour-de-troublants-fichiers-informatiques_63029172.html"
+      ]
+    }
+  ]
+}

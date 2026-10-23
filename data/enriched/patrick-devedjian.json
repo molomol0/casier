@@ -1,0 +1,47 @@
+{
+  "nom": "Patrick Devedjian",
+  "wikiTitle": "Patrick Devedjian",
+  "touched": "2026-10-21T20:19:50Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire d'Occident – Draguignan (vol et détention d'armes)",
+      "annee": 1965,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrick_Devedjian",
+        "http://edito.nicematin.net/Var/pdf/devedjian_madelin.pdf",
+        "http://www.cuverville.org/IMG/pdf/NiceMatin_11_11_65.pdf"
+      ]
+    },
+    {
+      "titre": "Affaire de Rouen – Occident (violences et voies de fait avec armes et préméditation)",
+      "annee": 1967,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 152,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrick_Devedjian",
+        "https://www.lemonde.fr/archives/article/1967/07/12/prison-avec-sursis-pour-les-membres-du-mouvement-occident-qui-attaquerent-des-etudiants-rouennais_2628912_1819218.html"
+      ]
+    }
+  ],
+  "ecartees": [
+    {
+      "titre": "Poursuite en diffamation contre Nice-Matin/Var-Matin/Corse-Matin (2010)",
+      "raison": "Débouté : c'est Devedjian qui a intenté cette action en diffamation contre des journaux, non une affaire pénale contre lui. Il a été débouté (décision de justice civile en sa défaveur), mais ce n'est pas une condamnation pénale de Devedjian. Hors périmètre."
+    },
+    {
+      "titre": "Affaire François Duprat – coups et blessures (1972)",
+      "raison": "Devedjian était l'avocat de Duprat dans cette affaire, non le prévenu. Hors périmètre."
+    }
+  ]
+}

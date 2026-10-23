@@ -1,0 +1,21 @@
+{
+ "nom": "Rifaat al-Assad",
+ "wikiTitle": "Rifaat al-Assad",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Biens mal acquis (détournement de fonds publics syriens, blanchiment en bande organisée)",
+   "annee": 2020,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 48,
+   "prisonFerme": 48,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Rifaat_al-Assad"
+   ]
+  }
+ ]
+}

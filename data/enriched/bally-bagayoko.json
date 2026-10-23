@@ -1,0 +1,22 @@
+{
+  "nom": "Bally Bagayoko",
+  "wikiTitle": "Bally Bagayoko",
+  "touched": "2026-10-21T20:35:57Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Enquête pour détournement de fonds publics (cumul emploi RATP et mandats électifs)",
+      "annee": 2026,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2026/08/24/bally-bagayoko-maire-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics-concernant-son-emploi-a-la-ratp_6755547_3224.html",
+        "https://www.lefigaro.fr/politique/emploi-a-la-ratp-et-fonctions-d-elu-bally-bagayoko-vise-par-une-plainte-de-ac-anti-corruption-20260807"
+      ]
+    }
+  ]
+}

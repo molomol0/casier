@@ -1,0 +1,22 @@
+{
+  "nom": "Davy Rodriguez",
+  "wikiTitle": "Davy Rodriguez",
+  "touched": "2026-10-20T17:36:33Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Injure publique à caractère raciste envers un videur de boîte de nuit à Lille",
+      "annee": 2019,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 1,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/davy-rodriguez-ex-numero-2-du-fnj-condamne-prison-sursis-propos-racistes-1662725.html",
+        "https://fr.wikipedia.org/wiki/Davy_Rodriguez"
+      ]
+    }
+  ]
+}

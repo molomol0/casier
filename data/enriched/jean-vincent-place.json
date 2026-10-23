@@ -1,0 +1,64 @@
+{
+  "nom": "Jean-Vincent Placé",
+  "wikiTitle": "Jean-Vincent Placé",
+  "touched": "2026-10-21T20:23:27Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Condamnation pour diffamation envers Christian Vanneste",
+      "annee": 2012,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/flash-actu/2012/02/10/97001-20120210FILWWW00495-diffamationvanneste-place-condamne.php"
+      ]
+    },
+    {
+      "titre": "Condamnation pour insultes racistes et outrage à agents (garde à vue, état d'ivresse)",
+      "annee": 2018,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 3,
+      "prisonFerme": 0,
+      "amende": 1000,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.liberation.fr/france/2018/09/10/jean-vincent-place-condamne-a-3-mois-avec-sursis-apres-une-soiree-tres-mouvementee_1677756",
+        "https://www.lefigaro.fr/politique/le-scan/2018/04/05/25001-20180405ARTFIG00051-jean-vincent-place-place-en-garde-a-vue-en-etat-d-ivresse.php"
+      ]
+    },
+    {
+      "titre": "Condamnation pour harcèlement sexuel sur une gendarme (logement de fonction)",
+      "annee": 2021,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "HARCELEMENT_SEXUEL",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 5000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/03/15/venez-avec-moi-et-vous-verrez-ca-va-etre-sympa-jean-vincent-place-condamne-a-5-000-euros-d-amende-pour-harcelement-sexuel_6073165_3224.html"
+      ]
+    },
+    {
+      "titre": "Mise en examen et renvoi en procès pour agressions sexuelles sur deux femmes (2012-2017)",
+      "annee": 2026,
+      "statut": "PROCES_EN_COURS",
+      "categorie": "AGRESSION_SEXUELLE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.francetvinfo.fr/societe/harcelement-sexuel/accuse-d-agressions-sexuelles-l-ex-secretaire-d-etat-jean-vincent-place-presente-a-un-juge-d-instruction-en-vue-de-sa-mise-en-examen_5051731.html",
+        "https://www.francetvinfo.fr/societe/justice/l-ex-secretaire-d-etat-ecologiste-jean-vincent-place-mis-en-examen-pour-agression-sexuelle-sur-une-deuxieme-femme_6771703.html",
+        "https://www.lemonde.fr/societe/article/2025/07/17/un-proces-requis-contre-l-ex-secretaire-d-etat-jean-vincent-place-pour-agressions-sexuelles_6621724_3224.html",
+        "https://www.franceinfo.fr/societe/harcelement-sexuel/l-ancien-secretaire-d-etat-ecologiste-jean-vincent-place-sera-juge-le-29-octobre-pour-agressions-sexuelles-sur-deux-femmes_8133227.html"
+      ]
+    }
+  ]
+}

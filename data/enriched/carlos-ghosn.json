@@ -1,0 +1,34 @@
+{
+ "nom": "Carlos Ghosn",
+ "wikiTitle": "Carlos Ghosn",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Sous-déclaration de rémunérations (Nissan, Japon)",
+   "annee": 2018,
+   "statut": "PROCES_EN_COURS",
+   "categorie": "FRAUDE_FISCALE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Affaire_Carlos_Ghosn"
+   ]
+  },
+  {
+   "titre": "Abus de biens sociaux / abus de confiance (Nissan)",
+   "annee": 2018,
+   "statut": "PROCES_EN_COURS",
+   "categorie": "ABUS_BIENS_SOCIAUX",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Affaire_Carlos_Ghosn"
+   ]
+  }
+ ]
+}

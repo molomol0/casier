@@ -1,0 +1,51 @@
+{
+  "nom": "Jean-Luc Mélenchon",
+  "wikiTitle": "Jean-Luc Mélenchon",
+  "touched": "2026-10-19T14:20:46Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Perquisition du siège de LFI d'octobre 2018 (rébellion, actes d'intimidation contre l'autorité judiciaire, provocation)",
+      "annee": 2019,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 3,
+      "prisonFerme": 0,
+      "amende": 8000,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.leparisien.fr/politique/jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis-pour-rebellion-et-provocation-09-12-2019-8212674.php",
+        "https://www.lemonde.fr/police-justice/article/2019/12/09/perquisition-houleuse-a-lfi-jean-luc-melenchon-et-ses-proches-fixes-sur-leur-sort-lundi_6022145_1653578.html"
+      ]
+    },
+    {
+      "titre": "Diffamation publique envers Paulo Paranaguá, ex-journaliste du Monde",
+      "annee": 2022,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.liberation.fr/societe/police-justice/jean-luc-melenchon-condamne-pour-diffamation-envers-un-ex-journaliste-du-monde-20210924_CWV57DESMVC3ZOF3E5JK2UT374",
+        "https://www.lemonde.fr/societe/article/2022/06/29/jean-luc-melenchon-condamne-en-appel-pour-diffamation-envers-un-ancien-journaliste-du-monde_6132610_3224.html",
+        "https://www.franceinfo.fr/politique/melenchon/jean-luc-melenchon-condamne-en-appel-pour-diffamation-envers-un-ex-journaliste-du-monde_5227360.html"
+      ]
+    },
+    {
+      "titre": "Injure publique et diffamation envers des journalistes de Radio France",
+      "annee": 2022,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/politique/jean-luc-melenchon-condamne-pour-injure-publique-et-diffamation-envers-radio-france-20220111",
+        "https://www.lesoir.be/417289/article/2022-01-11/france-jean-luc-melenchon-condamne-pour-injure-publique-et-diffamation-envers"
+      ]
+    }
+  ]
+}

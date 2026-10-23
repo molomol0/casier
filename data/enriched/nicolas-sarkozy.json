@@ -1,0 +1,84 @@
+{
+  "nom": "Nicolas Sarkozy",
+  "wikiTitle": "Nicolas Sarkozy",
+  "touched": "2026-10-19T10:12:08Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire Sarkozy-Azibert / Bismuth (corruption active et trafic d'influence sur magistrat)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "CORRUPTION_ACTIVE",
+      "prisonTotal": 36,
+      "prisonFerme": 12,
+      "amende": 0,
+      "ineligibilite": 36,
+      "sources": [
+        "https://www.liberation.fr/societe/police-justice/affaire-des-ecoutes-nicolas-sarkozy-condamne-a-trois-ans-de-prison-dont-un-ferme-20210301_PYF6HLESVVANVPOEF35BHDKKBA/",
+        "https://www.mediapart.fr/journal/france/170523/nicolas-sarkozy-est-condamne-en-appel-pour-corruption-dans-l-affaire-bismuth",
+        "https://www.lemonde.fr/societe/article/2024/12/18/nicolas-sarkozy-definitivement-condamne-a-trois-ans-de-prison-dont-un-an-ferme-dans-l-affaire-des-ecoutes_6455528_3224.html",
+        "https://www.courdecassation.fr/decision/67626d77d9347f6c9aef808c?search_api_fulltext=23-83.178&op=Rechercher&date_du=&date_au=&judilibre_juridiction=all&previousdecisionpage=&previousdecisionindex=&nextdecisionpage=0&nextdecisionindex=1"
+      ]
+    },
+    {
+      "titre": "Affaire Bygmalion (financement illégal de campagne électorale 2012)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+      "prisonTotal": 12,
+      "prisonFerme": 6,
+      "amende": 3750,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/politique/affaire-bygmalion-nicolas-sarkozy-declare-coupable-de-financement-illegal-de-sa-campagne-de-2012-20210930",
+        "https://www.lemonde.fr/societe/article/2024/02/14/proces-bygmalion-nicolas-sarkozy-condamne-en-appel-a-un-an-de-prison-dont-six-mois-avec-sursis_6216504_3224.html",
+        "https://www.rtl.fr/actu/justice-faits-divers/affaire-bygmalion-condamnation-definitive-pour-nicolas-sarkozy-apres-le-rejet-de-son-pourvoi-par-la-cour-de-cassation-7900571344",
+        "https://www.courdecassation.fr/decision/6926ab8a77bf00d0f5ea186d",
+        "https://www.bfmtv.com/police-justice/affaire-bygmalion-nicolas-sarkozy-ne-fait-pas-appel-du-rejet-de-sa-demande-de-confusion-des-peines-et-va-purger-sa-peine-de-6-mois-de-prison-ferme_AN-202603170295.html"
+      ]
+    },
+    {
+      "titre": "Affaire Sarkozy-Kadhafi (association de malfaiteurs en vue de financement illégal de campagne 2007)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+      "prisonTotal": 60,
+      "prisonFerme": 60,
+      "amende": 100000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2025/09/25/proces-sarkozy-kadhafi-le-detail-des-huit-condamnations_6642928_3224.html",
+        "https://www.20minutes.fr/justice/4175131-20250925-financement-libyen-presidentielle-2007-nicolas-sarkozy-juge-coupable-association-malfaiteurs",
+        "https://www.bfmtv.com/police-justice/condamnation-de-nicolas-sarkozy-l-ancien-president-sera-incarcere-le-21-octobre-a-la-prison-de-la-sante_AN-202510130687.html",
+        "https://www.lemonde.fr/societe/article/2026/05/13/affaire-libyenne-au-proces-en-appel-le-parquet-general-requiert-de-nouveau-sept-ans-de-prison-contre-nicolas-sarkozy_6688710_3224.html"
+      ]
+    },
+    {
+      "titre": "Affaire Sarkozy-Kadhafi — rétractation de Ziad Takieddine (recel de subornation de témoin, association de malfaiteurs)",
+      "annee": 2023,
+      "statut": "MISE_EN_EXAMEN",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2023/10/06/nicolas-sarkozy-doublement-mis-en-examen-dans-l-enquete-sur-la-retractation-de-ziad-takieddine_6192808_3224.html"
+      ]
+    },
+    {
+      "titre": "Affaire Reso-Garantia (trafic d'influence et blanchiment — conseil rémunéré par oligarques russes)",
+      "annee": 2020,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "TRAFIC_INFLUENCE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/01/15/une-enquete-ouverte-contre-nicolas-sarkozy-pour-trafic-d-influence-dans-le-cadre-d-activites-de-conseil-pour-un-groupe-russe_6066394_3224.html",
+        "https://www.lefigaro.fr/flash-actu/activites-de-conseil-de-nicolas-sarkozy-le-pnf-enquete-sur-un-possible-trafic-d-influence-20210115"
+      ]
+    }
+  ]
+}

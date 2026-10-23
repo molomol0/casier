@@ -1,0 +1,63 @@
+{
+  "nom": "Yvan Benedetti",
+  "wikiTitle": "Yvan Benedetti",
+  "touched": "2026-10-20T17:31:32Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Non-dissolution de L'Œuvre française",
+      "annee": 2019,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": ["https://www.lexpress.fr/actualite/societe/yvan-benedetti-condamne-en-appel-pour-la-non-dissolution-de-l-oeuvre-francaise_2083578.html"]
+    },
+    {
+      "titre": "Agression de journalistes de Quotidien (manifestation anti-PMA)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1500,
+      "ineligibilite": 0,
+      "sources": ["https://www.leparisien.fr/faits-divers/trois-figures-de-lultradroite-condamnees-pour-lagression-de-journalistes-de-quotidien-02-12-2022-2RPPZDS6ZZDKDAKLAA4WV3EYSE.php"]
+    },
+    {
+      "titre": "Diffamation et provocation publique à la haine envers les juifs (vidéo antisémite)",
+      "annee": 2021,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": ["https://www.leparisien.fr/faits-divers/ultra-droite-les-nationalistes-ryssen-et-benedetti-condamnes-pour-une-video-antisemite-08-06-2021-UUURRXYIEZCYNGVRKQFRUCIB7E.php"]
+    },
+    {
+      "titre": "Contestation de crime contre l'humanité (négationnisme sur la Shoah)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 0,
+      "sources": ["https://www.20minutes.fr/justice/3349331-20220913-negationnisme-figure-extreme-droite-yvan-benedetti-condamne-10000-euros-amende"]
+    },
+    {
+      "titre": "Injure publique contre un avocat (affaire Axelle Dorier)",
+      "annee": 2023,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 0,
+      "sources": ["https://www.leprogres.fr/faits-divers-justice/2023/05/16/avocat-insulte-et-menace-apres-un-verdict-10-000-euros-reclames-contre-yvan-benedetti"]
+    }
+  ]
+}

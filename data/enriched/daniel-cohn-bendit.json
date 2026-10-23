@@ -1,0 +1,35 @@
+{
+  "nom": "Daniel Cohn-Bendit",
+  "wikiTitle": "Daniel Cohn-Bendit",
+  "touched": "2026-10-19T10:09:56Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Condamnation à la Foire du livre de Francfort (entrave à manifestation publique)",
+      "annee": 1968,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 9,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Daniel_Cohn-Bendit"
+      ]
+    },
+    {
+      "titre": "Affaire Maximi (diffamation à l'antenne de LCI)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/condamne-pour-diffamation-daniel-cohn-bendit-devra-verser-1-euro-symbolique-a-l-elue-clermontoise-marianne-maximi_14095812/",
+        "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/clermont-ferrand-daniel-cohn-bendit-vise-plainte-diffamation-1782017.html"
+      ]
+    }
+  ]
+}

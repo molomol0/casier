@@ -1,0 +1,34 @@
+{
+ "nom": "Bernard Squarcini",
+ "wikiTitle": "Bernard Squarcini",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Collecte illicite de données personnelles (affaire des fadettes, Woerth-Bettencourt)",
+   "annee": 2014,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 8000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Bernard_Squarcini"
+   ]
+  },
+  {
+   "titre": "Espionnage de François Ruffin et Fakir pour le compte de LVMH",
+   "annee": 2024,
+   "statut": "PROCES_EN_COURS",
+   "categorie": "TRAFIC_INFLUENCE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Bernard_Squarcini"
+   ]
+  }
+ ]
+}

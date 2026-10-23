@@ -1,0 +1,2648 @@
+[
+ {
+  "nom": "Penelope Fillon",
+  "cle": "penelope-fillon",
+  "hits": 41,
+  "wikiK": 35
+ },
+ {
+  "nom": "Thierry Solère",
+  "cle": "thierry-solere",
+  "hits": 32,
+  "wikiK": 50
+ },
+ {
+  "nom": "Philippe Cochet",
+  "cle": "philippe-cochet",
+  "hits": 28,
+  "wikiK": 48
+ },
+ {
+  "nom": "Nicolas Bay",
+  "cle": "nicolas-bay",
+  "hits": 25,
+  "wikiK": 68
+ },
+ {
+  "nom": "Joëlle Ceccaldi-Raynaud",
+  "cle": "joelle-ceccaldi-raynaud",
+  "hits": 24,
+  "wikiK": 45
+ },
+ {
+  "nom": "Pierre Bédier",
+  "cle": "pierre-bedier",
+  "hits": 24,
+  "wikiK": 45
+ },
+ {
+  "nom": "Olivier Dussopt",
+  "cle": "olivier-dussopt",
+  "hits": 22,
+  "wikiK": 62
+ },
+ {
+  "nom": "Gaël Perdriau",
+  "cle": "gael-perdriau",
+  "hits": 22,
+  "wikiK": 56
+ },
+ {
+  "nom": "François Léotard",
+  "cle": "francois-leotard",
+  "hits": 22,
+  "wikiK": 47
+ },
+ {
+  "nom": "Franck Marlin",
+  "cle": "franck-marlin",
+  "hits": 21,
+  "wikiK": 37
+ },
+ {
+  "nom": "Karl Olive",
+  "cle": "karl-olive",
+  "hits": 19,
+  "wikiK": 60
+ },
+ {
+  "nom": "Caroline Mécary",
+  "cle": "caroline-mecary",
+  "hits": 18,
+  "wikiK": 64
+ },
+ {
+  "nom": "Eva Joly",
+  "cle": "eva-joly",
+  "hits": 18,
+  "wikiK": 47
+ },
+ {
+  "nom": "Augustin de Romanet",
+  "cle": "augustin-de-romanet",
+  "hits": 18,
+  "wikiK": 46
+ },
+ {
+  "nom": "Jacques Bompard",
+  "cle": "jacques-bompard",
+  "hits": 17,
+  "wikiK": 81
+ },
+ {
+  "nom": "François Pupponi",
+  "cle": "francois-pupponi",
+  "hits": 17,
+  "wikiK": 36
+ },
+ {
+  "nom": "Éric Woerth",
+  "cle": "eric-woerth",
+  "hits": 16,
+  "wikiK": 70
+ },
+ {
+  "nom": "Jean-Michel Baylet",
+  "cle": "jean-michel-baylet",
+  "hits": 15,
+  "wikiK": 56
+ },
+ {
+  "nom": "Christian Vanneste",
+  "cle": "christian-vanneste",
+  "hits": 14,
+  "wikiK": 70
+ },
+ {
+  "nom": "David Rachline",
+  "cle": "david-rachline",
+  "hits": 14,
+  "wikiK": 54
+ },
+ {
+  "nom": "Karim Wade",
+  "cle": "karim-wade",
+  "hits": 14,
+  "wikiK": 46
+ },
+ {
+  "nom": "Raphaël Arnault",
+  "cle": "raphael-arnault",
+  "hits": 14,
+  "wikiK": 37
+ },
+ {
+  "nom": "Jean-Pierre Jouyet",
+  "cle": "jean-pierre-jouyet",
+  "hits": 13,
+  "wikiK": 47
+ },
+ {
+  "nom": "Georges Fenech",
+  "cle": "georges-fenech",
+  "hits": 13,
+  "wikiK": 36
+ },
+ {
+  "nom": "Jean-Jacques Urvoas",
+  "cle": "jean-jacques-urvoas",
+  "hits": 12,
+  "wikiK": 63
+ },
+ {
+  "nom": "Caroline Cayeux",
+  "cle": "caroline-cayeux",
+  "hits": 12,
+  "wikiK": 60
+ },
+ {
+  "nom": "Vincent Jeanbrun",
+  "cle": "vincent-jeanbrun",
+  "hits": 12,
+  "wikiK": 38
+ },
+ {
+  "nom": "Alfred Marie-Jeanne",
+  "cle": "alfred-marie-jeanne",
+  "hits": 12,
+  "wikiK": 36
+ },
+ {
+  "nom": "Pierre-Christophe Baguet",
+  "cle": "pierre-christophe-baguet",
+  "hits": 12,
+  "wikiK": 35
+ },
+ {
+  "nom": "Sophia Chikirou",
+  "cle": "sophia-chikirou",
+  "hits": 11,
+  "wikiK": 82
+ },
+ {
+  "nom": "Noël Mamère",
+  "cle": "noel-mamere",
+  "hits": 11,
+  "wikiK": 75
+ },
+ {
+  "nom": "Jean-Claude Gaudin",
+  "cle": "jean-claude-gaudin",
+  "hits": 11,
+  "wikiK": 69
+ },
+ {
+  "nom": "Alain Lambert",
+  "cle": "alain-lambert",
+  "hits": 11,
+  "wikiK": 38
+ },
+ {
+  "nom": "Jean Tiberi",
+  "cle": "jean-tiberi",
+  "hits": 11,
+  "wikiK": 37
+ },
+ {
+  "nom": "Jacques Peyrat",
+  "cle": "jacques-peyrat",
+  "hits": 10,
+  "wikiK": 80
+ },
+ {
+  "nom": "Anne Lauvergeon",
+  "cle": "anne-lauvergeon",
+  "hits": 10,
+  "wikiK": 68
+ },
+ {
+  "nom": "Roland Dumas",
+  "cle": "roland-dumas",
+  "hits": 10,
+  "wikiK": 57
+ },
+ {
+  "nom": "Gérard Longuet",
+  "cle": "gerard-longuet",
+  "hits": 10,
+  "wikiK": 53
+ },
+ {
+  "nom": "Adrien Quatennens",
+  "cle": "adrien-quatennens",
+  "hits": 10,
+  "wikiK": 46
+ },
+ {
+  "nom": "Yann Piat",
+  "cle": "yann-piat",
+  "hits": 10,
+  "wikiK": 39
+ },
+ {
+  "nom": "Francis Lalanne",
+  "cle": "francis-lalanne",
+  "hits": 9,
+  "wikiK": 84
+ },
+ {
+  "nom": "Marine Tondelier",
+  "cle": "marine-tondelier",
+  "hits": 9,
+  "wikiK": 84
+ },
+ {
+  "nom": "Muriel Pénicaud",
+  "cle": "muriel-penicaud",
+  "hits": 9,
+  "wikiK": 70
+ },
+ {
+  "nom": "Jean-Bedel Bokassa",
+  "cle": "jean-bedel-bokassa",
+  "hits": 9,
+  "wikiK": 70
+ },
+ {
+  "nom": "David Douillet",
+  "cle": "david-douillet",
+  "hits": 9,
+  "wikiK": 69
+ },
+ {
+  "nom": "Sylvie Goulard",
+  "cle": "sylvie-goulard",
+  "hits": 9,
+  "wikiK": 58
+ },
+ {
+  "nom": "Édouard Fritch",
+  "cle": "edouard-fritch",
+  "hits": 9,
+  "wikiK": 58
+ },
+ {
+  "nom": "Yves Nicolin",
+  "cle": "yves-nicolin",
+  "hits": 9,
+  "wikiK": 57
+ },
+ {
+  "nom": "Philippe Marini",
+  "cle": "philippe-marini",
+  "hits": 9,
+  "wikiK": 57
+ },
+ {
+  "nom": "Henri Emmanuelli",
+  "cle": "henri-emmanuelli",
+  "hits": 9,
+  "wikiK": 53
+ },
+ {
+  "nom": "Francis Szpiner",
+  "cle": "francis-szpiner",
+  "hits": 9,
+  "wikiK": 47
+ },
+ {
+  "nom": "Dominique Baudis",
+  "cle": "dominique-baudis",
+  "hits": 9,
+  "wikiK": 42
+ },
+ {
+  "nom": "Georges Tron",
+  "cle": "georges-tron",
+  "hits": 9,
+  "wikiK": 40
+ },
+ {
+  "nom": "Patrick Ollier",
+  "cle": "patrick-ollier",
+  "hits": 9,
+  "wikiK": 38
+ },
+ {
+  "nom": "Bernard Antony",
+  "cle": "bernard-antony",
+  "hits": 9,
+  "wikiK": 37
+ },
+ {
+  "nom": "Fabien Engelmann",
+  "cle": "fabien-engelmann",
+  "hits": 9,
+  "wikiK": 37
+ },
+ {
+  "nom": "Christine Boutin",
+  "cle": "christine-boutin",
+  "hits": 8,
+  "wikiK": 83
+ },
+ {
+  "nom": "Jean Zay",
+  "cle": "jean-zay",
+  "hits": 8,
+  "wikiK": 72
+ },
+ {
+  "nom": "Georges Frêche",
+  "cle": "georges-freche",
+  "hits": 8,
+  "wikiK": 64
+ },
+ {
+  "nom": "Xavier Darcos",
+  "cle": "xavier-darcos",
+  "hits": 8,
+  "wikiK": 61
+ },
+ {
+  "nom": "Thierry Robert",
+  "cle": "thierry-robert",
+  "hits": 8,
+  "wikiK": 56
+ },
+ {
+  "nom": "Oscar Temaru",
+  "cle": "oscar-temaru",
+  "hits": 8,
+  "wikiK": 51
+ },
+ {
+  "nom": "Eva Son-Forget",
+  "cle": "eva-son-forget",
+  "hits": 8,
+  "wikiK": 51
+ },
+ {
+  "nom": "Jacques Toubon",
+  "cle": "jacques-toubon",
+  "hits": 8,
+  "wikiK": 50
+ },
+ {
+  "nom": "Ali André Mécili",
+  "cle": "ali-andre-mecili",
+  "hits": 8,
+  "wikiK": 47
+ },
+ {
+  "nom": "Thierry Mandon",
+  "cle": "thierry-mandon",
+  "hits": 8,
+  "wikiK": 40
+ },
+ {
+  "nom": "Guy Drut",
+  "cle": "guy-drut",
+  "hits": 8,
+  "wikiK": 38
+ },
+ {
+  "nom": "Jean-François Jalkh",
+  "cle": "jean-francois-jalkh",
+  "hits": 8,
+  "wikiK": 37
+ },
+ {
+  "nom": "Meyer Habib",
+  "cle": "meyer-habib",
+  "hits": 7,
+  "wikiK": 74
+ },
+ {
+  "nom": "Danièle Obono",
+  "cle": "daniele-obono",
+  "hits": 7,
+  "wikiK": 68
+ },
+ {
+  "nom": "Jean-Marc Ayrault",
+  "cle": "jean-marc-ayrault",
+  "hits": 7,
+  "wikiK": 68
+ },
+ {
+  "nom": "Steeve Briois",
+  "cle": "steeve-briois",
+  "hits": 7,
+  "wikiK": 58
+ },
+ {
+  "nom": "Fulbert Youlou",
+  "cle": "fulbert-youlou",
+  "hits": 7,
+  "wikiK": 54
+ },
+ {
+  "nom": "Laetitia Avia",
+  "cle": "laetitia-avia",
+  "hits": 7,
+  "wikiK": 52
+ },
+ {
+  "nom": "Houria Bouteldja",
+  "cle": "houria-bouteldja",
+  "hits": 7,
+  "wikiK": 52
+ },
+ {
+  "nom": "Caroline De Haas",
+  "cle": "caroline-de-haas",
+  "hits": 7,
+  "wikiK": 51
+ },
+ {
+  "nom": "Charles Hernu",
+  "cle": "charles-hernu",
+  "hits": 7,
+  "wikiK": 50
+ },
+ {
+  "nom": "Jean-Pierre Soisson",
+  "cle": "jean-pierre-soisson",
+  "hits": 7,
+  "wikiK": 38
+ },
+ {
+  "nom": "Beate Klarsfeld",
+  "cle": "beate-klarsfeld",
+  "hits": 7,
+  "wikiK": 36
+ },
+ {
+  "nom": "Alain Rousset",
+  "cle": "alain-rousset",
+  "hits": 6,
+  "wikiK": 73
+ },
+ {
+  "nom": "Aymeric Chauprade",
+  "cle": "aymeric-chauprade",
+  "hits": 6,
+  "wikiK": 72
+ },
+ {
+  "nom": "Boris Vallaud",
+  "cle": "boris-vallaud",
+  "hits": 6,
+  "wikiK": 64
+ },
+ {
+  "nom": "Vincent Peillon",
+  "cle": "vincent-peillon",
+  "hits": 6,
+  "wikiK": 56
+ },
+ {
+  "nom": "Paul-Marie Coûteaux",
+  "cle": "paul-marie-couteaux",
+  "hits": 6,
+  "wikiK": 53
+ },
+ {
+  "nom": "Pierre Mauroy",
+  "cle": "pierre-mauroy",
+  "hits": 6,
+  "wikiK": 45
+ },
+ {
+  "nom": "Harlem Désir",
+  "cle": "harlem-desir",
+  "hits": 6,
+  "wikiK": 39
+ },
+ {
+  "nom": "Arno Klarsfeld",
+  "cle": "arno-klarsfeld",
+  "hits": 6,
+  "wikiK": 39
+ },
+ {
+  "nom": "Carlos Martens Bilongo",
+  "cle": "carlos-martens-bilongo",
+  "hits": 6,
+  "wikiK": 37
+ },
+ {
+  "nom": "Abane Ramdane",
+  "cle": "abane-ramdane",
+  "hits": 6,
+  "wikiK": 35
+ },
+ {
+  "nom": "Bernard Cazeneuve",
+  "cle": "bernard-cazeneuve",
+  "hits": 5,
+  "wikiK": 81
+ },
+ {
+  "nom": "Guillaume Peltier",
+  "cle": "guillaume-peltier",
+  "hits": 5,
+  "wikiK": 79
+ },
+ {
+  "nom": "Julien Dray",
+  "cle": "julien-dray",
+  "hits": 5,
+  "wikiK": 79
+ },
+ {
+  "nom": "Jacques Soustelle",
+  "cle": "jacques-soustelle",
+  "hits": 5,
+  "wikiK": 78
+ },
+ {
+  "nom": "Jacques Attali",
+  "cle": "jacques-attali",
+  "hits": 5,
+  "wikiK": 77
+ },
+ {
+  "nom": "Jean-Hugues Ratenon",
+  "cle": "jean-hugues-ratenon",
+  "hits": 5,
+  "wikiK": 72
+ },
+ {
+  "nom": "Gilbert Collard",
+  "cle": "gilbert-collard",
+  "hits": 5,
+  "wikiK": 70
+ },
+ {
+  "nom": "Alexis Corbière",
+  "cle": "alexis-corbiere",
+  "hits": 5,
+  "wikiK": 69
+ },
+ {
+  "nom": "Éric Besson",
+  "cle": "eric-besson",
+  "hits": 5,
+  "wikiK": 65
+ },
+ {
+  "nom": "Aurélien Taché",
+  "cle": "aurelien-tache",
+  "hits": 5,
+  "wikiK": 56
+ },
+ {
+  "nom": "Victorin Lurel",
+  "cle": "victorin-lurel",
+  "hits": 5,
+  "wikiK": 54
+ },
+ {
+  "nom": "Bernard Accoyer",
+  "cle": "bernard-accoyer",
+  "hits": 5,
+  "wikiK": 52
+ },
+ {
+  "nom": "Yamina Benguigui",
+  "cle": "yamina-benguigui",
+  "hits": 5,
+  "wikiK": 51
+ },
+ {
+  "nom": "Léon Mba",
+  "cle": "leon-mba",
+  "hits": 5,
+  "wikiK": 49
+ },
+ {
+  "nom": "Jean-Paul Delevoye",
+  "cle": "jean-paul-delevoye",
+  "hits": 5,
+  "wikiK": 49
+ },
+ {
+  "nom": "Alain Madelin",
+  "cle": "alain-madelin",
+  "hits": 5,
+  "wikiK": 46
+ },
+ {
+  "nom": "Yann Fouéré",
+  "cle": "yann-fouere",
+  "hits": 5,
+  "wikiK": 45
+ },
+ {
+  "nom": "François Zimeray",
+  "cle": "francois-zimeray",
+  "hits": 5,
+  "wikiK": 44
+ },
+ {
+  "nom": "Hubert Védrine",
+  "cle": "hubert-vedrine",
+  "hits": 5,
+  "wikiK": 44
+ },
+ {
+  "nom": "Charles Millon",
+  "cle": "charles-millon",
+  "hits": 5,
+  "wikiK": 43
+ },
+ {
+  "nom": "Albin Chalandon",
+  "cle": "albin-chalandon",
+  "hits": 5,
+  "wikiK": 43
+ },
+ {
+  "nom": "Olivier Besancenot",
+  "cle": "olivier-besancenot",
+  "hits": 5,
+  "wikiK": 43
+ },
+ {
+  "nom": "Esther Benbassa",
+  "cle": "esther-benbassa",
+  "hits": 5,
+  "wikiK": 43
+ },
+ {
+  "nom": "Martine Vassal",
+  "cle": "martine-vassal",
+  "hits": 5,
+  "wikiK": 42
+ },
+ {
+  "nom": "Jean-Claude Trichet",
+  "cle": "jean-claude-trichet",
+  "hits": 5,
+  "wikiK": 39
+ },
+ {
+  "nom": "Michel Durafour",
+  "cle": "michel-durafour",
+  "hits": 5,
+  "wikiK": 37
+ },
+ {
+  "nom": "Marisol Touraine",
+  "cle": "marisol-touraine",
+  "hits": 5,
+  "wikiK": 36
+ },
+ {
+  "nom": "Roger Garaudy",
+  "cle": "roger-garaudy",
+  "hits": 5,
+  "wikiK": 36
+ },
+ {
+  "nom": "Corinne Lepage",
+  "cle": "corinne-lepage",
+  "hits": 4,
+  "wikiK": 82
+ },
+ {
+  "nom": "Alain Peyrefitte",
+  "cle": "alain-peyrefitte",
+  "hits": 4,
+  "wikiK": 77
+ },
+ {
+  "nom": "Frédéric Mitterrand",
+  "cle": "frederic-mitterrand",
+  "hits": 4,
+  "wikiK": 74
+ },
+ {
+  "nom": "Christophe Castaner",
+  "cle": "christophe-castaner",
+  "hits": 4,
+  "wikiK": 72
+ },
+ {
+  "nom": "Édith Cresson",
+  "cle": "edith-cresson",
+  "hits": 4,
+  "wikiK": 70
+ },
+ {
+  "nom": "Sébastien Chenu",
+  "cle": "sebastien-chenu",
+  "hits": 4,
+  "wikiK": 67
+ },
+ {
+  "nom": "Íngrid Betancourt",
+  "cle": "ingrid-betancourt",
+  "hits": 4,
+  "wikiK": 64
+ },
+ {
+  "nom": "Julien Aubert",
+  "cle": "julien-aubert",
+  "hits": 4,
+  "wikiK": 60
+ },
+ {
+  "nom": "Yves Jégo",
+  "cle": "yves-jego",
+  "hits": 4,
+  "wikiK": 58
+ },
+ {
+  "nom": "Jean-Pierre Gorges",
+  "cle": "jean-pierre-gorges",
+  "hits": 4,
+  "wikiK": 52
+ },
+ {
+  "nom": "Jean-Jacques Guillet",
+  "cle": "jean-jacques-guillet",
+  "hits": 4,
+  "wikiK": 51
+ },
+ {
+  "nom": "Jean-Claude Martinez",
+  "cle": "jean-claude-martinez",
+  "hits": 4,
+  "wikiK": 48
+ },
+ {
+  "nom": "Renaud Muselier",
+  "cle": "renaud-muselier",
+  "hits": 4,
+  "wikiK": 47
+ },
+ {
+  "nom": "Julien Sanchez",
+  "cle": "julien-sanchez",
+  "hits": 4,
+  "wikiK": 47
+ },
+ {
+  "nom": "Cynthia Ligeard",
+  "cle": "cynthia-ligeard",
+  "hits": 4,
+  "wikiK": 45
+ },
+ {
+  "nom": "Ahmed Gaïd Salah",
+  "cle": "ahmed-gaid-salah",
+  "hits": 4,
+  "wikiK": 43
+ },
+ {
+  "nom": "Philippe Vardon",
+  "cle": "philippe-vardon",
+  "hits": 4,
+  "wikiK": 43
+ },
+ {
+  "nom": "Nicole Belloubet",
+  "cle": "nicole-belloubet",
+  "hits": 4,
+  "wikiK": 43
+ },
+ {
+  "nom": "Farid Dms Debah",
+  "cle": "farid-dms-debah",
+  "hits": 4,
+  "wikiK": 42
+ },
+ {
+  "nom": "Xavier Iacovelli",
+  "cle": "xavier-iacovelli",
+  "hits": 4,
+  "wikiK": 39
+ },
+ {
+  "nom": "Henri Guaino",
+  "cle": "henri-guaino",
+  "hits": 4,
+  "wikiK": 38
+ },
+ {
+  "nom": "Alain Lipietz",
+  "cle": "alain-lipietz",
+  "hits": 4,
+  "wikiK": 37
+ },
+ {
+  "nom": "Grégoire de Fournas",
+  "cle": "gregoire-de-fournas",
+  "hits": 4,
+  "wikiK": 36
+ },
+ {
+  "nom": "Christine Lagarde",
+  "cle": "christine-lagarde",
+  "hits": 3,
+  "wikiK": 84
+ },
+ {
+  "nom": "Benjamin Griveaux",
+  "cle": "benjamin-griveaux",
+  "hits": 3,
+  "wikiK": 77
+ },
+ {
+  "nom": "Colonel Rémy",
+  "cle": "colonel-remy",
+  "hits": 3,
+  "wikiK": 75
+ },
+ {
+  "nom": "Grégory Doucet",
+  "cle": "gregory-doucet",
+  "hits": 3,
+  "wikiK": 75
+ },
+ {
+  "nom": "Philippe Juvin",
+  "cle": "philippe-juvin",
+  "hits": 3,
+  "wikiK": 67
+ },
+ {
+  "nom": "Ahmed Sékou Touré",
+  "cle": "ahmed-sekou-toure",
+  "hits": 3,
+  "wikiK": 67
+ },
+ {
+  "nom": "Julien Bayou",
+  "cle": "julien-bayou",
+  "hits": 3,
+  "wikiK": 66
+ },
+ {
+  "nom": "Marie-Madeleine Fourcade",
+  "cle": "marie-madeleine-fourcade",
+  "hits": 3,
+  "wikiK": 62
+ },
+ {
+  "nom": "Omar Bongo",
+  "cle": "omar-bongo",
+  "hits": 3,
+  "wikiK": 60
+ },
+ {
+  "nom": "Huguette Bello",
+  "cle": "huguette-bello",
+  "hits": 3,
+  "wikiK": 58
+ },
+ {
+  "nom": "Pierre Bérégovoy",
+  "cle": "pierre-beregovoy",
+  "hits": 3,
+  "wikiK": 56
+ },
+ {
+  "nom": "Valérie Trierweiler",
+  "cle": "valerie-trierweiler",
+  "hits": 3,
+  "wikiK": 53
+ },
+ {
+  "nom": "Abdelkader Bensalah",
+  "cle": "abdelkader-bensalah",
+  "hits": 3,
+  "wikiK": 52
+ },
+ {
+  "nom": "Thomas Mulcair",
+  "cle": "thomas-mulcair",
+  "hits": 3,
+  "wikiK": 52
+ },
+ {
+  "nom": "Aurélie Filippetti",
+  "cle": "aurelie-filippetti",
+  "hits": 3,
+  "wikiK": 50
+ },
+ {
+  "nom": "Jean Messiha",
+  "cle": "jean-messiha",
+  "hits": 3,
+  "wikiK": 50
+ },
+ {
+  "nom": "Serge Grouard",
+  "cle": "serge-grouard",
+  "hits": 3,
+  "wikiK": 49
+ },
+ {
+  "nom": "Antoinette Fouque",
+  "cle": "antoinette-fouque",
+  "hits": 3,
+  "wikiK": 47
+ },
+ {
+  "nom": "Jean-Luc Moudenc",
+  "cle": "jean-luc-moudenc",
+  "hits": 3,
+  "wikiK": 45
+ },
+ {
+  "nom": "Thomas Portes",
+  "cle": "thomas-portes",
+  "hits": 3,
+  "wikiK": 44
+ },
+ {
+  "nom": "Manuel Bompard",
+  "cle": "manuel-bompard",
+  "hits": 3,
+  "wikiK": 43
+ },
+ {
+  "nom": "Colette Capdevielle",
+  "cle": "colette-capdevielle",
+  "hits": 3,
+  "wikiK": 42
+ },
+ {
+  "nom": "Alice Coffin",
+  "cle": "alice-coffin",
+  "hits": 3,
+  "wikiK": 40
+ },
+ {
+  "nom": "Olier Mordrel",
+  "cle": "olier-mordrel",
+  "hits": 3,
+  "wikiK": 38
+ },
+ {
+  "nom": "Hervé Gaymard",
+  "cle": "herve-gaymard",
+  "hits": 3,
+  "wikiK": 37
+ },
+ {
+  "nom": "Jean-Louis Tixier-Vignancour",
+  "cle": "jean-louis-tixier-vignancour",
+  "hits": 3,
+  "wikiK": 37
+ },
+ {
+  "nom": "Roger Holeindre",
+  "cle": "roger-holeindre",
+  "hits": 3,
+  "wikiK": 37
+ },
+ {
+  "nom": "Claude Allègre",
+  "cle": "claude-allegre",
+  "hits": 2,
+  "wikiK": 80
+ },
+ {
+  "nom": "Danielle Mitterrand",
+  "cle": "danielle-mitterrand",
+  "hits": 2,
+  "wikiK": 72
+ },
+ {
+  "nom": "Daniel Goldberg",
+  "cle": "daniel-goldberg",
+  "hits": 2,
+  "wikiK": 68
+ },
+ {
+  "nom": "Sarah Knafo",
+  "cle": "sarah-knafo",
+  "hits": 2,
+  "wikiK": 68
+ },
+ {
+  "nom": "Olivier Véran",
+  "cle": "olivier-veran",
+  "hits": 2,
+  "wikiK": 64
+ },
+ {
+  "nom": "Amédée Domenech",
+  "cle": "amedee-domenech",
+  "hits": 2,
+  "wikiK": 64
+ },
+ {
+  "nom": "Matthieu Pigasse",
+  "cle": "matthieu-pigasse",
+  "hits": 2,
+  "wikiK": 63
+ },
+ {
+  "nom": "Luc Ferry",
+  "cle": "luc-ferry",
+  "hits": 2,
+  "wikiK": 63
+ },
+ {
+  "nom": "Aurélien Pradié",
+  "cle": "aurelien-pradie",
+  "hits": 2,
+  "wikiK": 62
+ },
+ {
+  "nom": "Philippe de Gaulle",
+  "cle": "philippe-de-gaulle",
+  "hits": 2,
+  "wikiK": 62
+ },
+ {
+  "nom": "Damien Abad",
+  "cle": "damien-abad",
+  "hits": 2,
+  "wikiK": 62
+ },
+ {
+  "nom": "Louis Boyard",
+  "cle": "louis-boyard",
+  "hits": 2,
+  "wikiK": 61
+ },
+ {
+  "nom": "Carole Delga",
+  "cle": "carole-delga",
+  "hits": 2,
+  "wikiK": 58
+ },
+ {
+  "nom": "Frédérique Vidal",
+  "cle": "frederique-vidal",
+  "hits": 2,
+  "wikiK": 58
+ },
+ {
+  "nom": "François Rebsamen",
+  "cle": "francois-rebsamen",
+  "hits": 2,
+  "wikiK": 56
+ },
+ {
+  "nom": "Charles de Courson",
+  "cle": "charles-de-courson",
+  "hits": 2,
+  "wikiK": 55
+ },
+ {
+  "nom": "Marie-Noëlle Lienemann",
+  "cle": "marie-noelle-lienemann",
+  "hits": 2,
+  "wikiK": 53
+ },
+ {
+  "nom": "Jean-Yves Le Gallou",
+  "cle": "jean-yves-le-gallou",
+  "hits": 2,
+  "wikiK": 53
+ },
+ {
+  "nom": "Jean-Louis Debré",
+  "cle": "jean-louis-debre",
+  "hits": 2,
+  "wikiK": 52
+ },
+ {
+  "nom": "Jean-Noël Barrot",
+  "cle": "jean-noel-barrot",
+  "hits": 2,
+  "wikiK": 52
+ },
+ {
+  "nom": "Benoît Payan",
+  "cle": "benoit-payan",
+  "hits": 2,
+  "wikiK": 52
+ },
+ {
+  "nom": "David Lisnard",
+  "cle": "david-lisnard",
+  "hits": 2,
+  "wikiK": 51
+ },
+ {
+  "nom": "Frédéric Lefebvre",
+  "cle": "frederic-lefebvre",
+  "hits": 2,
+  "wikiK": 51
+ },
+ {
+  "nom": "Michel Sapin",
+  "cle": "michel-sapin",
+  "hits": 2,
+  "wikiK": 51
+ },
+ {
+  "nom": "Philippe Meirieu",
+  "cle": "philippe-meirieu",
+  "hits": 2,
+  "wikiK": 49
+ },
+ {
+  "nom": "Virginie Calmels",
+  "cle": "virginie-calmels",
+  "hits": 2,
+  "wikiK": 49
+ },
+ {
+  "nom": "Claude Goasguen",
+  "cle": "claude-goasguen",
+  "hits": 2,
+  "wikiK": 47
+ },
+ {
+  "nom": "Gaël Yanno",
+  "cle": "gael-yanno",
+  "hits": 2,
+  "wikiK": 47
+ },
+ {
+  "nom": "Hervé Morin",
+  "cle": "herve-morin",
+  "hits": 2,
+  "wikiK": 47
+ },
+ {
+  "nom": "Ambroise Croizat",
+  "cle": "ambroise-croizat",
+  "hits": 2,
+  "wikiK": 46
+ },
+ {
+  "nom": "Soheib Bencheikh",
+  "cle": "soheib-bencheikh",
+  "hits": 2,
+  "wikiK": 46
+ },
+ {
+  "nom": "Fleur Pellerin",
+  "cle": "fleur-pellerin",
+  "hits": 2,
+  "wikiK": 45
+ },
+ {
+  "nom": "Lydia Guirous",
+  "cle": "lydia-guirous",
+  "hits": 2,
+  "wikiK": 45
+ },
+ {
+  "nom": "Jacques Foccart",
+  "cle": "jacques-foccart",
+  "hits": 2,
+  "wikiK": 45
+ },
+ {
+  "nom": "Ian Brossat",
+  "cle": "ian-brossat",
+  "hits": 2,
+  "wikiK": 45
+ },
+ {
+  "nom": "Raymond Abellio",
+  "cle": "raymond-abellio",
+  "hits": 2,
+  "wikiK": 43
+ },
+ {
+  "nom": "André Bettencourt",
+  "cle": "andre-bettencourt",
+  "hits": 2,
+  "wikiK": 43
+ },
+ {
+  "nom": "Gabriel Péri",
+  "cle": "gabriel-peri",
+  "hits": 2,
+  "wikiK": 43
+ },
+ {
+  "nom": "Julien Rochedy",
+  "cle": "julien-rochedy",
+  "hits": 2,
+  "wikiK": 42
+ },
+ {
+  "nom": "Noël Le Graët",
+  "cle": "noel-le-graet",
+  "hits": 2,
+  "wikiK": 41
+ },
+ {
+  "nom": "Sophie Montel",
+  "cle": "sophie-montel",
+  "hits": 2,
+  "wikiK": 41
+ },
+ {
+  "nom": "Pascal Canfin",
+  "cle": "pascal-canfin",
+  "hits": 2,
+  "wikiK": 41
+ },
+ {
+  "nom": "Henri Weber",
+  "cle": "henri-weber",
+  "hits": 2,
+  "wikiK": 41
+ },
+ {
+  "nom": "Roger Hanin",
+  "cle": "roger-hanin",
+  "hits": 2,
+  "wikiK": 41
+ },
+ {
+  "nom": "Raquel Garrido",
+  "cle": "raquel-garrido",
+  "hits": 2,
+  "wikiK": 38
+ },
+ {
+  "nom": "Sébastien Jumel",
+  "cle": "sebastien-jumel",
+  "hits": 2,
+  "wikiK": 38
+ },
+ {
+  "nom": "Jacques Legendre",
+  "cle": "jacques-legendre",
+  "hits": 2,
+  "wikiK": 38
+ },
+ {
+  "nom": "Pierre Joxe",
+  "cle": "pierre-joxe",
+  "hits": 2,
+  "wikiK": 38
+ },
+ {
+  "nom": "Laurianne Rossi",
+  "cle": "laurianne-rossi",
+  "hits": 2,
+  "wikiK": 38
+ },
+ {
+  "nom": "Emmanuel d'Astier de La Vigerie",
+  "cle": "emmanuel-d-astier-de-la-vigerie",
+  "hits": 2,
+  "wikiK": 37
+ },
+ {
+  "nom": "Jean-Marie Le Guen",
+  "cle": "jean-marie-le-guen",
+  "hits": 2,
+  "wikiK": 36
+ },
+ {
+  "nom": "Bruno Bonnell",
+  "cle": "bruno-bonnell",
+  "hits": 2,
+  "wikiK": 35
+ },
+ {
+  "nom": "Marcel Bigeard",
+  "cle": "marcel-bigeard",
+  "hits": 1,
+  "wikiK": 84
+ },
+ {
+  "nom": "Cécile Duflot",
+  "cle": "cecile-duflot",
+  "hits": 1,
+  "wikiK": 81
+ },
+ {
+  "nom": "Audrey Azoulay",
+  "cle": "audrey-azoulay",
+  "hits": 1,
+  "wikiK": 79
+ },
+ {
+  "nom": "Michèle Rivasi",
+  "cle": "michele-rivasi",
+  "hits": 1,
+  "wikiK": 78
+ },
+ {
+  "nom": "Lucie Castets",
+  "cle": "lucie-castets",
+  "hits": 1,
+  "wikiK": 74
+ },
+ {
+  "nom": "Jean Castex",
+  "cle": "jean-castex",
+  "hits": 1,
+  "wikiK": 72
+ },
+ {
+  "nom": "Aymeric Caron",
+  "cle": "aymeric-caron",
+  "hits": 1,
+  "wikiK": 71
+ },
+ {
+  "nom": "Sophie Cluzel",
+  "cle": "sophie-cluzel",
+  "hits": 1,
+  "wikiK": 68
+ },
+ {
+  "nom": "Philippe Séguin",
+  "cle": "philippe-seguin",
+  "hits": 1,
+  "wikiK": 68
+ },
+ {
+  "nom": "François Brottes",
+  "cle": "francois-brottes",
+  "hits": 1,
+  "wikiK": 66
+ },
+ {
+  "nom": "Jean Lecanuet",
+  "cle": "jean-lecanuet",
+  "hits": 1,
+  "wikiK": 66
+ },
+ {
+  "nom": "Edgar Faure",
+  "cle": "edgar-faure",
+  "hits": 1,
+  "wikiK": 65
+ },
+ {
+  "nom": "Robert Buron",
+  "cle": "robert-buron",
+  "hits": 1,
+  "wikiK": 63
+ },
+ {
+  "nom": "Annie Genevard",
+  "cle": "annie-genevard",
+  "hits": 1,
+  "wikiK": 62
+ },
+ {
+  "nom": "Jean-Pierre Raffarin",
+  "cle": "jean-pierre-raffarin",
+  "hits": 1,
+  "wikiK": 58
+ },
+ {
+  "nom": "Pierre Hurmic",
+  "cle": "pierre-hurmic",
+  "hits": 1,
+  "wikiK": 58
+ },
+ {
+  "nom": "Étienne Mourrut",
+  "cle": "etienne-mourrut",
+  "hits": 1,
+  "wikiK": 57
+ },
+ {
+  "nom": "Léon-Gontran Damas",
+  "cle": "leon-gontran-damas",
+  "hits": 1,
+  "wikiK": 56
+ },
+ {
+  "nom": "Christian Troadec",
+  "cle": "christian-troadec",
+  "hits": 1,
+  "wikiK": 56
+ },
+ {
+  "nom": "Mathieu Hanotin",
+  "cle": "mathieu-hanotin",
+  "hits": 1,
+  "wikiK": 55
+ },
+ {
+  "nom": "Louis Althusser",
+  "cle": "louis-althusser",
+  "hits": 1,
+  "wikiK": 55
+ },
+ {
+  "nom": "Delphine Batho",
+  "cle": "delphine-batho",
+  "hits": 1,
+  "wikiK": 54
+ },
+ {
+  "nom": "Jorge Semprún",
+  "cle": "jorge-semprun",
+  "hits": 1,
+  "wikiK": 54
+ },
+ {
+  "nom": "Ronan Dantec",
+  "cle": "ronan-dantec",
+  "hits": 1,
+  "wikiK": 53
+ },
+ {
+  "nom": "Jean Mermoz",
+  "cle": "jean-mermoz",
+  "hits": 1,
+  "wikiK": 52
+ },
+ {
+  "nom": "Gaston Defferre",
+  "cle": "gaston-defferre",
+  "hits": 1,
+  "wikiK": 50
+ },
+ {
+  "nom": "Marie-Claude Vaillant-Couturier",
+  "cle": "marie-claude-vaillant-couturier",
+  "hits": 1,
+  "wikiK": 49
+ },
+ {
+  "nom": "Olivier Duhamel",
+  "cle": "olivier-duhamel",
+  "hits": 1,
+  "wikiK": 49
+ },
+ {
+  "nom": "Mathilde Panot",
+  "cle": "mathilde-panot",
+  "hits": 1,
+  "wikiK": 48
+ },
+ {
+  "nom": "Bernard Pons",
+  "cle": "bernard-pons",
+  "hits": 1,
+  "wikiK": 48
+ },
+ {
+  "nom": "Christophe Girard",
+  "cle": "christophe-girard",
+  "hits": 1,
+  "wikiK": 47
+ },
+ {
+  "nom": "Germain Muller",
+  "cle": "germain-muller",
+  "hits": 1,
+  "wikiK": 47
+ },
+ {
+  "nom": "Catherine Trautmann",
+  "cle": "catherine-trautmann",
+  "hits": 1,
+  "wikiK": 46
+ },
+ {
+  "nom": "Michaëlle Jean",
+  "cle": "michaelle-jean",
+  "hits": 1,
+  "wikiK": 46
+ },
+ {
+  "nom": "Arnaud Danjean",
+  "cle": "arnaud-danjean",
+  "hits": 1,
+  "wikiK": 46
+ },
+ {
+  "nom": "Brune Poirson",
+  "cle": "brune-poirson",
+  "hits": 1,
+  "wikiK": 46
+ },
+ {
+  "nom": "Jean-Paul Lecoq",
+  "cle": "jean-paul-lecoq",
+  "hits": 1,
+  "wikiK": 45
+ },
+ {
+  "nom": "Yves Duteil",
+  "cle": "yves-duteil",
+  "hits": 1,
+  "wikiK": 45
+ },
+ {
+  "nom": "Laura Flessel",
+  "cle": "laura-flessel",
+  "hits": 1,
+  "wikiK": 45
+ },
+ {
+  "nom": "Jean-Louis Bianco",
+  "cle": "jean-louis-bianco",
+  "hits": 1,
+  "wikiK": 45
+ },
+ {
+  "nom": "Roger-Gérard Schwartzenberg",
+  "cle": "roger-gerard-schwartzenberg",
+  "hits": 1,
+  "wikiK": 44
+ },
+ {
+  "nom": "Françoise Giroud",
+  "cle": "francoise-giroud",
+  "hits": 1,
+  "wikiK": 44
+ },
+ {
+  "nom": "Jean Mabire",
+  "cle": "jean-mabire",
+  "hits": 1,
+  "wikiK": 43
+ },
+ {
+  "nom": "Nathalie Arthaud",
+  "cle": "nathalie-arthaud",
+  "hits": 1,
+  "wikiK": 43
+ },
+ {
+  "nom": "Rima Abdul Malak",
+  "cle": "rima-abdul-malak",
+  "hits": 1,
+  "wikiK": 43
+ },
+ {
+  "nom": "Joris Hébrard",
+  "cle": "joris-hebrard",
+  "hits": 1,
+  "wikiK": 43
+ },
+ {
+  "nom": "Max Gallo",
+  "cle": "max-gallo",
+  "hits": 1,
+  "wikiK": 42
+ },
+ {
+  "nom": "Martine Wonner",
+  "cle": "martine-wonner",
+  "hits": 1,
+  "wikiK": 42
+ },
+ {
+  "nom": "Stéphane Dion",
+  "cle": "stephane-dion",
+  "hits": 1,
+  "wikiK": 42
+ },
+ {
+  "nom": "Laurent Nuñez",
+  "cle": "laurent-nunez",
+  "hits": 1,
+  "wikiK": 41
+ },
+ {
+  "nom": "Henri Frenay",
+  "cle": "henri-frenay",
+  "hits": 1,
+  "wikiK": 41
+ },
+ {
+  "nom": "Jean-Paul Garraud",
+  "cle": "jean-paul-garraud",
+  "hits": 1,
+  "wikiK": 41
+ },
+ {
+  "nom": "Jean-Baptiste Djebbari",
+  "cle": "jean-baptiste-djebbari",
+  "hits": 1,
+  "wikiK": 40
+ },
+ {
+  "nom": "Christian Poncelet",
+  "cle": "christian-poncelet",
+  "hits": 1,
+  "wikiK": 40
+ },
+ {
+  "nom": "François Goulard",
+  "cle": "francois-goulard",
+  "hits": 1,
+  "wikiK": 40
+ },
+ {
+  "nom": "Pierre Lellouche",
+  "cle": "pierre-lellouche",
+  "hits": 1,
+  "wikiK": 39
+ },
+ {
+  "nom": "Romain Grau",
+  "cle": "romain-grau",
+  "hits": 1,
+  "wikiK": 39
+ },
+ {
+  "nom": "Alain Poher",
+  "cle": "alain-poher",
+  "hits": 1,
+  "wikiK": 39
+ },
+ {
+  "nom": "Christophe Barthès",
+  "cle": "christophe-barthes",
+  "hits": 1,
+  "wikiK": 39
+ },
+ {
+  "nom": "Abdou Diouf",
+  "cle": "abdou-diouf",
+  "hits": 1,
+  "wikiK": 38
+ },
+ {
+  "nom": "Germaine Peyroles",
+  "cle": "germaine-peyroles",
+  "hits": 1,
+  "wikiK": 38
+ },
+ {
+  "nom": "Gabriel Amard",
+  "cle": "gabriel-amard",
+  "hits": 1,
+  "wikiK": 38
+ },
+ {
+  "nom": "Jean-Marie Tjibaou",
+  "cle": "jean-marie-tjibaou",
+  "hits": 1,
+  "wikiK": 38
+ },
+ {
+  "nom": "Karim Bouamrane",
+  "cle": "karim-bouamrane",
+  "hits": 1,
+  "wikiK": 38
+ },
+ {
+  "nom": "Daniel Guérin",
+  "cle": "daniel-guerin",
+  "hits": 1,
+  "wikiK": 37
+ },
+ {
+  "nom": "Cécile Gallez",
+  "cle": "cecile-gallez",
+  "hits": 1,
+  "wikiK": 37
+ },
+ {
+  "nom": "André Philip",
+  "cle": "andre-philip",
+  "hits": 1,
+  "wikiK": 37
+ },
+ {
+  "nom": "Antoine Léaument",
+  "cle": "antoine-leaument",
+  "hits": 1,
+  "wikiK": 36
+ },
+ {
+  "nom": "Florence Parly",
+  "cle": "florence-parly",
+  "hits": 1,
+  "wikiK": 36
+ },
+ {
+  "nom": "Jean-Luc Romero-Michel",
+  "cle": "jean-luc-romero-michel",
+  "hits": 1,
+  "wikiK": 36
+ },
+ {
+  "nom": "Arnaud Gouillon",
+  "cle": "arnaud-gouillon",
+  "hits": 1,
+  "wikiK": 36
+ },
+ {
+  "nom": "Édouard Limonov",
+  "cle": "edouard-limonov",
+  "hits": 1,
+  "wikiK": 35
+ },
+ {
+  "nom": "Jean-Christophe Fromantin",
+  "cle": "jean-christophe-fromantin",
+  "hits": 1,
+  "wikiK": 35
+ },
+ {
+  "nom": "Nathalie Delattre",
+  "cle": "nathalie-delattre",
+  "hits": 1,
+  "wikiK": 35
+ },
+ {
+  "nom": "Liêm Hoang-Ngoc",
+  "cle": "liem-hoang-ngoc",
+  "hits": 1,
+  "wikiK": 35
+ },
+ {
+  "nom": "Clémentine Autain",
+  "cle": "clementine-autain",
+  "hits": 0,
+  "wikiK": 84
+ },
+ {
+  "nom": "Xavier Bertrand",
+  "cle": "xavier-bertrand",
+  "hits": 0,
+  "wikiK": 84
+ },
+ {
+  "nom": "Nadine Morano",
+  "cle": "nadine-morano",
+  "hits": 0,
+  "wikiK": 81
+ },
+ {
+  "nom": "Annick Girardin",
+  "cle": "annick-girardin",
+  "hits": 0,
+  "wikiK": 78
+ },
+ {
+  "nom": "Agnès Pannier-Runacher",
+  "cle": "agnes-pannier-runacher",
+  "hits": 0,
+  "wikiK": 76
+ },
+ {
+  "nom": "Nicolas Mayer-Rossignol",
+  "cle": "nicolas-mayer-rossignol",
+  "hits": 0,
+  "wikiK": 75
+ },
+ {
+  "nom": "Jérôme Guedj",
+  "cle": "jerome-guedj",
+  "hits": 0,
+  "wikiK": 72
+ },
+ {
+  "nom": "Roselyne Bachelot",
+  "cle": "roselyne-bachelot",
+  "hits": 0,
+  "wikiK": 70
+ },
+ {
+  "nom": "Pierre Clostermann",
+  "cle": "pierre-clostermann",
+  "hits": 0,
+  "wikiK": 69
+ },
+ {
+  "nom": "Jean-Marcel Jeanneney",
+  "cle": "jean-marcel-jeanneney",
+  "hits": 0,
+  "wikiK": 68
+ },
+ {
+  "nom": "Jacques Delors",
+  "cle": "jacques-delors",
+  "hits": 0,
+  "wikiK": 68
+ },
+ {
+  "nom": "Hélène Carrère d'Encausse",
+  "cle": "helene-carrere-d-encausse",
+  "hits": 0,
+  "wikiK": 68
+ },
+ {
+  "nom": "Axel Kahn",
+  "cle": "axel-kahn",
+  "hits": 0,
+  "wikiK": 67
+ },
+ {
+  "nom": "Jean Prouvé",
+  "cle": "jean-prouve",
+  "hits": 0,
+  "wikiK": 67
+ },
+ {
+  "nom": "François Baroin",
+  "cle": "francois-baroin",
+  "hits": 0,
+  "wikiK": 67
+ },
+ {
+  "nom": "Amélie de Montchalin",
+  "cle": "amelie-de-montchalin",
+  "hits": 0,
+  "wikiK": 66
+ },
+ {
+  "nom": "Philippe Poutou",
+  "cle": "philippe-poutou",
+  "hits": 0,
+  "wikiK": 65
+ },
+ {
+  "nom": "Bernadette Chirac",
+  "cle": "bernadette-chirac",
+  "hits": 0,
+  "wikiK": 65
+ },
+ {
+  "nom": "Pierre Larrouturou",
+  "cle": "pierre-larrouturou",
+  "hits": 0,
+  "wikiK": 64
+ },
+ {
+  "nom": "Christophe Béchu",
+  "cle": "christophe-bechu",
+  "hits": 0,
+  "wikiK": 64
+ },
+ {
+  "nom": "Philippe Olivier",
+  "cle": "philippe-olivier",
+  "hits": 0,
+  "wikiK": 64
+ },
+ {
+  "nom": "Thierry Santa",
+  "cle": "thierry-santa",
+  "hits": 0,
+  "wikiK": 62
+ },
+ {
+  "nom": "Juliette Méadel",
+  "cle": "juliette-meadel",
+  "hits": 0,
+  "wikiK": 62
+ },
+ {
+  "nom": "Barbara Pompili",
+  "cle": "barbara-pompili",
+  "hits": 0,
+  "wikiK": 62
+ },
+ {
+  "nom": "Georges Marchais",
+  "cle": "georges-marchais",
+  "hits": 0,
+  "wikiK": 60
+ },
+ {
+  "nom": "Ericka Bareigts",
+  "cle": "ericka-bareigts",
+  "hits": 0,
+  "wikiK": 59
+ },
+ {
+  "nom": "Maurice Druon",
+  "cle": "maurice-druon",
+  "hits": 0,
+  "wikiK": 57
+ },
+ {
+  "nom": "Pierre Messmer",
+  "cle": "pierre-messmer",
+  "hits": 0,
+  "wikiK": 57
+ },
+ {
+  "nom": "Jean-Jacques Aillagon",
+  "cle": "jean-jacques-aillagon",
+  "hits": 0,
+  "wikiK": 57
+ },
+ {
+  "nom": "Caroline Yadan",
+  "cle": "caroline-yadan",
+  "hits": 0,
+  "wikiK": 57
+ },
+ {
+  "nom": "Pap Ndiaye",
+  "cle": "pap-ndiaye",
+  "hits": 0,
+  "wikiK": 56
+ },
+ {
+  "nom": "Carole Montillet",
+  "cle": "carole-montillet",
+  "hits": 0,
+  "wikiK": 56
+ },
+ {
+  "nom": "Henri d'Orléans",
+  "cle": "henri-d-orleans",
+  "hits": 0,
+  "wikiK": 55
+ },
+ {
+  "nom": "Valérie Létard",
+  "cle": "valerie-letard",
+  "hits": 0,
+  "wikiK": 55
+ },
+ {
+  "nom": "Franck Riester",
+  "cle": "franck-riester",
+  "hits": 0,
+  "wikiK": 55
+ },
+ {
+  "nom": "Nora Berra",
+  "cle": "nora-berra",
+  "hits": 0,
+  "wikiK": 54
+ },
+ {
+  "nom": "Pierre Pflimlin",
+  "cle": "pierre-pflimlin",
+  "hits": 0,
+  "wikiK": 53
+ },
+ {
+  "nom": "Jean Arthuis",
+  "cle": "jean-arthuis",
+  "hits": 0,
+  "wikiK": 53
+ },
+ {
+  "nom": "Jean-Pierre Sueur",
+  "cle": "jean-pierre-sueur",
+  "hits": 0,
+  "wikiK": 53
+ },
+ {
+  "nom": "Stéphane Séjourné",
+  "cle": "stephane-sejourne",
+  "hits": 0,
+  "wikiK": 52
+ },
+ {
+  "nom": "Simon Loueckhote",
+  "cle": "simon-loueckhote",
+  "hits": 0,
+  "wikiK": 52
+ },
+ {
+  "nom": "Leïla Chaibi",
+  "cle": "leila-chaibi",
+  "hits": 0,
+  "wikiK": 52
+ },
+ {
+  "nom": "René Dumont",
+  "cle": "rene-dumont",
+  "hits": 0,
+  "wikiK": 52
+ },
+ {
+  "nom": "André Chassaigne",
+  "cle": "andre-chassaigne",
+  "hits": 0,
+  "wikiK": 52
+ },
+ {
+  "nom": "George Weah",
+  "cle": "george-weah",
+  "hits": 0,
+  "wikiK": 51
+ },
+ {
+  "nom": "Olivier Falorni",
+  "cle": "olivier-falorni",
+  "hits": 0,
+  "wikiK": 51
+ },
+ {
+  "nom": "Jakes Abeberry",
+  "cle": "jakes-abeberry",
+  "hits": 0,
+  "wikiK": 51
+ },
+ {
+  "nom": "Pouria Amirshahi",
+  "cle": "pouria-amirshahi",
+  "hits": 0,
+  "wikiK": 51
+ },
+ {
+  "nom": "Nathalie Appéré",
+  "cle": "nathalie-appere",
+  "hits": 0,
+  "wikiK": 51
+ },
+ {
+  "nom": "René Pleven",
+  "cle": "rene-pleven",
+  "hits": 0,
+  "wikiK": 50
+ },
+ {
+  "nom": "Jeanne Barseghian",
+  "cle": "jeanne-barseghian",
+  "hits": 0,
+  "wikiK": 50
+ },
+ {
+  "nom": "Matthieu Orphelin",
+  "cle": "matthieu-orphelin",
+  "hits": 0,
+  "wikiK": 50
+ },
+ {
+  "nom": "Tidjane Thiam",
+  "cle": "tidjane-thiam",
+  "hits": 0,
+  "wikiK": 49
+ },
+ {
+  "nom": "Roxana Maracineanu",
+  "cle": "roxana-maracineanu",
+  "hits": 0,
+  "wikiK": 49
+ },
+ {
+  "nom": "Laurence Rossignol",
+  "cle": "laurence-rossignol",
+  "hits": 0,
+  "wikiK": 48
+ },
+ {
+  "nom": "Dominique Voynet",
+  "cle": "dominique-voynet",
+  "hits": 0,
+  "wikiK": 48
+ },
+ {
+  "nom": "Jean-Frédéric Poisson",
+  "cle": "jean-frederic-poisson",
+  "hits": 0,
+  "wikiK": 47
+ },
+ {
+  "nom": "Alexandre Hébert",
+  "cle": "alexandre-hebert",
+  "hits": 0,
+  "wikiK": 47
+ },
+ {
+  "nom": "Manon Aubry",
+  "cle": "manon-aubry",
+  "hits": 0,
+  "wikiK": 47
+ },
+ {
+  "nom": "Patrick Hetzel",
+  "cle": "patrick-hetzel",
+  "hits": 0,
+  "wikiK": 47
+ },
+ {
+  "nom": "Élodie Gossuin",
+  "cle": "elodie-gossuin",
+  "hits": 0,
+  "wikiK": 47
+ },
+ {
+  "nom": "Frédérick Bousquet",
+  "cle": "frederick-bousquet",
+  "hits": 0,
+  "wikiK": 46
+ },
+ {
+  "nom": "Nathalie Loiseau",
+  "cle": "nathalie-loiseau",
+  "hits": 0,
+  "wikiK": 46
+ },
+ {
+  "nom": "Philippe Douste-Blazy",
+  "cle": "philippe-douste-blazy",
+  "hits": 0,
+  "wikiK": 46
+ },
+ {
+  "nom": "Arlette Laguiller",
+  "cle": "arlette-laguiller",
+  "hits": 0,
+  "wikiK": 46
+ },
+ {
+  "nom": "Guillaume Garot",
+  "cle": "guillaume-garot",
+  "hits": 0,
+  "wikiK": 45
+ },
+ {
+  "nom": "Stéphane Le Foll",
+  "cle": "stephane-le-foll",
+  "hits": 0,
+  "wikiK": 45
+ },
+ {
+  "nom": "Éric Coquerel",
+  "cle": "eric-coquerel",
+  "hits": 0,
+  "wikiK": 45
+ },
+ {
+  "nom": "Michèle Rubirola",
+  "cle": "michele-rubirola",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "Sibeth Ndiaye",
+  "cle": "sibeth-ndiaye",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "Samia Ghali",
+  "cle": "samia-ghali",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "Azouz Begag",
+  "cle": "azouz-begag",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "François Valentin",
+  "cle": "francois-valentin",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "Danielle Simonnet",
+  "cle": "danielle-simonnet",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "Maurice Schumann",
+  "cle": "maurice-schumann",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "Hélène Geoffroy",
+  "cle": "helene-geoffroy",
+  "hits": 0,
+  "wikiK": 44
+ },
+ {
+  "nom": "Dominique Reynié",
+  "cle": "dominique-reynie",
+  "hits": 0,
+  "wikiK": 43
+ },
+ {
+  "nom": "Gilles Le Gendre",
+  "cle": "gilles-le-gendre",
+  "hits": 0,
+  "wikiK": 42
+ },
+ {
+  "nom": "Yvan Blot",
+  "cle": "yvan-blot",
+  "hits": 0,
+  "wikiK": 42
+ },
+ {
+  "nom": "Pierre-Yves Bournazel",
+  "cle": "pierre-yves-bournazel",
+  "hits": 0,
+  "wikiK": 42
+ },
+ {
+  "nom": "Olivier Marleix",
+  "cle": "olivier-marleix",
+  "hits": 0,
+  "wikiK": 42
+ },
+ {
+  "nom": "Sylvia Pinel",
+  "cle": "sylvia-pinel",
+  "hits": 0,
+  "wikiK": 42
+ },
+ {
+  "nom": "Hervé Mariton",
+  "cle": "herve-mariton",
+  "hits": 0,
+  "wikiK": 42
+ },
+ {
+  "nom": "Jean Lèques",
+  "cle": "jean-leques",
+  "hits": 0,
+  "wikiK": 42
+ },
+ {
+  "nom": "Roland Lescure",
+  "cle": "roland-lescure",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Clément Beaune",
+  "cle": "clement-beaune",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Henri Lefebvre",
+  "cle": "henri-lefebvre",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Thomas Cazenave",
+  "cle": "thomas-cazenave",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Yves Guéna",
+  "cle": "yves-guena",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Guy Mollet",
+  "cle": "guy-mollet",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Michaël Delafosse",
+  "cle": "michael-delafosse",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Max Brisson",
+  "cle": "max-brisson",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Luc Carvounas",
+  "cle": "luc-carvounas",
+  "hits": 0,
+  "wikiK": 41
+ },
+ {
+  "nom": "Philippe Richert",
+  "cle": "philippe-richert",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "Daniel Cueff",
+  "cle": "daniel-cueff",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "Françoise Nyssen",
+  "cle": "francoise-nyssen",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "Joseph Fontanet",
+  "cle": "joseph-fontanet",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "Valérie Rabault",
+  "cle": "valerie-rabault",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "Philippe Brun",
+  "cle": "philippe-brun",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "Claude Malhuret",
+  "cle": "claude-malhuret",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "René Monory",
+  "cle": "rene-monory",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "François Lamy",
+  "cle": "francois-lamy",
+  "hits": 0,
+  "wikiK": 40
+ },
+ {
+  "nom": "Louis Ignacio-Pinto",
+  "cle": "louis-ignacio-pinto",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Jean-Marie Bockel",
+  "cle": "jean-marie-bockel",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Jean-Noël Jeanneney",
+  "cle": "jean-noel-jeanneney",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Frédéric Joliot-Curie",
+  "cle": "frederic-joliot-curie",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Geneviève Darrieussecq",
+  "cle": "genevieve-darrieussecq",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Jean Sarkozy",
+  "cle": "jean-sarkozy",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Alain Rodet",
+  "cle": "alain-rodet",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Françoise de Panafieu",
+  "cle": "francoise-de-panafieu",
+  "hits": 0,
+  "wikiK": 39
+ },
+ {
+  "nom": "Joël Giraud",
+  "cle": "joel-giraud",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "André Laignel",
+  "cle": "andre-laignel",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Maud Fontenoy",
+  "cle": "maud-fontenoy",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Luc Chatel",
+  "cle": "luc-chatel",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Jean Félix-Tchicaya",
+  "cle": "jean-felix-tchicaya",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Philippe Bas",
+  "cle": "philippe-bas",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Marie-George Buffet",
+  "cle": "marie-george-buffet",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Christelle Morançais",
+  "cle": "christelle-morancais",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Younous Omarjee",
+  "cle": "younous-omarjee",
+  "hits": 0,
+  "wikiK": 38
+ },
+ {
+  "nom": "Christine Albanel",
+  "cle": "christine-albanel",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Louis Vogel",
+  "cle": "louis-vogel",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Julien Denormandie",
+  "cle": "julien-denormandie",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Hervé Novelli",
+  "cle": "herve-novelli",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Maurice Couve de Murville",
+  "cle": "maurice-couve-de-murville",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Georges Lemoine",
+  "cle": "georges-lemoine",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Aurélien Rousseau",
+  "cle": "aurelien-rousseau",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Pierre Jouvet",
+  "cle": "pierre-jouvet",
+  "hits": 0,
+  "wikiK": 37
+ },
+ {
+  "nom": "Roger Chudeau",
+  "cle": "roger-chudeau",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Charles Beigbeder",
+  "cle": "charles-beigbeder",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Déwé Gorodey",
+  "cle": "dewe-gorodey",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Chantal Jouanno",
+  "cle": "chantal-jouanno",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Valérie Fourneyron",
+  "cle": "valerie-fourneyron",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "George Pau-Langevin",
+  "cle": "george-pau-langevin",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Patricia Gallerneau",
+  "cle": "patricia-gallerneau",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Alain Lazare",
+  "cle": "alain-lazare",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Raymond Marcellin",
+  "cle": "raymond-marcellin",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Olivier Coipel",
+  "cle": "olivier-coipel",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Jean-François Deniau",
+  "cle": "jean-francois-deniau",
+  "hits": 0,
+  "wikiK": 36
+ },
+ {
+  "nom": "Yann Wehrling",
+  "cle": "yann-wehrling",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "Guillaume Kasbarian",
+  "cle": "guillaume-kasbarian",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "Maurice Trintignant",
+  "cle": "maurice-trintignant",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "Marc Fesneau",
+  "cle": "marc-fesneau",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "Patrick Kanner",
+  "cle": "patrick-kanner",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "Saad Hariri",
+  "cle": "saad-hariri",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "André Morice",
+  "cle": "andre-morice",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "Clémence Guetté",
+  "cle": "clemence-guette",
+  "hits": 0,
+  "wikiK": 35
+ },
+ {
+  "nom": "Rachel Keke",
+  "cle": "rachel-keke",
+  "hits": 0,
+  "wikiK": 35
+ }
+]

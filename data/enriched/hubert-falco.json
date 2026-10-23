@@ -1,0 +1,39 @@
+{
+  "nom": "Hubert Falco",
+  "wikiTitle": "Hubert Falco",
+  "touched": "2026-10-21T20:23:15Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire du frigo (recel de détournement de fonds publics)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "RECEL",
+      "prisonTotal": 18,
+      "prisonFerme": 0,
+      "amende": 30000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2023/04/14/hubert-falco-dechu-de-ses-mandats-par-la-justice-qui-souligne-un-mepris-des-regles-et-une-volonte-d-echapper-a-certaines-realites_6169594_3224.html",
+        "https://www.nicematin.com/justice/lancien-maire-de-toulon-hubert-falco-condamne-en-appel-a-5-ans-dineligibilite-921078",
+        "https://www.lemonde.fr/politique/article/2025/05/28/municipales-2026-l-ineligibilite-d-hubert-falco-ex-maire-de-toulon-confirmee-par-la-cour-de-cassation_6609002_823448.html",
+        "https://www.ici.fr/infos/faits-divers-justice/affaire-du-frigo-une-lueur-d-espoir-pour-hubert-falco-apres-l-audience-devant-la-cour-de-cassation-2461485"
+      ]
+    },
+    {
+      "titre": "Injure publique envers un journaliste",
+      "annee": 2025,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2025/05/23/hubert-falco-ex-maire-de-toulon-condamne-pour-insultes-envers-un-journaliste-de-mediapart_6607947_3224.html",
+        "https://www.arretsurimages.net/articles/ne-pas-laisser-passer-injurie-un-journaliste-porte-plainte-contre-hubert-falco",
+        "https://www.bfmtv.com/var/toulon-l-ex-maire-hubert-falco-juge-pour-injures-contre-un-journaliste_AD-202505160522.html"
+      ]
+    }
+  ]
+}

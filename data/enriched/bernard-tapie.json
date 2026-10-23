@@ -1,0 +1,61 @@
+{
+  "nom": "Bernard Tapie",
+  "wikiTitle": "Bernard Tapie",
+  "touched": "2026-10-19T10:10:19Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire Cœur Assistance (publicité mensongère)",
+      "annee": 1981,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": ["https://fr.wikipedia.org/wiki/Bernard_Tapie"]
+    },
+    {
+      "titre": "Affaire VA-OM (corruption et subornation de témoins)",
+      "annee": 1996,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "CORRUPTION_ACTIVE",
+      "prisonTotal": 24,
+      "prisonFerme": 8,
+      "amende": 3049,
+      "ineligibilite": 36,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Affaire_VA-OM",
+        "https://fr.wikipedia.org/wiki/Bernard_Tapie"
+      ]
+    },
+    {
+      "titre": "Affaire Testut (abus de biens sociaux)",
+      "annee": 1996,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "ABUS_BIENS_SOCIAUX",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 45732,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.lemonde.fr/archives/article/1996/03/19/les-malversations-de-l-affaire-testut-conduisent-bernard-tapie-devant-le-tribunal-de-bethune_441697",
+        "https://fr.wikipedia.org/wiki/Bernard_Tapie"
+      ]
+    },
+    {
+      "titre": "Affaire du Phocéa (fraude fiscale et abus de biens sociaux)",
+      "annee": 1997,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 48,
+      "prisonFerme": 6,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.liberation.fr/france-archive/1996/06/01/tapie-prend-six-mois-ferme-dans-l-affaire-phocea-le-depute-europeen-annonce-son-intention-de-faire",
+        "https://fr.wikipedia.org/wiki/Bernard_Tapie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Dominique Strauss-Kahn",
+  "wikiTitle": "Dominique Strauss-Kahn",
+  "touched": "2026-10-20T10:30:58Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Pandora Papers — enquête préliminaire pour blanchiment de fraude fiscale aggravée",
+      "annee": 2022,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.france24.com/fr/france/20221215-pandora-papers-strauss-kahn-vis%C3%A9-par-une-enqu%C3%AAte-pour-blanchiment-de-fraude-fiscale-aggrav%C3%A9e",
+        "https://www.franceinfo.fr/economie/fraude/pandora-papers/pandora-papers-dominique-strauss-kahn-vise-par-une-enquete-pour-blanchiment-de-fraude-fiscale-aggravee_5544711.html"
+      ]
+    }
+  ]
+}

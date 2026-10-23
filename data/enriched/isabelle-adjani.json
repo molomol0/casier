@@ -1,0 +1,23 @@
+{
+  "nom": "Isabelle Adjani",
+  "wikiTitle": "Isabelle Adjani",
+  "touched": "2026-10-22T12:48:52Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire Panama Papers (fraude fiscale aggravée et blanchiment)",
+      "annee": 2026,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 10,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/culture/article/2026/07/01/l-actrice-isabelle-adjani-condamnee-en-appel-a-une-peine-reduite-a-dix-mois-de-prison-avec-sursis-pour-fraude-fiscale-aggravee_6717547_3246.html",
+        "https://www.bfmtv.com/people/cinema/isabelle-adjani-condamnee-a-2-ans-de-prison-avec-sursis-et-250-000-euros-d-amende-pour-fraude-fiscale_AD-202312140563.html",
+        "https://www.lemonde.fr/societe/article/2023/07/19/isabelle-adjadi-sera-jugee-en-octobre-pour-fraude-fiscale-et-blanchiment_6182548_3224.html"
+      ]
+    }
+  ]
+}

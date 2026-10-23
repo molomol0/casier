@@ -1,0 +1,24 @@
+{
+ "nom": "Ghislaine Maxwell",
+ "wikiTitle": "Ghislaine Maxwell",
+ "touched": "2026-10-22T15:02:25Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire Epstein (trafic sexuel de mineures)",
+   "annee": 2022,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "AGRESSION_SEXUELLE",
+   "prisonTotal": 240,
+   "prisonFerme": 240,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.france24.com/fr/am%C3%A9riques/20250730-affaire-epstein-ghislaine-maxwell-de-la-mondanit%C3%A9-britannique-%C3%A0-la-case-prison",
+    "https://ici.radio-canada.ca/nouvelle/2182097/trump-epstein-distances-maxwell-murdoch",
+    "https://www.lefigaro.fr/international/affaire-epstein-ghislaine-maxwell-reconnue-coupable-de-crimes-sexuels-par-un-tribunal-de-new-york-20211229",
+    "https://www.lemonde.fr/international/article/2022/06/28/affaire-jeffrey-epstein-ghislaine-maxwell-condamnee-a-20-ans-de-prison-pour-crimes-sexuels_6132422_3210.html"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "nom": "Earvin Ngapeth",
+  "wikiTitle": "Earvin Ngapeth",
+  "touched": "2026-10-22T12:52:58Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Rixe en discothèque à Montpellier",
+      "annee": 2014,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 3,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lepoint.fr/justice/earvin-ngapeth-la-star-du-volley-condamne-a-3-mois-de-prison-avec-sursis-04-04-2016-2029822_2386.php"
+      ]
+    },
+    {
+      "titre": "Accident de voiture et délit de fuite en Italie",
+      "annee": 2018,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lequipe.fr/Volley-ball/Actualites/Un-an-de-prison-avec-sursis-pour-earvin-ngapeth/903492",
+        "https://www.letelegramme.fr/volley/justice-un-an-de-prison-avec-sursis-pour-ngapeth-22-05-2018-11967169.php"
+      ]
+    }
+  ]
+}

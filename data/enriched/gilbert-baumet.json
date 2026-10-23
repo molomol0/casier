@@ -1,0 +1,36 @@
+{
+  "nom": "Gilbert Baumet",
+  "wikiTitle": "Gilbert Baumet",
+  "touched": "2026-10-20T17:22:34Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Destruction de l'hôtel de Lisleroy, monument historique classé",
+      "annee": 1978,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Gilbert_Baumet",
+        "https://www.persee.fr/doc/rjenv_0397-0299_1978_num_3_3_1375"
+      ]
+    },
+    {
+      "titre": "Favoritisme — attribution de marchés publics sans appel d'offres",
+      "annee": 2019,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 6,
+      "prisonFerme": 6,
+      "amende": 15000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2017/01/27/l-ex-ministre-socialiste-gilbert-baumet-condamne-a-quatre-mois-de-prison-ferme-pour-favoritisme_5069955_3224.html",
+        "https://www.lemonde.fr/societe/article/2019/01/17/l-ancien-ministre-socialiste-gilbert-baumet-condamne-a-six-mois-de-prison-ferme-en-appel-pour-favoritisme_5410631_3224.html"
+      ]
+    }
+  ]
+}

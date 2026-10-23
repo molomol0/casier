@@ -1,0 +1,23 @@
+{
+  "nom": "Thérèse Aillaud",
+  "wikiTitle": "Thérèse Aillaud",
+  "touched": "2026-10-20T17:28:18Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Détournement de fonds publics — commune de Tarascon",
+      "annee": 2002,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 18,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 60,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Aillaud",
+        "https://www.liberation.fr/societe/2001/02/08/la-maire-de-tarascon-condamnee-pour-detournement_353853",
+        "http://www.lefigaro.fr/flash-actu/2015/02/26/97001-20150226FILWWW00290-mort-de-therese-aillaud-ancienne-deputee-maire-de-tarascon.php"
+      ]
+    }
+  ]
+}

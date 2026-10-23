@@ -1,0 +1,24 @@
+{
+ "nom": "Michèle Alliot-Marie",
+ "wikiTitle": "Michèle Alliot-Marie",
+ "touched": "2026-10-19T10:10:02Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Prise illégale d'intérêts — subventions à l'Office de tourisme de Saint-Jean-de-Luz",
+   "annee": 2024,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "PRISE_ILLEGALE_INTERETS",
+   "prisonTotal": 6,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.ici.fr/infos/faits-divers-justice/michele-alliot-marie-condamnee-a-six-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets-8172538",
+    "https://www.lemonde.fr/politique/article/2024/09/06/l-ex-ministre-michele-alliot-marie-condamnee-a-six-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6305678_823448.html",
+    "https://www.mediapart.fr/journal/france/261023/l-ex-ministre-de-la-justice-michele-alliot-marie-sur-la-route-d-un-proces-pour-prise-illegale-d-interets",
+    "https://www.lemonde.fr/societe/article/2019/02/26/michele-alliot-marie-mise-en-examen-pour-prise-illegale-d-interet_5428568_3224.html"
+   ]
+  }
+ ]
+}

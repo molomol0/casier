@@ -1,0 +1,22 @@
+{
+  "nom": "Jean Anciant",
+  "wikiTitle": "Jean Anciant",
+  "touched": "2026-10-20T17:25:12Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire Oise Habitat (détournement de fonds publics)",
+      "annee": 2001,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 8,
+      "prisonFerme": 0,
+      "amende": 4573,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean_Anciant",
+        "http://www.leparisien.fr/creil-60100/l-ex-depute-et-maire-de-creil-pendant-plus-de-vingt-ans-jean-anciant-est-decede-31-03-2017-6813945.php"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+ "nom": "Jan Guillou",
+ "wikiTitle": "Jan Guillou",
+ "touched": "2026-10-22T12:52:10Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire IB — espionnage (activités de renseignement illégales)",
+   "annee": 1974,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 10,
+   "prisonFerme": 10,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://en.wikipedia.org/wiki/IB_affair",
+    "https://fr.wikipedia.org/wiki/Jan_Guillou"
+   ]
+  }
+ ]
+}

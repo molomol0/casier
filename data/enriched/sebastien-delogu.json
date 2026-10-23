@@ -1,0 +1,53 @@
+{
+  "nom": "Sébastien Delogu",
+  "wikiTitle": "Sébastien Delogu",
+  "touched": "2026-10-22T01:37:20Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Condamnation pour violences volontaires sur des membres du personnel de l'éducation nationale (lycée Saint-Exupéry, 2023)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 5000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/marseille/marseille-sebastien-delogu-condamne-a-5000-euros-d-amende-pour-des-violences-20250214",
+        "https://www.mediapart.fr/journal/france/140225/marseille-le-depute-insoumis-sebastien-delogu-condamne-5-000-euros-d-amende-pour-violences-volontaires",
+        "https://www.leparisien.fr/faits-divers/le-depute-lfi-de-marseille-sebastien-delogu-condamne-a-5000-euros-damende-pour-violences-aggravees-14-02-2025-UNSEV4KAHFHU7KWUL6NQXN4NC4.php"
+      ]
+    },
+    {
+      "titre": "Procès pour recel de vol et divulgation d'informations privées (documents volés à Isidore Aragones)",
+      "annee": 2026,
+      "statut": "PROCES_EN_COURS",
+      "categorie": "RECEL",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.leparisien.fr/faits-divers/le-depute-lfi-sebastien-delogu-renvoye-en-correctionnelle-09-01-2026-E5NTNK2CWBAA5ODAX3Q6KKKGY4.php",
+        "https://www.franceinfo.fr/faits-divers/justice-proces/cinq-ans-d-ineligibilite-requis-contre-le-depute-lfi-sebastien-delogu-pour-recel-et-divulgation-d-informations-privees_8247868.html",
+        "https://www.laprovence.com/article/faits-divers-justice/2028000438691914/marseille-prison-avec-sursis-et-5-ans-dineligibilite-avec-execution-provisoire-requis-contre-sebastien-delogu?id=2028000438691914"
+      ]
+    },
+    {
+      "titre": "Procès pour outrage à agents (altercation avec trois policiers, août 2026)",
+      "annee": 2026,
+      "statut": "PROCES_EN_COURS",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.rtl.fr/actu/justice-faits-divers/sebastien-delogu-place-en-garde-a-vue-apres-son-altercation-avec-des-policiers-a-marseille-7900665822",
+        "https://www.bfmtv.com/police-justice/le-depute-insoumis-sebastien-delogu-place-en-garde-a-vue-apres-son-altercation-avec-des-policiers_AD-202608270510.html",
+        "https://www.ladepeche.fr/2026/08/28/sebastien-delogu-tout-va-bien-8h-de-garde-a-vue-pour-le-depute-lfi-il-sera-juge-pour-outrage-en-novembre-13526544.php"
+      ]
+    }
+  ]
+}

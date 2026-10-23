@@ -1,0 +1,23 @@
+{
+  "nom": "François Asselineau",
+  "wikiTitle": "François Asselineau",
+  "touched": "2026-10-19T17:25:04Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire des ex-collaborateurs de l'UPR (harcèlement sexuel, harcèlement moral et agressions sexuelles)",
+      "annee": 2026,
+      "statut": "RENVOI_TRIBUNAL",
+      "categorie": "AGRESSION_SEXUELLE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/politique/article/2026/05/19/francois-asselineau-renvoye-en-proces-pour-agression-et-harcelement-sexuels_6691492_823448.html",
+        "https://www.lemonde.fr/politique/article/2021/02/05/le-president-de-l-upr-et-ancien-candidat-a-la-presidentielle-francois-asselineau-mis-en-examen-pour-harcelement-et-agressions-sexuelles_6068927_823448.html",
+        "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau"
+      ]
+    }
+  ]
+}

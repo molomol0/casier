@@ -1,0 +1,21 @@
+{
+ "nom": "Jean-Noël Guérini",
+ "wikiTitle": "Jean-Noël Guérini",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Prise illégale d'intérêts, trafic d'influence et association de malfaiteurs (affaire Guérini)",
+   "annee": 2022,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "PRISE_ILLEGALE_INTERETS",
+   "prisonTotal": 18,
+   "prisonFerme": 18,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Jean-No%C3%ABl_Gu%C3%A9rini"
+   ]
+  }
+ ]
+}

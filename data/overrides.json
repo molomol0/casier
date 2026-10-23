@@ -1,0 +1,3 @@
+{
+  "_doc": "Affaires manquantes des sources automatiques, ajoutées à la main (fusionnées dans la base EXTERNE de référence par build-dataset-externes.mjs — la base du jeu n'utilise que data/enriched/). Clé = nom exact de la personnalité. Ne mettre que des faits sourcés ; les condamnations civiles sont hors périmètre. NB : les deux anciens overrides Bernard Tapie (caméra France 3, comptes OM) ont été retirés le 2026-10-20 — invalidés par l'agent d'enrichissement faute de source vérifiable."
+}

@@ -1,0 +1,36 @@
+{
+  "nom": "Harold Martin",
+  "wikiTitle": "Harold Martin",
+  "touched": "2026-10-20T17:24:01Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire de la défiscalisation 3G (favoritisme et prise illégale d'intérêts)",
+      "annee": 2015,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 24,
+      "prisonFerme": 12,
+      "amende": 0,
+      "ineligibilite": 60,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Harold_Martin",
+        "http://www.lnc.nc/article/pays/justice/prison-ferme-pour-la-defisc"
+      ]
+    },
+    {
+      "titre": "Affaire des achats de voix aux élections municipales de Païta 2014 (obtention de suffrage par don)",
+      "annee": 2020,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "CORRUPTION_ACTIVE",
+      "prisonTotal": 24,
+      "prisonFerme": 12,
+      "amende": 13000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.ouest-france.fr/monde/nouvelle-caledonie/nouvelle-caledonie-un-maire-et-un-ancien-maire-condamnes-pour-achat-de-voix-6414142",
+        "https://fr.wikipedia.org/wiki/Harold_Martin"
+      ]
+    }
+  ]
+}

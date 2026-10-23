@@ -1,0 +1,52 @@
+{
+ "nom": "Stéphane Ravier",
+ "wikiTitle": "Stéphane Ravier",
+ "touched": "2026-10-21T20:28:12Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire de prise illégale d'intérêts (emploi du fils à la mairie de secteur)",
+   "annee": 2026,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "PRISE_ILLEGALE_INTERETS",
+   "prisonTotal": 6,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 12,
+   "sources": [
+    "https://www.lemonde.fr/politique/article/2024/05/29/le-senateur-de-reconquete-stephane-ravier-condamne-a-six-mois-de-prison-avec-sursis-et-ineligibilite-d-un-an-pour-prise-illegale-d-interets_6236149_823448.html",
+    "https://www.liberation.fr/politique/stephane-ravier-condamne-pour-prise-illegale-dinterets-mais-reste-senateur-20240529_RBSCQ6OFB5FP3MOASD5BRR6F5M/",
+    "https://www.liberation.fr/politique/le-senateur-dextreme-droite-stephane-ravier-condamne-dans-un-dossier-juge-dans-un-autre-20260210_7BNEVDDERFASHPRTOYE5VJ56OE/"
+   ]
+  },
+  {
+   "titre": "Affaire de favoritisme dans les marchés publics de la mairie de secteur de Marseille",
+   "annee": 2026,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "FAVORITISME",
+   "prisonTotal": 3,
+   "prisonFerme": 0,
+   "amende": 5000,
+   "ineligibilite": 12,
+   "sources": [
+    "https://www.lemonde.fr/societe/article/2026/02/17/pourquoi-le-senateur-d-extreme-droite-stephane-ravier-a-ete-condamne-pour-favoritisme_6667122_3224.html",
+    "https://www.lemonde.fr/societe/article/2026/02/17/stephane-ravier-senateur-d-extreme-droite-condamne-a-un-an-d-ineligibilite-pour-favoritisme_6667083_3224.html",
+    "https://www.laprovence.com/article/faits-divers-justice/4993949966959514/stephane-ravier-senateur-dextreme-droite-condamne-a-un-an-dineligibilite-pour-favoritisme?id=4993949966959514"
+   ]
+  },
+  {
+   "titre": "Enquête pour financement illégal de campagne électorale (affaire Stérin/RN)",
+   "annee": 2025,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://marsactu.fr/bref/stephane-ravier-entendu-dans-le-cadre-dune-enquete-pour-financement-illegal-du-rn/",
+    "https://www.lemonde.fr/les-decodeurs/article/2025/07/10/le-milliardaire-pierre-edouard-sterin-au-c-ur-d-une-enquete-sur-le-financement-illegal-de-candidats-du-rn_6620450_4355770.html"
+   ]
+  }
+ ]
+}

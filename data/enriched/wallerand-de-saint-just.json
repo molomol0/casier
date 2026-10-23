@@ -1,0 +1,39 @@
+{
+ "nom": "Wallerand de Saint-Just",
+ "wikiTitle": "Wallerand de Saint-Just",
+ "touched": "2026-10-21T20:24:33Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire Jeanne (recel d'abus de biens sociaux lors des législatives 2012)",
+   "annee": 2023,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "RECEL",
+   "prisonTotal": 6,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 24,
+   "sources": [
+    "https://www.courrier-picard.fr/id92361/article/2020-06-16/financement-electoral-le-fn-condamne-pour-recel-dabus-de-biens-sociaux",
+    "https://www.liberation.fr/politique/elections/kits-de-campagne-le-rn-condamne-a-250-000-euros-damende-en-appel-20230315_W7FRBDHRY5HRXG6ZRRAOMI2XUY/",
+    "https://www.francebleu.fr/infos/faits-divers-justice/le-conseiller-regional-d-ile-de-france-wallerand-de-saint-just-condamne-a-une-peine-d-ineligibilite-immediate-1090400"
+   ]
+  },
+  {
+   "titre": "Affaire des assistants parlementaires du FN/RN au Parlement européen (complicité de détournement de fonds publics)",
+   "annee": 2026,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 36,
+   "prisonFerme": 0,
+   "amende": 50000,
+   "ineligibilite": 12,
+   "sources": [
+    "https://www.lemonde.fr/societe/article/2024/11/05/au-proces-des-assistants-parlementaires-du-fn-wallerand-de-saint-just-se-defend-peniblement-je-crois-bien-que-marine-sait-tout-cela_6376576_3224.html",
+    "https://www.france24.com/fr/info-en-continu/20250908-rn-le-proc%C3%A8s-en-appel-des-assistants-parlementaires-europ%C3%A9ens-d%C3%A9butera-le-13-janvier-2026",
+    "https://www.nouvelobs.com/justice/20260211.OBS112311/proces-des-assistants-parlementaires-du-rn-une-decision-vertigineuse-attendue-le-7-juillet.html",
+    "https://www.lefigaro.fr/politique/affaires-des-assistants-parlementaires-louis-aliot-condamne-a-deux-ans-d-ineligibilite-avec-sursis-peut-rester-maire-de-perpignan-20260707"
+   ]
+  }
+ ]
+}

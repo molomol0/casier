@@ -1,0 +1,23 @@
+{
+  "nom": "Joël Wilmotte",
+  "wikiTitle": "Joël Wilmotte",
+  "touched": "2026-10-20T17:24:56Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des mariages musulmans à Hautmont — discrimination raciale et religieuse dans l'exercice des fonctions d'officier d'état civil",
+      "annee": 2005,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 8,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jo%C3%ABl_Wilmotte",
+        "https://tempsreel.nouvelobs.com/politique/20040413.OBS7574/racisme-un-maire-ump-condamne.html",
+        "http://www.liberation.fr/societe/2005/09/07/joel-wilmotte-maire-pas-catholique-condamne_531542"
+      ]
+    }
+  ]
+}

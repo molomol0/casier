@@ -1,0 +1,93 @@
+{
+  "nom": "Alain Ferrand",
+  "wikiTitle": "Alain Ferrand",
+  "touched": "2026-10-20T17:34:08Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Abus de biens sociaux et recel — casinos et holding Grand-Sud",
+      "annee": 1999,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "ABUS_BIENS_SOCIAUX",
+      "prisonTotal": 36,
+      "prisonFerme": 0,
+      "amende": 45735,
+      "ineligibilite": 36,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Ferrand",
+        "https://www.lemonde.fr/archives/article/1992/03/20/trois-responsables-du-casino-de-lons-le-saulnier-inculpes_3879798_1819218.html"
+      ]
+    },
+    {
+      "titre": "Prise illégale d'intérêts — commissions sur placement de la Semeta",
+      "annee": 1999,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 60,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Ferrand",
+        "https://www.lemonde.fr/m-gens-portrait/article/2016/12/09/alain-et-joelle-ferrand-les-balkany-du-roussillon_5046413_4497229.html"
+      ]
+    },
+    {
+      "titre": "Fraude fiscale dans ses entreprises",
+      "annee": 2001,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 18,
+      "prisonFerme": 3,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Ferrand",
+        "https://www.lemonde.fr/m-gens-portrait/article/2016/12/09/alain-et-joelle-ferrand-les-balkany-du-roussillon_5046413_4497229.html"
+      ]
+    },
+    {
+      "titre": "Faux et usage de faux",
+      "annee": 2006,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FAUX_ET_USAGE_FAUX",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Alain_Ferrand"
+      ]
+    },
+    {
+      "titre": "Mise en examen pour extorsion en bande organisée et complicité de destruction de preuves",
+      "annee": 2021,
+      "statut": "MISE_EN_EXAMEN",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.francetvinfo.fr/politique/affaire/enquete-franceinfo-le-barcares-ses-plages-son-casino-et-son-maire-mis-en-examen-pour-extorsion_4908397.html",
+        "https://www.lindependant.fr/2021/05/06/le-barcares-le-maire-alain-ferrand-et-son-premier-adjoint-mis-en-examen-pour-extorsion-en-bande-organisee-9529998.php",
+        "https://www.ladepeche.fr/2022/01/25/pyrenees-orientales-le-maire-du-barcares-alain-ferrand-ecroue-pour-violation-de-son-controle-judiciaire-10068298.php"
+      ]
+    },
+    {
+      "titre": "Renvoi en correctionnelle pour prise illégale d'intérêts, concussion et favoritisme — marché de Noël du Barcarès 2018-2019",
+      "annee": 2024,
+      "statut": "RENVOI_TRIBUNAL",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ici.fr/infos/faits-divers-justice/le-proces-du-maire-du-barcares-de-nouveau-renvoye-a-juin-2025-5932415",
+        "https://www.lindependant.fr/2024/04/29/exclusif-le-maire-du-barcares-alain-ferrand-interpelle-a-sa-descente-davion-a-montpellier-et-place-en-garde-a-vue-11921279.php",
+        "https://www.lindependant.fr/2024/05/01/chalets-du-village-de-noel-le-maire-du-barcares-ecroue-cest-un-guet-apens-qui-a-ete-organise-pour-labattre-sindigne-son-avocat-me-phung-11923725.php"
+      ]
+    }
+  ]
+}

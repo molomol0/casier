@@ -1,0 +1,38 @@
+{
+ "nom": "Jack Lang",
+ "wikiTitle": "Jack Lang",
+ "touched": "2026-10-19T10:09:56Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Costumes Smalto – abus de biens sociaux",
+   "annee": 2019,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "ABUS_BIENS_SOCIAUX",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "http://www.lefigaro.fr/actualite-france/costumes-offerts-a-jack-lang-enquete-ouverte-pour-abus-de-biens-sociaux-20190502",
+    "https://www.lopinion.fr/edition/politique/l-ancien-ministre-jack-lang-vise-enquete-abus-biens-sociaux-185797"
+   ]
+  },
+  {
+   "titre": "Affaire Epstein – blanchiment de fraude fiscale aggravée",
+   "annee": 2026,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "FRAUDE_FISCALE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/actualite-france/epstein-le-parquet-national-financier-ouvre-une-enquete-preliminaire-contre-caroline-lang-pour-blanchiment-de-fraude-fiscale-aggravee-20260206",
+    "https://www.mediapart.fr/journal/international/020226/les-intenses-liens-financiers-de-jeffrey-epstein-avec-la-famille-lang",
+    "https://www.mediapart.fr/journal/france/060226/jack-est-pleinement-implique-de-nouveaux-documents-minent-la-defense-de-jack-lang-dans-l-affaire-epstein",
+    "https://www.liberation.fr/politique/les-epstein-files-et-jack-lang-recit-dune-semaine-de-revelations-et-de-pressions-20260207_HO2HXPHO25EUVMG2UL4PIFSKS4/"
+   ]
+  }
+ ]
+}

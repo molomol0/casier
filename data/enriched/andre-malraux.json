@@ -1,0 +1,23 @@
+{
+  "nom": "André Malraux",
+  "wikiTitle": "André Malraux",
+  "touched": "2026-10-20T08:59:50Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Vol et recel de bas-reliefs du temple de Banteay Srei (Cambodge)",
+      "annee": 1924,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "RECEL",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.retronews.fr/arts/echo-de-presse/2019/04/12/jeune-malraux-comdamne-pour-vol",
+        "http://www.capsurlemonde.org/cambodge/angkor/malraux.html",
+        "https://www.lemonde.fr/a-la-une/article/2013/08/12/andre-malraux-au-cambodge-le-pilleur-de-banteay-srei_3460441_3208.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Casier — le jeu du casier judiciaire des politiques</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Écran d'accueil -->
+  <div id="screen-home" class="screen">
+    <div class="wrap">
+      <header class="brand">
+        <h1 class="wordmark">Casier</h1>
+        <p class="tagline">Le casier judiciaire des personnalités françaises. Deux cartes, une question : qui en a le plus ?</p>
+      </header>
+
+      <div id="univers-row" class="univers hidden"></div>
+
+      <section class="block">
+        <h3 class="filter-label">Comparer sur</h3>
+        <div id="mode-seg" class="segmented segmented-block" role="radiogroup"></div>
+        <p id="mode-hint" class="mode-hint"></p>
+      </section>
+
+      <button id="btn-play" class="btn-primary btn-play">Jouer</button>
+      <p id="pool-count" class="pool-count"></p>
+
+      <details class="panel options">
+        <summary>Options de partie</summary>
+        <div class="panel-body">
+          <div class="filter-col">
+            <h3 class="filter-label">Qui peut apparaître</h3>
+            <div class="segmented" role="radiogroup">
+              <label><input type="radio" name="min-affaires" value="1" checked /><span>Tout le monde</span></label>
+              <label><input type="radio" name="min-affaires" value="3" /><span>Au moins 3 affaires</span></label>
+              <label><input type="radio" name="min-affaires" value="4" /><span>Au moins 4 affaires</span></label>
+            </div>
+          </div>
+          <div class="filter-col">
+            <h3 class="filter-label">Affaires comptées</h3>
+            <div class="chips">
+              <label class="chip"><input type="checkbox" class="chk-statut" value="definitive" checked /><span>Condamnations définitives</span></label>
+              <label class="chip"><input type="checkbox" class="chk-statut" value="appel" checked /><span>En appel / pourvoi</span></label>
+              <label class="chip"><input type="checkbox" class="chk-statut" value="encours" checked /><span>Affaires en cours</span></label>
+            </div>
+          </div>
+          <label class="zen-opt">
+            <input type="checkbox" id="chk-zen" />
+            <span>Jouer sans perdre : une erreur n'arrête pas la partie</span>
+          </label>
+        </div>
+      </details>
+
+      <button id="btn-browse" class="btn-ghost btn-wide">Explorer l'annuaire complet →</button>
+
+      <details class="panel disclaimer">
+        <summary>Comment lire les statuts · sources · mentions</summary>
+        <div class="panel-body disclaimer-body">
+          <ul>
+            <li><strong>Condamnation définitive</strong> — jugement rendu et recours épuisés (ou non exercés) : la culpabilité est établie.</li>
+            <li><strong>Condamnation en appel / pourvoi</strong> — condamnation prononcée mais contestée : elle peut encore être annulée ou réformée.</li>
+            <li><strong>Mise en examen</strong> — un juge estime qu'il existe des indices graves ou concordants ; <em>la personne reste présumée innocente</em>.</li>
+            <li><strong>Enquête, instruction, procès en cours</strong> — procédure non jugée : <em>présomption d'innocence pleine et entière</em>.</li>
+          </ul>
+          <p>
+            Les relaxes, non-lieux et classements sans suite ne figurent jamais dans les comptes.
+            Données construites à partir de <a href="https://fr.wikipedia.org" target="_blank" rel="noopener">Wikipédia</a>,
+            <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a> et de la presse citée en référence.
+            Projet citoyen à but informatif, sans affiliation politique.
+          </p>
+        </div>
+      </details>
+    </div>
+  </div>
+
+  <!-- Écran de jeu -->
+  <div id="screen-game" class="screen hidden">
+    <header class="hud">
+      <button id="btn-quit" class="icon-btn" title="Retour au menu">←</button>
+      <span id="hud-mode"></span>
+      <span class="score">Score <strong id="hud-score">0</strong> · <span id="hud-best-label">Record</span> <strong id="hud-best">0</strong></span>
+    </header>
+    <main class="duel">
+      <section class="card revealed" id="card-left"></section>
+      <div class="duel-sep"><span>vs</span></div>
+      <section class="card" id="card-right"></section>
+    </main>
+  </div>
+
+  <!-- Écran annuaire -->
+  <div id="screen-browse" class="screen hidden">
+    <header class="hud">
+      <button id="btn-browse-back" class="icon-btn" title="Retour au menu">←</button>
+      <input id="browse-search" type="search" placeholder="Rechercher un nom, un parti…" autocomplete="off" />
+      <span id="browse-count"></span>
+    </header>
+    <div class="browse-filters">
+      <select id="f-univers" aria-label="Univers">
+        <option value="tout">Tous univers</option>
+        <option value="politique">Politiques</option>
+        <option value="celebrite">Célébrités</option>
+      </select>
+      <select id="f-min" aria-label="Nombre minimum d'affaires">
+        <option value="0">Toutes affaires</option>
+        <option value="1">≥ 1 affaire</option>
+        <option value="2">≥ 2 affaires</option>
+        <option value="3">≥ 3 affaires</option>
+        <option value="4">≥ 4 affaires</option>
+        <option value="5">≥ 5 affaires</option>
+      </select>
+      <select id="f-statut" aria-label="Statut">
+        <option value="tout">Tous statuts</option>
+        <option value="definitive">Condamnation définitive</option>
+        <option value="appel">En appel</option>
+        <option value="encours">Procédure en cours</option>
+      </select>
+      <select id="f-sort" aria-label="Tri">
+        <option value="aff">Tri : + d'affaires</option>
+        <option value="nom">Tri : A → Z</option>
+      </select>
+    </div>
+    <main id="browse-list" class="browse-list"></main>
+  </div>
+
+  <!-- Écran de fin -->
+  <div id="screen-over" class="screen over hidden">
+    <div class="wrap over-box">
+      <h2 id="over-title">Perdu</h2>
+      <p id="over-summary"></p>
+      <div class="over-actions">
+        <button id="btn-retry" class="btn-primary">Rejouer</button>
+        <button id="btn-home" class="btn-ghost">Menu</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="dataset.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+{
+  "nom": "Claude Guéant",
+  "wikiTitle": "Claude Guéant",
+  "touched": "2026-10-21T20:21:14Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des primes en liquide (détournement de fonds publics)",
+      "annee": 2019,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 24,
+      "prisonFerme": 12,
+      "amende": 75000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.20minutes.fr/justice/2426647-20190116-affaire-primes-liquide-claude-gueant-definitivement-condamne-an-ferme",
+        "https://www.lemonde.fr/societe/article/2021/12/13/claude-gueant-incarcere-en-application-de-sa-peine-dans-l-affaire-des-primes-en-liquide-du-ministere-de-l-interieur_6105846_3224.html"
+      ]
+    },
+    {
+      "titre": "Affaire des sondages de l'Élysée (favoritisme)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2022/01/21/sondages-de-l-elysee-claude-gueant-condamne-a-un-an-de-prison-dont-huit-mois-ferme_6110446_3224.html",
+        "https://www.lemonde.fr/politique/article/2025/11/04/affaire-des-sondages-de-l-elysee-claude-gueant-voit-sa-peine-reduite-en-appel-a-un-an-de-prison-avec-sursis_6651915_823448.html"
+      ]
+    },
+    {
+      "titre": "Affaire Sarkozy-Kadhafi (corruption passive, faux en écriture, trafic d'influence)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "CORRUPTION_PASSIVE",
+      "prisonTotal": 72,
+      "prisonFerme": 72,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/faits-divers/financement-libyen-claude-gueant-et-brice-hortefeux-reconnus-coupable-eric-woerth-relaxe-20250925",
+        "https://www.letelegramme.fr/france/financement-libyen-claude-gueant-nest-pas-en-capacite-de-comparaitre-au-proces-en-appel-selon-une-expertise-medicale-7006454.php"
+      ]
+    }
+  ]
+}

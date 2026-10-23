@@ -1,0 +1,51 @@
+{
+  "nom": "François Grosdidier",
+  "wikiTitle": "François Grosdidier",
+  "touched": "2026-10-21T20:19:42Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Détournement de biens publics (véhicule de fonction de la mairie de Woippy)",
+      "annee": 2015,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 6000,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.lcp.fr/actualites/politique/168465-detournement-de-biens-publics-6-000-euros-d-amende-pour-l-ump-grosdidier",
+        "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Grosdidier"
+      ]
+    },
+    {
+      "titre": "Prise illégale d'intérêts (réserve parlementaire / association Valeur Écologie)",
+      "annee": 2023,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 6,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.republicain-lorrain.fr/faits-divers-justice/2023/02/07/reserve-parlementaire-francois-grosdidier-condamne",
+        "https://actu.fr/grand-est/metz_57463/le-senateur-lr-moselle-francois-grosdidier-mis-examen-detournement-fonds-publics_21474589.html"
+      ]
+    },
+    {
+      "titre": "Détournement de fonds publics (rémunérations irrégulières à la mairie de Woippy)",
+      "annee": 2021,
+      "statut": "RENVOI_TRIBUNAL",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.huffingtonpost.fr/entry/le-maire-de-metz-mis-en-examen-pour-detournement-de-fonds-publics_fr_607e8319e4b04f350e75c1e9",
+        "https://www.lefigaro.fr/flash-actu/le-maire-de-metz-renvoye-en-correctionnelle-pour-detournement-de-fonds-et-prise-illegale-d-interets-20210831",
+        "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/le-maire-de-metz-francois-grosdidier-renvoye-devant-la-justice-pour-detournements-de-fonds-publics-3269789.html"
+      ]
+    }
+  ]
+}

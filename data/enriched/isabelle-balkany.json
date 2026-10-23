@@ -1,0 +1,37 @@
+{
+  "nom": "Isabelle Balkany",
+  "wikiTitle": "Isabelle Balkany",
+  "touched": "2026-10-20T17:25:06Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des employés municipaux (prise illégale d'intérêts)",
+      "annee": 1999,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 15,
+      "prisonFerme": 0,
+      "amende": 117386,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2007/02/13/m-balkany-maire-de-levallois-espere-obtenir-la-remise-gracieuse-d-une-dette_866753_3224.html",
+        "https://fr.wikipedia.org/wiki/Isabelle_Balkany"
+      ]
+    },
+    {
+      "titre": "Affaire Balkany (fraude fiscale et blanchiment de fraude fiscale)",
+      "annee": 2020,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 36,
+      "prisonFerme": 36,
+      "amende": 0,
+      "ineligibilite": 120,
+      "sources": [
+        "https://www.lepoint.fr/societe/et-les-policiers-emmenerent-patrick-balkany-a-la-sante-13-09-2019-2335540_23.php",
+        "http://www.leparisien.fr/hauts-de-seine-92/levallois-perret-patrick-balkany-reste-libre-04-03-2020-8272017.php",
+        "https://www.marianne.net/politique/info-marianne-isabelle-et-patrick-balkany-dechus-de-leurs-mandats-levallois"
+      ]
+    }
+  ]
+}

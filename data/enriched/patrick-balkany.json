@@ -1,0 +1,128 @@
+{
+  "nom": "Patrick Balkany",
+  "wikiTitle": "Patrick Balkany",
+  "touched": "2026-10-19T10:17:12Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Prise illégale d'intérêts — employés municipaux de Levallois-Perret rémunérés pour services personnels (1985-1995)",
+      "annee": 1997,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 15,
+      "prisonFerme": 0,
+      "amende": 30490,
+      "ineligibilite": 24,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Patrick_Balkany#Condamnation_pour_prise_ill%C3%A9gale_d%27int%C3%A9r%C3%AAts_%C3%A0_Levallois-Perret_en_1996",
+        "https://www.lemonde.fr/societe/article/2007/02/13/m-balkany-maire-de-levallois-espere-obtenir-la-remise-gracieuse-d-une-dette_866753_3224.html",
+        "http://www.lexpress.fr/actualite/politique/ces-elus-condamnes-et-reelus_769221.html"
+      ]
+    },
+    {
+      "titre": "Diffamation contre Annie Mandois — accusations d'utilisation de fonds publics à des fins partisanes en plein conseil municipal",
+      "annee": 2004,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.nouvelobs.com/politique/20030902.OBS5779/balkany-condamne-pour-injures-et-diffamation.html",
+        "http://www.leparisien.fr/hauts-de-seine/patrick-balkany-condamne-pour-injure-03-09-2003-2004359074.php",
+        "https://www.20minutes.fr/paris/28135-20040401-paris-balkany-de-nouveau-condamne"
+      ]
+    },
+    {
+      "titre": "Diffamation contre Arnaud de Courson — accusations publiques contre son adversaire politique à Levallois-Perret",
+      "annee": 2016,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/flash-actu/2016/03/01/97001-20160301FILWWW00201-patrick-balkany-condamne-pour-diffamation.php",
+        "https://fr.wikipedia.org/wiki/Patrick_Balkany#Diffamation"
+      ]
+    },
+    {
+      "titre": "Fraude fiscale — non-déclaration de patrimoine et de propriétés à l'ISF (volet 1)",
+      "annee": 2020,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 48,
+      "prisonFerme": 36,
+      "amende": 0,
+      "ineligibilite": 120,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2020/03/04/fraude-fiscale-patrick-et-isabelle-balkany-condamnes-a-de-la-prison-ferme-en-appel_6031785_3224.html",
+        "https://www.mediapart.fr/journal/france/040320/cette-fois-les-balkany-sont-ineligibles",
+        "https://fr.wikipedia.org/wiki/Affaire_Balkany"
+      ]
+    },
+    {
+      "titre": "Blanchiment de fraude fiscale — dissimulation de patrimoine offshore et achat de biens immobiliers de luxe (villa Marrakech, moulin de Giverny, villa Cannes) via sociétés offshore (volet 2)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 54,
+      "prisonFerme": 54,
+      "amende": 100000,
+      "ineligibilite": 120,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2023/01/09/patrick-et-isabelle-balkany-condamnes-a-quatre-ans-et-demi-et-trois-ans-et-demi-de-prison-pour-blanchiment-de-fraude-fiscale_6157177_3224.html",
+        "https://www.leparisien.fr/hauts-de-seine-92/proces-balkany-la-justice-confisque-en-partie-le-moulin-de-giverny-09-01-2023-BEEELVCKKBDCNF3D4UFYGNE534.php",
+        "https://fr.wikipedia.org/wiki/Affaire_Balkany",
+        "https://panamapapers.icij.org/the_power_players/"
+      ]
+    },
+    {
+      "titre": "Détournement de fonds publics — utilisation de chauffeurs et agents municipaux à des fins personnelles (2010-2015)",
+      "annee": 2026,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 36,
+      "prisonFerme": 36,
+      "amende": 500000,
+      "ineligibilite": 120,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2020/07/24/patrick-balkany-mis-en-examen-pour-detournement-de-fonds-publics_6047227_3224.html",
+        "https://www.lemonde.fr/societe/article/2026/02/20/patrick-balkany-juge-en-avril-pour-detournement-de-fonds-publics-deux-nouvelles-affaires-a-levallois-perret_6667584_3224.html",
+        "https://www.20minutes.fr/justice/4225889-20260528-patrick-balkany-condamne-prison-ferme-mandat-depot-deux-dossiers-detournements-fonds-publics",
+        "https://www.leparisien.fr/hauts-de-seine-92/patrick-balkany-va-faire-appel-de-sa-double-condamnation-pour-detournement-de-fonds-ce-jugement-est-aberrant-28-05-2026-GC4UBXJN3NFJ5K2LUYFEUIXYHM.php"
+      ]
+    },
+    {
+      "titre": "Détournement de fonds publics et prise illégale d'intérêts — rémunération d'un directeur du développement économique de Levallois après sa retraite (~300 000 € entre 2012 et la fin du mandat Balkany)",
+      "annee": 2026,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 15,
+      "prisonFerme": 15,
+      "amende": 350000,
+      "ineligibilite": 120,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2026/02/20/patrick-balkany-juge-en-avril-pour-detournement-de-fonds-publics-deux-nouvelles-affaires-a-levallois-perret_6667584_3224.html",
+        "https://www.20minutes.fr/justice/4225889-20260528-patrick-balkany-condamne-prison-ferme-mandat-depot-deux-dossiers-detournements-fonds-publics",
+        "https://www.leparisien.fr/hauts-de-seine-92/patrick-balkany-va-faire-appel-de-sa-double-condamnation-pour-detournement-de-fonds-ce-jugement-est-aberrant-28-05-2026-GC4UBXJN3NFJ5K2LUYFEUIXYHM.php"
+      ]
+    },
+    {
+      "titre": "Prise illégale d'intérêts et abus de biens sociaux — location d'un local municipal à des sociétés appartenant à sa fille (2008-2015)",
+      "annee": 2021,
+      "statut": "MISE_EN_EXAMEN",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/01/08/patrick-balkany-soupconne-de-detournement-de-biens-d-un-depot-public-brievement-en-garde-a-vue_6065548_3224.html",
+        "https://www.lemonde.fr/politique/article/2021/02/09/patrick-balkany-mis-en-examen-pour-prise-illegale-d-interets-et-abus-de-biens-sociaux_6069373_823448.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nom": "Jean Boyer",
+  "wikiTitle": "Jean Boyer (homme politique, 1923-2010)",
+  "touched": "2026-10-20T17:27:18Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire GID (abus de biens sociaux et usage de faux)",
+      "annee": 1999,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "ABUS_BIENS_SOCIAUX",
+      "prisonTotal": 15,
+      "prisonFerme": 0,
+      "amende": 7622,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Jean_Boyer_(homme_politique%2C_1923-2010)"
+      ]
+    }
+  ]
+}

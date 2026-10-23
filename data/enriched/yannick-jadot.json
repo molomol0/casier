@@ -1,0 +1,21 @@
+{
+ "nom": "Yannick Jadot",
+ "wikiTitle": "Yannick Jadot",
+ "touched": "2026-10-19T10:16:21Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Condamnation pour atteinte aux intérêts supérieurs de l'État — inspection citoyenne d'une centrale nucléaire",
+   "annee": 2006,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 2,
+   "prisonFerme": 0,
+   "amende": 2000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Yannick_Jadot"
+   ]
+  }
+ ]
+}

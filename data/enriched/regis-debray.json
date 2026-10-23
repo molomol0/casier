@@ -1,0 +1,21 @@
+{
+  "nom": "Régis Debray",
+  "wikiTitle": "Régis Debray",
+  "touched": "2026-10-22T12:48:55Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Condamnation par le conseil de guerre de Camiri (Bolivie) à 30 ans de prison pour rébellion, assassinats, violence et vol",
+      "annee": 1967,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 360,
+      "prisonFerme": 360,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/R%C3%A9gis_Debray"
+      ]
+    }
+  ]
+}

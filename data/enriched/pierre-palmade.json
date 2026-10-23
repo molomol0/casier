@@ -1,0 +1,47 @@
+{
+ "nom": "Pierre Palmade",
+ "wikiTitle": "Pierre Palmade",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Usage de stupéfiants",
+   "annee": 1995,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 3000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Pierre_Palmade"
+   ]
+  },
+  {
+   "titre": "Usage et acquisition de stupéfiants (plaider-coupable)",
+   "annee": 2019,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 1500,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Pierre_Palmade"
+   ]
+  },
+  {
+   "titre": "Blessures involontaires aggravées (accident de la route sous stupéfiants)",
+   "annee": 2024,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 60,
+   "prisonFerme": 24,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Pierre_Palmade"
+   ]
+  }
+ ]
+}

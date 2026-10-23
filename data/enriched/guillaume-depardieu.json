@@ -1,0 +1,48 @@
+{
+ "nom": "Guillaume Depardieu",
+ "wikiTitle": "Guillaume Depardieu",
+ "touched": "2026-10-22T12:48:52Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Trafic d'héroïne (usage, importation et trafic)",
+   "annee": 1988,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 36,
+   "prisonFerme": 18,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lemonde.fr/disparitions/article/2008/10/14/guillaume-depardieu-une-vie-a-jouer-avec-le-feu_1106474_3382.html",
+    "https://www.ina.fr/ina-eclaire-actu/guillaume-depardieu-acteur-gerard-depardieu-acteur-carriere-cinema-drogue-musique-staphylocoque-dore"
+   ]
+  },
+  {
+   "titre": "Possession et trafic d'héroïne",
+   "annee": 1993,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 36,
+   "prisonFerme": 12,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lemonde.fr/disparitions/article/2008/10/14/guillaume-depardieu-une-vie-a-jouer-avec-le-feu_1106474_3382.html"
+   ]
+  },
+  {
+   "titre": "Usage d'arme à feu (tir au pistolet à grenaille lors d'une altercation à Trouville-sur-Mer)",
+   "annee": 2003,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 9,
+   "prisonFerme": 0,
+   "amende": 5000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.ladepeche.fr/article/2003/09/09/126416-Guillaume-Depardieu-au-tribunal.html"
+   ]
+  }
+ ]
+}

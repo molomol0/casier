@@ -1,0 +1,24 @@
+{
+ "nom": "Yves Rispat",
+ "wikiTitle": "Yves Rispat",
+ "touched": "2026-10-20T17:23:20Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Détournement de fonds de l'APAG (abus de confiance et usage de faux)",
+   "annee": 2011,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "ABUS_CONFIANCE",
+   "prisonTotal": 18,
+   "prisonFerme": 0,
+   "amende": 20000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://france3-regions.franceinfo.fr/occitanie/info/yves-rispat-de-nouveau-condamne-en-appel-86471.html",
+    "https://france3-regions.franceinfo.fr/occitanie/info/yves-rispat-rejuge-en-appel-pour-abus-de-confiance-86015.html",
+    "https://www.ladepeche.fr/article/2014/04/03/1855014-yves-rispat-prive-de-sa-legion-d-honneur.html",
+    "https://fr.wikipedia.org/wiki/Yves_Rispat"
+   ]
+  }
+ ]
+}

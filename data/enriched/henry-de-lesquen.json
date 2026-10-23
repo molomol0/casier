@@ -1,0 +1,51 @@
+{
+ "nom": "Henry de Lesquen",
+ "wikiTitle": "Henry de Lesquen",
+ "touched": "2026-10-19T15:18:38Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Affaire Pinte (diffamation envers un élu)",
+   "annee": 2008,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 1500,
+   "ineligibilite": 0,
+   "sources": [
+    "http://www.leparisien.fr/yvelines/un-elu-condamne-12-04-2008-3298432622.php",
+    "https://fr.wikipedia.org/wiki/Henry_de_Lesquen"
+   ]
+  },
+  {
+   "titre": "Affaire Twitter/site 2016 (provocation à la haine raciale et contestation de crime contre l'humanité)",
+   "annee": 2017,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 6000,
+   "ineligibilite": 0,
+   "sources": [
+    "http://www.leparisien.fr/faits-divers/injures-et-racisme-henry-de-lesquen-condamne-a-16-000-eur-d-amende-25-01-2017-6617556.php",
+    "http://www.lexpress.fr/actualite/societe/justice/henry-de-lesquen-condamne-a-16-000-euros-d-amende_1872821.html",
+    "https://la1ere.francetvinfo.fr/henry-lesquen-condamne-appel-provocation-haine-596699.html"
+   ]
+  },
+  {
+   "titre": "Affaire Vélodrome d'Hiver et Alicia Aylies (contestation de crime contre l'humanité et injures raciales)",
+   "annee": 2018,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 6000,
+   "ineligibilite": 0,
+   "sources": [
+    "http://www.liberation.fr/direct/element/henry-de-lesquen-condamne-pour-des-tweets-negationnistes-racistes-et-transphobes_77338/",
+    "https://la1ere.francetvinfo.fr/henry-lesquen-comdamne-injures-raciales-encontre-miss-france-2017-557349.html"
+   ]
+  }
+ ]
+}

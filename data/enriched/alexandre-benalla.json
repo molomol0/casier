@@ -1,0 +1,34 @@
+{
+ "nom": "Alexandre Benalla",
+ "wikiTitle": "Alexandre Benalla",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Violences en réunion et usurpation de fonction (1er mai 2018)",
+   "annee": 2024,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 36,
+   "prisonFerme": 12,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Alexandre_Benalla"
+   ]
+  },
+  {
+   "titre": "Usage frauduleux de passeports diplomatiques et faux (volet contrats de sécurité)",
+   "annee": 2024,
+   "statut": "MISE_EN_EXAMEN",
+   "categorie": "FAUX_ET_USAGE_FAUX",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Alexandre_Benalla"
+   ]
+  }
+ ]
+}

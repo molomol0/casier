@@ -1,0 +1,24 @@
+{
+  "nom": "Guillaume Delbar",
+  "wikiTitle": "Guillaume Delbar",
+  "touched": "2026-10-20T17:34:31Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire de fraude fiscale (escroquerie en bande organisée)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 6,
+      "prisonFerme": 0,
+      "amende": 3000,
+      "ineligibilite": 24,
+      "sources": [
+        "https://www.lavoixdunord.fr/1108064/article/2021-12-02/affaire-de-fraude-fiscale-le-maire-de-roubaix-et-son-premier-adjoint-condamnes",
+        "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/roubaix/proces-de-guillaume-delbar-6-mois-de-prison-avec-sursis-confirmes-en-appel-pour-le-maire-de-roubaix-2969012.html",
+        "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/roubaix/fraude-fiscale-le-maire-de-roubaix-definitivement-condamne-guillaume-delbar-va-devoir-demissionner-et-ne-pourra-pas-se-representer-en-2026-3256288.html",
+        "https://www.20minutes.fr/justice/4188409-20251127-ineligible-maire-roubaix-demissionnera-demissionne-etat"
+      ]
+    }
+  ]
+}

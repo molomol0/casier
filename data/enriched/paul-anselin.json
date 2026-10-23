@@ -1,0 +1,22 @@
+{
+  "nom": "Paul Anselin",
+  "wikiTitle": "Paul Anselin",
+  "touched": "2026-10-20T17:23:56Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des ventes d'armes à l'Angola (Angolagate)",
+      "annee": 2009,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 15,
+      "prisonFerme": 0,
+      "amende": 30000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ouest-france.fr/bretagne/ploermel-56800/affaire-falcone-paul-anselin-l-ancien-maire-de-ploermel-condamne-a-quinze-mois-de-prison-avec-sursis-589279",
+        "https://fr.wikipedia.org/wiki/Paul_Anselin"
+      ]
+    }
+  ]
+}

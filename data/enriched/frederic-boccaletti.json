@@ -1,0 +1,23 @@
+{
+  "nom": "Frédéric Boccaletti",
+  "wikiTitle": "Frédéric Boccaletti",
+  "touched": "2026-10-20T17:31:42Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire de violence en réunion avec arme à Six-Fours-les-Plages (2000)",
+      "annee": 2000,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 12,
+      "prisonFerme": 6,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.streetpress.com/sujet/1657105771-frederic-boccaletti-depute-voyou-rassemblement-national-marine-rn",
+        "https://www.liberation.fr/checknews/legislatives-le-rn-a-t-il-investi-dans-le-var-un-candidat-condamne-pour-violence-avec-arme-20220604_DI2DHVE5XJBGFPI6DX343QWMOI/",
+        "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Boccaletti"
+      ]
+    }
+  ]
+}

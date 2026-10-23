@@ -1,0 +1,36 @@
+{
+  "nom": "Bruno Mégret",
+  "wikiTitle": "Bruno Mégret",
+  "touched": "2026-10-21T20:19:41Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des services municipaux de Vitrolles (complicité de détournement de fonds publics, campagne présidentielle 2002)",
+      "annee": 2006,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 12,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bruno_M%C3%A9gret",
+        "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2002/2002-113-pdr/decision-n-2002-113-pdr-du-26-septembre-2002.106544.html"
+      ]
+    },
+    {
+      "titre": "Propos sur les différences entre les races (émission France 2, 17 février 1997)",
+      "annee": 1998,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1524,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Bruno_M%C3%A9gret",
+        "http://www.liberation.fr/politiques/010114142-bruno-megret-sans-madame-au-tribunal"
+      ]
+    }
+  ]
+}

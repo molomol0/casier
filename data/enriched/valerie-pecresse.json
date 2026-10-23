@@ -1,0 +1,22 @@
+{
+  "nom": "Valérie Pécresse",
+  "wikiTitle": "Valérie Pécresse",
+  "touched": "2026-10-19T10:10:49Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Soupçons de détournement de fonds publics – collaborateurs d'élus région Île-de-France",
+      "annee": 2025,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://mesinfos.fr/ile-de-france/valerie-pecresse-entendue-dans-une-enquete-pour-detournement-de-fonds-publics-230375.html",
+        "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/irregularites-persistantes-pourquoi-valerie-pecresse-a-t-elle-ete-entendue-dans-l-enquete-sur-des-soupcons-de-detournement-de-fonds-publics-au-conseil-regional-3219923.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nom": "René Bousquet",
+  "wikiTitle": "René Bousquet",
+  "touched": "2026-10-20T13:51:36Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Procès devant la Haute Cour de justice (crime d'indignité nationale)",
+      "annee": 1949,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 60,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Ren%C3%A9_Bousquet",
+        "https://www.franceinfo.fr/economie/emploi/metiers/droit-et-justice/proces-bousquet-lenigme-dun-coupable-innocente_5440693.html",
+        "https://akadem.org/magazine/magazine-culturel-2021-2022/proces-bousquet-on-a-acquitte-un-coupable/46502"
+      ]
+    }
+  ]
+}

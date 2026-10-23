@@ -1,0 +1,36 @@
+{
+  "nom": "Maurice Papon",
+  "wikiTitle": "Maurice Papon",
+  "touched": "2026-10-19T10:09:55Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Complicité de crimes contre l'humanité — déportation des Juifs de Gironde (1942-1944)",
+      "annee": 1998,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 120,
+      "prisonFerme": 120,
+      "amende": 0,
+      "ineligibilite": 120,
+      "sources": [
+        "https://www.lesechos.fr/1998/04/la-condamnation-de-maurice-papon-a-dix-ans-de-reclusion-suscite-des-reactions-contrastees-789851",
+        "https://www.justice.gouv.fr/actualites/actualite/ouverture-complete-archives-proces-maurice-papon",
+        "https://en.wikipedia.org/wiki/Maurice_Papon"
+      ]
+    },
+    {
+      "titre": "Port illégal de la Légion d'honneur",
+      "annee": 2004,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 2500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maurice_Papon"
+      ]
+    }
+  ]
+}

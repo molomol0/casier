@@ -1,0 +1,22 @@
+{
+  "nom": "Paul Rassinier",
+  "wikiTitle": "Paul Rassinier",
+  "touched": "2026-10-20T17:22:38Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Diffamation envers Marie-Claude Vaillant-Couturier et Zysla Speter (article dans Rivarol, mars 1964)",
+      "annee": 1966,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 4,
+      "prisonFerme": 0,
+      "amende": 762,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Paul_Rassinier",
+        "https://www.lemonde.fr/archives/article/1965/11/11/m-rassinier-est-condamne-a-quatre-mois-de-prison-avec-sursis-et-3-000-francs-d-amende_2199126_1819218.html"
+      ]
+    }
+  ]
+}

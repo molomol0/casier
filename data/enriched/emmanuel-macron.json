@@ -1,0 +1,23 @@
+{
+  "nom": "Emmanuel Macron",
+  "wikiTitle": "Emmanuel Macron",
+  "touched": "2026-10-20T06:05:35Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire McKinsey – enquêtes sur les comptes de campagne 2017 et 2022 et favoritisme",
+      "annee": 2022,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/politique/article/2022/11/24/deux-enquetes-sur-les-conditions-d-intervention-des-cabinets-de-conseil-dans-les-campagnes-de-2017-et-2022-ouvertes-par-le-parquet-national-financier_6151453_823448.html",
+        "https://www.lemonde.fr/politique/article/2022/04/06/affaire-mckinsey-le-parquet-national-financier-a-ouvert-une-enquete-preliminaire-pour-blanchiment-aggrave-de-fraude-fiscale_6120839_823448.html",
+        "https://www.lemonde.fr/societe/article/2022/12/14/comptes-de-campagne-d-emmanuel-macron-les-locaux-de-renaissance-et-du-cabinet-mckinsey-perquisitionnes_6154392_3224.html"
+      ]
+    }
+  ]
+}

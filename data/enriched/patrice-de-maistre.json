@@ -1,0 +1,21 @@
+{
+ "nom": "Patrice de Maistre",
+ "wikiTitle": "Patrice de Maistre",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Abus de faiblesse (affaire Bettencourt)",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 30,
+   "prisonFerme": 18,
+   "amende": 250000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Patrice_de_Maistre"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+  "nom": "André Thien Ah Koon",
+  "wikiTitle": "André Thien Ah Koon",
+  "touched": "2026-10-20T17:21:58Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Prise illégale d'intérêts – condamnation en appel 1995",
+      "annee": 1996,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1524,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Andr%C3%A9_Thien_Ah_Koon"
+      ]
+    },
+    {
+      "titre": "Prise illégale d'intérêts et abus de biens sociaux – terrains familiaux",
+      "annee": 2005,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "ABUS_BIENS_SOCIAUX",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 100000,
+      "ineligibilite": 36,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Andr%C3%A9_Thien_Ah_Koon",
+        "https://www.ipreunion.com/archives/reportage/0000/00/00/ipreunion,reportage,11234.html"
+      ]
+    },
+    {
+      "titre": "Prise illégale d'intérêts – affaire SUDEC (embauche Christelle Mondon)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 8,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Andr%C3%A9_Thien_Ah_Koon",
+        "https://www.zinfos974.com/spl-sudec-andre-thien-ah-koon-condamne-en-appel-a-5-ans-dineligibilite-perd-son-mandat/",
+        "https://la1ere.francetvinfo.fr/reunion/affaire-de-la-sudec-3-ans-d-ineligibilite-et-6-mois-de-prison-avec-sursis-pour-andre-thien-ah-koon-1326288.html",
+        "https://la1ere.francetvinfo.fr/reunion/tampon/apres-la-confirmation-de-sa-condamnation-andre-thien-ah-koon-fait-ses-au-revoir-a-la-politique-1496585.html"
+      ]
+    }
+  ]
+}

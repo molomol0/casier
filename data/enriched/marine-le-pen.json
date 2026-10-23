@@ -1,0 +1,66 @@
+{
+  "nom": "Marine Le Pen",
+  "wikiTitle": "Marine Le Pen",
+  "touched": "2026-10-19T10:10:15Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire des assistants parlementaires européens du FN (détournement de fonds publics)",
+      "annee": 2026,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 36,
+      "prisonFerme": 12,
+      "amende": 100000,
+      "ineligibilite": 45,
+      "sources": [
+        "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/",
+        "https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-condamnee-a-quatre-ans-de-prison-et-cinq-ans-d-ineligibilite-avec-execution-provisoire-au-proces-des-assistants-parlementaires-du-fn_7157157.html",
+        "https://www.lemonde.fr/politique/article/2026/07/07/apres-le-pourvoi-en-cassation-de-marine-le-pen-les-questions-en-suspens_6721552_823448.html"
+      ]
+    },
+    {
+      "titre": "Diffamation envers la Cimade (propos sur une « filière d'immigration clandestine » à Mayotte)",
+      "annee": 2023,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/politique/article/2023/10/13/marine-le-pen-condamnee-pour-diffamation-envers-la-cimade_6194210_823448.html",
+        "https://www.lemonde.fr/societe/article/2025/12/16/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade_6658177_3224.html",
+        "https://www.lacimade.org/presse/marine-le-pen-condamnee-pour-diffamation-envers-la-cimade/"
+      ]
+    },
+    {
+      "titre": "Diffamation envers Christian Baeckeroot (complicité de diffamation)",
+      "annee": 2011,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lefigaro.fr/flash-actu/2010/06/01/97001-20100601FILWWW00514-les-le-pen-condamnes-pour-diffamation.php",
+        "https://redwatch.fr/marine-la-peine"
+      ]
+    },
+    {
+      "titre": "Soupçons de financement illicite des campagnes de 2022 et des européennes de 2024 (information judiciaire)",
+      "annee": 2025,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2024/07/09/campagne-de-marine-le-pen-en-2022-une-information-judiciaire-ouverte-pour-des-soupcons-de-financement-illegal_6248197_3224.html",
+        "https://www.franceinfo.fr/politique/front-national/soupcons-sur-le-financement-des-campagnes-de-2022-et-2024-siege-et-domicile-vises-ce-que-l-on-sait-des-perquisitions-qui-visent-le-rassemblement-national_7366941.html"
+      ]
+    }
+  ]
+}

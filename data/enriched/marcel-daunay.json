@@ -1,0 +1,51 @@
+{
+  "nom": "Marcel Daunay",
+  "wikiTitle": "Marcel Daunay",
+  "touched": "2026-10-20T17:26:29Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des frais indus à la chambre d'agriculture d'Ille-et-Vilaine (fraudes fiscales, faux et usage de faux)",
+      "annee": 2003,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 36,
+      "prisonFerme": 0,
+      "amende": 30000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/archives/article/1997/02/15/enquete-marcel-daunay-a-ete-mis-en-examen-pour-abus-de-confiance-faux-en-ecritures-et-usage-de-faux_3765647_1819218.html",
+        "https://www.lemonde.fr/archives/article/1997/03/29/controle-le-bureau-du-senat-a-autorise-la-mise-sous-controle-judiciaire-du-senateur-udf-d-ille-et-vilaine-marcel-daunay_3772675_1819218.html",
+        "https://fr.wikipedia.org/wiki/Marcel_Daunay"
+      ]
+    },
+    {
+      "titre": "Affaire de la liquidation de l'Union laitière normande (vente de terrain surévalué)",
+      "annee": 1998,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "ABUS_CONFIANCE",
+      "prisonTotal": 3,
+      "prisonFerme": 0,
+      "amende": 7622,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lesechos.fr/1994/10/luln-sous-le-coup-dune-serie-denquetes-judiciaires-891622",
+        "https://www.lesechos.fr/1996/03/affaire-union-laitiere-normande-lancien-president-mis-en-examen-831502",
+        "https://fr.wikipedia.org/wiki/Marcel_Daunay"
+      ]
+    },
+    {
+      "titre": "Délit de fuite après accident de la route",
+      "annee": 1998,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 4,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Marcel_Daunay"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+ "nom": "Jean-Christophe Lagarde",
+ "wikiTitle": "Jean-Christophe Lagarde",
+ "touched": "2026-10-21T20:19:42Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire de l'emploi fictif de sa belle-mère comme assistante parlementaire (détournement de fonds publics)",
+   "annee": 2022,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 10,
+   "prisonFerme": 0,
+   "amende": 60000,
+   "ineligibilite": 24,
+   "sources": [
+    "https://www.franceinfo.fr/politique/l-ex-depute-udi-jean-christophe-lagarde-condamne-a-dix-mois-de-prison-avec-sursis-pour-avoir-octroye-un-emploi-fictif-a-sa-belle-mere_5529531.html",
+    "https://www.lejdd.fr/Politique/emploi-fictif-a-lassemblee-jean-christophe-lagarde-condamne-a-dix-mois-de-prison-avec-sursis-4152810"
+   ]
+  },
+  {
+   "titre": "Affaire de l'attribution illégale d'un marché public (favoritisme)",
+   "annee": 2012,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "FAVORITISME",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 5000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://france3-regions.franceinfo.fr/paris-ile-de-france/2013/04/07/drancy-j-clagarde-rattrape-par-une-affaire-de-marche-public-230077.html"
+   ]
+  },
+  {
+   "titre": "Affaire Garrido-Corbière (escroquerie en bande organisée et recel)",
+   "annee": 2026,
+   "statut": "RENVOI_TRIBUNAL",
+   "categorie": "RECEL",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.franceinfo.fr/faits-divers/justice-proces/fausses-accusations-contre-le-couple-garrido-corbiere-trois-personnes-dont-jean-christophe-lagarde-jugees-pour-escroquerie-en-bande-organisee_8248804.html",
+    "https://www.france24.com/fr/info-en-continu/20261022-intox-sur-garrido-et-corbi%C3%A8re-proc%C3%A8s-ordonn%C3%A9-contre-lagarde-son-ancien-chauffeur-et-un-ex-policier"
+   ]
+  }
+ ]
+}

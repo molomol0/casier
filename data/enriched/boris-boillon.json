@@ -1,0 +1,23 @@
+{
+  "nom": "Boris Boillon",
+  "wikiTitle": "Boris Boillon",
+  "touched": "2026-10-20T17:26:27Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Blanchiment de fraude fiscale et manquement à l'obligation déclarative de transfert de capitaux",
+      "annee": 2017,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 95036,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.mediapart.fr/journal/france/070717/lex-ambassadeur-boris-boillon-est-reconnu-coupable-de-blanchiment-de-fraude-fiscale",
+        "https://www.lemonde.fr/politique/article/2017/07/07/l-ex-diplomate-boris-boillon-condamne-pour-blanchiment-de-fraude-fiscale_5157404_823448.html",
+        "https://fr.wikipedia.org/wiki/Boris_Boillon"
+      ]
+    }
+  ]
+}

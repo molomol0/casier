@@ -1,0 +1,22 @@
+{
+  "nom": "Jérôme Cahuzac",
+  "wikiTitle": "Jérôme Cahuzac",
+  "touched": "2026-10-19T10:14:28Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire Cahuzac (fraude fiscale, blanchiment et déclaration de patrimoine mensongère — compte caché à l'étranger)",
+      "annee": 2018,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 48,
+      "prisonFerme": 24,
+      "amende": 300000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.francetvinfo.fr/politique/affaire/cahuzac/l-ancien-ministre-du-budget-jerome-cahuzac-est-condamne-en-appel-a-quatre-ans-de-prison-dont-deux-avec-sursis-pour-fraude-fiscale-et-blanchiment-de-fraude-fiscale_2753503.html",
+        "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Cahuzac"
+      ]
+    }
+  ]
+}

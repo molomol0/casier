@@ -1,0 +1,21 @@
+{
+ "nom": "Alexandre Djouhri",
+ "wikiTitle": "Alexandre Djouhri",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Blanchiment aggravé, trafic d'influence, corruption (affaire Sarkozy-Kadhafi)",
+   "annee": 2025,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "TRAFIC_INFLUENCE",
+   "prisonTotal": 72,
+   "prisonFerme": 72,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Alexandre_Djouhri"
+   ]
+  }
+ ]
+}

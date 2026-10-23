@@ -1,0 +1,22 @@
+{
+ "nom": "Julien Odoul",
+ "wikiTitle": "Julien Odoul",
+ "touched": "2026-10-21T20:31:42Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire des assistants parlementaires du FN au Parlement européen (recel de détournement de fonds publics)",
+   "annee": 2026,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "RECEL",
+   "prisonTotal": 8,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 12,
+   "sources": [
+    "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/yonne/julien-odoul-condamne-en-appel-dans-l-affaire-des-assistants-parlementaires-du-fn-3382792.html",
+    "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/affaire-des-assistants-parlementaires-du-fn-julien-odoul-se-pourvoit-en-cassation_8098478.html"
+   ]
+  }
+ ]
+}

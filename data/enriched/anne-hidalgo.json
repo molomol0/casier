@@ -1,0 +1,50 @@
+{
+  "nom": "Anne Hidalgo",
+  "wikiTitle": "Anne Hidalgo",
+  "touched": "2026-10-19T17:42:48Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Diffamation envers Jean-François Cabestan",
+      "annee": 2017,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.leparisien.fr/paris-75/paris-75004/hidalgo-condamnee-pour-avoir-diffame-un-architecte-24-05-2016-5826127.php",
+        "http://www.leparisien.fr/faits-divers/paris-anne-hidalgo-condamnee-en-appel-pour-diffamation-envers-un-architecte-10-03-2017-6751158.php"
+      ]
+    },
+    {
+      "titre": "Diffamation envers le Front national",
+      "annee": 2016,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.lefigaro.fr/flash-actu/2016/03/11/97001-20160311FILWWW00164-hidalgo-condamnee-pour-avoir-dit-que-le-fn-aurait-soutenu-la-collaboration.php",
+        "https://www.francesoir.fr/politique-france/fn-et-collaboration-anne-hidalgo-condamnee-pour-diffamation"
+      ]
+    },
+    {
+      "titre": "Enquête PNF — voyage en Polynésie française (prise illégale d'intérêts et détournement de fonds publics)",
+      "annee": 2024,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/les-decodeurs/article/2024/03/05/la-mairie-de-paris-perquisitionnee-dans-l-affaire-du-voyage-d-anne-hidalgo-a-tahiti_6220240_4355770.html",
+        "https://www.ladepeche.fr/2023/11/22/voyage-danne-hidalgo-a-tahiti-le-parquet-national-financier-est-saisi-11595362.php"
+      ]
+    }
+  ]
+}

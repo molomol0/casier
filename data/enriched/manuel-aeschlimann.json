@@ -1,0 +1,36 @@
+{
+  "nom": "Manuel Aeschlimann",
+  "wikiTitle": "Manuel Aeschlimann",
+  "touched": "2026-10-20T17:21:58Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Condamnation pour favoritisme dans l'attribution d'un marché public",
+      "annee": 2011,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 18,
+      "prisonFerme": 0,
+      "amende": 20000,
+      "ineligibilite": 12,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2011/01/22/manuel-aeschlimann-condamne-a-un-an-d-ineligibilite-pour-favoritisme_1469102_3224.html",
+        "https://www.lemonde.fr/societe/article/2009/03/13/prison-avec-sursis-et-ineligibilite-pour-le-depute-manuel-aeschlimann_1167759_3224.html"
+      ]
+    },
+    {
+      "titre": "Condamnation pour diffamation envers Sébastien Pietrasanta (affaire du film porno)",
+      "annee": 2016,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ouest-france.fr/societe/justice/asnieres-film-porno-la-mairie-le-maire-condamne-pour-diffamation-4097082",
+        "http://www.parismatch.com/Actu/Societe/Manuel-Aeschlimann-condamne-dans-l-affaire-du-porno-soft-930671"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+ "nom": "Sébastien Lecornu",
+ "wikiTitle": "Sébastien Lecornu",
+ "touched": "2026-10-19T16:20:50Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Enquête préliminaire pour favoritisme — attribution sans mise en concurrence du marché JCN Conseil (exposition « Ces héros venus d'outre-mer »)",
+   "annee": 2023,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "FAVORITISME",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.mediapart.fr/journal/france/090625/j-c-narcy-va-t-appeler-il-faut-l-aider-le-ministre-sebastien-lecornu-soupconne-de-favoritisme",
+    "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"
+   ]
+  }
+ ],
+ "_affairesEcartees": [
+  {
+   "titre": "Enquête préliminaire prise illégale d'intérêts — administrateur SAPN (Société des autoroutes Paris-Normandie)",
+   "raison_exclusion": "Classement sans suite prononcé par le PNF le 30 juin 2023. Hors périmètre selon les règles d'extraction.",
+   "sources": [
+    "https://www.lemonde.fr/societe/article/2021/01/13/ouverture-d-une-enquete-pour-prise-illegale-d-interets-visant-le-ministre-sebastien-lecornu_6066107_3224.html",
+    "https://www.francetvinfo.fr/politique/gouvernement-d-elisabeth-borne/l-enquete-pour-prise-illegale-d-interets-visant-le-ministre-sebastien-lecornu-classee-sans-suite_5922413.html"
+   ]
+  },
+  {
+   "titre": "Saisine de la CJR par LFI pour entrave à l'exécution de la loi sur le travail du 1er mai (dataset externe)",
+   "raison_exclusion": "Simple plainte (statut PLAINTE_DEPOSEE dans le dataset externe). Hors périmètre selon les règles d'extraction."
+  },
+  {
+   "titre": "Plainte en diffamation contre Mediapart (villa Corse louée à Gilbert Casanova, 2017)",
+   "raison_exclusion": "Affaire civile en diffamation. Lecornu était le plaignant (et non le prévenu). Procès perdu en appel. Hors périmètre pénal."
+  }
+ ]
+}

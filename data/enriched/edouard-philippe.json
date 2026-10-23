@@ -1,0 +1,25 @@
+{
+  "nom": "Édouard Philippe",
+  "wikiTitle": "Édouard Philippe",
+  "touched": "2026-10-19T10:19:20Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire de la Cité numérique du Havre (prise illégale d'intérêts, détournement de fonds publics, favoritisme, harcèlement moral)",
+      "annee": 2026,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2023/09/14/la-plainte-qui-pourrait-embarrasser-edouard-philippe_6189445_3224.html",
+        "https://www.liberation.fr/politique/edouard-philippe-vise-par-une-enquete-preliminaire-du-parquet-national-financier-des-perquisitions-en-cours-20240403_RN7XK5MMLJEJRB6XIER6QEP5SI/",
+        "https://www.lefigaro.fr/faits-divers/cumul-de-mandats-salaires-mirobolants-harcelement-moral-sur-quoi-porte-l-enquete-visant-edouard-philippe-20240404",
+        "https://www.blast-info.fr/articles/2025/detournement-de-fonds-publics-edouard-philippe-dans-le-collimateur-de-la-justice-zydU1nbqRZy5J-YQSPLHpQ",
+        "https://www.bfmtv.com/police-justice/edouard-philippe-soupconne-de-detournement-de-fonds-publics-un-juge-d-instruction-va-enqueter-sur-le-maire-du-havre_AD-202605190739.html"
+      ]
+    }
+  ]
+}

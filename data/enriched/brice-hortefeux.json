@@ -1,0 +1,24 @@
+{
+  "nom": "Brice Hortefeux",
+  "wikiTitle": "Brice Hortefeux",
+  "touched": "2026-10-21T20:19:49Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire Sarkozy-Kadhafi — financement libyen de la campagne de 2007",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FINANCEMENT_ILLEGAL_CAMPAGNE",
+      "prisonTotal": 24,
+      "prisonFerme": 24,
+      "amende": 50000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.lefigaro.fr/faits-divers/financement-libyen-claude-gueant-et-brice-hortefeux-reconnus-coupable-eric-woerth-relaxe-20250925",
+        "https://www.lemonde.fr/societe/article/2025/09/25/proces-sarkozy-kadhafi-le-detail-des-huit-condamnations_6642928_3224.html",
+        "https://www.lepoint.fr/societe/financement-libyen-brice-hortefeux-mis-en-examen-08-12-2020-2404869_23.php",
+        "https://www.publicsenat.fr/actualites/institutions/proces-libyen-les-appels-de-nicolas-sarkozy-claude-gueant-et-brice-hortefeux-ont-ete-deposes-0"
+      ]
+    }
+  ]
+}

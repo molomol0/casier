@@ -1,0 +1,38 @@
+{
+  "nom": "Éric Piolle",
+  "wikiTitle": "Éric Piolle",
+  "touched": "2026-10-20T17:29:36Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire de la fête des tuiles (favoritisme dans l'attribution de marchés publics)",
+      "annee": 2023,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 8000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.liberation.fr/politique/le-maire-de-grenoble-eric-piolle-condamne-en-appel-pour-favoritisme-20230906_CO6C2YPO2NAHNKQTHRHLY6MVGI/",
+        "https://www.lemonde.fr/societe/article/2022/10/25/eric-piolle-le-maire-de-grenoble-relaxe-dans-une-affaire-de-favoritisme_6147267_3224.html",
+        "https://www.ici.fr/infos/faits-divers-justice/grenoble-l-affaire-de-la-fete-des-tuiles-est-definitivement-jugee-decision-de-la-cour-de-cassation-8800952"
+      ]
+    },
+    {
+      "titre": "Enquête pour concussion et recel de concussion (rétrocession de salaire)",
+      "annee": 2024,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/grenoble-eric-piolle-et-elisa-martin-mis-en-cause-par-un-ancien-conseiller-du-maire-le-parquet-ouvre-une-enquete-2981138.html",
+        "https://www.leparisien.fr/politique/eric-piolle-suspendu-de-son-mandat-de-porte-parole-des-ecologistes-en-raison-dune-enquete-pour-concussion-et-recel-de-delit-16-09-2025-CWYRLIK7FNAJVKCTV7TKWS2VZU.php",
+        "https://www.ledauphine.com/politique/2024/06/05/eric-piolle-et-elisa-martin-mis-en-cause-par-un-ex-conseiller-de-la-mairie"
+      ]
+    }
+  ]
+}

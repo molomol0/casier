@@ -1,0 +1,21 @@
+{
+ "nom": "Teodoro Nguema Obiang Mangue",
+ "wikiTitle": "Teodoro Nguema Obiang Mangue",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Biens mal acquis (recel de détournement de fonds publics, blanchiment)",
+   "annee": 2017,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 36,
+   "prisonFerme": 0,
+   "amende": 30000000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Teodoro_Nguema_Obiang_Mangue"
+   ]
+  }
+ ]
+}

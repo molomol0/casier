@@ -1,0 +1,22 @@
+{
+  "nom": "Benoît Hamon",
+  "wikiTitle": "Benoît Hamon",
+  "touched": "2026-10-19T10:10:21Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Mise en examen pour injure publique envers Nicolas Miguet",
+      "annee": 2016,
+      "statut": "MISE_EN_EXAMEN",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.francetvinfo.fr/elections/presidentielle/trois-questions-sur-la-mise-en-examen-de-benoit-hamon-qui-affole-l-extreme-droite_2086959.html",
+        "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Hamon"
+      ]
+    }
+  ]
+}

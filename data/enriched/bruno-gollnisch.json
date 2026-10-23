@@ -1,0 +1,23 @@
+{
+  "nom": "Bruno Gollnisch",
+  "wikiTitle": "Bruno Gollnisch",
+  "touched": "2026-10-21T20:19:49Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des assistants parlementaires du FN au Parlement européen (emplois présumés fictifs 2005-2015)",
+      "annee": 2026,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 36,
+      "prisonFerme": 12,
+      "amende": 50000,
+      "ineligibilite": 12,
+      "sources": [
+        "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/proces-du-rn-et-de-marine-le-pen-bruno-gollnisch-condamne-a-de-la-prison-ferme-3131191.html",
+        "https://www.lefigaro.fr/politique/affaires-des-assistants-parlementaires-louis-aliot-condamne-a-deux-ans-d-ineligibilite-avec-sursis-peut-rester-maire-de-perpignan-20260707",
+        "https://www.nouvelobs.com/justice/20260211.OBS112311/proces-des-assistants-parlementaires-du-rn-une-decision-vertigineuse-attendue-le-7-juillet.html"
+      ]
+    }
+  ]
+}

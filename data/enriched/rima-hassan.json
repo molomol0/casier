@@ -1,0 +1,23 @@
+{
+ "nom": "Rima Hassan",
+ "wikiTitle": "Rima Hassan",
+ "touched": "2026-10-21T20:34:37Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire du tweet citant Kōzō Okamoto (apologie du terrorisme)",
+   "annee": 2026,
+   "statut": "PROCES_EN_COURS",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.france24.com/fr/france/20261019-ouverture-du-proc%C3%A8s-de-l-eurod%C3%A9put%C3%A9e-insoumise-rima-hassan-pour-apologie-du-terrorisme",
+    "https://www.franceinfo.fr/politique/la-france-insoumise/proces-de-rima-hassan-le-parquet-reclame-deux-ans-d-ineligibilite-et-dix-mois-de-prison-avec-sursis-contre-l-eurodeputee-jugee-pour-apologie-du-terrorisme_8245720.html",
+    "https://euronews.com/2026/04/02/french-mep-rima-hassan-in-french-police-custody-over-alleged-apology-for-terrorism"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+  "nom": "Gaston Flosse",
+  "wikiTitle": "Gaston Flosse",
+  "touched": "2026-10-20T17:22:03Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des sushis (détournement de fonds publics)",
+      "annee": 2009,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 16760,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.lexpress.fr/actualites/2/gaston-flosse-condamne-a-un-an-d-inegibilite_790118.html",
+        "http://tempsreel.nouvelobs.com/societe/20111123.OBS5162/affaire-des-sushis-l-ineligibilite-de-gaston-flosse-annulee.html"
+      ]
+    },
+    {
+      "titre": "Affaire de la femme de ménage (détournement de fonds publics)",
+      "annee": 2013,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 3353,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.titrespresse.com/ca/article/Affaire+de+la+femme+de+m%C3%A9nage+%3A+Gaston+Flosse+condamn%C3%A9+en+appel?id=88483291"
+      ]
+    },
+    {
+      "titre": "Affaire du SED (détournement de fonds publics - service d'espionnage)",
+      "annee": 2016,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 18,
+      "prisonFerme": 0,
+      "amende": 16760,
+      "ineligibilite": 24,
+      "sources": [
+        "https://www.lefigaro.fr/flash-actu/2016/02/25/97001-20160225FILWWW00360-l-ineligibilite-de-gaston-flosse-confirmee.php",
+        "https://la1ere.francetvinfo.fr/2016/02/26/justice-condamnation-confirmee-pour-l-ancien-president-de-la-polynesie-gaston-flosse-dans-l-affaire-dite-du-sed-335712.html",
+        "http://www.tahiti-infos.com/Gaston-Flosse-condamne-a-2-ans-d-ineligibilite-dans-l-affaire-du-SED_a130600.html"
+      ]
+    },
+    {
+      "titre": "Emplois fictifs (détournement de fonds publics et prise illégale d'intérêts)",
+      "annee": 2014,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "EMPLOI_FICTIF",
+      "prisonTotal": 48,
+      "prisonFerme": 0,
+      "amende": 125000,
+      "ineligibilite": 36,
+      "sources": [
+        "http://www.lefigaro.fr/flash-actu/2011/10/04/97001-20111004FILWWW00663-polynesie-flosse-condamne-a-4-ans.php",
+        "http://www.liberation.fr/politiques/2013/02/07/sursis-en-appel-pour-gaston-flosse_880230",
+        "https://www.lemonde.fr/societe/article/2014/09/06/gaston-flosse-perd-tous-ses-mandats-en-polynesie_4483118_3224.html"
+      ]
+    },
+    {
+      "titre": "Affaire Haddad-OPT (corruption passive et trafic d'influence)",
+      "annee": 2023,
+      "statut": "MISE_EN_EXAMEN",
+      "categorie": "CORRUPTION_PASSIVE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.tntvnews.pf/polynesie/justice/un-pourvoi-dans-laffaire-haddad-flosse/",
+        "https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/affaire-haddad-fosse-la-prescription-cassee-par-la-cour-de-cassation-1355002.html",
+        "https://ladepeche.pf/2023/01/06/affaire-haddad-flosse-cest-reparti-pour-un-tour/"
+      ]
+    },
+    {
+      "titre": "Affaire de la vaisselle (détournement de biens publics et recel)",
+      "annee": 2016,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 16700,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lepoint.fr/justice/affaire-de-la-vaisselle-gaston-flosse-condamne-pour-detournement-12-10-2016-2075271_2386.php",
+        "https://www.capital.fr/economie-politique/il-avait-vole-50-000-euros-de-vaisselle-simple-amende-pour-gaston-flosse-1174397"
+      ]
+    },
+    {
+      "titre": "Diffamation envers Édouard Fritch",
+      "annee": 2019,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 16760,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.tntvnews.pf/polynesie/politique/gaston-flosse-condamne-pour-diffamation-envers-edouard-fritch/"
+      ]
+    },
+    {
+      "titre": "Affaire de la citerne d'Erima (détournement de fonds publics et abus de confiance)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 83000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://la1ere.francetvinfo.fr/polynesie/affaire-de-la-citerne-5-ans-d-ineligibilite-pour-gaston-flosse-901778.html",
+        "https://www.lepoint.fr/justice/gaston-flosse-condamne-a-5-ans-d-ineligibilite-11-12-2020-2405239_2386.php",
+        "https://www.lemonde.fr/societe/article/2022/01/12/en-polynesie-gaston-flosse-definitivement-condamne-pour-detournement-de-fonds-publics_6109205_3224.html"
+      ]
+    },
+    {
+      "titre": "Affaire du faux bail de Papeete (faux et inscription frauduleuse sur liste électorale)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FAUX_ET_USAGE_FAUX",
+      "prisonTotal": 9,
+      "prisonFerme": 0,
+      "amende": 8382,
+      "ineligibilite": 60,
+      "sources": [
+        "https://la1ere.francetvinfo.fr/polynesie/tahiti/polynesie-francaise/gaston-flosse-ineligible-pour-5-ans-dans-l-affaire-du-faux-bail-de-papeete-1325736.html",
+        "https://www.lefigaro.fr/flash-actu/polynesie-gaston-flosse-de-nouveau-condamne-a-cinq-ans-d-ineligibilite-20220928"
+      ]
+    }
+  ]
+}

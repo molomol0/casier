@@ -1,0 +1,47 @@
+{
+ "nom": "Patrick Poivre d'Arvor",
+ "wikiTitle": "Patrick Poivre d'Arvor",
+ "touched": null,
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Recel d'abus de biens sociaux (procès Botton-Noir)",
+   "annee": 1996,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "RECEL",
+   "prisonTotal": 15,
+   "prisonFerme": 0,
+   "amende": 30000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor"
+   ]
+  },
+  {
+   "titre": "Diffamation (propos sur le PDG de TF1)",
+   "annee": 2009,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 500,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor"
+   ]
+  },
+  {
+   "titre": "Viol (mise en examen, plainte de Florence Porcel)",
+   "annee": 2023,
+   "statut": "MISE_EN_EXAMEN",
+   "categorie": "AGRESSION_SEXUELLE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor"
+   ]
+  }
+ ]
+}

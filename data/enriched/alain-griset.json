@@ -1,0 +1,38 @@
+{
+  "nom": "Alain Griset",
+  "wikiTitle": "Alain Griset",
+  "touched": "2026-10-20T17:33:38Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire de déclaration incomplète de patrimoine à la HATVP (minoration de valeur)",
+      "annee": 2023,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "FAUX_ET_USAGE_FAUX",
+      "prisonTotal": 4,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 36,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2023/01/04/quatre-mois-de-prison-avec-sursis-contre-l-ex-ministre-alain-griset-pour-avoir-minore-la-valeur-de-son-patrimoine_6156568_3224.html",
+        "https://www.lemonde.fr/politique/article/2021/12/08/le-ministre-alain-griset-condamne-pour-non-declaration-de-patrimoine_6105183_823448.html",
+        "https://fr.wikipedia.org/wiki/Alain_Griset"
+      ]
+    },
+    {
+      "titre": "Affaire d'abus de confiance et faux liés aux fonds de la CNAMS",
+      "annee": 2022,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "ABUS_CONFIANCE",
+      "prisonTotal": 12,
+      "prisonFerme": 0,
+      "amende": 5000,
+      "ineligibilite": 36,
+      "sources": [
+        "https://www.challenges.fr/politique/la-hatvp-saisit-la-justice-d-un-possible-abus-de-confiance-du-ministre-aux-pme-alain-griset_738900",
+        "https://www.lemonde.fr/politique/article/2020/11/24/transparence-le-ministre-des-pme-alain-griset-epingle-par-la-hatvp_6060917_823448.html",
+        "https://fr.wikipedia.org/wiki/Alain_Griset"
+      ]
+    }
+  ]
+}

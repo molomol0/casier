@@ -1,0 +1,64 @@
+{
+  "nom": "Laurent Wauquiez",
+  "wikiTitle": "Laurent Wauquiez",
+  "touched": "2026-10-19T10:10:23Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Affaire Kaltenbach (diffamation)",
+      "annee": 2015,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 500,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.leparisien.fr/hauts-de-seine-92/clamart-92140/laurent-wauquiez-condamne-pour-avoir-traite-de-crapule-l-ex-maire-de-clamart-29-05-2015-4814497.php",
+        "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
+      ]
+    },
+    {
+      "titre": "Soupçons de favoritisme dans l'attribution d'un marché public au Puy-en-Velay (favoritisme, corruption, trafic d'influence)",
+      "annee": 2022,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.20minutes.fr/justice/3261959-20220329-puy-velay-enquete-favoritisme-ouverte-fief-laurent-wauquiez",
+        "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
+      ]
+    },
+    {
+      "titre": "Affaire du dîner des sommets (détournement de fonds publics présumé)",
+      "annee": 2023,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.mediapart.fr/journal/france/210223/diners-des-sommets-de-laurent-wauquiez-la-region-perquisitionnee",
+        "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
+      ]
+    },
+    {
+      "titre": "Affaire des emplois fictifs à Paris pour le compte de la région AURA (emploi fictif, détournement de fonds publics)",
+      "annee": 2023,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "EMPLOI_FICTIF",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.francetvinfo.fr/politique/les-republicains/laurent-wauquiez/enquete-soupcons-d-emplois-fictifs-aupres-de-laurent-wauquiez-enquetes-judiciaires-et-perquisitions-en-serie-au-conseil-regional-d-auvergne-rhone-alpes_6296928.html",
+        "https://fr.wikipedia.org/wiki/Laurent_Wauquiez"
+      ]
+    }
+  ]
+}

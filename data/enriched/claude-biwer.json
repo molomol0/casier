@@ -1,0 +1,48 @@
+{
+  "nom": "Claude Biwer",
+  "wikiTitle": "Claude Biwer",
+  "touched": "2026-10-20T17:23:18Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des marchés publics de Marville 2006 (favoritisme)",
+      "annee": 2006,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FAVORITISME",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 4000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Claude_Biwer"
+      ]
+    },
+    {
+      "titre": "Affaire de détournement de fonds publics 2008 (escroquerie, faux en écriture, détournement de fonds publics, travail dissimulé)",
+      "annee": 2008,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Claude_Biwer"
+      ]
+    },
+    {
+      "titre": "Affaire de prise illégale d'intérêts (Tribunal de Verdun / Cour d'appel de Nancy / Cour de cassation)",
+      "annee": 2012,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 2,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Claude_Biwer",
+        "https://www.estrepublicain.fr/justice/2012/05/29/claude-biwer-ineligible"
+      ]
+    }
+  ]
+}

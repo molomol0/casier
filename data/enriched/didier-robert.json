@@ -1,0 +1,23 @@
+{
+  "nom": "Didier Robert",
+  "wikiTitle": "Didier Robert",
+  "touched": "2026-10-20T17:23:53Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire des musées régionaux (prise illégale d'intérêts et abus de biens sociaux)",
+      "annee": 2021,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "PRISE_ILLEGALE_INTERETS",
+      "prisonTotal": 15,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 36,
+      "sources": [
+        "https://la1ere.francetvinfo.fr/reunion/affaire-des-musees-regionaux-didier-robert-condamne-a-trois-ans-d-ineligibilite-et-15-mois-de-prison-avec-sursis-1014304.html",
+        "https://www.lemonde.fr/societe/article/2021/05/21/la-reunion-ineligibilite-et-prison-avec-sursis-a-l-encontre-du-president-de-region-pour-prise-illegale-d-interets_6080999_3224.html",
+        "https://la1ere.francetvinfo.fr/reunion/affaire-des-musees-regionaux-didier-robert-renonce-a-faire-appel-de-sa-condamnation-1183306.html"
+      ]
+    }
+  ]
+}

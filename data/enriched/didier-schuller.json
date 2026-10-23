@@ -1,0 +1,23 @@
+{
+  "nom": "Didier Schuller",
+  "wikiTitle": "Didier Schuller",
+  "touched": "2026-10-20T17:23:13Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Financement occulte d'activités politiques (HLM des Hauts-de-Seine)",
+      "annee": 2007,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "TRAFIC_INFLUENCE",
+      "prisonTotal": 36,
+      "prisonFerme": 12,
+      "amende": 150000,
+      "ineligibilite": 60,
+      "sources": [
+        "https://www.challenges.fr/entreprise/hlm-des-hauts-de-seine-didier-schuller-definitivement-condamne_380605",
+        "http://tempsreel.nouvelobs.com/actualites/politique/20070125.OBS8774/un_an_ferme_en_appelpour_didier_schuller.html",
+        "https://fr.wikipedia.org/wiki/Didier_Schuller"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nom": "Gérard Depardieu",
+  "wikiTitle": "Gérard Depardieu",
+  "touched": "2026-10-22T12:48:47Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Agressions sexuelles sur le tournage des Volets verts",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "AGRESSION_SEXUELLE",
+      "prisonTotal": 18,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 24,
+      "sources": [
+        "https://www.ici.fr/infos/faits-divers-justice/agressions-sexuelles-gerard-depardieu-condamne-a-18-mois-de-prison-avec-sursis-1472994",
+        "https://www.nouvelobs.com/justice/20250513.OBS103833/gerard-depardieu-declare-coupable-d-agression-sexuelle.html"
+      ]
+    },
+    {
+      "titre": "Viols sur Charlotte Arnould (renvoi devant la cour criminelle de Paris)",
+      "annee": 2025,
+      "statut": "RENVOI_TRIBUNAL",
+      "categorie": "AGRESSION_SEXUELLE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.franceinfo.fr/culture/cinema/depardieu/info-franceinfo-affaire-gerard-depardieu-l-acteur-est-renvoye-devant-la-cour-criminelle-de-paris-pour-viols-sur-la-comedienne-charlotte-arnould_7468672.html",
+        "https://www.lemonde.fr/societe/article/2025/09/02/gerard-depardieu-renvoye-en-proces-devant-la-cour-criminelle-de-paris-pour-viols-sur-charlotte-arnould_6638420_3224.html",
+        "https://www.lemonde.fr/societe/article/2022/03/10/la-justice-confirme-la-mise-en-examen-de-gerard-depardieu-pour-viols-et-agressions-sexuelles_6116944_3224.html"
+      ]
+    },
+    {
+      "titre": "Enquête pour fraude fiscale aggravée et blanchiment",
+      "annee": 2025,
+      "statut": "ENQUETE_PRELIMINAIRE",
+      "categorie": "FRAUDE_FISCALE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.mediapart.fr/journal/france/240225/gerard-depardieu-vise-par-une-enquete-judiciaire-pour-fraude-fiscale",
+        "https://www.lefigaro.fr/actualite-france/gerard-depardieu-vise-par-une-enquete-pour-fraude-fiscale-aggravee-20250224",
+        "https://www.lemonde.fr/societe/article/2025/02/24/gerard-depardieu-vise-par-une-enquete-pour-fraude-fiscale-aggravee-et-blanchiment_6561991_3224.html"
+      ]
+    }
+  ]
+}

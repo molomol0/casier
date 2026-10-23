@@ -1,0 +1,21 @@
+{
+ "nom": "Jean-Jacques Annaud",
+ "wikiTitle": "Jean-Jacques Annaud",
+ "touched": "2026-10-22T15:01:32Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Blanchiment de fraude fiscale (avoirs non déclarés au fisc français)",
+   "annee": 2021,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "FRAUDE_FISCALE",
+   "prisonTotal": 9,
+   "prisonFerme": 0,
+   "amende": 120000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Jean-Jacques_Annaud"
+   ]
+  }
+ ]
+}

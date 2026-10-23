@@ -1,0 +1,23 @@
+{
+  "nom": "Bernard Laporte",
+  "wikiTitle": "Bernard Laporte",
+  "touched": "2026-10-20T17:22:04Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire Laporte-Altrad (corruption passive, trafic d'influence, prise illégale d'intérêts, abus de biens sociaux)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "CORRUPTION_PASSIVE",
+      "prisonTotal": 24,
+      "prisonFerme": 0,
+      "amende": 75000,
+      "ineligibilite": 24,
+      "sources": [
+        "https://www.lejdd.fr/Sport/exclusif-bernard-laporte-revient-sur-sa-condamnation-je-ne-vois-pas-pourquoi-je-devrais-men-aller-4155069",
+        "https://www.lemonde.fr/sport/article/2022/12/20/rugby-a-neuf-mois-de-la-coupe-du-monde-en-france-l-embarrassant-cas-bernard-laporte_6155193_3242.html",
+        "https://fr.wikipedia.org/wiki/Bernard_Laporte"
+      ]
+    }
+  ]
+}

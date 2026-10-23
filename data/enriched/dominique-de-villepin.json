@@ -1,0 +1,24 @@
+{
+ "nom": "Dominique de Villepin",
+ "wikiTitle": "Dominique de Villepin",
+ "touched": "2026-10-19T10:18:02Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Affaire des statuettes de Napoléon – recel de détournement de fonds publics",
+   "annee": 2026,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "RECEL",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lejdd.fr/politique/affaire-des-statuettes-dominique-de-villepin-entendu-par-le-parquet-national-financier-179979",
+    "https://www.cnews.fr/france/2026-05-20/dominique-de-villepin-ce-que-lon-sait-de-laffaire-des-statuettes-dans-laquelle",
+    "https://www.franceinfo.fr/politique/dominique-de-villepin-a-donne-les-statuettes-qu-il-avait-recues-en-cadeau-au-quai-d-orsay-apres-les-revelations-de-complement-d-enquete_7984574.html",
+    "https://kohenavocats.com/affaire-statuettes-villepin-pnf-recel-detournement-fonds-publics-peines-ineligibilite/"
+   ]
+  }
+ ]
+}

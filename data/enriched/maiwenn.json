@@ -1,0 +1,23 @@
+{
+  "nom": "Maïwenn",
+  "wikiTitle": "Maïwenn",
+  "touched": "2026-10-22T12:50:32Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Condamnation pour agression physique sur le journaliste Edwy Plenel",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "VIOLENCE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 400,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ozap.com/actu/edwy-plenel-porte-plainte-contre-la-realisatrice-maiwenn-pour-violences/630458",
+        "https://www.huffingtonpost.fr/justice/article/maiwenn-condamnee-pour-avoir-agresse-edwy-plenel-l-actrice-ecope-d-une-amende_228439.html",
+        "https://fr.wikipedia.org/wiki/Ma%C3%AFwenn"
+      ]
+    }
+  ]
+}

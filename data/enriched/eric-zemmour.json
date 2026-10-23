@@ -1,0 +1,188 @@
+{
+  "nom": "Éric Zemmour",
+  "wikiTitle": "Éric Zemmour",
+  "touched": "2026-10-20T09:34:08Z",
+  "enrichedAt": "2026-10-20",
+  "affaires": [
+    {
+      "titre": "Provocation à la discrimination raciale (propos sur les trafiquants noirs et arabes, 2010)",
+      "annee": 2011,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 2000,
+      "ineligibilite": 0,
+      "sources": [
+        "http://www.lepoint.fr/societe/eric-zemmour-condamne-pour-provocation-a-la-discrimination-raciale-18-02-2011-1296980_23.php",
+        "https://www.20minutes.fr/article/672603/societe-eric-zemmour-reconnu-coupable-provocation-discrimination-raciale"
+      ]
+    },
+    {
+      "titre": "Provocation à la haine religieuse envers les musulmans (déclarations C à vous, 2016)",
+      "annee": 2018,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 5000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2019/09/20/eric-zemmour-definitivement-condamne-pour-provocation-a-la-haine-raciale_6012389_3224.html",
+        "https://www.ouest-france.fr/societe/racisme/eric-zemmour-condamne-pour-provocation-la-haine-saisit-la-cour-europeenne-des-droits-de-l-homme-6649124"
+      ]
+    },
+    {
+      "titre": "Complicité d'injure raciale et provocation à la haine (propos sur les mineurs isolés étrangers, 2020)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.franceinter.fr/justice/propos-sur-les-mineurs-isoles-eric-zemmour-condamne-condamne-a-10-000-euros-d-amende",
+        "https://www.lemonde.fr/politique/article/2025/12/02/eric-zemmour-definitivement-condamne-pour-complicite-de-provocation-a-la-haine-pour-ses-propos-sur-les-mineurs-isoles_6655725_823448.html"
+      ]
+    },
+    {
+      "titre": "Contrefaçon de droits d'auteur (clip d'annonce de candidature, 2021)",
+      "annee": 2022,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 165000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.francetvinfo.fr/elections/presidentielle/eric-zemmour-condamne-pour-contrefacon-de-droits-d-auteur-dans-son-clip-d-annonce-de-candidature_4991810.html"
+      ]
+    },
+    {
+      "titre": "Injure à caractère raciste contre Hapsatou Sy (2018)",
+      "annee": 2023,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 4000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.mediapart.fr/journal/france/120123/eric-zemmour-condamne-pour-injure-raciste-contre-l-ex-animatrice-hapsatou-sy",
+        "https://www.liberation.fr/politique/injure-a-caractere-raciste-envers-hapsatou-sy-eric-zemmour-poursuit-son-marathon-judiciaire-20240326_64LSPMRR3FHQ3GZSM5EMPULEKA/",
+        "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/"
+      ]
+    },
+    {
+      "titre": "Diffamation envers Patrick Klugman (affaire Jérémie Cohen, 2022)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.ledauphine.com/faits-divers-justice/2024/01/18/affaire-jeremie-cohen-eric-zemmour-condamne-pour-diffamation",
+        "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/"
+      ]
+    },
+    {
+      "titre": "Complicité de diffamation publique envers Danièle Obono (2020)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 1000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2024/02/07/eric-zemmour-condamne-pour-complicite-de-diffamation-a-l-encontre-de-daniele-obono_6215256_3224.html",
+        "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/"
+      ]
+    },
+    {
+      "titre": "Incitation à la haine contre les migrants et les mineurs isolés (diatribe convention de la droite, 2019)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 15000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.nouvelobs.com/politique/20240222.AFP7206/eric-zemmour-condamne-a-15-000-euros-d-amende-pour-une-diatribe-anti-immigration-en-2019.html",
+        "https://www.huffingtonpost.fr/justice/article/eric-zemmour-condamne-a-son-deuxieme-proces-en-appel-pour-sa-diatribe-anti-islam-et-anti-immigration_230199.html"
+      ]
+    },
+    {
+      "titre": "Diffamation publique envers une administration publique (l'INED, 2021)",
+      "annee": 2024,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DIFFAMATION",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+        "https://www.nouvelobs.com/justice/20210625.OBS45765/l-ined-porte-plainte-contre-zemmour-qui-l-avait-accuse-de-trafiquer-les-chiffres-de-l-immigration.html"
+      ]
+    },
+    {
+      "titre": "Injure raciale à la suite de propos sur l'affaire de Crépol (2024)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "INJURE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 9000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.bfmtv.com/police-justice/eric-zemmour-condamne-pour-injure-raciale-apres-des-propos-sur-le-drame-de-crepol_AD-202503260432.html",
+        "https://www.lemonde.fr/societe/article/2025/03/26/eric-zemmour-condamne-a-9-000-euros-d-amende-pour-injure-raciale-dans-l-affaire-de-crepol_6586507_3224.html"
+      ]
+    },
+    {
+      "titre": "Contestation de crime contre l'humanité (déclarations sur Pétain, 2019)",
+      "annee": 2025,
+      "statut": "CONDAMNATION_EN_APPEL",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 10000,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.bfmtv.com/police-justice/petain-sauveur-de-juifs-francais-eric-zemmour-condamne-a-10-000-euros-d-amende_AD-202504020480.html",
+        "https://www.liberation.fr/politique/petain-sauveur-des-juifs-zemmour-juge-pour-contestation-de-crime-contre-lhumanite-20250212_3M7EXJ4NEZGYTFVRK3QPCSTGCA/?redirected=1"
+      ]
+    },
+    {
+      "titre": "Contrefaçon de droits d'auteur (extraits du documentaire Le Collège d'à côté, 2025)",
+      "annee": 2026,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "AUTRE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.liberation.fr/culture/eric-zemmour-a-nouveau-condamne-pour-contrefacon-de-droits-dauteur-20260119_TF5U7MP5SBAH5OVYB35SWK2AYA/"
+      ]
+    },
+    {
+      "titre": "Provocation publique à la haine et injure publique (propos sur les trafiquants de crack sénégalais, 2021-2022)",
+      "annee": 2024,
+      "statut": "RENVOI_TRIBUNAL",
+      "categorie": "INCITATION_HAINE",
+      "prisonTotal": 0,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://www.lemonde.fr/police-justice/article/2020/10/01/enquete-ouverte-pour-provocation-a-la-haine-raciale-contre-eric-zemmour-apres-ses-propos-contre-les-migrants_6054386_1653578.html"
+      ]
+    }
+  ]
+}

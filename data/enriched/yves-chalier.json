@@ -1,0 +1,36 @@
+{
+  "nom": "Yves Chalier",
+  "wikiTitle": "Yves Chalier",
+  "touched": "2026-10-20T17:23:00Z",
+  "enrichedAt": "2026-10-21",
+  "affaires": [
+    {
+      "titre": "Affaire du Carrefour du développement — détournement de fonds et faux documents",
+      "annee": 1992,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+      "prisonTotal": 60,
+      "prisonFerme": 60,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Yves_Chalier",
+        "https://www.lemonde.fr/ete-2007/article/2006/08/05/l-argent-sale-de-la-cooperation_801310_781732.html"
+      ]
+    },
+    {
+      "titre": "Affaire du vrai-faux passeport — falsification de documents administratifs",
+      "annee": 1994,
+      "statut": "CONDAMNATION_DEFINITIVE",
+      "categorie": "FAUX_ET_USAGE_FAUX",
+      "prisonTotal": 4,
+      "prisonFerme": 0,
+      "amende": 0,
+      "ineligibilite": 0,
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Yves_Chalier",
+        "https://www.lemonde.fr/archives/article/1987/04/25/l-affaire-du-vrai-faux-passeport-d-yves-chalier-la-chambre-d-accusation-de-paris-va-se-prononcer-sur-le-secret-defense_4054973_1819218.html"
+      ]
+    }
+  ]
+}
