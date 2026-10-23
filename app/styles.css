@@ -77,13 +77,22 @@ a:hover { text-decoration: underline; }
 .mode-hint { color: var(--dim); font-size: 0.88rem; margin-top: 0.7rem; }
 
 .credit {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
   color: var(--faint);
   font-size: 0.8rem;
   margin-top: 2.4rem;
 }
 .credit a { color: var(--accent-dim); text-decoration: none; }
-.credit a:hover { color: var(--accent); text-decoration: underline; }
+.credit span a:hover { color: var(--accent); text-decoration: underline; }
+.gh-link {
+  display: inline-flex;
+  color: var(--faint);
+  transition: color 0.15s;
+}
+.gh-link:hover { color: var(--accent); }
 .pool-count {
   text-align: center;
   color: var(--faint);

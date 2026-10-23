@@ -1,0 +1,15 @@
+# Dépendances
+node_modules/
+
+# Fichiers de travail / caches temporaires des scripts d'enrichissement
+tmp-*.json
+scan-*.json
+wiki-*.json
+
+# Outils d'enrichissement locaux (méthode, prompts d'agents, config)
+.claude/
+
+# Système
+.DS_Store
+Thumbs.db
+*.log

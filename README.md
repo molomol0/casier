@@ -1,124 +1,114 @@
-# 🍳 Casseroles — le jeu
+# Casier
 
-Jeu type « Higher or Lower » sur les condamnations judiciaires documentées des
-personnalités politiques françaises. Deux cartes côte à côte : la personne de
-gauche est révélée, on devine si celle de droite a « plus » ou « moins », le
-clic dévoile les chiffres, la carte passe à gauche et une nouvelle apparaît.
+**Le casier judiciaire des personnalités françaises. Deux cartes, une question : qui en a le plus ?**
 
-## Lancer le jeu
+Un jeu type _Higher or Lower_ : deux personnalités côte à côte, la carte de gauche
+est révélée, tu devines si celle de droite a **plus** ou **moins** d'affaires
+judiciaires. Clic → les chiffres se dévoilent, la carte passe à gauche, une
+nouvelle apparaît. On ne perd jamais sur une égalité : les deux cartes ont
+toujours des valeurs différentes.
 
-Aucun build front : ouvrir `app/index.html` dans un navigateur, c'est tout.
-(Le dataset est embarqué dans `app/dataset.js`, donc pas besoin de serveur.)
+➡️ **[Jouer en ligne](https://casier.pages.dev)**
 
-## Notre base (celle du jeu)
+---
 
-La base du jeu est **construite par nous, indépendamment** des bases externes :
+## Le jeu en bref
 
-1. **Le roster** — `node scripts/build-roster.mjs [topN]` : les personnalités
-   politiques françaises depuis Wikidata (nées après 1900, article Wikipédia FR),
-   classées par **longueur de leur article Wikipédia** (meilleur proxy de
-   casseroles que les sitelinks : Cahuzac n'a que 13 sitelinks, Balkany 6).
-   Top 600 par défaut → `data/roster.json`.
-2. **L'enrichissement** — le skill **`/enrich-base`** (voir plus bas) produit
-   un fichier `data/enriched/<clé>.json` par personne, avec ses affaires
-   sourcées.
-3. **Le build** — `node scripts/build-dataset.mjs` : assemble roster + enriched
-   → `data/dataset.json` + `app/dataset.js`. Les personnes pas encore enrichies
-   sont dans la base avec 0 affaire (hors jeu tant qu'elles ne sont pas
-   traitées).
+- **Deux univers** : **Politiques** et **Célébrités** (ou tout mélangé).
+- **Plusieurs modes de comparaison** : nombre d'affaires, mois de prison,
+  montant des amendes, mois d'inéligibilité.
+- **Filtres** à l'accueil : qui peut apparaître (≥ 1 / 3 / 4 affaires) et quels
+  statuts comptent (condamnations définitives / en appel / procédures en cours).
+- **Mode « sans perdre »** : une erreur n'arrête pas la partie (exploration).
+- **Annuaire complet** avec recherche et filtres (univers, nombre d'affaires,
+  statut, tri) pour parcourir toute la base et lire le détail sourcé de chaque
+  affaire.
 
-Les bases externes (crapulopedia, PoliGraph) ne sont PAS fusionnées : le script
-`scripts/build-dataset-externes.mjs` les regroupe dans
-`data/dataset-externes.json`, utilisé uniquement comme **contrôle croisé** par
-l'agent d'enrichissement.
+La base compte aujourd'hui **518 personnalités** (201 politiques, 300 célébrités,
+17 affairistes/intermédiaires), dont **151 avec au moins une affaire**, pour un
+total de **355 affaires** recensées et sourcées.
 
-## Modes de jeu
+## Lancer en local
 
-- **Toutes casseroles** (mode principal) : nombre d'affaires, toutes
-  comptées pareil quelle que soit la peine ou le statut
-- **Prison** : mois de prison au total (ferme + sursis)
-- **Amendes** : montant cumulé des amendes
-- **Inéligibilité** : mois d'inéligibilité prononcés
+Aucun build front, aucun serveur : ouvre **`app/index.html`** dans un navigateur.
+Les données sont embarquées dans `app/dataset.js`.
 
-Trois toggles à l'accueil choisissent ce qui compte : condamnations
-définitives / condamnations en appel ou pourvoi / affaires en cours (mise en
-examen, enquête, procès…). Chaque affaire porte un badge de statut sur la
-carte, et l'accueil contient un glossaire expliquant chaque statut.
+## Comment la base est construite
 
-Le tirage garantit que les deux cartes d'un duel ont toujours des valeurs
-différentes : pas d'égalité possible.
+La base est construite **à partir de sources publiques**, pas achetée ni copiée :
 
-## Sources et licences
+1. **Roster** — `node scripts/build-roster.mjs` (politiques) et
+   `node scripts/build-roster-celebrites.mjs` (célébrités) interrogent **Wikidata**
+   et classent les personnalités par **longueur d'article Wikipédia** (meilleur
+   proxy de notoriété que les sitelinks).
+2. **Enrichissement** — pour chaque personne, lecture de l'article **Wikipédia**
+   et de la **presse citée en référence**, puis recensement des affaires selon un
+   **périmètre pénal strict** (voir [CONTRIBUTING.md](CONTRIBUTING.md)) :
+   `data/enriched/<nom>.json`.
+3. **Build** — `node scripts/build-dataset.mjs` assemble roster + enrichissements
+   → `data/dataset.json` + `app/dataset.js`.
 
-**Notre base (le jeu)** :
+Une base externe de contrôle croisé (`data/dataset-externes.json`) sert uniquement
+à vérifier, elle n'est jamais fusionnée dans le jeu.
+
+## Périmètre : seulement le pénal réel
+
+On ne compte **que** les condamnations pénales (définitives ou en appel) et les
+procédures en cours réelles et sourcées (mise en examen, renvoi, procès, enquête).
+Sont **exclus** : relaxes, non-lieux, classements sans suite, contentieux civils,
+accusations sans procédure, et les cas où la personne est plaignante/victime.
+
+⚠️ **Présomption d'innocence** : chaque affaire porte un badge de statut. Une
+affaire non définitivement jugée est signalée comme telle, jamais présentée comme
+une culpabilité. Un glossaire sur l'accueil l'explique au joueur.
+
+## Déploiement
+
+Site 100 % statique → n'importe quel hébergeur gratuit convient (Cloudflare Pages,
+GitHub Pages, Netlify…). Il suffit de publier le dossier **`app/`** comme racine.
+Sur Cloudflare/GitHub Pages connectés au dépôt, **chaque `git push` sur `main`
+redéploie automatiquement**.
+
+> Après un ajout dans la base, relancer `node scripts/build-dataset.mjs` **avant**
+> de commiter (ça régénère `app/dataset.js`).
+
+## Contribuer
+
+Les contributions pour compléter ou corriger la base sont les bienvenues !
+Règles (source obligatoire, périmètre strict, schéma) dans
+**[CONTRIBUTING.md](CONTRIBUTING.md)**. Toute PR est relue avant fusion.
+
+## Sources & licences
 
 | Source | Usage | Licence |
 |---|---|---|
-| [Wikidata](https://www.wikidata.org) | roster, partis, descriptions | CC0 |
-| Wikipédia FR | affaires (texte des articles) | CC BY-SA (attribution requise) |
-| Presse citée en référence | vérification + sourcing | simples liens (pas de reprise de contenu) |
-| Wikimedia Commons | photos | licences libres (attribution sur Commons) |
+| [Wikidata](https://www.wikidata.org) | roster, partis, descriptions, photos | CC0 / Commons |
+| Wikipédia FR | texte des affaires | CC BY-SA (attribution requise) |
+| Presse citée en référence | vérification + sourcing | simples liens |
 
-→ **Plus de contrainte non-commerciale** : la base du jeu étant construite
-depuis Wikipédia/Wikidata, la clause NC de crapulopedia ne s'applique plus
-(crapulopedia et PoliGraph ne servent que de contrôle croisé interne, leurs
-données ne sont pas redistribuées).
+- **Code** : [MIT](LICENSE).
+- **Données** : construites depuis Wikipédia/Wikidata → réutilisation sous CC BY-SA
+  avec attribution.
 
-⚠️ Juridique : chaque affaire affiche son **statut en badge** (condamnation
-définitive / en appel / mise en examen / enquête…). La présomption d'innocence
-s'applique à toute affaire non définitivement jugée — le glossaire de l'accueil
-l'explique au joueur. Relaxes, non-lieux et classements sans suite ne figurent
-jamais dans la base.
-
-## Agents Claude Code (enrichissement et mise à jour)
-
-Les deux agents tournent dans une session Claude Code (couvert par
-l'abonnement, pas de clé API) :
-
-- **`/enrich-base`** (le one-shot, relançable) : prend les 10 prochaines
-  personnalités du roster pas encore traitées, lit l'article Wikipédia **et les
-  articles de presse cités en référence**, recense toutes les affaires pénales
-  — condamnations (peines détaillées) ET affaires en cours sourcées (mise en
-  examen, procès…) — avec catégorie d'infraction et URLs sources, puis écrit
-  `data/enriched/<clé>.json`. Contrôle croisé automatique contre
-  `data/dataset-externes.json`. Relancer jusqu'à épuisement du roster
-  (~60 lancements pour 600 personnes, à étaler sur quelques jours).
-- **`/update-base`** (de temps en temps) : détecte via
-  `scripts/check-wiki-updates.mjs` les articles Wikipédia modifiés depuis
-  l'enrichissement, ré-enrichit ces personnes et rapporte ce qui a changé
-  (nouvelles affaires, appels devenus définitifs, personnes blanchies…).
-
-Un exemple validé de bout en bout est déjà dans la base :
-`data/enriched/jerome-cahuzac.json`. Bonus : l'enrichissement remplit le champ
-`categorie`, ce qui débloque les futurs modes thématiques.
-
-## Pistes suivantes (voir discussion du plan d'action)
-
-- **Modes thématiques** (probité, violences…) : le champ `categorie` est déjà
-  rempli pour les affaires PoliGraph ; reste à catégoriser les condamnations
-  crapulopedia (LLM sur les titres) pour ouvrir ces modes.
-- **Élargir le roster** aux 577 députés / 348 sénateurs / 81 eurodéputés
-  (open data AN, Sénat, Parlement européen) pour des duels incluant des
-  élus à zéro condamnation.
-- **Modes sans risque juridique** : patrimoine HATVP, assiduité parlementaire
-  (NosDéputés/Datan).
-- Compléter les ~60 personnalités sans photo (recherche Commons manuelle).
+Projet citoyen à but informatif, sans affiliation politique.
 
 ## Structure
 
 ```
-casseroles-game/
-├── app/                  SPA vanilla JS (index.html + game.js + styles.css + dataset.js généré)
+casier/
+├── app/                       site statique (index.html, game.js, styles.css, dataset.js, favicon.svg)
 ├── data/
-│   ├── roster.json       périmètre : top 600 politiques FR (Wikidata, tri par longueur d'article)
-│   ├── enriched/         1 fichier par personne traitée par /enrich-base (NOTRE base)
-│   ├── dataset.json      base du jeu assemblée (roster + enriched)
-│   └── dataset-externes.json  crapulopedia + PoliGraph — contrôle croisé uniquement
+│   ├── roster.json            politiques (Wikidata)
+│   ├── roster-celebrites.json célébrités (Wikidata)
+│   ├── roster-extra.json      ajouts manuels (affairistes, intermédiaires…)
+│   ├── enriched/              1 fichier par personne traitée (la base)
+│   ├── dataset.json           base du jeu assemblée
+│   └── dataset-externes.json  base externe de contrôle croisé
 ├── scripts/
-│   ├── build-roster.mjs          génère le roster
-│   ├── build-dataset.mjs         assemble NOTRE base → app/dataset.js
-│   ├── build-dataset-externes.mjs  base de référence externe
-│   ├── fetch-wiki.mjs            article Wikipédia + URLs des références presse
-│   └── check-wiki-updates.mjs    détecte les articles modifiés depuis l'enrichissement
-└── .claude/skills/       /enrich-base et /update-base
+│   ├── build-roster*.mjs      génèrent les rosters
+│   ├── build-dataset.mjs      assemble la base → app/dataset.js
+│   ├── fetch-wiki.mjs         article Wikipédia + URLs des références presse
+│   └── check-wiki-updates.mjs détecte les articles modifiés depuis l'enrichissement
+├── CONTRIBUTING.md
+└── LICENSE
 ```
