@@ -1,393 +1,394 @@
 {
-  "nom": "Dieudonné M'bala M'bala",
-  "wikiTitle": "Dieudonné",
-  "touched": "2026-10-19T18:24:30Z",
-  "enrichedAt": "2026-10-20",
-  "affaires": [
-    {
-      "titre": "Injure envers Patrick Sébastien (chanson « Casser du Noir »)",
-      "annee": 2000,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INJURE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lyoncapitale.fr/actualite/l-itw-dans-lyon-capitale-qui-a-fait-condamner-dieudonne"
-      ]
-    },
-    {
-      "titre": "Diffamation envers Arthur (financement armée israélienne)",
-      "annee": 2007,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "DIFFAMATION",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 3000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.ladepeche.fr/article/2007/09/19/17381-Dieudonne-renonce-a-faire-appel-de-sa-condamnation-pour-diffamation-envers-Arthur.html"
-      ]
-    },
-    {
-      "titre": "Provocation à la haine raciale – comparaison Juifs / négriers (2004)",
-      "annee": 2007,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 5000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.nouvelobs.com/societe/20071115.OBS5000/dieudonne-condamne-en-appel-a-5-000-euros-d-amende.html"
-      ]
-    },
-    {
-      "titre": "Provocation à la haine – « pornographie mémorielle » sur la Shoah (2005)",
-      "annee": 2008,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 7000,
-      "ineligibilite": 0,
-      "sources": [
-        "http://www.lemag.ma/Propos-sur-la-memoire-de-la-Shoah-condamnation-de-Dieudonne-confirmee-en-appel_a15113.html"
-      ]
-    },
-    {
-      "titre": "Diffamation envers la journaliste Élisabeth Schemla",
-      "annee": 2009,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "DIFFAMATION",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 1000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lexpress.fr/actualite/societe/dieudonne-renvoye-en-correctionnelle-pour-injures-raciales_752605.html"
-      ]
-    },
-    {
-      "titre": "Injures antisémites / apologie du négationnisme – spectacle avec Faurisson (2008)",
-      "annee": 2009,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 10000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lexpress.fr/styles/dieudonne-condamne-en-appel-pour-un-spectacle-avec-le-negationniste-faurisson_973427.html",
-        "https://www.lepoint.fr/people/dieudonne-definitivement-condamne-pour-son-spectacle-avec-faurisson-17-10-2012-1517947_2116.php"
-      ]
-    },
-    {
-      "titre": "Diffamation envers la LICRA (« officine israélienne »)",
-      "annee": 2010,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "DIFFAMATION",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 5000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lexpress.fr/actualite/societe/dieudonne-renvoye-en-correctionnelle-pour-injures-raciales_752605.html"
-      ]
-    },
-    {
-      "titre": "Diffamation, injure et provocation à la haine raciale – vidéos Shoananas et propos antisémites (2012)",
-      "annee": 2012,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 28000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lefigaro.fr/flash-actu/2012/11/27/97001-20121127FILWWW00612-dieudonne-condamne-pour-antisemitisme.php",
-        "https://www.lemonde.fr/societe/article/2013/10/18/audience-agitee-au-proces-en-appel-de-dieudonne_3498023_3224.html"
-      ]
-    },
-    {
-      "titre": "Contestation de crimes contre l'humanité, diffamation raciale et provocation à la haine – vidéo « 2014 sera l'année de la quenelle »",
-      "annee": 2014,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lemonde.fr/societe/article/2014/01/09/que-risque-dieudonne-apres-ses-condamnations_4344961_3224.html"
-      ]
-    },
-    {
-      "titre": "Atteinte au droit moral de l'auteur – parodie de « L'Aigle noir » de Barbara",
-      "annee": 2015,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 5000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lefigaro.fr/culture/2015/01/22/03004-20150122ARTFIG00143-dieudonne-condamne-pour-avoir-parodie-l-aigle-noir-de-barbara.php",
-        "https://www.huffingtonpost.fr/caroline-mecary/condamnation-dieudonne-barbara_b_6513612.html"
-      ]
-    },
-    {
-      "titre": "Appel aux dons illicite pour payer ses amendes",
-      "annee": 2015,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 6000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.liberation.fr/societe/2015/03/18/apologie-du-terrorisme-deux-mois-de-prison-avec-sursis-pour-dieudonne_1223213/"
-      ]
-    },
-    {
-      "titre": "Apologie du terrorisme – « Je me sens Charlie Coulibaly » (Facebook, janvier 2015)",
-      "annee": 2015,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 2,
-      "prisonFerme": 0,
-      "amende": 10000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.liberation.fr/societe/2015/03/18/apologie-du-terrorisme-deux-mois-de-prison-avec-sursis-pour-dieudonne_1223213/",
-        "https://www.nouvelobs.com/rue89/rue89-internet/20160518.RUE2915/je-me-sens-charlie-coulibaly-dieudonne-condamne-en-appel.html"
-      ]
-    },
-    {
-      "titre": "Provocation à la haine raciale – spectacle Le Mur / propos visant Patrick Cohen",
-      "annee": 2015,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 22500,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.liberation.fr/societe/2015/03/19/dieudonne-condamne-a-22-500-euros-d-amende-pour-ses-propos-contre-patrick-cohen_1224007/"
-      ]
-    },
-    {
-      "titre": "Propos antisémites, négationnistes et révisionnistes – spectacle à Herstal (Belgique, 2012)",
-      "annee": 2017,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 2,
-      "prisonFerme": 2,
-      "amende": 9000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lalibre.be/belgique/2017/01/20/dieudonne-condamne-a-2-mois-de-prison-pour-avoir-tenu-des-propos-antisemites-et-revisionnistes-XKD6D4DWPBHOHPRS6SHMAO255Q/",
-        "https://www.lemonde.fr/police-justice/article/2017/06/07/la-condamnation-de-dieudonne-a-deux-mois-de-prison-ferme-validee-par-la-cour-de-cassation-belge_5140270_1653578.html"
-      ]
-    },
-    {
-      "titre": "Injure publique envers Manuel Valls",
-      "annee": 2015,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INJURE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 3000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lefigaro.fr/flash-actu/2015/12/10/97001-20151210FILWWW00172-dieudonne-condamne-pour-injure-contre-valls.php"
-      ]
-    },
-    {
-      "titre": "Provocation à la haine raciale – spectacle La Bête immonde (propos antisémites sur les Juifs esclavagistes)",
-      "annee": 2017,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 2,
-      "prisonFerme": 0,
-      "amende": 10000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.europe1.fr/faits-divers/belgique-dieudonne-condamne-a-deux-mois-de-prison-ferme-en-appel-2955847"
-      ]
-    },
-    {
-      "titre": "Violence sur huissier de justice au Flash-Ball (domicile du Mesnil-Simon, janvier 2014)",
-      "annee": 2016,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "VIOLENCE",
-      "prisonTotal": 8,
-      "prisonFerme": 0,
-      "amende": 20000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.francetvinfo.fr/societe/justice/dieudonne/plainte-d-un-huissier-pour-violences-dieudonne-condamne-a-huit-mois-de-prison-avec-sursis-et-20-000-euros-d-amende_1967201.html"
-      ]
-    },
-    {
-      "titre": "Inéligibilité pour non-dépôt des comptes de campagne (élections législatives 2017)",
-      "annee": 2018,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 36,
-      "sources": [
-        "https://www.conseil-constitutionnel.fr/decision/2025/20256489AN.htm"
-      ]
-    },
-    {
-      "titre": "Fraude fiscale, blanchiment et abus de biens sociaux (détournement de plus d'un million d'euros de recettes de spectacles)",
-      "annee": 2021,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "FRAUDE_FISCALE",
-      "prisonTotal": 36,
-      "prisonFerme": 24,
-      "amende": 200000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.rtl.fr/actu/justice-faits-divers/dieudonne-condamne-a-deux-ans-de-prison-ferme-7797987863",
-        "https://www.lemonde.fr/societe/article/2021/06/25/dieudonne-condamne-en-appel-a-de-la-prison-ferme_6085701_3224.html"
-      ]
-    },
-    {
-      "titre": "Complicité d'injure antisémite – vidéo et chanson « C'est mon choaaa »",
-      "annee": 2021,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INJURE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 9000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lefigaro.fr/flash-actu/propos-negationnistes-dieudonne-condamne-en-appel-en-suisse-20220515"
-      ]
-    },
-    {
-      "titre": "Injure publique envers Christian Estrosi",
-      "annee": 2021,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INJURE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 5000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.20minutes.fr/justice/3075887-20210702-nice-dieudonne-condamne-avoir-insulte-christian-estrosi"
-      ]
-    },
-    {
-      "titre": "Injure publique envers un fonctionnaire (Chartres, spectacle Le Bal des quenelles)",
-      "annee": 2020,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INJURE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 10000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lechorepublicain.fr/chartres-28000/actualites/a-chartres-dieudonne-est-condamne-a-des-jours-amendes-pour-injures_13835509/"
-      ]
-    },
-    {
-      "titre": "Injure antisémite et contestation de crime contre l'humanité – vidéos publiées (2021)",
-      "annee": 2021,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 4,
-      "prisonFerme": 4,
-      "amende": 10000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.20minutes.fr/justice/3075887-20210702-nice-dieudonne-condamne-avoir-insulte-christian-estrosi"
-      ]
-    },
-    {
-      "titre": "Propos négationnistes lors d'un spectacle (Suisse) – condamnation confirmée en cassation",
-      "annee": 2023,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 28200,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lefigaro.fr/flash-actu/propos-negationnistes-dieudonne-condamne-en-appel-en-suisse-20220515",
-        "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza://16-03-2023-6B_777-2022&lang=fr&zoom=&type=show_document"
-      ]
-    },
-    {
-      "titre": "Recel de bien obtenu à l'aide d'une escroquerie – spectacle illicite en Ille-et-Vilaine (Rennes, 2024)",
-      "annee": 2024,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "RECEL",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 8000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.leparisien.fr/faits-divers/dieudonne-condamne-pour-recel-descroquerie-pour-un-spectacle-illicite-dans-un-chateau-22-01-2024-RSJBDCQCQBBBHMQ77ZJTDPTZLA.php",
-        "https://actu.fr/bretagne/pire-chance_35220/dieudonne-juge-a-rennes-apres-son-spectacle-dans-un-chateau-pres-de-vitre_60523836.html"
-      ]
-    },
-    {
-      "titre": "Inéligibilité pour non-dépôt des comptes de campagne (élections législatives 2024)",
-      "annee": 2025,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 36,
-      "sources": [
-        "https://www.conseil-constitutionnel.fr/decision/2025/20256489AN.htm"
-      ]
-    },
-    {
-      "titre": "Injure raciste envers Rachel Khan (vidéo octobre 2020)",
-      "annee": 2022,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "INJURE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 10000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.francetvinfo.fr/societe/justice/dieudonne/dieudonne-condamne-a-10-000-euros-d-amende-pour-injure-raciste-envers-rachel-khan_5390368.html"
-      ]
-    },
-    {
-      "titre": "Apologie du terrorisme et injure envers Laurent Nuñez – vidéos sur X dont celle du 7 octobre 2024",
-      "annee": 2026,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 6,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 36,
-      "sources": [
-        "https://www.lemonde.fr/societe/article/2026/09/17/dieudonne-condamne-a-six-mois-sous-bracelet-electronique-pour-apologie-du-terrorisme-et-injure-envers-laurent-nunez_6776458_3224.html"
-      ]
-    },
-    {
-      "titre": "Mise en examen pour calomnie – accusation d'agression sexuelle contre Manuel Valls",
-      "annee": 2022,
-      "statut": "MISE_EN_EXAMEN",
-      "categorie": "DIFFAMATION",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lefigaro.fr/actualite-france/dieudonne-mis-en-examen-apres-avoir-accuse-manuel-valls-d-agression-sexuelle-20220124"
-      ]
-    }
-  ]
+ "nom": "Dieudonné M'bala M'bala",
+ "wikiTitle": "Dieudonné",
+ "touched": "2026-10-19T18:24:30Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Injure envers Patrick Sébastien (chanson « Casser du Noir »)",
+   "annee": 2000,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lyoncapitale.fr/actualite/l-itw-dans-lyon-capitale-qui-a-fait-condamner-dieudonne"
+   ]
+  },
+  {
+   "titre": "Diffamation envers Arthur (financement armée israélienne)",
+   "annee": 2007,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 3000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.ladepeche.fr/article/2007/09/19/17381-Dieudonne-renonce-a-faire-appel-de-sa-condamnation-pour-diffamation-envers-Arthur.html"
+   ]
+  },
+  {
+   "titre": "Provocation à la haine raciale – comparaison Juifs / négriers (2004)",
+   "annee": 2007,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 5000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.nouvelobs.com/societe/20071115.OBS5000/dieudonne-condamne-en-appel-a-5-000-euros-d-amende.html"
+   ]
+  },
+  {
+   "titre": "Provocation à la haine – « pornographie mémorielle » sur la Shoah (2005)",
+   "annee": 2008,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 7000,
+   "ineligibilite": 0,
+   "sources": [
+    "http://www.lemag.ma/Propos-sur-la-memoire-de-la-Shoah-condamnation-de-Dieudonne-confirmee-en-appel_a15113.html"
+   ]
+  },
+  {
+   "titre": "Diffamation envers la journaliste Élisabeth Schemla",
+   "annee": 2009,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 1000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lexpress.fr/actualite/societe/dieudonne-renvoye-en-correctionnelle-pour-injures-raciales_752605.html"
+   ]
+  },
+  {
+   "titre": "Injures antisémites / apologie du négationnisme – spectacle avec Faurisson (2008)",
+   "annee": 2009,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 10000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lexpress.fr/styles/dieudonne-condamne-en-appel-pour-un-spectacle-avec-le-negationniste-faurisson_973427.html",
+    "https://www.lepoint.fr/people/dieudonne-definitivement-condamne-pour-son-spectacle-avec-faurisson-17-10-2012-1517947_2116.php"
+   ]
+  },
+  {
+   "titre": "Diffamation envers la LICRA (« officine israélienne »)",
+   "annee": 2010,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 5000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lexpress.fr/actualite/societe/dieudonne-renvoye-en-correctionnelle-pour-injures-raciales_752605.html"
+   ]
+  },
+  {
+   "titre": "Diffamation, injure et provocation à la haine raciale – vidéos Shoananas et propos antisémites (2012)",
+   "annee": 2012,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 28000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/flash-actu/2012/11/27/97001-20121127FILWWW00612-dieudonne-condamne-pour-antisemitisme.php",
+    "https://www.lemonde.fr/societe/article/2013/10/18/audience-agitee-au-proces-en-appel-de-dieudonne_3498023_3224.html"
+   ]
+  },
+  {
+   "titre": "Contestation de crimes contre l'humanité, diffamation raciale et provocation à la haine – vidéo « 2014 sera l'année de la quenelle »",
+   "annee": 2014,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lemonde.fr/societe/article/2014/01/09/que-risque-dieudonne-apres-ses-condamnations_4344961_3224.html"
+   ]
+  },
+  {
+   "titre": "Atteinte au droit moral de l'auteur – parodie de « L'Aigle noir » de Barbara",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 5000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/culture/2015/01/22/03004-20150122ARTFIG00143-dieudonne-condamne-pour-avoir-parodie-l-aigle-noir-de-barbara.php",
+    "https://www.huffingtonpost.fr/caroline-mecary/condamnation-dieudonne-barbara_b_6513612.html"
+   ]
+  },
+  {
+   "titre": "Appel aux dons illicite pour payer ses amendes",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 6000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.liberation.fr/societe/2015/03/18/apologie-du-terrorisme-deux-mois-de-prison-avec-sursis-pour-dieudonne_1223213/"
+   ]
+  },
+  {
+   "titre": "Apologie du terrorisme – « Je me sens Charlie Coulibaly » (Facebook, janvier 2015)",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 2,
+   "prisonFerme": 0,
+   "amende": 10000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.liberation.fr/societe/2015/03/18/apologie-du-terrorisme-deux-mois-de-prison-avec-sursis-pour-dieudonne_1223213/",
+    "https://www.nouvelobs.com/rue89/rue89-internet/20160518.RUE2915/je-me-sens-charlie-coulibaly-dieudonne-condamne-en-appel.html"
+   ]
+  },
+  {
+   "titre": "Provocation à la haine raciale – spectacle Le Mur / propos visant Patrick Cohen",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 22500,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.liberation.fr/societe/2015/03/19/dieudonne-condamne-a-22-500-euros-d-amende-pour-ses-propos-contre-patrick-cohen_1224007/"
+   ]
+  },
+  {
+   "titre": "Propos antisémites, négationnistes et révisionnistes – spectacle à Herstal (Belgique, 2012)",
+   "annee": 2017,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 2,
+   "prisonFerme": 2,
+   "amende": 9000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lalibre.be/belgique/2017/01/20/dieudonne-condamne-a-2-mois-de-prison-pour-avoir-tenu-des-propos-antisemites-et-revisionnistes-XKD6D4DWPBHOHPRS6SHMAO255Q/",
+    "https://www.lemonde.fr/police-justice/article/2017/06/07/la-condamnation-de-dieudonne-a-deux-mois-de-prison-ferme-validee-par-la-cour-de-cassation-belge_5140270_1653578.html"
+   ]
+  },
+  {
+   "titre": "Injure publique envers Manuel Valls",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 3000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/flash-actu/2015/12/10/97001-20151210FILWWW00172-dieudonne-condamne-pour-injure-contre-valls.php"
+   ]
+  },
+  {
+   "titre": "Provocation à la haine raciale – spectacle La Bête immonde (propos antisémites sur les Juifs esclavagistes)",
+   "annee": 2017,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 2,
+   "prisonFerme": 0,
+   "amende": 10000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.europe1.fr/faits-divers/belgique-dieudonne-condamne-a-deux-mois-de-prison-ferme-en-appel-2955847"
+   ]
+  },
+  {
+   "titre": "Violence sur huissier de justice au Flash-Ball (domicile du Mesnil-Simon, janvier 2014)",
+   "annee": 2016,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 8,
+   "prisonFerme": 0,
+   "amende": 20000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.francetvinfo.fr/societe/justice/dieudonne/plainte-d-un-huissier-pour-violences-dieudonne-condamne-a-huit-mois-de-prison-avec-sursis-et-20-000-euros-d-amende_1967201.html"
+   ]
+  },
+  {
+   "titre": "Inéligibilité pour non-dépôt des comptes de campagne (élections législatives 2017)",
+   "annee": 2018,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 36,
+   "sources": [
+    "https://www.conseil-constitutionnel.fr/decision/2025/20256489AN.htm"
+   ]
+  },
+  {
+   "titre": "Fraude fiscale, blanchiment et abus de biens sociaux (détournement de plus d'un million d'euros de recettes de spectacles)",
+   "annee": 2021,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "FRAUDE_FISCALE",
+   "prisonTotal": 36,
+   "prisonFerme": 24,
+   "amende": 200000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.rtl.fr/actu/justice-faits-divers/dieudonne-condamne-a-deux-ans-de-prison-ferme-7797987863",
+    "https://www.lemonde.fr/societe/article/2021/06/25/dieudonne-condamne-en-appel-a-de-la-prison-ferme_6085701_3224.html"
+   ]
+  },
+  {
+   "titre": "Complicité d'injure antisémite – vidéo et chanson « C'est mon choaaa »",
+   "annee": 2021,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 9000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/flash-actu/propos-negationnistes-dieudonne-condamne-en-appel-en-suisse-20220515"
+   ]
+  },
+  {
+   "titre": "Injure publique envers Christian Estrosi",
+   "annee": 2021,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 5000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.20minutes.fr/justice/3075887-20210702-nice-dieudonne-condamne-avoir-insulte-christian-estrosi"
+   ]
+  },
+  {
+   "titre": "Injure publique envers un fonctionnaire (Chartres, spectacle Le Bal des quenelles)",
+   "annee": 2020,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 10000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lechorepublicain.fr/chartres-28000/actualites/a-chartres-dieudonne-est-condamne-a-des-jours-amendes-pour-injures_13835509/"
+   ]
+  },
+  {
+   "titre": "Injure antisémite et contestation de crime contre l'humanité – vidéos publiées (2021)",
+   "annee": 2021,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 4,
+   "prisonFerme": 4,
+   "amende": 10000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.20minutes.fr/justice/3075887-20210702-nice-dieudonne-condamne-avoir-insulte-christian-estrosi"
+   ]
+  },
+  {
+   "titre": "Propos négationnistes lors d'un spectacle (Suisse) – condamnation confirmée en cassation",
+   "annee": 2023,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 28200,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/flash-actu/propos-negationnistes-dieudonne-condamne-en-appel-en-suisse-20220515",
+    "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza://16-03-2023-6B_777-2022&lang=fr&zoom=&type=show_document"
+   ]
+  },
+  {
+   "titre": "Recel de bien obtenu à l'aide d'une escroquerie – spectacle illicite en Ille-et-Vilaine (Rennes, 2024)",
+   "annee": 2024,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "RECEL",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 8000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.leparisien.fr/faits-divers/dieudonne-condamne-pour-recel-descroquerie-pour-un-spectacle-illicite-dans-un-chateau-22-01-2024-RSJBDCQCQBBBHMQ77ZJTDPTZLA.php",
+    "https://actu.fr/bretagne/pire-chance_35220/dieudonne-juge-a-rennes-apres-son-spectacle-dans-un-chateau-pres-de-vitre_60523836.html"
+   ]
+  },
+  {
+   "titre": "Inéligibilité pour non-dépôt des comptes de campagne (élections législatives 2024)",
+   "annee": 2025,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 36,
+   "sources": [
+    "https://www.conseil-constitutionnel.fr/decision/2025/20256489AN.htm"
+   ]
+  },
+  {
+   "titre": "Injure raciste envers Rachel Khan (vidéo octobre 2020)",
+   "annee": 2022,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 10000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.francetvinfo.fr/societe/justice/dieudonne/dieudonne-condamne-a-10-000-euros-d-amende-pour-injure-raciste-envers-rachel-khan_5390368.html"
+   ]
+  },
+  {
+   "titre": "Apologie du terrorisme et injure envers Laurent Nuñez – vidéos sur X dont celle du 7 octobre 2024",
+   "annee": 2026,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 6,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 36,
+   "sources": [
+    "https://www.lemonde.fr/societe/article/2026/09/17/dieudonne-condamne-a-six-mois-sous-bracelet-electronique-pour-apologie-du-terrorisme-et-injure-envers-laurent-nunez_6776458_3224.html"
+   ]
+  },
+  {
+   "titre": "Mise en examen pour calomnie – accusation d'agression sexuelle contre Manuel Valls",
+   "annee": 2022,
+   "statut": "MISE_EN_EXAMEN",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/actualite-france/dieudonne-mis-en-examen-apres-avoir-accuse-manuel-valls-d-agression-sexuelle-20220124"
+   ]
+  }
+ ],
+ "accusations": []
 }

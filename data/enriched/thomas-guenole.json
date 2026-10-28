@@ -3,5 +3,15 @@
   "wikiTitle": "Thomas Guénolé",
   "touched": "2026-10-20T17:29:52Z",
   "enrichedAt": "2026-10-21",
-  "affaires": []
+  "affaires": [],
+  "accusations": [
+    {
+      "titre": "Accusations de harcèlement sexuel (affaire LFI / Sciences Po)",
+      "annee": 2019,
+      "statut": "ACCUSATION_PUBLIQUE",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Thomas_Gu%C3%A9nol%C3%A9"
+      ]
+    }
+  ]
 }

@@ -3,5 +3,18 @@
   "wikiTitle": "Frédéric Beigbeder",
   "touched": "2026-10-22T12:48:52Z",
   "enrichedAt": "2026-10-21",
-  "affaires": []
+  "affaires": [],
+  "accusations": [
+    {
+      "titre": "Accusations de viol (plainte d'une jeune femme, 2023)",
+      "annee": 2023,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2023/12/12/frederic-beigbeder-entendu-en-garde-a-vue-apres-le-depot-d-une-plainte-pour-des-faits-de-viol-qu-il-conteste_6205454_3224.html",
+        "https://www.lemonde.fr/societe/article/2024/07/26/accusation-de-viol-contre-frederic-beigbeder-l-enquete-classee-sans-suite_6258801_3224.html",
+        "https://www.liberation.fr/societe/police-justice/accusation-de-viol-contre-frederic-beigbeder-lenquete-classee-sans-suite-20240726_7WKGWK5T3VCPDE2YKDA2XRM4FM/",
+        "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Beigbeder"
+      ]
+    }
+  ]
 }

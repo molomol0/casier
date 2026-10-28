@@ -3,5 +3,17 @@
  "wikiTitle": "André Téchiné",
  "touched": "2026-10-22T12:48:55Z",
  "enrichedAt": "2026-10-21",
- "affaires": []
+ "affaires": [],
+ "accusations": [
+  {
+   "titre": "Accusations de harcèlement sexuel (affaire Francis Renaud)",
+   "annee": 2024,
+   "statut": "CLASSEMENT_SANS_SUITE",
+   "sources": [
+    "https://www.leparisien.fr/culture-loisirs/cinema/metoogarcons-lenquete-pour-harcelement-sexuel-visant-andre-techine-classee-sans-suite-13-06-2024-ZJQR5YJLPFH4HI6NXKVCBMHBQE.php",
+    "https://www.lemonde.fr/culture/article/2024/03/03/plainte-contre-le-realisateur-andre-techine-pour-harcelement-sexuel-le-parquet-ouvre-une-enquete_6219871_3246.html",
+    "https://www.huffingtonpost.fr/culture/article/andre-techine-conteste-les-accusations-de-francis-renaud-et-invoque-une-approche-maladroite_230476.html"
+   ]
+  }
+ ]
 }

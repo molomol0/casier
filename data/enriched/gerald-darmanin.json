@@ -1,7 +1,21 @@
 {
-  "nom": "Gérald Darmanin",
-  "wikiTitle": "Gérald Darmanin",
-  "touched": "2026-10-19T16:56:50Z",
-  "enrichedAt": "2026-10-20",
-  "affaires": []
+ "nom": "Gérald Darmanin",
+ "wikiTitle": "Gérald Darmanin",
+ "touched": "2026-10-19T16:56:50Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [],
+ "accusations": [
+  {
+   "titre": "Accusations de viol et de harcèlement sexuel (affaire Sophie Patterson-Spatz)",
+   "annee": 2017,
+   "statut": "NON_LIEU",
+   "sources": ["https://fr.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  },
+  {
+   "titre": "Accusation d'abus de faiblesse",
+   "annee": 2018,
+   "statut": "CLASSEMENT_SANS_SUITE",
+   "sources": ["https://fr.wikipedia.org/wiki/G%C3%A9rald_Darmanin"]
+  }
+ ]
 }

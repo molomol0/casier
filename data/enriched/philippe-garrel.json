@@ -1,7 +1,17 @@
 {
-  "nom": "Philippe Garrel",
-  "wikiTitle": "Philippe Garrel",
-  "touched": "2026-10-22T15:01:35Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": []
+ "nom": "Philippe Garrel",
+ "wikiTitle": "Philippe Garrel",
+ "touched": "2026-10-22T15:01:35Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [],
+ "accusations": [
+  {
+   "titre": "Accusations de harcèlement sexuel et gestes déplacés (témoignages de 5 comédiennes)",
+   "annee": 2023,
+   "statut": "ACCUSATION_PUBLIQUE",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Philippe_Garrel"
+   ]
+  }
+ ]
 }

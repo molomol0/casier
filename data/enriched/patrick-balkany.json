@@ -124,5 +124,27 @@
         "https://www.lemonde.fr/politique/article/2021/02/09/patrick-balkany-mis-en-examen-pour-prise-illegale-d-interets-et-abus-de-biens-sociaux_6069373_823448.html"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Accusations de viol et menace avec arme (affaire de la compagne de 1996)",
+      "annee": 1996,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.lemonde.fr/archives/article/1996/07/02/plainte-patrick-balkany-fait-l-objet-d-une-plainte-pour-menaces-avec-arme-et-violences-sexuelles-deposee-par-son-amie-sybille-jacquin-de-margerie_3721001_1819218.html",
+        "http://www.liberation.fr/france/1996/07/01/une-plainte-tres-privee-contre-le-depute-balkany-vendredisa-nouvelle-compagne-l-a-accuse-devant-la-p_178239",
+        "https://fr.wikipedia.org/wiki/Patrick_Balkany#Affaires_sexuelles"
+      ]
+    },
+    {
+      "titre": "Accusations publiques de harcèlement sexuel par Marie-Claire Restoux (2016)",
+      "annee": 2016,
+      "statut": "ACCUSATION_PUBLIQUE",
+      "sources": [
+        "http://www.charentelibre.fr/2011/05/31/harcelement-sexuel-marie-claire-restoux-accuse-balkany,1038661.php",
+        "https://www.charentelibre.fr/sport/judo/harcelement-sexuel-marie-claire-restoux-accuse-balkany-6441076.php",
+        "https://fr.wikipedia.org/wiki/Patrick_Balkany#Affaires_sexuelles"
+      ]
+    }
   ]
 }

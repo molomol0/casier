@@ -43,5 +43,24 @@
     "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor"
    ]
   }
+ ],
+ "accusations": [
+  {
+   "titre": "Plaintes pour viols et agressions sexuelles classées sans suite (affaire PPDA — première vague)",
+   "annee": 2021,
+   "statut": "CLASSEMENT_SANS_SUITE",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor",
+    "https://www.liberation.fr/societe/2021/07/23/ppda-le-parquet-classe-sans-suite-les-plaintes-pour-viol_1742983/"
+   ]
+  },
+  {
+   "titre": "Cinq informations judiciaires pour viols et viols aggravés (affaire PPDA — deuxième vague)",
+   "annee": 2024,
+   "statut": "INFORMATION_EN_COURS",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor"
+   ]
+  }
  ]
 }

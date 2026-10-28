@@ -16,6 +16,17 @@ const STATUTS = {
 };
 const statutInfo = (s) => STATUTS[s] ?? { label: s.toLowerCase().replaceAll("_", " "), groupe: "encours" };
 
+// Statuts d'ACCUSATION — hors périmètre pénal. Toujours affichés avec leur suite
+// réelle (non-lieu, classement…), jamais confondus avec une condamnation.
+const ACCUSATIONS_STATUTS = {
+  NON_LIEU: "non-lieu",
+  CLASSEMENT_SANS_SUITE: "classé sans suite",
+  INFORMATION_EN_COURS: "information judiciaire en cours",
+  ACCUSATION_PUBLIQUE: "accusation publique",
+};
+const accStatutLabel = (s) => ACCUSATIONS_STATUTS[s] ?? s.toLowerCase().replaceAll("_", " ");
+const accusationsOf = (p) => p.accusations ?? [];
+
 const MODES = {
   // Mode principal : chaque affaire vaut 1, quels que soient la peine ou le statut
   // (les options de l'accueil filtrent ce qui compte).
@@ -42,6 +53,16 @@ const MODES = {
     question: "a pris combien de mois d'inéligibilité ?",
     unit: (v) => `${v} mois d'inéligibilité`,
     value: (p, affaires) => affaires.reduce((s, a) => s + a.ineligibilite, 0),
+  },
+  // Mode « pour le fun » : additionne casier pénal ET accusations. Chaque élément
+  // reste tagué par nature (condamnation vs accusation) et par statut — jamais fondu
+  // en un seul type. Un bandeau d'avertissement s'affiche dans ce mode.
+  casier_accusations: {
+    label: "Casier + accusations",
+    question: "a combien d'affaires et d'accusations au total ?",
+    unit: (v) => `${v} au total`,
+    value: (p, affaires) => affaires.length + accusationsOf(p).length,
+    withAccusations: true,
   },
 };
 
@@ -97,15 +118,22 @@ function valueOf(p) {
   return MODES[state.mode].value(p, keptAffaires(p));
 }
 
+// Nombre d'éléments comptés pour le filtre « qui peut apparaître » :
+// casier pénal seul, ou casier + accusations dans le mode combiné.
+function countForMin(p) {
+  const base = keptAffaires(p).length;
+  return MODES[state.mode]?.withAccusations ? base + accusationsOf(p).length : base;
+}
+
 function buildPool() {
   // Personnes de l'univers choisi, avec photo (le jeu est visuel), une valeur > 0
-  // pour le mode choisi, et au moins minAffaires affaires comptées.
+  // pour le mode choisi, et au moins minAffaires éléments comptés.
   state.pool = DATA.politicians.filter(
     (p) =>
       (state.univers === "tout" || (p.univers || "politique") === state.univers) &&
       p.photo &&
       valueOf(p) > 0 &&
-      keptAffaires(p).length >= state.minAffaires
+      countForMin(p) >= state.minAffaires
   );
 }
 
@@ -140,6 +168,19 @@ function cardHtml(p, { revealed }) {
     .join("");
   const more = affaires.length > 4 ? `<li class="more">… et ${affaires.length - 4} autre(s)</li>` : "";
 
+  // Dans le mode combiné, on ajoute les accusations avec un badge visuellement
+  // distinct (nature + suite réelle), jamais confondues avec le casier pénal.
+  const accRows = mode.withAccusations
+    ? accusationsOf(p)
+        .slice(0, 4)
+        .map(
+          (a) =>
+            `<li><span class="annee">${a.annee ?? "?"}</span> ${a.titre} ` +
+            `<em class="badge accusation">accusation · ${accStatutLabel(a.statut)}</em></li>`
+        )
+        .join("")
+    : "";
+
   return `
     <div class="photo" style="background-image:url('${p.photo}')"></div>
     <div class="overlay">
@@ -148,24 +189,26 @@ function cardHtml(p, { revealed }) {
       ${
         revealed
           ? `<p class="value">${mode.unit(valueOf(p))}</p>
-             <ul class="details">${detailRows}${more}</ul>`
+             <ul class="details">${detailRows}${more}${accRows}</ul>`
           : `<p class="question">${mode.question}</p>
-             <div class="choices">
-               <button class="btn-guess" data-guess="plus">Plus <span class="arrow">↑</span></button>
-               <button class="btn-guess" data-guess="moins">Moins <span class="arrow">↓</span></button>
-             </div>`
+             <p class="tap-hint">Clique sur la personnalité qui en a le plus</p>`
       }
     </div>`;
 }
 
 function renderDuel() {
-  $("card-left").innerHTML = cardHtml(state.left, { revealed: true });
+  state.locked = false;
+  $("accusation-warning").classList.toggle("hidden", !MODES[state.mode]?.withAccusations);
+  const left = $("card-left");
   const right = $("card-right");
+  left.innerHTML = cardHtml(state.left, { revealed: true });
   right.classList.remove("revealed");
   right.innerHTML = cardHtml(state.right, { revealed: false });
-  right.querySelectorAll(".btn-guess").forEach((b) =>
-    b.addEventListener("click", () => onGuess(b.dataset.guess))
-  );
+  // On clique directement sur la carte qu'on pense être la plus élevée :
+  //  - clic à droite  = « la nouvelle en a plus » (plus)
+  //  - clic à gauche  = « l'actuelle en a plus »  (la nouvelle en a moins)
+  right.onclick = () => onGuess("plus");
+  left.onclick = () => onGuess("moins");
   $("hud-score").textContent = state.score;
   if (state.zen) {
     $("hud-best-label").textContent = "Erreurs";
@@ -177,6 +220,8 @@ function renderDuel() {
 }
 
 function onGuess(guess) {
+  if (state.locked) return; // ignore les clics pendant la révélation
+  state.locked = true;
   const vLeft = valueOf(state.left);
   const vRight = valueOf(state.right);
   const correct = guess === "plus" ? vRight > vLeft : vRight < vLeft;
@@ -356,31 +401,45 @@ function peinesText(a) {
 }
 
 function browseSummary(p) {
-  if (!p.affaires.length) return `<span class="clean">Aucune affaire recensée</span>`;
+  const nAcc = accusationsOf(p).length;
+  const accPart = nAcc
+    ? `<span class="acc-count">${nAcc} accusation${nAcc > 1 ? "s" : ""}</span>`
+    : "";
+  if (!p.affaires.length)
+    return accPart || `<span class="clean">Aucune affaire recensée</span>`;
   const counts = { definitive: 0, appel: 0, encours: 0 };
   for (const a of p.affaires) counts[statutInfo(a.statut).groupe]++;
   const parts = [];
   if (counts.definitive) parts.push(`${counts.definitive} définitive${counts.definitive > 1 ? "s" : ""}`);
   if (counts.appel) parts.push(`${counts.appel} en appel`);
   if (counts.encours) parts.push(`${counts.encours} en cours`);
-  return `<strong>${p.affaires.length} affaire${p.affaires.length > 1 ? "s" : ""}</strong> — ${parts.join(" · ")}`;
+  return (
+    `<strong>${p.affaires.length} affaire${p.affaires.length > 1 ? "s" : ""}</strong> — ${parts.join(" · ")}` +
+    (accPart ? ` · ${accPart}` : "")
+  );
+}
+
+function sourcesHtml(a) {
+  return (a.sources ?? [])
+    .map((u) => {
+      let host = "source";
+      try { host = new URL(u).hostname.replace(/^www\./, ""); } catch {}
+      return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host)}</a>`;
+    })
+    .join(" · ");
 }
 
 function browseDetail(p) {
-  if (!p.affaires.length)
+  const acc = accusationsOf(p);
+  if (!p.affaires.length && !acc.length)
     return `<p class="det-note">Article Wikipédia analysé : aucune affaire pénale recensée.</p>`;
-  const rows = [...p.affaires]
+
+  const affRows = [...p.affaires]
     .sort((a, b) => (b.annee ?? 0) - (a.annee ?? 0))
     .map((a) => {
       const s = statutInfo(a.statut);
       const peines = peinesText(a);
-      const sources = (a.sources ?? [])
-        .map((u, i) => {
-          let host = "source";
-          try { host = new URL(u).hostname.replace(/^www\./, ""); } catch {}
-          return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host)}</a>`;
-        })
-        .join(" · ");
+      const sources = sourcesHtml(a);
       return `<div class="det-aff">
         <div><span class="annee">${a.annee ?? "?"}</span> ${esc(a.titre)} <em class="badge ${s.groupe}">${s.label}</em></div>
         ${peines ? `<div class="det-peines">${esc(peines)}</div>` : ""}
@@ -388,7 +447,30 @@ function browseDetail(p) {
       </div>`;
     })
     .join("");
-  return rows;
+
+  const affBlock = p.affaires.length
+    ? affRows
+    : `<p class="det-note">Aucune affaire pénale au casier.</p>`;
+
+  const accBlock = acc.length
+    ? `<div class="det-acc-block">
+         <p class="det-acc-head">Accusations recensées
+           <span class="det-acc-warn">— une accusation n'est ni une preuve ni une condamnation ; présomption d'innocence</span>
+         </p>` +
+      [...acc]
+        .sort((a, b) => (b.annee ?? 0) - (a.annee ?? 0))
+        .map((a) => {
+          const sources = sourcesHtml(a);
+          return `<div class="det-aff det-acc">
+            <div><span class="annee">${a.annee ?? "?"}</span> ${esc(a.titre)} <em class="badge accusation">${esc(accStatutLabel(a.statut))}</em></div>
+            ${sources ? `<div class="det-sources">Sources : ${sources}</div>` : ""}
+          </div>`;
+        })
+        .join("") +
+      `</div>`
+    : "";
+
+  return affBlock + accBlock;
 }
 
 function renderBrowse() {
@@ -406,11 +488,21 @@ function renderBrowse() {
         (statut === "tout" ||
           p.affaires.some((a) => statutInfo(a.statut).groupe === statut))
     )
-    .sort((a, b) =>
-      sort === "nom"
-        ? a.nom.localeCompare(b.nom, "fr")
-        : b.affaires.length - a.affaires.length || a.nom.localeCompare(b.nom, "fr")
-    );
+    .sort((a, b) => {
+      if (sort === "nom") return a.nom.localeCompare(b.nom, "fr");
+      if (sort === "acc")
+        return (
+          accusationsOf(b).length - accusationsOf(a).length ||
+          b.affaires.length - a.affaires.length ||
+          a.nom.localeCompare(b.nom, "fr")
+        );
+      // "aff" (défaut) : d'abord le nombre d'affaires, puis les accusations à égalité
+      return (
+        b.affaires.length - a.affaires.length ||
+        accusationsOf(b).length - accusationsOf(a).length ||
+        a.nom.localeCompare(b.nom, "fr")
+      );
+    });
   $("browse-count").textContent = `${matches.length} / ${DATA.politicians.length}`;
   $("browse-list").innerHTML = matches
     .map((p, i) => {

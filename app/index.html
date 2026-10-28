@@ -98,7 +98,8 @@
             <li><strong>Enquête, instruction, procès en cours</strong> — procédure non jugée : <em>présomption d'innocence pleine et entière</em>.</li>
           </ul>
           <p>
-            Les relaxes, non-lieux et classements sans suite ne figurent jamais dans les comptes.
+            Relaxes, non-lieux et classements sans suite ne comptent jamais dans le <strong>casier</strong> (condamnations et procédures réelles).
+            Ils peuvent en revanche figurer dans le registre distinct des <strong>accusations</strong>, toujours affichés avec leur suite réelle — une accusation n'étant ni une preuve ni une condamnation.
             Données construites à partir de <a href="https://fr.wikipedia.org" target="_blank" rel="noopener">Wikipédia</a>,
             <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a> et de la presse citée en référence.
             Projet citoyen à but informatif, sans affiliation politique.
@@ -122,6 +123,9 @@
       <span id="hud-mode"></span>
       <span class="score">Score <strong id="hud-score">0</strong> · <span id="hud-best-label">Record</span> <strong id="hud-best">0</strong></span>
     </header>
+    <p id="accusation-warning" class="accusation-warning hidden">
+      ⚠ Ce mode inclut des <strong>accusations</strong> — une accusation n'est ni une preuve ni une condamnation. Présomption d'innocence.
+    </p>
     <main class="duel">
       <section class="card revealed" id="card-left"></section>
       <div class="duel-sep"><span>vs</span></div>
@@ -158,6 +162,7 @@
       </select>
       <select id="f-sort" aria-label="Tri">
         <option value="aff">Tri : + d'affaires</option>
+        <option value="acc">Tri : + d'accusations</option>
         <option value="nom">Tri : A → Z</option>
       </select>
     </div>

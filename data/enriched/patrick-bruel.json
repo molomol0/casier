@@ -33,5 +33,17 @@
         "https://www.mediapart.fr/journal/france/180326/affaire-patrick-bruel-je-veux-que-cette-fois-entende"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Accusations de harcèlement sexuel, exhibition sexuelle et agression sexuelle — plaintes de masseuses classées sans suite (2019-2020)",
+      "annee": 2019,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2021/09/03/les-enquetes-visant-patrick-bruel-pour-agression-et-harcelement-sexuel-classees-sans-suite_6093348_3224.html",
+        "https://www.lemonde.fr/societe/article/2019/09/09/patrick-bruel-mis-en-cause-dans-une-affaire-d-exhibition-et-de-harcelement-sexuel_5508332_3224.html",
+        "https://www.marieclaire.fr/patrick-bruel-accuse-d-agression-et-de-harcelement-sexuel-les-enquetes-classees-sans-suite,1400113.asp"
+      ]
+    }
   ]
 }

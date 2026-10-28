@@ -19,5 +19,17 @@
         "https://www.mediapart.fr/journal/france/011124/plainte-contre-slimane-les-grandes-manoeuvres-pour-proteger-la-star"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Plainte pour agression sexuelle et tentative d'agression sexuelle (affaire Saint-Étienne, nuit du 17-18 décembre 2023)",
+      "annee": 2024,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.leparisien.fr/culture-loisirs/musique/affaire-slimane-une-deuxieme-plainte-pour-agression-sexuelle-deposee-contre-le-chanteur-18-11-2024-2MSJYFMQWRBTRJKFJPRPIVUQPY.php",
+        "https://www.lemonde.fr/societe/article/2024/11/19/le-chanteur-slimane-vise-par-une-seconde-plainte-cette-fois-pour-agression-sexuelle_6402580_3224.html",
+        "https://www.lemonde.fr/societe/article/2025/09/16/le-chanteur-slimane-condamne-a-payer-une-amende-de-10-000-euros-pour-harcelement-sexuel_6641444_3224.html"
+      ]
+    }
   ]
 }

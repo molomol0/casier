@@ -1,24 +1,25 @@
 {
-  "nom": "Maryse Joissains-Masini",
-  "wikiTitle": "Maryse Joissains-Masini",
-  "touched": "2026-10-21T20:19:42Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire des emplois de complaisance (trafic d'influence et détournement de fonds publics)",
-      "annee": 2021,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
-      "prisonTotal": 8,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 36,
-      "sources": [
-        "https://www.lemonde.fr/police-justice/article/2020/12/07/detournement-trois-ans-d-ineligibilite-et-huit-mois-de-prison-avec-sursis-pour-la-maire-lr-d-aix-en-provence_6062507_1653578.html",
-        "https://gomet.net/maryse-joissains-condamnee-cassation/",
-        "https://www.lamarseillaise.fr/politique/la-cour-de-cassation-rejette-son-pourvoi-maryse-joissains-devient-ineligible-MD9489178",
-        "https://www.lemonde.fr/societe/article/2014/04/09/la-maire-ump-d-aix-en-provence-maryse-joissains-mise-en-examen_4397989_3224.html"
-      ]
-    }
-  ]
+ "nom": "Maryse Joissains-Masini",
+ "wikiTitle": "Maryse Joissains-Masini",
+ "touched": "2026-10-21T20:19:42Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire des emplois de complaisance (trafic d'influence et détournement de fonds publics)",
+   "annee": 2021,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 8,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 36,
+   "sources": [
+    "https://www.lemonde.fr/police-justice/article/2020/12/07/detournement-trois-ans-d-ineligibilite-et-huit-mois-de-prison-avec-sursis-pour-la-maire-lr-d-aix-en-provence_6062507_1653578.html",
+    "https://gomet.net/maryse-joissains-condamnee-cassation/",
+    "https://www.lamarseillaise.fr/politique/la-cour-de-cassation-rejette-son-pourvoi-maryse-joissains-devient-ineligible-MD9489178",
+    "https://www.lemonde.fr/societe/article/2014/04/09/la-maire-ump-d-aix-en-provence-maryse-joissains-mise-en-examen_4397989_3224.html"
+   ]
+  }
+ ],
+ "accusations": []
 }

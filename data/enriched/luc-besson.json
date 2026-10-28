@@ -3,5 +3,26 @@
   "wikiTitle": "Luc Besson",
   "touched": "2026-10-22T12:48:47Z",
   "enrichedAt": "2026-10-21",
-  "affaires": []
+  "affaires": [],
+  "accusations": [
+    {
+      "titre": "Accusations de viols (affaire Sand Van Roy)",
+      "annee": 2018,
+      "statut": "NON_LIEU",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Luc_Besson",
+        "https://www.lemonde.fr/",
+        "https://www.mediapart.fr/"
+      ]
+    },
+    {
+      "titre": "Accusations d'agressions sexuelles par d'autres femmes (révélations Mediapart 2018)",
+      "annee": 2018,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Luc_Besson",
+        "https://www.mediapart.fr/"
+      ]
+    }
+  ]
 }

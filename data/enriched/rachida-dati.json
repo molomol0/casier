@@ -1,38 +1,39 @@
 {
-  "nom": "Rachida Dati",
-  "wikiTitle": "Rachida Dati",
-  "touched": "2026-10-19T19:31:43Z",
-  "enrichedAt": "2026-10-20",
-  "affaires": [
-    {
-      "titre": "Affaire Carlos Ghosn / Renault-Nissan (corruption passive et trafic d'influence)",
-      "annee": 2026,
-      "statut": "PROCES_EN_COURS",
-      "categorie": "CORRUPTION_PASSIVE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.france24.com/fr/france/20250722-ministre-rachida-dati-et-ancien-patron-carlos-ghosn-renvoy%C3%A9s-en-proc%C3%A8s-pour-corruption",
-        "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/corruption-trafic-d-influence-rachida-dati-et-carlos-ghosn-ancien-patron-de-renault-nissan-renvoyes-devant-le-tribunal-correctionnel-3191817.html",
-        "https://www.blick.ch/fr/monde/france/rachida-dati-le-pnf-requiere-deux-ans-ferme-et-lineligibilite/m5bhhg5",
-        "https://fr.wikipedia.org/wiki/Rachida_Dati"
-      ]
-    },
-    {
-      "titre": "Affaire des bijoux non déclarés à la HATVP",
-      "annee": 2025,
-      "statut": "ENQUETE_PRELIMINAIRE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.france24.com/fr/france/20250916-bijoux-rachida-dati-enqu%C3%AAte-ouverte-pour-non-d%C3%A9claration-%C3%A0-la-hatvp-justice",
-        "https://www.parlons-politique.fr/actualite-nationale/enquete-preliminaire-contre-rachida-dati-pour-non-declaration-de-bijoux-a-la-hatvp-19-pieces-valant-420-000-e-la-brigade-financiere-saisie_3000/"
-      ]
-    }
-  ]
+ "nom": "Rachida Dati",
+ "wikiTitle": "Rachida Dati",
+ "touched": "2026-10-19T19:31:43Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Affaire Carlos Ghosn / Renault-Nissan (corruption passive et trafic d'influence)",
+   "annee": 2026,
+   "statut": "PROCES_EN_COURS",
+   "categorie": "CORRUPTION_PASSIVE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.france24.com/fr/france/20250722-ministre-rachida-dati-et-ancien-patron-carlos-ghosn-renvoy%C3%A9s-en-proc%C3%A8s-pour-corruption",
+    "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/corruption-trafic-d-influence-rachida-dati-et-carlos-ghosn-ancien-patron-de-renault-nissan-renvoyes-devant-le-tribunal-correctionnel-3191817.html",
+    "https://www.blick.ch/fr/monde/france/rachida-dati-le-pnf-requiere-deux-ans-ferme-et-lineligibilite/m5bhhg5",
+    "https://fr.wikipedia.org/wiki/Rachida_Dati"
+   ]
+  },
+  {
+   "titre": "Affaire des bijoux non déclarés à la HATVP",
+   "annee": 2025,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.france24.com/fr/france/20250916-bijoux-rachida-dati-enqu%C3%AAte-ouverte-pour-non-d%C3%A9claration-%C3%A0-la-hatvp-justice",
+    "https://www.parlons-politique.fr/actualite-nationale/enquete-preliminaire-contre-rachida-dati-pour-non-declaration-de-bijoux-a-la-hatvp-19-pieces-valant-420-000-e-la-brigade-financiere-saisie_3000/"
+   ]
+  }
+ ],
+ "accusations": []
 }

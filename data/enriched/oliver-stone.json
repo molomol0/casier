@@ -1,30 +1,35 @@
 {
-  "nom": "Oliver Stone",
-  "wikiTitle": "Oliver Stone",
-  "touched": "2026-10-22T15:01:32Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Condamnation pour conduite en état d'ivresse et possession de stupéfiants",
-      "annee": 1999,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": ["https://en.wikipedia.org/wiki/Oliver_Stone"]
-    },
-    {
-      "titre": "Condamnation pour possession de marijuana (Los Angeles)",
-      "annee": 2005,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 100,
-      "ineligibilite": 0,
-      "sources": ["https://en.wikipedia.org/wiki/Oliver_Stone"]
-    }
-  ]
+ "nom": "Oliver Stone",
+ "wikiTitle": "Oliver Stone",
+ "touched": "2026-10-22T15:01:32Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Condamnation pour conduite en état d'ivresse et possession de stupéfiants",
+   "annee": 1999,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Oliver_Stone"
+   ]
+  },
+  {
+   "titre": "Condamnation pour possession de marijuana (Los Angeles)",
+   "annee": 2005,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 100,
+   "ineligibilite": 0,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Oliver_Stone"
+   ]
+  }
+ ],
+ "accusations": []
 }

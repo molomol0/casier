@@ -1,36 +1,37 @@
 {
-  "nom": "Varg Vikernes",
-  "wikiTitle": "Varg Vikernes",
-  "touched": "2026-10-22T16:16:50Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Meurtre d'Øystein Aarseth, incendies criminels d'églises et détention d'explosifs",
-      "annee": 1994,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "VIOLENCE",
-      "prisonTotal": 252,
-      "prisonFerme": 252,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://en.wikipedia.org/wiki/Varg_Vikernes",
-        "https://fr.wikipedia.org/wiki/Varg_Vikernes"
-      ]
-    },
-    {
-      "titre": "Incitation à la haine raciale sur blog (France)",
-      "annee": 2014,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INCITATION_HAINE",
-      "prisonTotal": 6,
-      "prisonFerme": 0,
-      "amende": 8000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://en.wikipedia.org/wiki/Varg_Vikernes",
-        "https://fr.wikipedia.org/wiki/Varg_Vikernes"
-      ]
-    }
-  ]
+ "nom": "Varg Vikernes",
+ "wikiTitle": "Varg Vikernes",
+ "touched": "2026-10-22T16:16:50Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Meurtre d'Øystein Aarseth, incendies criminels d'églises et détention d'explosifs",
+   "annee": 1994,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 252,
+   "prisonFerme": 252,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Varg_Vikernes",
+    "https://fr.wikipedia.org/wiki/Varg_Vikernes"
+   ]
+  },
+  {
+   "titre": "Incitation à la haine raciale sur blog (France)",
+   "annee": 2014,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INCITATION_HAINE",
+   "prisonTotal": 6,
+   "prisonFerme": 0,
+   "amende": 8000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Varg_Vikernes",
+    "https://fr.wikipedia.org/wiki/Varg_Vikernes"
+   ]
+  }
+ ],
+ "accusations": []
 }

@@ -3,5 +3,17 @@
   "wikiTitle": "Abdellatif Kechiche",
   "touched": "2026-10-22T12:48:53Z",
   "enrichedAt": "2026-10-21",
-  "affaires": []
+  "affaires": [],
+  "accusations": [
+    {
+      "titre": "Accusation d'agression sexuelle (2018)",
+      "annee": 2018,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.leparisien.fr/faits-divers/le-realisateur-abdellatif-kechiche-vise-par-une-plainte-pour-agression-sexuelle-31-10-2018-7931919.php",
+        "https://www.leparisien.fr/faits-divers/abdellatif-kechiche-accuse-d-agression-sexuelle-l-enquete-classee-sans-suite-19-05-2020-8320194.php",
+        "https://www.lefigaro.fr/cinema/l-enquete-sur-abdellatif-kechiche-accuse-d-agression-sexuelle-classee-sans-suite-20200520"
+      ]
+    }
+  ]
 }

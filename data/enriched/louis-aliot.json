@@ -1,39 +1,40 @@
 {
-  "nom": "Louis Aliot",
-  "wikiTitle": "Louis Aliot",
-  "touched": "2026-10-19T10:11:24Z",
-  "enrichedAt": "2026-10-20",
-  "affaires": [
-    {
-      "titre": "Affaire des assistants parlementaires du Front national au Parlement européen (détournement de fonds publics)",
-      "annee": 2026,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
-      "prisonTotal": 12,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 24,
-      "sources": [
-        "https://www.lemonde.fr/societe/article/2026/01/22/au-proces-en-appel-des-assistants-parlementaires-du-fn-louis-aliot-en-grand-desordre_6663698_3224.html",
-        "https://www.nouvelobs.com/justice/20260211.OBS112311/proces-des-assistants-parlementaires-du-rn-une-decision-vertigineuse-attendue-le-7-juillet.html",
-        "https://www.20minutes.fr/justice/4146255-20250331-proces-rn-pourquoi-louis-aliot-peut-rester-maire-perpignan-malgre-condamnation",
-        "https://www.liberation.fr/societe/police-justice/proces-en-appel-du-rn-le-parquet-general-va-demander-des-peines-dineligibilite-et-la-confirmation-des-culpabilites-20260203_D5MLIMWITRH4DIZ45QFZ7SMG5E/"
-      ]
-    },
-    {
-      "titre": "Condamnation pour diffamation contre Christian Baeckeroot",
-      "annee": 2000,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "DIFFAMATION",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 500,
-      "ineligibilite": 0,
-      "sources": [
-        "http://www.national-hebdo.net/DIFFAMATION-PEINES-AGGRAVEES-POUR",
-        "https://web.archive.org/web/20190926112254/http://www.national-hebdo.net/DIFFAMATION-PEINES-AGGRAVEES-POUR",
-        "https://www.lefigaro.fr/flash-actu/2010/06/01/97001-20100601FILWWW00514-les-le-pen-condamnes-pour-diffamation.php"
-      ]
-    }
-  ]
+ "nom": "Louis Aliot",
+ "wikiTitle": "Louis Aliot",
+ "touched": "2026-10-19T10:11:24Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Affaire des assistants parlementaires du Front national au Parlement européen (détournement de fonds publics)",
+   "annee": 2026,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 12,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 24,
+   "sources": [
+    "https://www.lemonde.fr/societe/article/2026/01/22/au-proces-en-appel-des-assistants-parlementaires-du-fn-louis-aliot-en-grand-desordre_6663698_3224.html",
+    "https://www.nouvelobs.com/justice/20260211.OBS112311/proces-des-assistants-parlementaires-du-rn-une-decision-vertigineuse-attendue-le-7-juillet.html",
+    "https://www.20minutes.fr/justice/4146255-20250331-proces-rn-pourquoi-louis-aliot-peut-rester-maire-perpignan-malgre-condamnation",
+    "https://www.liberation.fr/societe/police-justice/proces-en-appel-du-rn-le-parquet-general-va-demander-des-peines-dineligibilite-et-la-confirmation-des-culpabilites-20260203_D5MLIMWITRH4DIZ45QFZ7SMG5E/"
+   ]
+  },
+  {
+   "titre": "Condamnation pour diffamation contre Christian Baeckeroot",
+   "annee": 2000,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 500,
+   "ineligibilite": 0,
+   "sources": [
+    "http://www.national-hebdo.net/DIFFAMATION-PEINES-AGGRAVEES-POUR",
+    "https://web.archive.org/web/20190926112254/http://www.national-hebdo.net/DIFFAMATION-PEINES-AGGRAVEES-POUR",
+    "https://www.lefigaro.fr/flash-actu/2010/06/01/97001-20100601FILWWW00514-les-le-pen-condamnes-pour-diffamation.php"
+   ]
+  }
+ ],
+ "accusations": []
 }

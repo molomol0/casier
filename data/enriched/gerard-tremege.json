@@ -1,51 +1,52 @@
 {
-  "nom": "Gérard Trémège",
-  "wikiTitle": "Gérard Trémège",
-  "touched": "2026-10-20T17:23:12Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Homicide involontaire et infraction au code de la route",
-      "annee": 2007,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 5500,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.ladepeche.fr/article/2007/01/12/387945-hautes-pyrenees-fatalite-accablante.html",
-        "https://fr.wikipedia.org/wiki/G%C3%A9rard_Tr%C3%A9m%C3%A8ge"
-      ]
-    },
-    {
-      "titre": "Travail dissimulé (commissaire aux comptes)",
-      "annee": 2020,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 35000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.mediapart.fr/journal/france/060820/le-maire-lr-de-tarbes-condamne-pour-travail-dissimule",
-        "https://fr.wikipedia.org/wiki/G%C3%A9rard_Tr%C3%A9m%C3%A8ge"
-      ]
-    },
-    {
-      "titre": "Affaire des marchés de Tarbes – Favoritisme et prise illégale d'intérêts",
-      "annee": 2025,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "FAVORITISME",
-      "prisonTotal": 24,
-      "prisonFerme": 0,
-      "amende": 75000,
-      "ineligibilite": 24,
-      "sources": [
-        "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/le-maire-de-tarbes-condamne-a-2-ans-de-prison-avec-sursis-75-000-euros-d-amende-et-2-ans-d-ineligibilite-3262625.html",
-        "https://www.larepubliquedespyrenees.fr/faits-divers/justice/affaire-des-marches-de-la-mairie-de-tarbes-gerard-tremege-condamne-a-2-ans-de-prison-avec-sursis-et-2-ans-d-ineligibilite-avec-execution-provisoire-27021560.php",
-        "https://www.mediapart.fr/journal/france/081225/le-maire-lr-de-tarbes-son-tour-destitue-apres-sa-condamnation"
-      ]
-    }
-  ]
+ "nom": "Gérard Trémège",
+ "wikiTitle": "Gérard Trémège",
+ "touched": "2026-10-20T17:23:12Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Homicide involontaire et infraction au code de la route",
+   "annee": 2007,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 5500,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.ladepeche.fr/article/2007/01/12/387945-hautes-pyrenees-fatalite-accablante.html",
+    "https://fr.wikipedia.org/wiki/G%C3%A9rard_Tr%C3%A9m%C3%A8ge"
+   ]
+  },
+  {
+   "titre": "Travail dissimulé (commissaire aux comptes)",
+   "annee": 2020,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 35000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.mediapart.fr/journal/france/060820/le-maire-lr-de-tarbes-condamne-pour-travail-dissimule",
+    "https://fr.wikipedia.org/wiki/G%C3%A9rard_Tr%C3%A9m%C3%A8ge"
+   ]
+  },
+  {
+   "titre": "Affaire des marchés de Tarbes – Favoritisme et prise illégale d'intérêts",
+   "annee": 2025,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "FAVORITISME",
+   "prisonTotal": 24,
+   "prisonFerme": 0,
+   "amende": 75000,
+   "ineligibilite": 24,
+   "sources": [
+    "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/le-maire-de-tarbes-condamne-a-2-ans-de-prison-avec-sursis-75-000-euros-d-amende-et-2-ans-d-ineligibilite-3262625.html",
+    "https://www.larepubliquedespyrenees.fr/faits-divers/justice/affaire-des-marches-de-la-mairie-de-tarbes-gerard-tremege-condamne-a-2-ans-de-prison-avec-sursis-et-2-ans-d-ineligibilite-avec-execution-provisoire-27021560.php",
+    "https://www.mediapart.fr/journal/france/081225/le-maire-lr-de-tarbes-son-tour-destitue-apres-sa-condamnation"
+   ]
+  }
+ ],
+ "accusations": []
 }

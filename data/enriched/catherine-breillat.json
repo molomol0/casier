@@ -3,5 +3,17 @@
  "wikiTitle": "Catherine Breillat",
  "touched": "2026-10-23T14:48:09Z",
  "enrichedAt": "2026-10-21",
- "affaires": []
+ "affaires": [],
+ "accusations": [
+  {
+   "titre": "Accusations d'avoir organisé un viol lors du tournage de Romance (affaire Caroline Ducey)",
+   "annee": 2024,
+   "statut": "ACCUSATION_PUBLIQUE",
+   "sources": [
+    "https://www.francetvinfo.fr/societe/harcelement-sexuel/la-comedienne-caroline-ducey-affirme-avoir-ete-victime-d-un-viol-pendant-le-tournage-du-film-romance-de-catherine-breillat_6748348.html",
+    "https://www.humanite.fr/societe/metoo/metoo-cinema-caroline-ducey-accuse-la-realisatrice-catherine-breillat-davoir-organise-un-viol-lors-dun-tournage",
+    "https://fr.wikipedia.org/wiki/Catherine_Breillat"
+   ]
+  }
+ ]
 }

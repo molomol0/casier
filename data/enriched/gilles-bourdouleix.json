@@ -1,79 +1,80 @@
 {
-  "nom": "Gilles Bourdouleix",
-  "wikiTitle": "Gilles Bourdouleix",
-  "touched": "2026-10-19T10:09:57Z",
-  "enrichedAt": "2026-10-20",
-  "affaires": [
-    {
-      "titre": "Injures publiques envers Ouest-France (\"journal facho\", \"fascistes\")",
-      "annee": 2021,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "INJURE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 3000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
-        "https://kohenavocats.com/gilles-bourdouleix-condamne-injures-publiques-amende-recours-2026/"
-      ]
-    },
-    {
-      "titre": "Diffamation envers la Ligue nationale de basket (LNB) et son président",
-      "annee": 2022,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "DIFFAMATION",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 1500,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
-        "https://pourquijevote.com/casiers"
-      ]
-    },
-    {
-      "titre": "Outrages et menaces envers agents de l'inspection du travail et de l'URSSAF (meeting aérien)",
-      "annee": 2022,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "MENACE",
-      "prisonTotal": 4,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
-        "https://www.francebleu.fr/infos/faits-divers-justice/proces-du-feu-d-artifice-mortel-a-cholet-le-maire-gilles-bourdouleix-condamne-a-18-mois-de-prison-avec-sursis-4093443"
-      ]
-    },
-    {
-      "titre": "Prise illégale d'intérêts (maintien en séance lors du vote de sa protection fonctionnelle)",
-      "annee": 2024,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "PRISE_ILLEGALE_INTERETS",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 1000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
-        "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/son-appel-rejete-le-maire-de-cholet-gilles-bourdouleix-devra-rembourser-ses-frais-de-justice-36d11bda-5a34-11ef-aca8-aadd4a56ff25"
-      ]
-    },
-    {
-      "titre": "Homicides et blessures involontaires (feu d'artifice mortel du 14 juillet 2022 à Cholet — 2 morts)",
-      "annee": 2026,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "AUTRE",
-      "prisonTotal": 18,
-      "prisonFerme": 0,
-      "amende": 750,
-      "ineligibilite": 0,
-      "sources": [
-        "https://france3-regions.franceinfo.fr/pays-de-la-loire/maine-et-loire/cholet/feu-d-artifice-mortel-a-cholet-gilles-bourdouleix-condamne-a-18-mois-de-prison-avec-sursis-3290217.html",
-        "https://kohenavocats.com/gilles-bourdouleix-feu-artifice-mortel-cholet-homicides-involontaires-pas-appel-proces-novembre/",
-        "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix"
-      ]
-    }
-  ]
+ "nom": "Gilles Bourdouleix",
+ "wikiTitle": "Gilles Bourdouleix",
+ "touched": "2026-10-19T10:09:57Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Injures publiques envers Ouest-France (\"journal facho\", \"fascistes\")",
+   "annee": 2021,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "INJURE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 3000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
+    "https://kohenavocats.com/gilles-bourdouleix-condamne-injures-publiques-amende-recours-2026/"
+   ]
+  },
+  {
+   "titre": "Diffamation envers la Ligue nationale de basket (LNB) et son président",
+   "annee": 2022,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 1500,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
+    "https://pourquijevote.com/casiers"
+   ]
+  },
+  {
+   "titre": "Outrages et menaces envers agents de l'inspection du travail et de l'URSSAF (meeting aérien)",
+   "annee": 2022,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "MENACE",
+   "prisonTotal": 4,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
+    "https://www.francebleu.fr/infos/faits-divers-justice/proces-du-feu-d-artifice-mortel-a-cholet-le-maire-gilles-bourdouleix-condamne-a-18-mois-de-prison-avec-sursis-4093443"
+   ]
+  },
+  {
+   "titre": "Prise illégale d'intérêts (maintien en séance lors du vote de sa protection fonctionnelle)",
+   "annee": 2024,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "PRISE_ILLEGALE_INTERETS",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 1000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix",
+    "https://www.ouest-france.fr/pays-de-la-loire/cholet-49300/son-appel-rejete-le-maire-de-cholet-gilles-bourdouleix-devra-rembourser-ses-frais-de-justice-36d11bda-5a34-11ef-aca8-aadd4a56ff25"
+   ]
+  },
+  {
+   "titre": "Homicides et blessures involontaires (feu d'artifice mortel du 14 juillet 2022 à Cholet — 2 morts)",
+   "annee": 2026,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "AUTRE",
+   "prisonTotal": 18,
+   "prisonFerme": 0,
+   "amende": 750,
+   "ineligibilite": 0,
+   "sources": [
+    "https://france3-regions.franceinfo.fr/pays-de-la-loire/maine-et-loire/cholet/feu-d-artifice-mortel-a-cholet-gilles-bourdouleix-condamne-a-18-mois-de-prison-avec-sursis-3290217.html",
+    "https://kohenavocats.com/gilles-bourdouleix-feu-artifice-mortel-cholet-homicides-involontaires-pas-appel-proces-novembre/",
+    "https://fr.wikipedia.org/wiki/Gilles_Bourdouleix"
+   ]
+  }
+ ],
+ "accusations": []
 }

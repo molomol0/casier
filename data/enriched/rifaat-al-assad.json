@@ -17,5 +17,17 @@
     "https://fr.wikipedia.org/wiki/Rifaat_al-Assad"
    ]
   }
+ ],
+ "accusations": [
+  {
+   "titre": "Accusations de crimes de guerre (massacres de Hama 1982 et de la prison de Palmyre 1980)",
+   "annee": 2013,
+   "statut": "INFORMATION_EN_COURS",
+   "sources": [
+    "https://trialinternational.org/fr/latest-post/affaire-rifaat-al-assad/",
+    "https://www.rts.ch/info/suisse/14244236-la-suisse-lance-un-avis-de-recherche-contre-rifaat-alassad-loncle-de-bachar.html",
+    "https://www.lemonde.fr/syrie/article/2017/09/27/rifaat-al-assad-est-poursuivi-pour-crimes-de-guerre_5192396_1618247.html"
+   ]
+  }
  ]
 }

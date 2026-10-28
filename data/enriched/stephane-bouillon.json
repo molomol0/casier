@@ -1,22 +1,23 @@
 {
-  "nom": "Stéphane Bouillon",
-  "wikiTitle": "Stéphane Bouillon",
-  "touched": "2026-10-20T17:30:14Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire Belhadad — diffamation",
-      "annee": 2015,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "DIFFAMATION",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 800,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.nouvelobs.com/rue89/rue89-police-justice/20140213.RUE2051/expulse-par-gueant-le-faux-terroriste-ali-belhadad-pourra-revenir-en-france.html",
-        "http://www.rue89strasbourg.com/index.php/2015/05/15/politique/prefet-alsace-condamne-diffamation-ministere-interieur-cabinet-claude-gueant/"
-      ]
-    }
-  ]
+ "nom": "Stéphane Bouillon",
+ "wikiTitle": "Stéphane Bouillon",
+ "touched": "2026-10-20T17:30:14Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire Belhadad — diffamation",
+   "annee": 2015,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "DIFFAMATION",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 800,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.nouvelobs.com/rue89/rue89-police-justice/20140213.RUE2051/expulse-par-gueant-le-faux-terroriste-ali-belhadad-pourra-revenir-en-france.html",
+    "http://www.rue89strasbourg.com/index.php/2015/05/15/politique/prefet-alsace-condamne-diffamation-ministere-interieur-cabinet-claude-gueant/"
+   ]
+  }
+ ],
+ "accusations": []
 }

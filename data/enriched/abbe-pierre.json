@@ -4,5 +4,18 @@
   "touched": "2026-10-20T07:13:06Z",
   "enrichedAt": "2026-10-20",
   "affaires": [],
-  "_justification": "L'abbé Pierre est décédé le 22 janvier 2007. Les accusations de violences sexuelles (agressions, viols sur mineures et majeures) ont été révélées APRÈS sa mort, via des rapports publiés par le cabinet Egaé à partir de juillet 2024 (rapport 1 : 7 victimes), septembre 2024 (17 nouvelles victimes), janvier 2025 et juillet 2025 (45 témoignages au total, au moins 68 victimes identifiées). Ces faits étaient connus de l'épiscopat et d'Emmaüs dès 1955 mais jamais portés devant la justice de son vivant. Aucune procédure pénale n'a été engagée contre lui de son vivant sur ces faits. Un mort ne pouvant être poursuivi ni condamné pénalement, aucune affaire ne peut être inscrite au périmètre défini par le SKILL (condamnations pénales ou affaires en cours clairement sourcées avec mise en examen, renvoi ou procès). Aucune autre affaire pénale (hors affaire Garaudy où c'est Garaudy qui a été condamné, l'abbé Pierre n'étant que témoin de moralité) n'est mentionnée dans l'article Wikipédia."
+  "_justification": "L'abbé Pierre est décédé le 22 janvier 2007. Les accusations de violences sexuelles (agressions, viols sur mineures et majeures) ont été révélées APRÈS sa mort, via des rapports publiés par le cabinet Egaé à partir de juillet 2024 (rapport 1 : 7 victimes), septembre 2024 (17 nouvelles victimes), janvier 2025 et juillet 2025 (45 témoignages au total, au moins 68 victimes identifiées). Ces faits étaient connus de l'épiscopat et d'Emmaüs dès 1955 mais jamais portés devant la justice de son vivant. Aucune procédure pénale n'a été engagée contre lui de son vivant sur ces faits. Un mort ne pouvant être poursuivi ni condamné pénalement, aucune affaire ne peut être inscrite au périmètre défini par le SKILL (condamnations pénales ou affaires en cours clairement sourcées avec mise en examen, renvoi ou procès). Aucune autre affaire pénale (hors affaire Garaudy où c'est Garaudy qui a été condamné, l'abbé Pierre n'étant que témoin de moralité) n'est mentionnée dans l'article Wikipédia.",
+  "accusations": [
+    {
+      "titre": "Accusations de viols et agressions sexuelles sur mineurs et adultes (révélations posthumes 2024-2025)",
+      "annee": 2024,
+      "statut": "ACCUSATION_PUBLIQUE",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2024/07/17/l-abbe-pierre-accuse-d-agressions-sexuelles-sur-au-moins-sept-femmes-selon-un-rapport-commande-par-emmaus-et-la-fondation-abbe-pierre_6251536_3224.html",
+        "https://www.lemonde.fr/societe/article/2024/09/06/le-mouvement-emmaus-publie-de-nouveaux-temoignages-contre-l-abbe-pierre-relatant-des-viols-et-l-agression-sexuelle-d-une-enfant_6305702_3224.html",
+        "https://www.lemonde.fr/societe/article/2025/01/13/l-abbe-pierre-vise-par-neuf-nouvelles-accusations-de-violences-sexuelles-selon-un-dernier-rapport_6496006_3224.html",
+        "https://www.lemonde.fr/societe/article/2025/07/09/l-abbe-pierre-vise-par-douze-nouvelles-accusations-de-violences-sexuelles-dont-sept-sur-mineurs_6620213_3224.html"
+      ]
+    }
+  ]
 }

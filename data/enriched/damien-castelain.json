@@ -1,27 +1,28 @@
 {
-  "nom": "Damien Castelain",
-  "wikiTitle": "Damien Castelain",
-  "touched": "2026-10-20T17:29:51Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire des notes de frais et de la terrasse de la MEL (détournement de fonds publics, recel d'abus de confiance, prise illégale d'intérêts)",
-      "annee": 2025,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
-      "prisonTotal": 18,
-      "prisonFerme": 0,
-      "amende": 20000,
-      "ineligibilite": 24,
-      "sources": [
-        "https://www.francebleu.fr/infos/faits-divers-justice/de-la-prison-avec-sursis-et-deux-ans-d-ineligibilite-requis-au-proces-de-damien-castelain-7713560",
-        "https://www.lefigaro.fr/politique/le-president-de-la-metropole-de-lille-damien-castelain-condamne-a-deux-ans-d-ineligibilite-pour-detournement-de-fonds-publics-20251216",
-        "https://www.lemonde.fr/societe/article/2025/12/16/le-president-de-la-metropole-de-lille-condamne-en-appel-a-une-peine-d-ineligibilite-avec-execution-provisoire_6658207_3224.html",
-        "https://www.liberation.fr/politique/condamne-le-president-de-la-metropole-lilloise-damien-castelain-demissionne-20251216_4UZYGDYITNAGDE3L3QA22S4BAE/",
-        "https://www.ouest-france.fr/societe/justice/le-president-de-la-metropole-de-lille-condamne-pour-detournement-de-fonds-publics-dae90386-39e1-11ef-9bb5-7a0ef893f0bf",
-        "https://www.mediacites.fr/lille/enquete-lille/2018/07/05/les-pierres-bleues-lautre-cauchemar-de-damien-castelain/",
-        "http://www.liberation.fr/france/2018/07/30/frais-du-president-de-la-metropole-lilloise-ouverture-d-une-enquete-pour-detournement-de-fonds-publi_1669675"
-      ]
-    }
-  ]
+ "nom": "Damien Castelain",
+ "wikiTitle": "Damien Castelain",
+ "touched": "2026-10-20T17:29:51Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire des notes de frais et de la terrasse de la MEL (détournement de fonds publics, recel d'abus de confiance, prise illégale d'intérêts)",
+   "annee": 2025,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 18,
+   "prisonFerme": 0,
+   "amende": 20000,
+   "ineligibilite": 24,
+   "sources": [
+    "https://www.francebleu.fr/infos/faits-divers-justice/de-la-prison-avec-sursis-et-deux-ans-d-ineligibilite-requis-au-proces-de-damien-castelain-7713560",
+    "https://www.lefigaro.fr/politique/le-president-de-la-metropole-de-lille-damien-castelain-condamne-a-deux-ans-d-ineligibilite-pour-detournement-de-fonds-publics-20251216",
+    "https://www.lemonde.fr/societe/article/2025/12/16/le-president-de-la-metropole-de-lille-condamne-en-appel-a-une-peine-d-ineligibilite-avec-execution-provisoire_6658207_3224.html",
+    "https://www.liberation.fr/politique/condamne-le-president-de-la-metropole-lilloise-damien-castelain-demissionne-20251216_4UZYGDYITNAGDE3L3QA22S4BAE/",
+    "https://www.ouest-france.fr/societe/justice/le-president-de-la-metropole-de-lille-condamne-pour-detournement-de-fonds-publics-dae90386-39e1-11ef-9bb5-7a0ef893f0bf",
+    "https://www.mediacites.fr/lille/enquete-lille/2018/07/05/les-pierres-bleues-lautre-cauchemar-de-damien-castelain/",
+    "http://www.liberation.fr/france/2018/07/30/frais-du-president-de-la-metropole-lilloise-ouverture-d-une-enquete-pour-detournement-de-fonds-publi_1669675"
+   ]
+  }
+ ],
+ "accusations": []
 }

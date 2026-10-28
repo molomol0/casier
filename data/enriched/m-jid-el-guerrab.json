@@ -1,23 +1,24 @@
 {
-  "nom": "M'jid El Guerrab",
-  "wikiTitle": "M'jid El Guerrab",
-  "touched": "2026-10-20T17:31:36Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire El Guerrab (violences volontaires avec arme par destination sur Boris Faure)",
-      "annee": 2023,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "VIOLENCE",
-      "prisonTotal": 36,
-      "prisonFerme": 12,
-      "amende": 0,
-      "ineligibilite": 24,
-      "sources": [
-        "https://www.lejdd.fr/politique/condamne-pour-violences-lancien-depute-mjid-el-guerrab-ne-pourra-plus-sieger-avec-la-majorite-133104",
-        "https://www.lefigaro.fr/politique/en-cas-d-election-l-ex-depute-m-jid-el-guerrab-condamne-pour-violences-ne-pourra-sieger-avec-renaissance-20230226",
-        "https://www.bfmtv.com/politique/elections/legislatives/legislatives-le-depute-m-jid-el-guerrab-condamne-annonce-ne-pas-se-representer_AD-202205140312.html"
-      ]
-    }
-  ]
+ "nom": "M'jid El Guerrab",
+ "wikiTitle": "M'jid El Guerrab",
+ "touched": "2026-10-20T17:31:36Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire El Guerrab (violences volontaires avec arme par destination sur Boris Faure)",
+   "annee": 2023,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 36,
+   "prisonFerme": 12,
+   "amende": 0,
+   "ineligibilite": 24,
+   "sources": [
+    "https://www.lejdd.fr/politique/condamne-pour-violences-lancien-depute-mjid-el-guerrab-ne-pourra-plus-sieger-avec-la-majorite-133104",
+    "https://www.lefigaro.fr/politique/en-cas-d-election-l-ex-depute-m-jid-el-guerrab-condamne-pour-violences-ne-pourra-sieger-avec-renaissance-20230226",
+    "https://www.bfmtv.com/politique/elections/legislatives/legislatives-le-depute-m-jid-el-guerrab-condamne-annonce-ne-pas-se-representer_AD-202205140312.html"
+   ]
+  }
+ ],
+ "accusations": []
 }

@@ -3,5 +3,26 @@
   "wikiTitle": "Jean Lassalle",
   "touched": "2026-10-20T17:21:58Z",
   "enrichedAt": "2026-10-21",
-  "affaires": []
+  "affaires": [],
+  "accusations": [
+    {
+      "titre": "Accusations d'agression sexuelle et de comportements déplacés (mouvement BalanceTonPorc)",
+      "annee": 2017,
+      "statut": "ACCUSATION_PUBLIQUE",
+      "sources": [
+        "https://www.nouvelobs.com/societe/20171020.OBS6285/jean-lassalle-et-les-femmes-a-l-assemblee-il-me-met-la-main-aux-fesses-et-s-en-va.html",
+        "https://www.mediapart.fr/journal/france/201017/jean-lassalle-un-depute-gluant-accuse-de-violences-sexuelles"
+      ]
+    },
+    {
+      "titre": "Enquête préliminaire pour viol et agression sexuelle (faits de 2010)",
+      "annee": 2023,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2023/07/21/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viol_6182876_3224.html",
+        "https://www.bfmtv.com/police-justice/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viols-et-agressions-sexuelles_AN-202307210063.html",
+        "https://www.lemonde.fr/politique/article/2024/03/29/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6224878_823448.html"
+      ]
+    }
+  ]
 }

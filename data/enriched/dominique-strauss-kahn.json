@@ -18,5 +18,27 @@
         "https://www.franceinfo.fr/economie/fraude/pandora-papers/pandora-papers-dominique-strauss-kahn-vise-par-une-enquete-pour-blanchiment-de-fraude-fiscale-aggravee_5544711.html"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Accusations d'agression sexuelle et de tentative de viol (affaire du Sofitel de New York, Nafissatou Diallo)",
+      "annee": 2011,
+      "statut": "NON_LIEU",
+      "sources": [
+        "https://www.liberation.fr/planete/2011/08/23/dsk-affaire-classee_756527",
+        "https://www.lexpress.fr/actualite/societe/dsk-pourquoi-le-procureur-veut-abandonner-les-poursuites_1023159.html",
+        "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn"
+      ]
+    },
+    {
+      "titre": "Accusation de tentative de viol (affaire Tristane Banon)",
+      "annee": 2011,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.lexpress.fr/actualite/societe/justice/la-plainte-de-tristane-banon-contre-dsk-classee-sans-suite_1040317.html",
+        "https://www.lefigaro.fr/actualite-france/2011/10/13/01016-20111013ARTFIG00613-affaire-banon-dsk-beneficie-de-la-prescription-des-faits.php",
+        "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn"
+      ]
+    }
   ]
 }

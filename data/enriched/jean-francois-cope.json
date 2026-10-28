@@ -42,5 +42,6 @@
    "raison": "Entrée présente dans dataset-externes.json avec statut CONDAMNATION_DEFINITIVE (2024) et CONDAMNATION_EN_APPEL (2023). Aucune source vérifiable ne confirme une condamnation de Copé à ce titre. Toutes les sources disponibles confirment un non-lieu en sa faveur (Bygmalion 2021, abus de confiance 2015). Données du dataset non vérifiées → écartées.",
    "sources": []
   }
- ]
+ ],
+ "accusations": []
 }

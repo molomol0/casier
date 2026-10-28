@@ -1,22 +1,23 @@
 {
-  "nom": "Louis de Bourbon",
-  "wikiTitle": "Louis de Bourbon (1974)",
-  "touched": "2026-10-22T12:48:53Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Faillite frauduleuse Banco del Orinoco (Curaçao) — faillite frauduleuse, détournement d'actifs, falsification de documents",
-      "annee": 2025,
-      "statut": "ENQUETE_PRELIMINAIRE",
-      "categorie": "AUTRE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://diarioversionfinal.com/mundo/tribunal-de-curazao-abre-accion-penal-contra-victor-vargas-por-fraude-en-banco-del-orinoco/",
-        "https://www.cuentasclarasdigital.org/2025/10/curazao-inicia-accion-penal-contra-el-banquero-victor-vargas-y-su-yerno-luis-alfonso-de-borbon-martinez-bordiu/"
-      ]
-    }
-  ]
+ "nom": "Louis de Bourbon",
+ "wikiTitle": "Louis de Bourbon (1974)",
+ "touched": "2026-10-22T12:48:53Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Faillite frauduleuse Banco del Orinoco (Curaçao) — faillite frauduleuse, détournement d'actifs, falsification de documents",
+   "annee": 2025,
+   "statut": "ENQUETE_PRELIMINAIRE",
+   "categorie": "AUTRE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://diarioversionfinal.com/mundo/tribunal-de-curazao-abre-accion-penal-contra-victor-vargas-por-fraude-en-banco-del-orinoco/",
+    "https://www.cuentasclarasdigital.org/2025/10/curazao-inicia-accion-penal-contra-el-banquero-victor-vargas-y-su-yerno-luis-alfonso-de-borbon-martinez-bordiu/"
+   ]
+  }
+ ],
+ "accusations": []
 }

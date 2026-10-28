@@ -1,41 +1,42 @@
 {
-  "nom": "Philippe Gomès",
-  "wikiTitle": "Philippe Gomès",
-  "touched": "2026-10-19T10:14:01Z",
-  "enrichedAt": "2026-10-20",
-  "affaires": [
-    {
-      "titre": "Affaire des emplois fictifs (collaborateurs de Calédonie ensemble)",
-      "annee": 2026,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
-      "prisonTotal": 48,
-      "prisonFerme": 24,
-      "amende": 41880,
-      "ineligibilite": 60,
-      "sources": [
-        "https://www.lemonde.fr/politique/article/2025/07/01/emplois-fictifs-philippe-gomes-et-philippe-michel-deux-cadres-du-parti-caledonie-ensemble-condamnes_6617236_823448.html",
-        "https://la1ere.franceinfo.fr/nouvellecaledonie/affaire-des-emplois-fictifs-philippe-gomes-et-philippe-michel-condamnes-a-de-la-prison-et-cinq-ans-d-ineligibilite-1600596.html",
-        "https://la1ere.franceinfo.fr/nouvellecaledonie/affaire-des-emplois-fictifs-les-peines-de-philippe-gomes-et-philippe-michel-confirmees-en-appel-1747485.html",
-        "https://www.lnc.nc/article/affaire-des-collaborateurs-prison-et-ineligibilite-confirmees-pour-gomes-et-michel",
-        "https://www.lnc.nc/article/nouvelle-caledonie/politique/peine-d-ineligibilite-apres-38-ans-de-mandats-philippe-gomes-ne-desertera-pas-la-scene-politique"
-      ]
-    },
-    {
-      "titre": "Affaire Nouvelle-Calédonie Énergie (NCE) — prise illégale d'intérêts",
-      "annee": 2026,
-      "statut": "RENVOI_TRIBUNAL",
-      "categorie": "PRISE_ILLEGALE_INTERETS",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://la1ere.franceinfo.fr/nouvellecaledonie/nouvelle-caledonie-energie-philippe-gomes-abasourdi-par-sa-condamnation-en-appel-1426304.html",
-        "https://la1ere.franceinfo.fr/nouvellecaledonie/affaire-nouvelle-caledonie-energie-la-cour-de-cassation-annule-la-condamnation-de-philippe-gomes-1744374.html",
-        "https://kohenavocats.com/philippe-gomes-cassation-prise-illegale-interets-rejuge-noumea-emplois-fictifs-appel/",
-        "https://www.dnc.nc/nce-retour-en-cour-dappel/"
-      ]
-    }
-  ]
+ "nom": "Philippe Gomès",
+ "wikiTitle": "Philippe Gomès",
+ "touched": "2026-10-19T10:14:01Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Affaire des emplois fictifs (collaborateurs de Calédonie ensemble)",
+   "annee": 2026,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 48,
+   "prisonFerme": 24,
+   "amende": 41880,
+   "ineligibilite": 60,
+   "sources": [
+    "https://www.lemonde.fr/politique/article/2025/07/01/emplois-fictifs-philippe-gomes-et-philippe-michel-deux-cadres-du-parti-caledonie-ensemble-condamnes_6617236_823448.html",
+    "https://la1ere.franceinfo.fr/nouvellecaledonie/affaire-des-emplois-fictifs-philippe-gomes-et-philippe-michel-condamnes-a-de-la-prison-et-cinq-ans-d-ineligibilite-1600596.html",
+    "https://la1ere.franceinfo.fr/nouvellecaledonie/affaire-des-emplois-fictifs-les-peines-de-philippe-gomes-et-philippe-michel-confirmees-en-appel-1747485.html",
+    "https://www.lnc.nc/article/affaire-des-collaborateurs-prison-et-ineligibilite-confirmees-pour-gomes-et-michel",
+    "https://www.lnc.nc/article/nouvelle-caledonie/politique/peine-d-ineligibilite-apres-38-ans-de-mandats-philippe-gomes-ne-desertera-pas-la-scene-politique"
+   ]
+  },
+  {
+   "titre": "Affaire Nouvelle-Calédonie Énergie (NCE) — prise illégale d'intérêts",
+   "annee": 2026,
+   "statut": "RENVOI_TRIBUNAL",
+   "categorie": "PRISE_ILLEGALE_INTERETS",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://la1ere.franceinfo.fr/nouvellecaledonie/nouvelle-caledonie-energie-philippe-gomes-abasourdi-par-sa-condamnation-en-appel-1426304.html",
+    "https://la1ere.franceinfo.fr/nouvellecaledonie/affaire-nouvelle-caledonie-energie-la-cour-de-cassation-annule-la-condamnation-de-philippe-gomes-1744374.html",
+    "https://kohenavocats.com/philippe-gomes-cassation-prise-illegale-interets-rejuge-noumea-emplois-fictifs-appel/",
+    "https://www.dnc.nc/nce-retour-en-cour-dappel/"
+   ]
+  }
+ ],
+ "accusations": []
 }

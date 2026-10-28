@@ -17,5 +17,17 @@
     "https://www.jeanmarcmorandini.com/article-342919-le-depute-maire-d-issy-les-moulineaux-andre-santini-condamne-pour-injure-publique.html"
    ]
   }
+ ],
+ "accusations": [
+  {
+   "titre": "Accusations d'agression sexuelle et de harcèlement sexuel et moral (plaintes de deux anciens collaborateurs)",
+   "annee": 2022,
+   "statut": "INFORMATION_EN_COURS",
+   "sources": [
+    "https://www.lemonde.fr/police-justice/article/2022/07/01/andre-santini-vise-par-deux-plaintes-pour-agression-sexuelle-et-harcelement-sexuel-et-moral_6133002_1653578.html",
+    "https://www.lemonde.fr/societe/article/2022/07/05/enquete-ouverte-contre-andre-santini-apres-des-accusations-d-agression-et-harcelement-sexuels_6133429_3224.html",
+    "https://www.lemonde.fr/societe/article/2024/10/21/affaire-andre-santini-l-enquete-confiee-a-un-juge-d-instruction_6357540_3224.html"
+   ]
+  }
  ]
 }

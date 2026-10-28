@@ -48,5 +48,26 @@
         "https://www.lemonde.fr/societe/article/2025/02/24/gerard-depardieu-vise-par-une-enquete-pour-fraude-fiscale-aggravee-et-blanchiment_6561991_3224.html"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Agression sexuelle sur Hélène Darras (tournage de Disco, classée sans suite — prescription)",
+      "annee": 2007,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.francebleu.fr/infos/faits-divers-justice/la-comedienne-helene-darras-porte-plainte-contre-gerard-depardieu-pour-agression-sexuelle-1568494",
+        "https://www.liberation.fr/culture/cinema/les-procedures-en-cours-dans-laffaire-depardieu-20231221_FSDZY66FSRCUFKMIKWKAIZBXDQ",
+        "https://www.france24.com/fr/france/20231206-l-acteur-g%C3%A9rard-depardieu-vis%C3%A9-par-une-seconde-plainte-pour-agression-sexuelle"
+      ]
+    },
+    {
+      "titre": "Viol allégué sur Ruth Baza (journaliste espagnole, 1995 — plainte classée, faits prescrits)",
+      "annee": 1995,
+      "statut": "CLASSEMENT_SANS_SUITE",
+      "sources": [
+        "https://www.20minutes.fr/faits_divers/4067537-20231219-journaliste-espagnole-porte-plainte-contre-gerard-depardieu-viol",
+        "https://www.francebleu.fr/infos/faits-divers-justice/gerard-depardieu-plaintes-mise-en-examen-enquetes-le-point-sur-les-affaires-en-cours-4037610"
+      ]
+    }
   ]
 }

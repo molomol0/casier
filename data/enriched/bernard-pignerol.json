@@ -1,22 +1,23 @@
 {
-  "nom": "Bernard Pignerol",
-  "wikiTitle": "Bernard Pignerol",
-  "touched": "2026-10-20T17:36:36Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Perquisition LFI 2018 (rébellion/obstruction lors d'une perquisition)",
-      "annee": 2019,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "VIOLENCE",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Bernard_Pignerol",
-        "https://www.lefigaro.fr/politique/bernard-pignerol-l-ami-fidele-de-melenchon-sur-le-banc-des-accuses-20190920"
-      ]
-    }
-  ]
+ "nom": "Bernard Pignerol",
+ "wikiTitle": "Bernard Pignerol",
+ "touched": "2026-10-20T17:36:36Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Perquisition LFI 2018 (rébellion/obstruction lors d'une perquisition)",
+   "annee": 2019,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Bernard_Pignerol",
+    "https://www.lefigaro.fr/politique/bernard-pignerol-l-ami-fidele-de-melenchon-sur-le-banc-des-accuses-20190920"
+   ]
+  }
+ ],
+ "accusations": []
 }

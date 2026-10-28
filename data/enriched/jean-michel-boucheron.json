@@ -1,38 +1,39 @@
 {
-  "nom": "Jean-Michel Boucheron",
-  "wikiTitle": "Jean-Michel Boucheron (homme politique, 1946)",
-  "touched": "2026-10-20T17:24:58Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire des malversations d'Angoulême (trafic d'influence, faux, recel, ingérence)",
-      "annee": 1997,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "TRAFIC_INFLUENCE",
-      "prisonTotal": 48,
-      "prisonFerme": 24,
-      "amende": 152439,
-      "ineligibilite": 60,
-      "sources": [
-        "http://www.liberation.fr/france/1997/06/03/boucheron-le-flambeur-s-embrouille-au-tribunal-l-ancien-maire-d-angouleme-se-repent-un-peu-et-nie-be_207997",
-        "https://www.humanite.fr/-/-/corruption-faux-recel",
-        "https://fr.wikipedia.org/wiki/Jean-Michel_Boucheron_(homme_politique%2C_1946)"
-      ]
-    },
-    {
-      "titre": "Affaire de fraude fiscale et organisation d'insolvabilité",
-      "annee": 2018,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "FRAUDE_FISCALE",
-      "prisonTotal": 18,
-      "prisonFerme": 0,
-      "amende": 20000,
-      "ineligibilite": 36,
-      "sources": [
-        "https://www.francebleu.fr/infos/faits-divers-justice/l-ancien-maire-d-angouleme-jean-michel-boucheron-condamne-pour-fraude-fiscale-1522153541",
-        "http://www.europe1.fr/societe/angouleme-lex-ministre-boucheron-encore-condamne-pour-malversation-financiere-3611306",
-        "https://fr.wikipedia.org/wiki/Jean-Michel_Boucheron_(homme_politique%2C_1946)"
-      ]
-    }
-  ]
+ "nom": "Jean-Michel Boucheron",
+ "wikiTitle": "Jean-Michel Boucheron (homme politique, 1946)",
+ "touched": "2026-10-20T17:24:58Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire des malversations d'Angoulême (trafic d'influence, faux, recel, ingérence)",
+   "annee": 1997,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "TRAFIC_INFLUENCE",
+   "prisonTotal": 48,
+   "prisonFerme": 24,
+   "amende": 152439,
+   "ineligibilite": 60,
+   "sources": [
+    "http://www.liberation.fr/france/1997/06/03/boucheron-le-flambeur-s-embrouille-au-tribunal-l-ancien-maire-d-angouleme-se-repent-un-peu-et-nie-be_207997",
+    "https://www.humanite.fr/-/-/corruption-faux-recel",
+    "https://fr.wikipedia.org/wiki/Jean-Michel_Boucheron_(homme_politique%2C_1946)"
+   ]
+  },
+  {
+   "titre": "Affaire de fraude fiscale et organisation d'insolvabilité",
+   "annee": 2018,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "FRAUDE_FISCALE",
+   "prisonTotal": 18,
+   "prisonFerme": 0,
+   "amende": 20000,
+   "ineligibilite": 36,
+   "sources": [
+    "https://www.francebleu.fr/infos/faits-divers-justice/l-ancien-maire-d-angouleme-jean-michel-boucheron-condamne-pour-fraude-fiscale-1522153541",
+    "http://www.europe1.fr/societe/angouleme-lex-ministre-boucheron-encore-condamne-pour-malversation-financiere-3611306",
+    "https://fr.wikipedia.org/wiki/Jean-Michel_Boucheron_(homme_politique%2C_1946)"
+   ]
+  }
+ ],
+ "accusations": []
 }

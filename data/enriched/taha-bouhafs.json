@@ -19,5 +19,15 @@
         "https://www.marianne.net/societe/police-et-justice/je-m-en-cogne-taha-bouhafs-definitivement-condamne-pour-injure-raciste-envers-la-policiere-linda-kebbab"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Accusations de harcèlement et violences sexuelles (affaire LFI 2022)",
+      "annee": 2022,
+      "statut": "ACCUSATION_PUBLIQUE",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Taha_Bouhafs"
+      ]
+    }
   ]
 }

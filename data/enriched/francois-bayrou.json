@@ -1,24 +1,25 @@
 {
-  "nom": "François Bayrou",
-  "wikiTitle": "François Bayrou",
-  "touched": "2026-10-19T17:17:11Z",
-  "enrichedAt": "2026-10-20",
-  "affaires": [
-    {
-      "titre": "Affaire des assistants parlementaires du MoDem au Parlement européen (emplois fictifs, détournement de fonds européens)",
-      "annee": 2026,
-      "statut": "PROCES_EN_COURS",
-      "categorie": "DETOURNEMENT_FONDS_PUBLICS",
-      "prisonTotal": 0,
-      "prisonFerme": 0,
-      "amende": 0,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.liberation.fr/societe/police-justice/relaxe-de-francois-bayrou-le-parquet-de-paris-annonce-faire-appel-20240208_5RUUC5N7BBC7LET5DQHX6MWJRE/",
-        "https://www.lemonde.fr/politique/article/2024/02/08/modem-le-parquet-fait-appel-de-la-relaxe-de-francois-bayrou-dans-l-affaire-des-assistants-parlementaires-europeens_6215451_823448.html",
-        "https://www.bfmtv.com/police-justice/francois-bayrou-juge-en-appel-du-9-septembre-au-5-octobre-dans-l-affaire-des-assistants-parlementaires-du-mo-dem_AD-202603110833.html",
-        "https://www.lemonde.fr/societe/article/2026/09/28/au-proces-en-appel-du-modem-une-lourde-peine-requise-contre-francois-bayrou_6785178_3224.html"
-      ]
-    }
-  ]
+ "nom": "François Bayrou",
+ "wikiTitle": "François Bayrou",
+ "touched": "2026-10-19T17:17:11Z",
+ "enrichedAt": "2026-10-20",
+ "affaires": [
+  {
+   "titre": "Affaire des assistants parlementaires du MoDem au Parlement européen (emplois fictifs, détournement de fonds européens)",
+   "annee": 2026,
+   "statut": "PROCES_EN_COURS",
+   "categorie": "DETOURNEMENT_FONDS_PUBLICS",
+   "prisonTotal": 0,
+   "prisonFerme": 0,
+   "amende": 0,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.liberation.fr/societe/police-justice/relaxe-de-francois-bayrou-le-parquet-de-paris-annonce-faire-appel-20240208_5RUUC5N7BBC7LET5DQHX6MWJRE/",
+    "https://www.lemonde.fr/politique/article/2024/02/08/modem-le-parquet-fait-appel-de-la-relaxe-de-francois-bayrou-dans-l-affaire-des-assistants-parlementaires-europeens_6215451_823448.html",
+    "https://www.bfmtv.com/police-justice/francois-bayrou-juge-en-appel-du-9-septembre-au-5-octobre-dans-l-affaire-des-assistants-parlementaires-du-mo-dem_AD-202603110833.html",
+    "https://www.lemonde.fr/societe/article/2026/09/28/au-proces-en-appel-du-modem-une-lourde-peine-requise-contre-francois-bayrou_6785178_3224.html"
+   ]
+  }
+ ],
+ "accusations": []
 }

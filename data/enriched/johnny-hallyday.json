@@ -3,5 +3,16 @@
   "wikiTitle": "Johnny Hallyday",
   "touched": "2026-10-22T12:54:04Z",
   "enrichedAt": "2026-10-21",
-  "affaires": []
+  "affaires": [],
+  "accusations": [
+    {
+      "titre": "Accusations de viol (affaire Linda Mortier)",
+      "annee": 2002,
+      "statut": "NON_LIEU",
+      "sources": [
+        "https://www.lemonde.fr/societe/article/2006/01/18/non-lieu-pour-johnny-hallyday-qui-etait-accuse-de-viol_731813_3224.html",
+        "http://www.liberation.fr/societe/2006/04/14/johnny-innocente-de-viol_36186"
+      ]
+    }
+  ]
 }

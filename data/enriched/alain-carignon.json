@@ -1,42 +1,43 @@
 {
-  "nom": "Alain Carignon",
-  "wikiTitle": "Alain Carignon",
-  "touched": "2026-10-22T11:29:39Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire Dauphiné News (corruption, abus de biens sociaux, subornation de témoins)",
-      "annee": 1996,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "CORRUPTION_PASSIVE",
-      "prisonTotal": 60,
-      "prisonFerme": 48,
-      "amende": 60976,
-      "ineligibilite": 60,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Alain_Carignon",
-        "https://www.liberation.fr/france-archive/1995/10/03/carignon-sous-le-feu-des-temoins-la-subornation-de-temoins-l-avait-conduit-en-detention-en-octobre-1_148059/"
-      ]
-    },
-    {
-      "titre": "Affaire Grenoble Isère développement (abus de biens sociaux, usage de faux)",
-      "annee": 1999,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "ABUS_BIENS_SOCIAUX",
-      "prisonTotal": 18,
-      "prisonFerme": 0,
-      "amende": 12195,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Alain_Carignon",
-        "http://nonalaincarignon.free.fr/alpexpo/jurisprudence/tc13071999.html"
-      ]
-    }
-  ],
-  "ecartees": [
-    {
-      "titre": "Condamnation Chambre régionale des comptes / Cour des comptes (2004-2009) — remboursement 253 126,36 € + intérêts + amende 25 000 €",
-      "raison": "Sanction financière prononcée par une juridiction des comptes (chambre régionale des comptes, confirmée par la Cour des comptes), non une condamnation pénale. Hors périmètre selon les règles (condamnations civiles/commerciales exclues ; les juridictions financières ne sont pas des juridictions pénales)."
-    }
-  ]
+ "nom": "Alain Carignon",
+ "wikiTitle": "Alain Carignon",
+ "touched": "2026-10-22T11:29:39Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire Dauphiné News (corruption, abus de biens sociaux, subornation de témoins)",
+   "annee": 1996,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "CORRUPTION_PASSIVE",
+   "prisonTotal": 60,
+   "prisonFerme": 48,
+   "amende": 60976,
+   "ineligibilite": 60,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Alain_Carignon",
+    "https://www.liberation.fr/france-archive/1995/10/03/carignon-sous-le-feu-des-temoins-la-subornation-de-temoins-l-avait-conduit-en-detention-en-octobre-1_148059/"
+   ]
+  },
+  {
+   "titre": "Affaire Grenoble Isère développement (abus de biens sociaux, usage de faux)",
+   "annee": 1999,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "ABUS_BIENS_SOCIAUX",
+   "prisonTotal": 18,
+   "prisonFerme": 0,
+   "amende": 12195,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Alain_Carignon",
+    "http://nonalaincarignon.free.fr/alpexpo/jurisprudence/tc13071999.html"
+   ]
+  }
+ ],
+ "ecartees": [
+  {
+   "titre": "Condamnation Chambre régionale des comptes / Cour des comptes (2004-2009) — remboursement 253 126,36 € + intérêts + amende 25 000 €",
+   "raison": "Sanction financière prononcée par une juridiction des comptes (chambre régionale des comptes, confirmée par la Cour des comptes), non une condamnation pénale. Hors périmètre selon les règles (condamnations civiles/commerciales exclues ; les juridictions financières ne sont pas des juridictions pénales)."
+  }
+ ],
+ "accusations": []
 }

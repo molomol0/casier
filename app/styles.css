@@ -291,7 +291,7 @@ a:hover { text-decoration: underline; }
   border-radius: 999px;
 }
 
-.card { position: relative; overflow: hidden; animation: slide-in 0.38s ease; }
+.card { position: relative; overflow: hidden; cursor: pointer; animation: slide-in 0.38s ease; }
 @keyframes slide-in { from { opacity: 0; transform: translateX(28px); } to { opacity: 1; transform: none; } }
 .card .photo {
   position: absolute;
@@ -299,7 +299,19 @@ a:hover { text-decoration: underline; }
   background-size: cover;
   background-position: center 18%;
   filter: grayscale(0.25) brightness(0.72);
+  transition: filter 0.18s ease;
 }
+/* Affordance de clic : la carte survolée s'éclaircit et se liseré de cuivre */
+.card:hover .photo { filter: grayscale(0.05) brightness(0.92); }
+.card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border: 2px solid transparent;
+  pointer-events: none;
+  transition: border-color 0.18s ease;
+}
+.card:hover::after { border-color: var(--accent); }
 .card .overlay {
   position: absolute;
   inset: 0;
@@ -315,6 +327,12 @@ a:hover { text-decoration: underline; }
 .card h3 { font-size: 1.7rem; line-height: 1.1; }
 .card .sub { color: var(--dim); font-size: 0.86rem; }
 .card .question { color: var(--text); font-size: 0.95rem; max-width: 24ch; }
+.card .tap-hint {
+  color: var(--accent);
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 0.82rem;
+  opacity: 0.9;
+}
 .card .value {
   font-family: "Space Grotesk", sans-serif;
   font-size: 2.2rem;
@@ -339,6 +357,34 @@ a:hover { text-decoration: underline; }
 .badge.definitive { color: #e89488; border-color: rgba(199, 90, 76, 0.5); background: rgba(199, 90, 76, 0.12); }
 .badge.appel { color: #d9bd72; border-color: rgba(194, 153, 63, 0.5); background: rgba(194, 153, 63, 0.12); }
 .badge.encours { color: #9ab2d6; border-color: rgba(111, 135, 173, 0.5); background: rgba(111, 135, 173, 0.12); }
+/* Accusations : look volontairement différent (contour pointillé, gris, majuscules)
+   pour qu'on ne confonde jamais avec une condamnation. */
+.badge.accusation {
+  color: var(--dim);
+  border: 1px dashed var(--faint);
+  background: transparent;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* Bandeau d'avertissement du mode « Casier + accusations » */
+.accusation-warning {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #d9bd72;
+  background: rgba(194, 153, 63, 0.1);
+  border-bottom: 1px solid rgba(194, 153, 63, 0.25);
+}
+.accusation-warning strong { color: #e8d08a; }
+
+/* Bloc accusations dans l'annuaire */
+.acc-count { color: var(--dim); }
+.det-acc-block { margin-top: 0.8rem; padding-top: 0.6rem; border-top: 1px dashed var(--border); }
+.det-acc-head { font-size: 0.82rem; color: var(--dim); margin-bottom: 0.5rem; }
+.det-acc-warn { color: var(--faint); font-style: italic; font-size: 0.76rem; }
 
 .choices { display: flex; gap: 0.7rem; margin-top: 0.3rem; }
 .btn-guess {

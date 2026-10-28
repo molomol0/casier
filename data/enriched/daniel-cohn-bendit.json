@@ -31,5 +31,16 @@
         "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/clermont-ferrand-daniel-cohn-bendit-vise-plainte-diffamation-1782017.html"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Accusations de pédophilie et d'apologie de la pédophilie (Le Grand Bazar, émission Apostrophes)",
+      "annee": 2001,
+      "statut": "ACCUSATION_PUBLIQUE",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Daniel_Cohn-Bendit",
+        "https://www.lexpress.fr/politique/daniel-cohn-bendit-le-hasch-et-les-enfants_766524.html"
+      ]
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:41:26.851Z",
+  "generatedAt": "2026-10-28T08:46:11.852Z",
   "sources": [
     "Wikidata (CC0) — roster, photos, biographies",
     "Wikipédia FR (CC BY-SA) + presse citée en référence — affaires (via /enrich-base)"
@@ -402,7 +402,8 @@
           "annee": 2022,
           "statut": "MISE_EN_EXAMEN"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q7177",
@@ -628,7 +629,8 @@
           "annee": 2019,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q288477",
@@ -822,6 +824,17 @@
           "annee": 2024,
           "statut": "RENVOI_TRIBUNAL"
         }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.mediapart.fr/journal/france/080322/eric-zemmour-accuse-d-agressions-sexuelles-par-huit-femmes",
+            "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour#Accusations_d'agressions_sexuelles"
+          ],
+          "titre": "Accusations d'agressions sexuelles par plusieurs femmes (témoignages Mediapart, 2021-2022)",
+          "annee": 2021,
+          "statut": "ACCUSATION_PUBLIQUE"
+        }
       ]
     },
     {
@@ -964,7 +977,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q5819",
@@ -1102,7 +1116,8 @@
           "annee": 2012,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q945181",
@@ -1236,6 +1251,28 @@
           "annee": 2021,
           "statut": "MISE_EN_EXAMEN"
         }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.lemonde.fr/archives/article/1996/07/02/plainte-patrick-balkany-fait-l-objet-d-une-plainte-pour-menaces-avec-arme-et-violences-sexuelles-deposee-par-son-amie-sybille-jacquin-de-margerie_3721001_1819218.html",
+            "http://www.liberation.fr/france/1996/07/01/une-plainte-tres-privee-contre-le-depute-balkany-vendredisa-nouvelle-compagne-l-a-accuse-devant-la-p_178239",
+            "https://fr.wikipedia.org/wiki/Patrick_Balkany#Affaires_sexuelles"
+          ],
+          "titre": "Accusations de viol et menace avec arme (affaire de la compagne de 1996)",
+          "annee": 1996,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        },
+        {
+          "sources": [
+            "http://www.charentelibre.fr/2011/05/31/harcelement-sexuel-marie-claire-restoux-accuse-balkany,1038661.php",
+            "https://www.charentelibre.fr/sport/judo/harcelement-sexuel-marie-claire-restoux-accuse-balkany-6441076.php",
+            "https://fr.wikipedia.org/wiki/Patrick_Balkany#Affaires_sexuelles"
+          ],
+          "titre": "Accusations publiques de harcèlement sexuel par Marie-Claire Restoux (2016)",
+          "annee": 2016,
+          "statut": "ACCUSATION_PUBLIQUE"
+        }
       ]
     },
     {
@@ -1364,7 +1401,8 @@
           "annee": 2017,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q749029",
@@ -1461,7 +1499,8 @@
           "annee": 2026,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q65580877",
@@ -1560,7 +1599,8 @@
           "annee": 2024,
           "statut": "RENVOI_TRIBUNAL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q329",
@@ -1650,7 +1690,8 @@
           "annee": 2020,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3106130",
@@ -1735,7 +1776,8 @@
           "annee": 2026,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q29225872",
@@ -1814,7 +1856,8 @@
           "annee": 2023,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q12927",
@@ -1886,7 +1929,8 @@
           "annee": 2025,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3159629",
@@ -1957,7 +2001,8 @@
           "annee": 1998,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q984375",
@@ -2027,7 +2072,8 @@
           "annee": 2023,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q1844180",
@@ -2097,7 +2143,8 @@
           "annee": 2025,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q728645",
@@ -2166,7 +2213,8 @@
           "annee": 1997,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q981270",
@@ -2235,7 +2283,8 @@
           "annee": 2017,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3170082",
@@ -2305,7 +2354,8 @@
           "annee": 2026,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q5829",
@@ -2362,7 +2412,8 @@
           "annee": 2022,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2851133",
@@ -2418,7 +2469,8 @@
           "annee": 2024,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q106508",
@@ -2475,6 +2527,27 @@
           "titre": "Enquête pour fraude fiscale aggravée et blanchiment",
           "annee": 2025,
           "statut": "ENQUETE_PRELIMINAIRE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.francebleu.fr/infos/faits-divers-justice/la-comedienne-helene-darras-porte-plainte-contre-gerard-depardieu-pour-agression-sexuelle-1568494",
+            "https://www.liberation.fr/culture/cinema/les-procedures-en-cours-dans-laffaire-depardieu-20231221_FSDZY66FSRCUFKMIKWKAIZBXDQ",
+            "https://www.france24.com/fr/france/20231206-l-acteur-g%C3%A9rard-depardieu-vis%C3%A9-par-une-seconde-plainte-pour-agression-sexuelle"
+          ],
+          "titre": "Agression sexuelle sur Hélène Darras (tournage de Disco, classée sans suite — prescription)",
+          "annee": 2007,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        },
+        {
+          "sources": [
+            "https://www.20minutes.fr/faits_divers/4067537-20231219-journaliste-espagnole-porte-plainte-contre-gerard-depardieu-viol",
+            "https://www.francebleu.fr/infos/faits-divers-justice/gerard-depardieu-plaintes-mise-en-examen-enquetes-le-point-sur-les-affaires-en-cours-4037610"
+          ],
+          "titre": "Viol allégué sur Ruth Baza (journaliste espagnole, 1995 — plainte classée, faits prescrits)",
+          "annee": 1995,
+          "statut": "CLASSEMENT_SANS_SUITE"
         }
       ]
     },
@@ -2533,7 +2606,8 @@
           "annee": 2018,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q528581",
@@ -2589,7 +2663,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3164758",
@@ -2644,7 +2719,8 @@
           "annee": 2026,
           "statut": "RENVOI_TRIBUNAL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q725609",
@@ -2702,7 +2778,8 @@
           "annee": 2013,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q15989111",
@@ -2760,7 +2837,8 @@
           "annee": 2025,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q1684726",
@@ -2819,7 +2897,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q239154",
@@ -2872,7 +2951,8 @@
           "annee": 2014,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q112640278",
@@ -2931,7 +3011,8 @@
           "annee": 2026,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3084783",
@@ -2988,7 +3069,8 @@
           "annee": 2021,
           "statut": "RENVOI_TRIBUNAL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2848693",
@@ -3045,7 +3127,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3524269",
@@ -3104,7 +3187,8 @@
           "annee": 2022,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3074133",
@@ -3159,7 +3243,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q295123",
@@ -3213,7 +3298,8 @@
           "annee": 2003,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3124340",
@@ -3270,7 +3356,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q61014593",
@@ -3324,7 +3411,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2411493",
@@ -3381,7 +3469,8 @@
           "annee": 1998,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2977023",
@@ -3435,7 +3524,8 @@
           "annee": 2012,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q1509297",
@@ -3488,7 +3578,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q551776",
@@ -3541,6 +3632,25 @@
           "annee": 2023,
           "statut": "MISE_EN_EXAMEN"
         }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor",
+            "https://www.liberation.fr/societe/2021/07/23/ppda-le-parquet-classe-sans-suite-les-plaintes-pour-viol_1742983/"
+          ],
+          "titre": "Plaintes pour viols et agressions sexuelles classées sans suite (affaire PPDA — première vague)",
+          "annee": 2021,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        },
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Patrick_Poivre_d%27Arvor"
+          ],
+          "titre": "Cinq informations judiciaires pour viols et viols aggravés (affaire PPDA — deuxième vague)",
+          "annee": 2024,
+          "statut": "INFORMATION_EN_COURS"
+        }
       ]
     },
     {
@@ -3581,6 +3691,17 @@
           "titre": "Affaire Maximi (diffamation à l'antenne de LCI)",
           "annee": 2022,
           "statut": "CONDAMNATION_DEFINITIVE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Daniel_Cohn-Bendit",
+            "https://www.lexpress.fr/politique/daniel-cohn-bendit-le-hasch-et-les-enfants_766524.html"
+          ],
+          "titre": "Accusations de pédophilie et d'apologie de la pédophilie (Le Grand Bazar, émission Apostrophes)",
+          "annee": 2001,
+          "statut": "ACCUSATION_PUBLIQUE"
         }
       ]
     },
@@ -3629,7 +3750,8 @@
           "annee": 2026,
           "statut": "RENVOI_TRIBUNAL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q27182",
@@ -3673,7 +3795,8 @@
           "annee": 2025,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3159243",
@@ -3715,7 +3838,8 @@
           "annee": 2003,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3261014",
@@ -3760,7 +3884,8 @@
           "annee": 2000,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q327009",
@@ -3802,7 +3927,8 @@
           "annee": 2004,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q379229",
@@ -3845,6 +3971,17 @@
           "titre": "Affaire Epstein – blanchiment de fraude fiscale aggravée",
           "annee": 2026,
           "statut": "ENQUETE_PRELIMINAIRE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Jack_Lang",
+            "https://fr.wikipedia.org/wiki/Affaire_du_Coral"
+          ],
+          "titre": "Accusations de participation à des actes pédocriminels (affaire du Coral)",
+          "annee": 1982,
+          "statut": "NON_LIEU"
         }
       ]
     },
@@ -3890,7 +4027,8 @@
           "annee": 2024,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q171530",
@@ -3932,6 +4070,18 @@
           "titre": "Mise en examen pour viols, tentatives de viol, agressions sexuelles et harcèlement sexuel (affaire Bruel 2026)",
           "annee": 2026,
           "statut": "MISE_EN_EXAMEN"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.lemonde.fr/societe/article/2021/09/03/les-enquetes-visant-patrick-bruel-pour-agression-et-harcelement-sexuel-classees-sans-suite_6093348_3224.html",
+            "https://www.lemonde.fr/societe/article/2019/09/09/patrick-bruel-mis-en-cause-dans-une-affaire-d-exhibition-et-de-harcelement-sexuel_5508332_3224.html",
+            "https://www.marieclaire.fr/patrick-bruel-accuse-d-agression-et-de-harcelement-sexuel-les-enquetes-classees-sans-suite,1400113.asp"
+          ],
+          "titre": "Accusations de harcèlement sexuel, exhibition sexuelle et agression sexuelle — plaintes de masseuses classées sans suite (2019-2020)",
+          "annee": 2019,
+          "statut": "CLASSEMENT_SANS_SUITE"
         }
       ]
     },
@@ -3975,7 +4125,8 @@
           "annee": 2020,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q1383590",
@@ -4018,7 +4169,8 @@
           "annee": 1967,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2401871",
@@ -4060,7 +4212,8 @@
           "annee": 1999,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3286733",
@@ -4102,7 +4255,8 @@
           "annee": 2016,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q993611",
@@ -4144,7 +4298,8 @@
           "annee": 1998,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3565487",
@@ -4189,7 +4344,8 @@
           "annee": 2026,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2750200",
@@ -4234,7 +4390,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q207824",
@@ -4276,7 +4433,8 @@
           "annee": 2014,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3046479",
@@ -4317,7 +4475,8 @@
           "annee": 2018,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q179497",
@@ -4357,7 +4516,8 @@
           "annee": 2005,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q539703",
@@ -4399,7 +4559,8 @@
           "annee": 2017,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3154865",
@@ -4442,7 +4603,8 @@
           "annee": 2020,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q273394",
@@ -4482,7 +4644,8 @@
           "annee": 1996,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q1523929",
@@ -4524,7 +4687,8 @@
           "annee": 2019,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3167962",
@@ -4568,7 +4732,8 @@
           "annee": 2018,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q33280111",
@@ -4612,7 +4777,8 @@
           "annee": 2022,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q1097072",
@@ -4655,7 +4821,8 @@
           "annee": 2021,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3573547",
@@ -4697,7 +4864,8 @@
           "annee": 1994,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q356719",
@@ -4737,7 +4905,8 @@
           "annee": 2018,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q16679944",
@@ -4777,7 +4946,8 @@
           "annee": 2015,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3305074",
@@ -4817,7 +4987,8 @@
           "annee": 2008,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q55649583",
@@ -4857,7 +5028,8 @@
           "annee": 2024,
           "statut": "MISE_EN_EXAMEN"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q822718",
@@ -4897,7 +5069,8 @@
           "annee": 2024,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2690428",
@@ -4937,7 +5110,8 @@
           "annee": 2025,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3052772",
@@ -4966,7 +5140,8 @@
           "annee": 2022,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2105",
@@ -4995,7 +5170,8 @@
           "annee": 2011,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q101410",
@@ -5026,7 +5202,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q551439",
@@ -5054,7 +5231,8 @@
           "annee": 1981,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2976160",
@@ -5083,7 +5261,8 @@
           "annee": 2026,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q12963",
@@ -5113,7 +5292,8 @@
           "annee": 2026,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q215569",
@@ -5142,7 +5322,8 @@
           "annee": 2004,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q151164",
@@ -5171,7 +5352,8 @@
           "annee": 1924,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3085763",
@@ -5200,7 +5382,8 @@
           "annee": 2008,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q818118",
@@ -5228,7 +5411,8 @@
           "annee": 2016,
           "statut": "MISE_EN_EXAMEN"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q385437",
@@ -5255,6 +5439,28 @@
           "titre": "Pandora Papers — enquête préliminaire pour blanchiment de fraude fiscale aggravée",
           "annee": 2022,
           "statut": "ENQUETE_PRELIMINAIRE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.liberation.fr/planete/2011/08/23/dsk-affaire-classee_756527",
+            "https://www.lexpress.fr/actualite/societe/dsk-pourquoi-le-procureur-veut-abandonner-les-poursuites_1023159.html",
+            "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn"
+          ],
+          "titre": "Accusations d'agression sexuelle et de tentative de viol (affaire du Sofitel de New York, Nafissatou Diallo)",
+          "annee": 2011,
+          "statut": "NON_LIEU"
+        },
+        {
+          "sources": [
+            "https://www.lexpress.fr/actualite/societe/justice/la-plainte-de-tristane-banon-contre-dsk-classee-sans-suite_1040317.html",
+            "https://www.lefigaro.fr/actualite-france/2011/10/13/01016-20111013ARTFIG00613-affaire-banon-dsk-beneficie-de-la-prescription-des-faits.php",
+            "https://fr.wikipedia.org/wiki/Dominique_Strauss-Kahn"
+          ],
+          "titre": "Accusation de tentative de viol (affaire Tristane Banon)",
+          "annee": 2011,
+          "statut": "CLASSEMENT_SANS_SUITE"
         }
       ]
     },
@@ -5285,7 +5491,8 @@
           "annee": 2026,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q455023",
@@ -5313,7 +5520,8 @@
           "annee": 2025,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q378116",
@@ -5340,7 +5548,8 @@
           "annee": 1967,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q12972",
@@ -5369,7 +5578,8 @@
           "annee": 2026,
           "statut": "RENVOI_TRIBUNAL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q58130",
@@ -5399,7 +5609,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q441791",
@@ -5426,7 +5637,8 @@
           "annee": 2006,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q131660",
@@ -5456,7 +5668,8 @@
           "annee": 2026,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3579995",
@@ -5487,7 +5700,8 @@
           "annee": 2026,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q62354",
@@ -5516,7 +5730,8 @@
           "annee": 2024,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q20089181",
@@ -5544,7 +5759,8 @@
           "annee": 2023,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q665228",
@@ -5573,7 +5789,8 @@
           "annee": 1949,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q30388733",
@@ -5603,7 +5820,8 @@
           "annee": 2022,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q12969",
@@ -5630,7 +5848,8 @@
           "annee": 2005,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2251158",
@@ -5659,7 +5878,8 @@
           "annee": 2022,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q37793136",
@@ -5687,7 +5907,8 @@
           "annee": 2023,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q694732",
@@ -5715,7 +5936,8 @@
           "annee": 1966,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q1871533",
@@ -5743,7 +5965,8 @@
           "annee": 2025,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3027191",
@@ -5772,7 +5995,8 @@
           "annee": 2021,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q143945",
@@ -5801,7 +6025,8 @@
           "annee": 2024,
           "statut": "MISE_EN_EXAMEN"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q123232131",
@@ -5830,7 +6055,8 @@
           "annee": 2026,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q55749245",
@@ -5858,6 +6084,16 @@
           "titre": "Injure publique à caractère racial envers la policière Linda Kebbab",
           "annee": 2023,
           "statut": "CONDAMNATION_DEFINITIVE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Taha_Bouhafs"
+          ],
+          "titre": "Accusations de harcèlement et violences sexuelles (affaire LFI 2022)",
+          "annee": 2022,
+          "statut": "ACCUSATION_PUBLIQUE"
         }
       ]
     },
@@ -5888,7 +6124,8 @@
           "annee": 2026,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q137612820",
@@ -5916,7 +6153,8 @@
           "annee": 2026,
           "statut": "ENQUETE_PRELIMINAIRE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q5556756",
@@ -5946,7 +6184,8 @@
           "annee": 2022,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q41102798",
@@ -5974,7 +6213,8 @@
           "annee": 2026,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q201985",
@@ -6003,7 +6243,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q502972",
@@ -6033,7 +6274,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2848614",
@@ -6059,6 +6301,18 @@
           "titre": "Affaire d'injure publique envers Serge Brière",
           "annee": 2015,
           "statut": "CONDAMNATION_DEFINITIVE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.lemonde.fr/police-justice/article/2022/07/01/andre-santini-vise-par-deux-plaintes-pour-agression-sexuelle-et-harcelement-sexuel-et-moral_6133002_1653578.html",
+            "https://www.lemonde.fr/societe/article/2022/07/05/enquete-ouverte-contre-andre-santini-apres-des-accusations-d-agression-et-harcelement-sexuels_6133429_3224.html",
+            "https://www.lemonde.fr/societe/article/2024/10/21/affaire-andre-santini-l-enquete-confiee-a-un-juge-d-instruction_6357540_3224.html"
+          ],
+          "titre": "Accusations d'agression sexuelle et de harcèlement sexuel et moral (plaintes de deux anciens collaborateurs)",
+          "annee": 2022,
+          "statut": "INFORMATION_EN_COURS"
         }
       ]
     },
@@ -6087,7 +6341,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q57751",
@@ -6115,7 +6370,8 @@
           "annee": 2018,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q24275199",
@@ -6143,6 +6399,18 @@
           "titre": "Affaire de harcèlement sexuel (harcèlement sexuel aggravé par voie numérique)",
           "annee": 2025,
           "statut": "CONDAMNATION_DEFINITIVE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.leparisien.fr/culture-loisirs/musique/affaire-slimane-une-deuxieme-plainte-pour-agression-sexuelle-deposee-contre-le-chanteur-18-11-2024-2MSJYFMQWRBTRJKFJPRPIVUQPY.php",
+            "https://www.lemonde.fr/societe/article/2024/11/19/le-chanteur-slimane-vise-par-une-seconde-plainte-cette-fois-pour-agression-sexuelle_6402580_3224.html",
+            "https://www.lemonde.fr/societe/article/2025/09/16/le-chanteur-slimane-condamne-a-payer-une-amende-de-10-000-euros-pour-harcelement-sexuel_6641444_3224.html"
+          ],
+          "titre": "Plainte pour agression sexuelle et tentative d'agression sexuelle (affaire Saint-Étienne, nuit du 17-18 décembre 2023)",
+          "annee": 2024,
+          "statut": "CLASSEMENT_SANS_SUITE"
         }
       ]
     },
@@ -6174,7 +6442,8 @@
           "annee": 2021,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q491766",
@@ -6202,7 +6471,8 @@
           "annee": 2019,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q295834",
@@ -6231,7 +6501,8 @@
           "annee": 1987,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q32979246",
@@ -6259,6 +6530,18 @@
           "titre": "Affaire de violence en réunion avec arme à Six-Fours-les-Plages (2000)",
           "annee": 2000,
           "statut": "CONDAMNATION_DEFINITIVE"
+        }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Boccaletti",
+            "https://www.liberation.fr/politique/cetait-de-la-violence-pure-des-coups-lex-femme-du-candidat-rn-frederic-boccaletti-temoigne-de-violences-conjugales-20240704_W6CGIFBEGZGX5NPAVRQBTUBAJQ/",
+            "https://www.ladepeche.fr/2024/07/04/il-ma-mis-un-coup-de-couteau-dans-le-mollet-droit-le-depute-rn-frederic-boccaletti-accuse-de-violences-conjugales-par-son-ex-femme-12061546.php"
+          ],
+          "titre": "Accusations de violences conjugales (affaire Sylvie Boccaletti)",
+          "annee": 1999,
+          "statut": "CLASSEMENT_SANS_SUITE"
         }
       ]
     },
@@ -6288,7 +6571,8 @@
           "annee": 2022,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q30512286",
@@ -6317,7 +6601,8 @@
           "annee": 2023,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2910923",
@@ -6346,7 +6631,8 @@
           "annee": 2017,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3187477",
@@ -6375,7 +6661,8 @@
           "annee": 2005,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q154490",
@@ -6402,7 +6689,8 @@
           "annee": 2021,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3159545",
@@ -6432,7 +6720,8 @@
           "annee": 1997,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q18026635",
@@ -6465,7 +6754,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q19839076",
@@ -6493,7 +6783,8 @@
           "annee": 2015,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q126164",
@@ -6521,7 +6812,8 @@
           "annee": 1978,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q55088105",
@@ -6551,7 +6843,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q30408131",
@@ -6580,7 +6873,8 @@
           "annee": 2024,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3027199",
@@ -6609,7 +6903,8 @@
           "annee": 2007,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q315773",
@@ -6637,7 +6932,8 @@
           "annee": 1974,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3123923",
@@ -6665,7 +6961,8 @@
           "annee": 2014,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2925430",
@@ -6694,7 +6991,8 @@
           "annee": 2014,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3370480",
@@ -6722,7 +7020,8 @@
           "annee": 2009,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q136096853",
@@ -6750,7 +7049,8 @@
           "annee": 2019,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q49022111",
@@ -6778,7 +7078,8 @@
           "annee": 2019,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3573932",
@@ -6808,7 +7109,8 @@
           "annee": 2011,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3527325",
@@ -6837,7 +7139,8 @@
           "annee": 2002,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3170360",
@@ -6865,7 +7168,8 @@
           "annee": 2001,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3170965",
@@ -6892,7 +7196,8 @@
           "annee": 1999,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3168702",
@@ -6921,7 +7226,8 @@
           "annee": 2016,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3261028",
@@ -6949,7 +7255,8 @@
           "annee": 2005,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q721491",
@@ -6976,7 +7283,8 @@
           "annee": 2024,
           "statut": "PROCES_EN_COURS"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3369058",
@@ -7003,7 +7311,8 @@
           "annee": 2015,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q3168248",
@@ -7030,7 +7339,8 @@
           "annee": 2022,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q16948153",
@@ -7057,7 +7367,8 @@
           "annee": 2021,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q2833607",
@@ -7084,7 +7395,8 @@
           "annee": 2025,
           "statut": "CONDAMNATION_EN_APPEL"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q477201",
@@ -7111,7 +7423,8 @@
           "annee": 2017,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
-      ]
+      ],
+      "accusations": []
     },
     {
       "qid": "Q519639",
@@ -7138,6 +7451,18 @@
           "annee": 2020,
           "statut": "CONDAMNATION_DEFINITIVE"
         }
+      ],
+      "accusations": [
+        {
+          "sources": [
+            "https://trialinternational.org/fr/latest-post/affaire-rifaat-al-assad/",
+            "https://www.rts.ch/info/suisse/14244236-la-suisse-lance-un-avis-de-recherche-contre-rifaat-alassad-loncle-de-bachar.html",
+            "https://www.lemonde.fr/syrie/article/2017/09/27/rifaat-al-assad-est-poursuivi-pour-crimes-de-guerre_5192396_1618247.html"
+          ],
+          "titre": "Accusations de crimes de guerre (massacres de Hama 1982 et de la prison de Palmyre 1980)",
+          "annee": 2013,
+          "statut": "INFORMATION_EN_COURS"
+        }
       ]
     },
     {
@@ -7151,7 +7476,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Georgia%20Salome%20Zourabichvili%20in%20Brussels%2C%202019%20%28cropped%29.jpg?width=500",
       "wikiLength": 340019,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q212015",
@@ -7164,7 +7490,18 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20Hallyday%202012%203.jpg?width=500",
       "wikiLength": 304624,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.lemonde.fr/societe/article/2006/01/18/non-lieu-pour-johnny-hallyday-qui-etait-accuse-de-viol_731813_3224.html",
+            "http://www.liberation.fr/societe/2006/04/14/johnny-innocente-de-viol_36186"
+          ],
+          "titre": "Accusations de viol (affaire Linda Mortier)",
+          "annee": 2002,
+          "statut": "NON_LIEU"
+        }
+      ]
     },
     {
       "qid": "Q157",
@@ -7176,8 +7513,9 @@
       "poste": "homme d'État français",
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Hollande%20-%202017%20%2827869823159%29%20%28cropped%202%29.jpg?width=500",
       "wikiLength": 293731,
-      "enrichedAt": "2026-10-20",
-      "affaires": []
+      "enrichedAt": "2026-10-21",
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2038",
@@ -7189,8 +7527,9 @@
       "poste": "homme d'État français",
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20Fran%C3%A7ois%20Mitterrand%20in%201983.jpg?width=500",
       "wikiLength": 283753,
-      "enrichedAt": "2026-10-20",
-      "affaires": []
+      "enrichedAt": "2026-10-21",
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q10681",
@@ -7203,7 +7542,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Stivell%20-%20FIL%202021.jpg?width=500",
       "wikiLength": 273410,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2093915",
@@ -7216,7 +7556,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Rosanvallon%201.jpg?width=500",
       "wikiLength": 252797,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1716",
@@ -7229,7 +7570,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Renaud%2C%202017%20%28cropped%29.jpg?width=500",
       "wikiLength": 249779,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q10287",
@@ -7242,7 +7584,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Valls%202025%20%28cropped%29.jpg?width=500",
       "wikiLength": 228338,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q128126",
@@ -7255,7 +7598,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Levi-strauss%20260%20%28cropped2%29.jpg?width=500",
       "wikiLength": 196510,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106418",
@@ -7268,7 +7612,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Deneuve%20Berlinale%202017.jpg?width=500",
       "wikiLength": 193970,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q53939",
@@ -7281,7 +7626,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Francoise%20hardy%20february%201966.jpg?width=500",
       "wikiLength": 186744,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q358513",
@@ -7294,7 +7640,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Sardou%202014.jpg?width=500",
       "wikiLength": 184080,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q292458",
@@ -7307,7 +7654,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marion%20Mar%C3%A9chal%20MEP%20%282024%29.jpg?width=500",
       "wikiLength": 180483,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q8927",
@@ -7320,7 +7668,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marion%20Cotillard-1061%20%28cropped%29.jpg?width=500",
       "wikiLength": 176392,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q81923",
@@ -7333,7 +7682,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Segolene%20Royal%20Arcueil%2018%20septembre%202010%206.jpg?width=500",
       "wikiLength": 174784,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q268529",
@@ -7346,7 +7696,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Najat%20Vallaud-Belkacem-crop.jpg?width=500",
       "wikiLength": 166123,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q313509",
@@ -7359,7 +7710,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard-Henri%20L%C3%A9vy%20par%20Marc%20Roussel%20en%202024.jpg?width=500",
       "wikiLength": 160806,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q298180",
@@ -7372,7 +7724,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Simone%20Veil%2C%20gymnase%20Japy%202008%2002%2027%20n3%20ret.jpg?width=500",
       "wikiLength": 159297,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q21013136",
@@ -7385,7 +7738,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandrine%20Rousseau%2020210819%20%28cropped%29.jpg?width=500",
       "wikiLength": 157233,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q57363",
@@ -7398,7 +7752,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Andry%20Rajoelina%20on%20April%2028%2C%202024%20%28cropped%29.jpg?width=500",
       "wikiLength": 155848,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q314265",
@@ -7411,7 +7766,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Mend%C3%A8s-France%201932.jpg?width=500",
       "wikiLength": 155766,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3074223",
@@ -7424,7 +7780,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Florian%20Philippot.jpg?width=500",
       "wikiLength": 155699,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q44709",
@@ -7437,7 +7794,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Goldman%20-%20may%202002.jpg?width=500",
       "wikiLength": 155687,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q231096",
@@ -7450,7 +7808,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9a%20Seydoux%20-%20ALPHAGANG%20-%20TIFF%202026-40.jpg?width=500",
       "wikiLength": 153779,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q484779",
@@ -7463,7 +7822,28 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Luc%20Besson-3729.jpg?width=500",
       "wikiLength": 151732,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Luc_Besson",
+            "https://www.lemonde.fr/",
+            "https://www.mediapart.fr/"
+          ],
+          "titre": "Accusations de viols (affaire Sand Van Roy)",
+          "annee": 2018,
+          "statut": "NON_LIEU"
+        },
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Luc_Besson",
+            "https://www.mediapart.fr/"
+          ],
+          "titre": "Accusations d'agressions sexuelles par d'autres femmes (révélations Mediapart 2018)",
+          "annee": 2018,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        }
+      ]
     },
     {
       "qid": "Q217070",
@@ -7476,7 +7856,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/17.10.27%20Recepci%C3%B3n%20Tribunales%20Constitucionales.%20San%20Telmo%201%20%28cropped%29.jpg?width=500",
       "wikiLength": 148066,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q173020",
@@ -7489,7 +7870,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zandvoort%20circuit%20De%20striptekenaar%20Graton%20in%20de%20pits%2C%20NL-HlmNHA%2054005237%20-%20Patrick%20Tambay%20%28cropped%29.JPG?width=500",
       "wikiLength": 145101,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q40655898",
@@ -7502,7 +7884,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jordan%20Bardella%20-%20Strasbourg%20European%20Parliament%20September%202022%20%28Cropped%29.jpg?width=500",
       "wikiLength": 141840,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q363379",
@@ -7515,7 +7898,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Haroun%20Tazieff-FIG%201990%20%286%29.jpg?width=500",
       "wikiLength": 141670,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q12940",
@@ -7528,7 +7912,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/EEG-conferentie%20Den%20Haag%20Jacques%20Chaban-Delmas%20%28cropped%29.jpg?width=500",
       "wikiLength": 141532,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3123610",
@@ -7541,7 +7926,25 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rald%20Darmanin%20in%202022.jpg?width=500",
       "wikiLength": 139105,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/G%C3%A9rald_Darmanin"
+          ],
+          "titre": "Accusations de viol et de harcèlement sexuel (affaire Sophie Patterson-Spatz)",
+          "annee": 2017,
+          "statut": "NON_LIEU"
+        },
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/G%C3%A9rald_Darmanin"
+          ],
+          "titre": "Accusation d'abus de faiblesse",
+          "annee": 2018,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        }
+      ]
     },
     {
       "qid": "Q20020731",
@@ -7554,7 +7957,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elisabeth%20Borne%20November%202022%20close-up.jpg?width=500",
       "wikiLength": 137207,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q185002",
@@ -7567,7 +7971,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Myl%C3%A8ne%20farmer%20Live%202019%20%28cropped%29.jpg?width=500",
       "wikiLength": 136047,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2926942",
@@ -7580,7 +7985,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Retailleau%20-%20Ministre%20de%20l%27Int%C3%A9rieur%20fran%C3%A7ais%20%28cropped%29.jpg?width=500",
       "wikiLength": 135177,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3167954",
@@ -7593,7 +7999,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Blanquer%202022%20%28cropped%29.jpg?width=500",
       "wikiLength": 134124,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2185",
@@ -7606,7 +8013,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pompidou%201969%20%28cropped%29.jpg?width=500",
       "wikiLength": 131058,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q12961",
@@ -7619,7 +8027,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Dupont-Aignan%2C%20homme%20politique%20fran%C3%A7ais.jpg?width=500",
       "wikiLength": 130146,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q559040",
@@ -7632,7 +8041,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20at%20a%20meeting%20with%20Jean-Yves%20Le%20Drian%2C%20March%202018%20%289730%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 129608,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q32055",
@@ -7645,7 +8055,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Arnault%20%283%29%20-%202017%20%28cropped%29.jpg?width=500",
       "wikiLength": 129239,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q20807844",
@@ -7658,7 +8069,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marl%C3%A8ne%20Schiappa%2C%20secr%C3%A9taire%20d%27Etat%20%C3%A0%20l%27%C3%A9galit%C3%A9%20entre%20les%20femmes%20et%20les%20hommes.jpg?width=500",
       "wikiLength": 128383,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q268675",
@@ -7671,7 +8083,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vote%20solennel%20loi%20mariage%2023042013%2042.jpg?width=500",
       "wikiLength": 128233,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q457705",
@@ -7684,7 +8097,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gisele%20Halimi%20-%20Huma-2008%202.jpg?width=500",
       "wikiLength": 126545,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q208258",
@@ -7697,7 +8111,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurovisie%20Songfestival%201966%20te%20Luxemburg.%20Bestanddeelnr%20918-9214%20%28cropped%29%20-%20France%20Gall.jpg?width=500",
       "wikiLength": 124336,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q103114",
@@ -7710,7 +8125,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Houellebecq%20no%20Fronteiras%20do%20Pensamento%20Porto%20Alegre%202016%20%2830895029365%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 122780,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q268595",
@@ -7723,7 +8139,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nathalie%20Kosciusko-Morizet%20-%20Portrait%202012%20%28cropped%29.jpg?width=500",
       "wikiLength": 122454,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q187099",
@@ -7736,7 +8153,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel%20Jospin%2C%20Klaus%20H%C3%A4nsch%201996%20%28cropped%29.jpg?width=500",
       "wikiLength": 121439,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3591105",
@@ -7749,7 +8167,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89ric%20Dupond-Moretti%2C%202018%20%28cropped%29.jpg?width=500",
       "wikiLength": 121007,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q206327",
@@ -7762,7 +8181,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Kouchner%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202008%20%28cropped%29.jpg?width=500",
       "wikiLength": 119093,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106275",
@@ -7775,7 +8195,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Juliette%20Binoche%20at%20Berlinale%202026-2.jpg?width=500",
       "wikiLength": 118989,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106365",
@@ -7788,7 +8209,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Huppert%20at%20Berlinale%202026-1.jpg?width=500",
       "wikiLength": 117422,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q104326",
@@ -7801,7 +8223,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Michel%20Jarre%20B10-2016.jpg?width=500",
       "wikiLength": 117412,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q438465",
@@ -7814,7 +8237,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Barnier%20cropped.jpg?width=500",
       "wikiLength": 115171,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q214407",
@@ -7827,7 +8251,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Houphou%C3%ABt-Boigny%201962-07-16.jpg?width=500",
       "wikiLength": 113801,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1322456",
@@ -7840,7 +8265,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Serge%20Blanco%20cropped.jpg?width=500",
       "wikiLength": 113141,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q737311",
@@ -7853,7 +8279,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Montebourg%20Toulouse%202012.JPG?width=500",
       "wikiLength": 112954,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q29570183",
@@ -7866,7 +8293,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/AURORE%20BERG%C3%89%2004%20%28cropped%29.jpg?width=500",
       "wikiLength": 112447,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q306933",
@@ -7879,7 +8307,20 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ABBE%20PIERRE-24x30-1999.jpg?width=500",
       "wikiLength": 111990,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.lemonde.fr/societe/article/2024/07/17/l-abbe-pierre-accuse-d-agressions-sexuelles-sur-au-moins-sept-femmes-selon-un-rapport-commande-par-emmaus-et-la-fondation-abbe-pierre_6251536_3224.html",
+            "https://www.lemonde.fr/societe/article/2024/09/06/le-mouvement-emmaus-publie-de-nouveaux-temoignages-contre-l-abbe-pierre-relatant-des-viols-et-l-agression-sexuelle-d-une-enfant_6305702_3224.html",
+            "https://www.lemonde.fr/societe/article/2025/01/13/l-abbe-pierre-vise-par-neuf-nouvelles-accusations-de-violences-sexuelles-selon-un-dernier-rapport_6496006_3224.html",
+            "https://www.lemonde.fr/societe/article/2025/07/09/l-abbe-pierre-vise-par-douze-nouvelles-accusations-de-violences-sexuelles-dont-sept-sur-mineurs_6620213_3224.html"
+          ],
+          "titre": "Accusations de viols et agressions sexuelles sur mineurs et adultes (révélations posthumes 2024-2025)",
+          "annee": 2024,
+          "statut": "ACCUSATION_PUBLIQUE"
+        }
+      ]
     },
     {
       "qid": "Q2142823",
@@ -7892,7 +8333,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Breton%20EC%20Portrait%202019%20%28cropped%29.jpg?width=500",
       "wikiLength": 111735,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q12946",
@@ -7905,7 +8347,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Rocard16.JPG?width=500",
       "wikiLength": 111046,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q556149",
@@ -7918,7 +8361,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/1720448398743%2020240708%20GLUCKSMANN%20Raphael%20FR%20006.jpg?width=500",
       "wikiLength": 108968,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q228977",
@@ -7931,7 +8375,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Martine%20Aubry%20-%20avril%202012%20%283%29%20crop.jpg?width=500",
       "wikiLength": 108522,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3351018",
@@ -7944,7 +8389,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27Olivier%20Faure.jpg?width=500",
       "wikiLength": 107548,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q704846",
@@ -7957,7 +8403,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20de%20Villiers%20-%20Meeting%20in%20Toulouse%20for%20the%202007%20French%20presidential%20election%200165%202007-04-16%20cropped.jpg?width=500",
       "wikiLength": 107495,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q221908",
@@ -7970,7 +8417,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yannick%20Noah%20%28cropped%29.jpg?width=500",
       "wikiLength": 107211,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q51023",
@@ -7983,7 +8431,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanessa%20Paradis%20C%C3%A9sar%202018.jpg?width=500",
       "wikiLength": 107090,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q154545",
@@ -7996,7 +8445,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9opold%20S%C3%A9dar%20Senghor.jpg?width=500",
       "wikiLength": 106944,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3437790",
@@ -8009,7 +8459,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Roch-wamytan-2.jpg?width=500",
       "wikiLength": 106768,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q960015",
@@ -8022,7 +8473,8 @@
       "photo": null,
       "wikiLength": 106493,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q15724624",
@@ -8035,7 +8487,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois-Xavier%20Bellamy%20intervenant%20en%20Session%20Pl%C3%A9ni%C3%A8re%20%28crop%29.jpg?width=500",
       "wikiLength": 104492,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3102839",
@@ -8048,7 +8501,8 @@
       "photo": null,
       "wikiLength": 103917,
       "enrichedAt": "2026-10-20",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q336046",
@@ -8061,7 +8515,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Badinter%2C%202013%20%28cropped%29.JPG?width=500",
       "wikiLength": 102963,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2190",
@@ -8074,7 +8529,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Coluche%2C%201986%2C%20European%20Parliament.jpg?width=500",
       "wikiLength": 102393,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q993472",
@@ -8087,7 +8543,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Le%20Maire%20in%202022.jpg?width=500",
       "wikiLength": 102076,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3430759",
@@ -8100,7 +8557,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89changes%20avec%20Richard%20Ferrand%2C%20Pr%C3%A9sident%20de%20l%27Assembl%C3%A9e%20nationale%2C%20%C3%A0%20la%20Facult%C3%A9%20de%20droit%20Paris-Est%2001%20%28cropped%202%29.jpg?width=500",
       "wikiLength": 101591,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q30339350",
@@ -8113,7 +8571,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Attal%202025%20%28close%20crop%29.jpg?width=500",
       "wikiLength": 101468,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q63655",
@@ -8126,7 +8585,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thierry.Mariani.jpg?width=500",
       "wikiLength": 101382,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q164111",
@@ -8139,7 +8599,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shahbanu%20of%20Iran.jpg?width=500",
       "wikiLength": 99766,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q33104697",
@@ -8152,7 +8613,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Am%C3%A9lie%20Oud%C3%A9a-Cast%C3%A9ra%20at%20a%202024%20Paralympic%20Games%20media%20conference%20in%202024%203.jpg?width=500",
       "wikiLength": 99571,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3302161",
@@ -8165,7 +8627,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Max-Hymans-dans-son-bureau.JPG?width=500",
       "wikiLength": 99405,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q231276",
@@ -8178,7 +8641,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/25o%20Premio%20da%20Musica%20Brasileira%20%2814004847740%29.jpg?width=500",
       "wikiLength": 99309,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q256294",
@@ -8191,7 +8655,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bertrand%20Delano%C3%AB%2C%20Socialist%20rally%2C%20Z%C3%A9nith%2C%202007%2005%2029%20n7.jpg?width=500",
       "wikiLength": 98719,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q315944",
@@ -8204,7 +8669,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philibert%20Tsiranana%201962.jpg?width=500",
       "wikiLength": 98557,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q18398335",
@@ -8217,7 +8683,17 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gu%C3%A9nol%C3%A9.jpg?width=500",
       "wikiLength": 97670,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Thomas_Gu%C3%A9nol%C3%A9"
+          ],
+          "titre": "Accusations de harcèlement sexuel (affaire LFI / Sciences Po)",
+          "annee": 2019,
+          "statut": "ACCUSATION_PUBLIQUE"
+        }
+      ]
     },
     {
       "qid": "Q32557023",
@@ -8230,7 +8706,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Metzdorf.jpg?width=500",
       "wikiLength": 97263,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q31353",
@@ -8243,7 +8720,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ad%C3%A8le%20Haenel%20Cannes%202017.jpg?width=500",
       "wikiLength": 96449,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q516375",
@@ -8256,7 +8734,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20de%20Benoist%20dans%20le%20documentaire%20Alain%20de%20Benoist.%20R%C3%A9ponses%20de%20Simone%20Olla.png?width=500",
       "wikiLength": 96407,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q745528",
@@ -8269,7 +8748,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Aveline%2C%201989.jpg?width=500",
       "wikiLength": 96333,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q117340",
@@ -8282,7 +8762,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20de%20Rugy.jpg?width=500",
       "wikiLength": 95151,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q296386",
@@ -8295,7 +8776,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Debr%C3%A9.jpg?width=500",
       "wikiLength": 94647,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q467781",
@@ -8308,7 +8790,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis%20Borloo%20HD%20%28cropped%29.jpg?width=500",
       "wikiLength": 94379,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q8298",
@@ -8321,7 +8804,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-11-16%20Gala%20de%20los%20Latin%20Grammy%2C%2022%20%28David%20Guetta%29.jpg?width=500",
       "wikiLength": 94136,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q316906",
@@ -8334,7 +8818,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Phillippe%20Starck%202011.jpg?width=500",
       "wikiLength": 94090,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q680881",
@@ -8347,7 +8832,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/1943%2C%2018%20juin%20-%20Discours%20Hommage%20Albert%20Hall%20photo%20officielle%20livre.jpg?width=500",
       "wikiLength": 93888,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q345408",
@@ -8360,7 +8846,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice%20Thorez%20-%20VIIIe%20Congr%C3%A8s%20national%20du%20PCF.jpg?width=500",
       "wikiLength": 92058,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q346690",
@@ -8373,7 +8860,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Barth%C3%A9lemy%20Boganda%20in%201958.jpg?width=500",
       "wikiLength": 90829,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q784021",
@@ -8386,7 +8874,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20G.%20Larcher%202014%20%28cropped%29.jpg?width=500",
       "wikiLength": 90765,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q982005",
@@ -8399,7 +8888,17 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Hulot%20-%20Huma%202008%2C%206415%20%28cropped%29.jpg?width=500",
       "wikiLength": 90752,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Nicolas_Hulot"
+          ],
+          "titre": "Accusations de viol et d'agressions sexuelles (plainte de Pascale Mitterrand, puis enquête de 2021)",
+          "annee": 2018,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        }
+      ]
     },
     {
       "qid": "Q497770",
@@ -8412,7 +8911,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaspard%20Ulliel%20C%C3%A9sars%202015.jpg?width=500",
       "wikiLength": 90197,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q30339422",
@@ -8425,7 +8925,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ya%C3%ABl%20Braun-Pivet%202023%20%28cropped%29.jpg?width=500",
       "wikiLength": 89459,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q356919",
@@ -8438,7 +8939,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Moscovici%20EC%20Portrait%202014.jpg?width=500",
       "wikiLength": 88972,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2826971",
@@ -8451,7 +8953,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Agn%C3%A8s%20Buzyn%202018-04-06%20lancement%20strat%C3%A9gie%20autisme%202018-2022%20%28cropped%29.jpg?width=500",
       "wikiLength": 88730,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1096496",
@@ -8464,7 +8967,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Bartolone.jpg?width=500",
       "wikiLength": 88686,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3173022",
@@ -8477,7 +8981,28 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Lassalle%2003%20%28cropped%29.jpg?width=500",
       "wikiLength": 88681,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.nouvelobs.com/societe/20171020.OBS6285/jean-lassalle-et-les-femmes-a-l-assemblee-il-me-met-la-main-aux-fesses-et-s-en-va.html",
+            "https://www.mediapart.fr/journal/france/201017/jean-lassalle-un-depute-gluant-accuse-de-violences-sexuelles"
+          ],
+          "titre": "Accusations d'agression sexuelle et de comportements déplacés (mouvement BalanceTonPorc)",
+          "annee": 2017,
+          "statut": "ACCUSATION_PUBLIQUE"
+        },
+        {
+          "sources": [
+            "https://www.lemonde.fr/societe/article/2023/07/21/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viol_6182876_3224.html",
+            "https://www.bfmtv.com/police-justice/jean-lassalle-vise-par-une-enquete-preliminaire-pour-viols-et-agressions-sexuelles_AN-202307210063.html",
+            "https://www.lemonde.fr/politique/article/2024/03/29/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6224878_823448.html"
+          ],
+          "titre": "Enquête préliminaire pour viol et agression sexuelle (faits de 2010)",
+          "annee": 2023,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        }
+      ]
     },
     {
       "qid": "Q736502",
@@ -8490,7 +9015,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/2014-07-14%2011-07-47%20defile-militaire-belfort%20%28cropped%29.jpg?width=500",
       "wikiLength": 88366,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q12956",
@@ -8503,7 +9029,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Collomb%20%C3%A0%20La%20Confluence%20%28Lyon%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 87833,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q235231",
@@ -8516,7 +9043,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Natasha%20St-Pier%20-%20chanteuse%20fran%C3%A7aise%20-%20Denain%20-%20France%20-%2012%20mars%202010%20-%20DSC3256.jpg?width=500",
       "wikiLength": 87473,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q295015",
@@ -8529,7 +9057,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginie%20Despentes%202012.jpg?width=500",
       "wikiLength": 87035,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q12959",
@@ -8542,7 +9071,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Balladur%20-%201993%20%28cropped%29.jpg?width=500",
       "wikiLength": 86998,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2942097",
@@ -8555,7 +9085,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20officiel%20de%20Catherine%20Vautrin%20-%20%C2%A9ECPAD.jpg?width=500",
       "wikiLength": 86802,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3560737",
@@ -8568,7 +9099,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Virginie%20Efira-8693.jpg?width=500",
       "wikiLength": 86352,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q12957",
@@ -8581,7 +9113,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Raymond%20Barre%201991.jpg?width=500",
       "wikiLength": 86223,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q798242",
@@ -8594,7 +9127,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gillesderobien.jpg?width=500",
       "wikiLength": 86194,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q334065",
@@ -8607,7 +9141,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cedric%20Villani%20at%20his%20office%202015%20n3.jpg?width=500",
       "wikiLength": 85984,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3026641",
@@ -8620,7 +9155,8 @@
       "photo": null,
       "wikiLength": 84703,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q207898",
@@ -8633,7 +9169,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Manu%20Chao%20Live%20at%20Princep%20Ghat%2002%20%28cropped%29.jpg?width=500",
       "wikiLength": 83431,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q23844",
@@ -8646,7 +9183,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Clooney%20Jay%20Kelly-19%20%28cropped%29.jpg?width=500",
       "wikiLength": 83347,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3074245",
@@ -8659,7 +9197,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/OscarsCoulisses2021.jpg?width=500",
       "wikiLength": 82555,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q212873",
@@ -8672,7 +9211,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane%20Birkin07.JPG?width=500",
       "wikiLength": 82115,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q189422",
@@ -8685,7 +9225,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christophe%20Lambert%20et%20Jean%20Dujardin%20%28Cropped%29.jpg?width=500",
       "wikiLength": 80122,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q21782661",
@@ -8698,7 +9239,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Iris%20Mittenaere%202016.05.07%20%28cropped%29.jpg?width=500",
       "wikiLength": 79925,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q337226",
@@ -8711,7 +9253,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bertrand%20Tavernier%20Deauville%202017.jpg?width=500",
       "wikiLength": 79686,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q468190",
@@ -8724,7 +9267,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dany%20Boon%20C%C3%A9sars%202015.jpg?width=500",
       "wikiLength": 79199,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q58168",
@@ -8737,7 +9281,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Photo%20-%20Festival%20de%20Cornouaille%202011%20-%20Nolwenn%20Leroy%20en%20concert%20le%2022%20juillet%20-%20014.jpg?width=500",
       "wikiLength": 77918,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q164730",
@@ -8750,7 +9295,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Festival%20de%20Cinema%20de%20Sitges%202019%20%2849500414408%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 77752,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q366057",
@@ -8763,7 +9309,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrice%20Ch%C3%A9reau%2066%C3%A8me%20Festival%20de%20Venise%20%28Mostra%29.jpg?width=500",
       "wikiLength": 77594,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q284731",
@@ -8776,7 +9323,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/DOMBASLE%20Arielle-24x30-2006.jpg?width=500",
       "wikiLength": 76798,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106573",
@@ -8789,7 +9337,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nathalie%20Baye%20Cannes%202019.jpg?width=500",
       "wikiLength": 76291,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q318991",
@@ -8802,7 +9351,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gad%20Elmaleh%20Cannes%202019.jpg?width=500",
       "wikiLength": 74145,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q19877770",
@@ -8815,7 +9365,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg?width=500",
       "wikiLength": 72332,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q540631",
@@ -8828,7 +9379,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Katsuni%20at%20AVN%20Awards%202011%201crop.jpg?width=500",
       "wikiLength": 69638,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q115735",
@@ -8841,7 +9393,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lambert%20Wilson%20Cannes%202017.jpg?width=500",
       "wikiLength": 67720,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q30449",
@@ -8854,7 +9407,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Avril%20Lavigne%20%40%20Grammy%20Museum%2009%2005%202019%20%2849311430057%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 63631,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q276005",
@@ -8867,7 +9421,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%20Gainsbourg-5201.jpg?width=500",
       "wikiLength": 63343,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q42037",
@@ -8880,7 +9435,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Marie%20Gustave%20Le%20Cl%C3%A9zio-press%20conference%20Dec%2006th%2C%202008-2.jpg?width=500",
       "wikiLength": 63171,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q207578",
@@ -8893,7 +9449,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Laetitia%20Casta%20janvier%202016%202.jpg?width=500",
       "wikiLength": 62774,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q355835",
@@ -8906,7 +9463,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathieu%20Amalric%20UCR.jpg?width=500",
       "wikiLength": 62629,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q313362",
@@ -8919,7 +9477,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/AlexandreDesplat-gros-plan.jpg?width=500",
       "wikiLength": 62403,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q126098",
@@ -8932,7 +9491,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Gondry%20Deauville%202012.jpg?width=500",
       "wikiLength": 61377,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q183471",
@@ -8945,7 +9505,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Jade.jpg?width=500",
       "wikiLength": 60476,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q43697",
@@ -8958,7 +9519,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Reno%20Cannes%202016.jpg?width=500",
       "wikiLength": 59568,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q125106",
@@ -8971,7 +9533,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr383631%20Salma%20Hayek%20%28Women%20In%20Motion%2C%20Cannes%202025%29%20crop.jpg?width=500",
       "wikiLength": 58893,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q191644",
@@ -8984,7 +9547,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Green%20%28Headshot%29.jpg?width=500",
       "wikiLength": 58738,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1398256",
@@ -8997,7 +9561,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Blanc%202009.jpg?width=500",
       "wikiLength": 58711,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q167850",
@@ -9010,7 +9575,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zaz%20en%20avril%202011%20avant%20son%20tour%20de%20chant%20au%20cirque%20royal%20de%20Bruxelles.jpg?width=500",
       "wikiLength": 57345,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q448021",
@@ -9023,7 +9589,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Chabat%20au%20Festival%20Lumi%C3%A8re%202019.jpg?width=500",
       "wikiLength": 57290,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q242868",
@@ -9036,7 +9603,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Paul%20Gaultier%20im%20Schwuz%20am%2017-Mar-2015%20arte%202.jpg?width=500",
       "wikiLength": 57261,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q437254",
@@ -9049,7 +9617,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Josiane%20Balasko%202014.jpg?width=500",
       "wikiLength": 57223,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q44077",
@@ -9062,7 +9631,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessica%20Alba%20-%20Los%20Angeles%20Comic%20Con%202025.jpg?width=500",
       "wikiLength": 56883,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q314972",
@@ -9075,7 +9645,20 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%A9d%C3%A9ric-Beigbeder.jpg?width=500",
       "wikiLength": 56336,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.lemonde.fr/societe/article/2023/12/12/frederic-beigbeder-entendu-en-garde-a-vue-apres-le-depot-d-une-plainte-pour-des-faits-de-viol-qu-il-conteste_6205454_3224.html",
+            "https://www.lemonde.fr/societe/article/2024/07/26/accusation-de-viol-contre-frederic-beigbeder-l-enquete-classee-sans-suite_6258801_3224.html",
+            "https://www.liberation.fr/societe/police-justice/accusation-de-viol-contre-frederic-beigbeder-lenquete-classee-sans-suite-20240726_7WKGWK5T3VCPDE2YKDA2XRM4FM/",
+            "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Beigbeder"
+          ],
+          "titre": "Accusations de viol (plainte d'une jeune femme, 2023)",
+          "annee": 2023,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        }
+      ]
     },
     {
       "qid": "Q548400",
@@ -9088,7 +9671,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thierry%20Lhermitte%202015.jpg?width=500",
       "wikiLength": 56150,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q289032",
@@ -9101,7 +9685,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Carr%C3%A9%20janvier%202016.jpg?width=500",
       "wikiLength": 56006,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q324981",
@@ -9114,7 +9699,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Cabrel%2C%202009%20%28cropped%29.jpg?width=500",
       "wikiLength": 55937,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q223167",
@@ -9127,7 +9713,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Sinclar%202011.jpg?width=500",
       "wikiLength": 54983,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q94882",
@@ -9140,7 +9727,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kusturica%202024.jpg?width=500",
       "wikiLength": 54798,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q232113",
@@ -9153,7 +9741,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20Franse%20filmster%20Anna%20Karina%20op%20Schiphol%2C%20Anna%20Karina%20tijdens%20persconfer%2C%20Bestanddeelnr%20921-0593.jpg?width=500",
       "wikiLength": 53552,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q240885",
@@ -9166,7 +9755,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vartan-Quaisse0847.jpg?width=500",
       "wikiLength": 53036,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q620118",
@@ -9179,7 +9769,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fabrice%20Luchini%202010.jpg?width=500",
       "wikiLength": 52609,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106349",
@@ -9192,7 +9783,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fanny%20Ardant%2045th%20C%C3%A9sar%20Awards%202020%20%283x4%20cropped%29.jpg?width=500",
       "wikiLength": 52546,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q16728588",
@@ -9205,7 +9797,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/DJS-Presskit05%20%28cropped%29.jpg?width=500",
       "wikiLength": 52470,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q435925",
@@ -9218,7 +9811,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Gayet%202024%20%28cropped%29.jpg?width=500",
       "wikiLength": 52177,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q71452",
@@ -9231,7 +9825,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mireille%20Mathieu%20%C3%A0%20Lille%20-%2014%20novembre%202014%20%28cropped%29.JPG?width=500",
       "wikiLength": 52094,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q28556",
@@ -9244,7 +9839,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Hazanavicius.jpg?width=500",
       "wikiLength": 51629,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q162753",
@@ -9257,7 +9853,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Marceau%20taularde%202016%202.jpg?width=500",
       "wikiLength": 51403,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q167889",
@@ -9270,7 +9867,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zazie%20%C3%A0%20Lille%20en%20mai%202011.jpg?width=500",
       "wikiLength": 50908,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q168012",
@@ -9283,7 +9881,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/French%20singer%20Aliz%C3%A9e%20at%20Les%20Enfoires%202013%20-%20DSC5744%20%28cropped%202%29.jpg?width=500",
       "wikiLength": 50695,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q314403",
@@ -9296,7 +9895,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Canet.jpg?width=500",
       "wikiLength": 50490,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106458",
@@ -9309,7 +9909,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20B%C3%A9art-5709.jpg?width=500",
       "wikiLength": 50162,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q12054",
@@ -9322,7 +9923,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20WERBER%20par%20Michel%20Restany.jpg?width=500",
       "wikiLength": 50154,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q18684181",
@@ -9335,7 +9937,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louane%20Emera%20Lumi%C3%A8res%202015.jpg?width=500",
       "wikiLength": 49588,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q310692",
@@ -9348,7 +9951,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Clavier%20Cannes.jpg?width=500",
       "wikiLength": 49580,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q236835",
@@ -9361,7 +9965,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Clara%20morgan%20france%20bleu%20champagne%201008361.jpg?width=500",
       "wikiLength": 49156,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2925398",
@@ -9374,7 +9979,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Brigitte%20Bar%C3%A8ges.jpg?width=500",
       "wikiLength": 49096,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106303",
@@ -9387,7 +9993,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Auteuil-8755.jpg?width=500",
       "wikiLength": 48973,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2825427",
@@ -9400,7 +10007,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ad%C3%A8le%20Exarchopoulos%20at%2082nd%20Venice%20International%20Film%20Festival-2.jpg?width=500",
       "wikiLength": 48653,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q193504",
@@ -9413,7 +10021,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Cassel%20Cannes%202018.jpg?width=500",
       "wikiLength": 48350,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q16887680",
@@ -9426,7 +10035,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amir%20Haddad%202016.jpg?width=500",
       "wikiLength": 48095,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q314223",
@@ -9439,7 +10049,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yann%20Arthus-Bertrand%2C%202009%20%28cropped%29.jpg?width=500",
       "wikiLength": 47997,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q15069938",
@@ -9452,7 +10063,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Justine%20Triet%202017.jpg?width=500",
       "wikiLength": 47984,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q270005",
@@ -9465,7 +10077,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20Balibar%20Cannes%202017.jpg?width=500",
       "wikiLength": 47843,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q267542",
@@ -9478,7 +10091,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/JDE2024%207662.jpg?width=500",
       "wikiLength": 47244,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q576085",
@@ -9491,7 +10105,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Berl%C3%A9and%20avp%20L%27%C3%A9cole%20buissonni%C3%A8re.jpg?width=500",
       "wikiLength": 46299,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q518457",
@@ -9504,7 +10119,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Dussollier%20Cannes%202010.jpg?width=500",
       "wikiLength": 45658,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q728158",
@@ -9517,7 +10133,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%20de%20Paris%202017%20-%20G%C3%A9rard%20Jugnot%20-%20003.jpg?width=500",
       "wikiLength": 45459,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q234581",
@@ -9530,7 +10147,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr377930%20M%C3%A9lanie%20Laurent%20%28Qui%20brille%20au%20combat%2C%20Cannes%202025%29.jpg?width=500",
       "wikiLength": 45207,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q228891",
@@ -9543,7 +10161,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yeardley%20Smith%20by%20Gage%20Skidmore.jpg?width=500",
       "wikiLength": 44991,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q60458248",
@@ -9556,7 +10175,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Huma2023BilalHassani%204.jpg?width=500",
       "wikiLength": 44986,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q287828",
@@ -9569,7 +10189,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric-Emmanuel%20Schmitt%202013.jpg?width=500",
       "wikiLength": 44907,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q233742",
@@ -9582,7 +10203,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludivine%20Sagnier%202013.jpg?width=500",
       "wikiLength": 44885,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q312661",
@@ -9595,7 +10217,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jamel%20Debbouze%20AVP%202016.jpg?width=500",
       "wikiLength": 44681,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1974920",
@@ -9608,7 +10231,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Arestrup%20C%C3%A9sars%202014.jpg?width=500",
       "wikiLength": 44600,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q239893",
@@ -9621,7 +10245,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-France%20Pisier%20%281992%29.jpg?width=500",
       "wikiLength": 43845,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q271944",
@@ -9634,7 +10259,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Karin%20Viard%20Lumi%C3%A8res%202015.jpg?width=500",
       "wikiLength": 43514,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q5362676",
@@ -9647,7 +10273,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Debicki%20%288121869622%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 43304,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q78138804",
@@ -9660,7 +10287,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Pravi1.jpg?width=500",
       "wikiLength": 43297,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3345735",
@@ -9673,7 +10301,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noemie%20Merlant%20BalconettesBFILFF151024%20%281%20of%2033%29%20%2854070028551%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 43283,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q449240",
@@ -9686,7 +10315,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anemone2-Le%20Petit%20Nicolas-Avant%20Premi%C3%A8re.jpg?width=500",
       "wikiLength": 42704,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q239823",
@@ -9699,7 +10329,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chantal%20Akerman%20-%20video%20still%20%28cropped%29.jpg?width=500",
       "wikiLength": 42649,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q713477",
@@ -9712,7 +10343,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dutronc1.jpg?width=500",
       "wikiLength": 42108,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q240521",
@@ -9725,7 +10357,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Agn%C3%A8s%20Jaoui%20Cannes.jpg?width=500",
       "wikiLength": 41683,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q307996",
@@ -9738,7 +10371,19 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdellatif%20Kechiche%20Cannes%202013.jpg?width=500",
       "wikiLength": 41207,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.leparisien.fr/faits-divers/le-realisateur-abdellatif-kechiche-vise-par-une-plainte-pour-agression-sexuelle-31-10-2018-7931919.php",
+            "https://www.leparisien.fr/faits-divers/abdellatif-kechiche-accuse-d-agression-sexuelle-l-enquete-classee-sans-suite-19-05-2020-8320194.php",
+            "https://www.lefigaro.fr/cinema/l-enquete-sur-abdellatif-kechiche-accuse-d-agression-sexuelle-classee-sans-suite-20200520"
+          ],
+          "titre": "Accusation d'agression sexuelle (2018)",
+          "annee": 2018,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        }
+      ]
     },
     {
       "qid": "Q981203",
@@ -9751,7 +10396,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Bacri%2020070411%20Fnac%206.jpg?width=500",
       "wikiLength": 40894,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q561124",
@@ -9764,7 +10410,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Perrin%202009%20%28cropped%29.jpg?width=500",
       "wikiLength": 40823,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106709",
@@ -9777,7 +10424,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrice%20Leconte%2020060909%20Fnac%2001.jpg?width=500",
       "wikiLength": 40632,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1371822",
@@ -9790,7 +10438,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Fran%C3%A7ois-Henri%20Pinault%20pris%20aux%20journ%C3%A9e%20de%20la%20terre%20en%202011%20%C3%A0%20l%27unesco%20paris.jpg?width=500",
       "wikiLength": 40338,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q464712",
@@ -9803,7 +10452,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Golshifteh%20Farahani%20at%20the%202024%20Toronto%20International%20Film%20Festival%204%20%28cropped%29.jpg?width=500",
       "wikiLength": 40197,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q382389",
@@ -9816,7 +10466,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Audiard%202016.jpg?width=500",
       "wikiLength": 40048,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q451776",
@@ -9829,7 +10480,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Frot%20C%C3%A9sars%202009.jpg?width=500",
       "wikiLength": 39925,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q18173445",
@@ -9842,7 +10494,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%C3%AFla%20Slimani%20at%20the%202025%20Cannes%20Film%20Festival%2014.jpg?width=500",
       "wikiLength": 39915,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3192364",
@@ -9855,7 +10508,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamel%20Daoud%20par%20Claude%20Truong-Ngoc%20f%C3%A9vrier%202015.jpg?width=500",
       "wikiLength": 39293,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q722733",
@@ -9868,7 +10522,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Bohringer%201994.jpg?width=500",
       "wikiLength": 38980,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q258630",
@@ -9881,7 +10536,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Calle%20au%20FILAF.jpg?width=500",
       "wikiLength": 38978,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q38554",
@@ -9894,7 +10550,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Pinon%20Lumi%C3%A8res%202015%202.jpg?width=500",
       "wikiLength": 38780,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q115243",
@@ -9907,7 +10564,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amin%20Maalouf.jpg?width=500",
       "wikiLength": 38717,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q317704",
@@ -9920,7 +10578,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tch%C3%A9ky%20Karyo%201992.jpg?width=500",
       "wikiLength": 38174,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q232937",
@@ -9933,7 +10592,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandrine%20Bonnaire%2066%C3%A8me%20Festival%20de%20Venise%20%28Mostra%29%201%20cropped.jpg?width=500",
       "wikiLength": 37934,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q124389",
@@ -9946,7 +10606,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Dupontel%20%28c%29%20Chistophe%20Brachet.JPG?width=500",
       "wikiLength": 37535,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q214821",
@@ -9959,7 +10620,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Israel%20Defense%20Forces%20-%20After%205%20Years%20of%20Captivity.jpg?width=500",
       "wikiLength": 37507,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q234679",
@@ -9972,7 +10634,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Actress%20Charlotte%20Rampling%20At%20the%20premiere%20of%20the%20movie%20%2245%20Years%22%20%28cropped1%29.jpg?width=500",
       "wikiLength": 37152,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q267617",
@@ -9985,7 +10648,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ALAGNA-24x30-2004b.jpg?width=500",
       "wikiLength": 37067,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q983159",
@@ -9998,7 +10662,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christophe%20Girard%2C%20Semp%C3%A9%2C%20Kad%20Merad%20-%20Cropped.jpg?width=500",
       "wikiLength": 35778,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q259940",
@@ -10011,7 +10676,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/VLemercier-Le%20Petit%20Nicolas%2C%20Avant%20Premi%C3%A8re.jpg?width=500",
       "wikiLength": 35495,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q443516",
@@ -10024,7 +10690,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr384173%20Clotilde%20Courau%20%28Women%20In%20Motion%2C%20Cannes%202025%29.jpg?width=500",
       "wikiLength": 35279,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q550717",
@@ -10037,7 +10704,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Viennale%202010.10.30%20Olivier%20Assayas.jpg?width=500",
       "wikiLength": 34419,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q557272",
@@ -10050,7 +10718,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Lindon-64225.jpg?width=500",
       "wikiLength": 34353,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q271481",
@@ -10063,7 +10732,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Blanc%20Deauville%202017.jpg?width=500",
       "wikiLength": 34172,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q110462",
@@ -10076,7 +10746,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Delpy%20%282019%29.jpg?width=500",
       "wikiLength": 33925,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q208590",
@@ -10089,7 +10760,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kristin%20Scott%20Thomas%20Press%20Conference%20The%20Party%20Berlinale%202017%2002%20cropped.jpg?width=500",
       "wikiLength": 33538,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q159704",
@@ -10102,7 +10774,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Kaas%20%282009%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 33309,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q20670730",
@@ -10115,7 +10788,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lily-Rose%20Depp%20-%20ALPHAGANG%20-%20TIFF%202026-23.jpg?width=500",
       "wikiLength": 32976,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106607",
@@ -10128,7 +10802,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Carole%20Bouquet%20Cannes%202011.jpg?width=500",
       "wikiLength": 32688,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q713747",
@@ -10141,7 +10816,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel%20Carr%C3%A8re%20-%20Livre%20sur%20la%20Place%202014%20%2815221395521%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 32617,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q441272",
@@ -10154,7 +10830,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Romain%20Duris%202014.jpg?width=500",
       "wikiLength": 32596,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q232470",
@@ -10167,7 +10844,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Valeria%20Bruni%20Tedeschi%20at%20Berlinale%202022%20%28cropped%29.jpg?width=500",
       "wikiLength": 32442,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q157256",
@@ -10180,7 +10858,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yann%20Tiersen%204%202.png?width=500",
       "wikiLength": 32408,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q297453",
@@ -10193,7 +10872,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gregoryrajz.JPG?width=500",
       "wikiLength": 32400,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q304123",
@@ -10206,7 +10886,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Tautou%20janvier%202016.jpg?width=500",
       "wikiLength": 32291,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q126633",
@@ -10219,7 +10900,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marjane%20Satrapi%20Cannes%202008%28Cropped%29.jpg?width=500",
       "wikiLength": 32243,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q242526",
@@ -10232,7 +10914,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvie%20Testud%202012%20La%20vie%20d%27une%20autre.jpg?width=500",
       "wikiLength": 32175,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q18350026",
@@ -10245,7 +10928,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Damien%20Chazelle%20%28cropped%29.jpg?width=500",
       "wikiLength": 32099,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q724208",
@@ -10258,7 +10942,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yvan%20Attal%202009.jpg?width=500",
       "wikiLength": 31964,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q316765",
@@ -10271,7 +10956,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%202012%20-%20Olivier%20Weber%20-%20001.jpg?width=500",
       "wikiLength": 31589,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q234683",
@@ -10284,7 +10970,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/AVP%20Enrag%C3%A9s%202016%203.jpg?width=500",
       "wikiLength": 31315,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q981690",
@@ -10297,7 +10984,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tahar%20Rahim%202012.jpg?width=500",
       "wikiLength": 31248,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q450429",
@@ -10310,7 +10998,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grace%20Jones%20at%20Carriageworks%20%28Vivid%29%20-%201st%20June%202015%2008.jpg?width=500",
       "wikiLength": 31063,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q283317",
@@ -10323,7 +11012,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiara%20Mastroianni%20at%2083rd%20Venice%20International%20Film%20Festival-33.jpg?width=500",
       "wikiLength": 30626,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q217324",
@@ -10336,7 +11026,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Jeunet%20M%C3%BCnchen%202014%20%28cropped%29.JPG?width=500",
       "wikiLength": 30569,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q28487",
@@ -10349,7 +11040,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9r%C3%A9nice%20Bejo%202014%203.jpg?width=500",
       "wikiLength": 30306,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3386444",
@@ -10362,7 +11054,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Niney%20Cannes%202013.jpg?width=500",
       "wikiLength": 30200,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q333668",
@@ -10375,7 +11068,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Enki%20Bilal%2020100328%20Salon%20du%20livre%20de%20Paris%205.jpg?width=500",
       "wikiLength": 30051,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q11485",
@@ -10388,7 +11082,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Claude%20Killy.jpg?width=500",
       "wikiLength": 29947,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q2957653",
@@ -10401,7 +11096,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/2011-11-02%20Incendie%20%C3%A0%20Charlie%20Hebdo%20-%20Charb%20-%2006.jpg?width=500",
       "wikiLength": 29866,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q253845",
@@ -10414,7 +11110,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9l%C3%A8ne%20Grimaud%202007.jpg?width=500",
       "wikiLength": 29574,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q472613",
@@ -10427,7 +11124,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe-Claudel-Il-y-a-longtemps.JPG?width=500",
       "wikiLength": 29360,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q146749",
@@ -10440,7 +11138,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Schneidermann.jpg?width=500",
       "wikiLength": 29347,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q235115",
@@ -10453,7 +11152,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Maria%20de%20Medeiros%20at%202025%20Cannes%20Photocall%202%20%28cropped%29.jpg?width=500",
       "wikiLength": 29312,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q266229",
@@ -10466,7 +11166,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Edwige%20Fenech%20-%20%E2%80%9CLa%20signora%20gioca%20bene%20a%20scopa%E2%80%9D%20%281974%29.jpg?width=500",
       "wikiLength": 28912,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q502990",
@@ -10479,7 +11180,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachid%20Taha.jpg?width=500",
       "wikiLength": 28785,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1342843",
@@ -10492,7 +11194,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaach%20De%20Bankol%C3%A9%2C%202009.jpg?width=500",
       "wikiLength": 28511,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q267244",
@@ -10505,7 +11208,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Villeret%20C%C3%A9sars%201999.jpg?width=500",
       "wikiLength": 28501,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q232868",
@@ -10518,7 +11222,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Clemence%20Poesy%20Paris%20Fashion%20Week%20Autumn%20Winter%202019.jpg?width=500",
       "wikiLength": 28499,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q269873",
@@ -10531,7 +11236,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louise%20Bourgoin%20Cannes%202010.jpg?width=500",
       "wikiLength": 28369,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q454260",
@@ -10544,7 +11250,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Amandine%20Bourgeois%2C%20ESC2013%20press%20conference%2009.JPG?width=500",
       "wikiLength": 28324,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q437406",
@@ -10557,7 +11264,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/CatherineSpaak-StudioHarcourt-1956.png?width=500",
       "wikiLength": 27938,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1684856",
@@ -10570,7 +11278,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Francois%20Stevenin.jpg?width=500",
       "wikiLength": 27843,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q6024866",
@@ -10583,7 +11292,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Indila%20-%20EBBA%202015.jpg?width=500",
       "wikiLength": 27746,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q176246",
@@ -10596,7 +11306,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Levy%202013-04-11%20B.jpg?width=500",
       "wikiLength": 27674,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q441502",
@@ -10609,7 +11320,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Jaroussky%20-%20Misteria%20Paschalia%202011%20%281%29.JPG?width=500",
       "wikiLength": 27633,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q382393",
@@ -10622,7 +11334,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Garrel%20at%2082nd%20Venice%20International%20Film%20Festival-1%20%28cropped%29.jpg?width=500",
       "wikiLength": 27188,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q262822",
@@ -10635,7 +11348,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandrine%20Kiberlain%20avp%202013.jpg?width=500",
       "wikiLength": 26761,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q266535",
@@ -10648,7 +11362,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Ozon.jpg?width=500",
       "wikiLength": 26616,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q17385969",
@@ -10661,7 +11376,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kendji%20Girac%20Belval%202016.jpg?width=500",
       "wikiLength": 26590,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q292677",
@@ -10674,7 +11390,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Forestier%20Cannes%202013.jpg?width=500",
       "wikiLength": 26256,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q505626",
@@ -10687,7 +11404,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Beineix%20%281989%29%20by%20Erling%20Mandelmann.jpg?width=500",
       "wikiLength": 26077,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q434060",
@@ -10700,7 +11418,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicole%20Garcia%202017.jpg?width=500",
       "wikiLength": 26021,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q433979",
@@ -10713,7 +11432,17 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Garrel%20at%20Berlinale%202023.jpg?width=500",
       "wikiLength": 26016,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://fr.wikipedia.org/wiki/Philippe_Garrel"
+          ],
+          "titre": "Accusations de harcèlement sexuel et gestes déplacés (témoignages de 5 comédiennes)",
+          "annee": 2023,
+          "statut": "ACCUSATION_PUBLIQUE"
+        }
+      ]
     },
     {
       "qid": "Q737693",
@@ -10726,7 +11455,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Leos%20Carax%20Cannes%202012.jpg?width=500",
       "wikiLength": 25761,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q180491",
@@ -10739,7 +11469,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9lanie%20Thierry%20D%C3%A9jeuner%20C%C3%A9sar%202018.jpg?width=500",
       "wikiLength": 25747,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q487882",
@@ -10752,7 +11483,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Demis%20Roussos%20in%20Baku%202-cropped.jpg?width=500",
       "wikiLength": 25707,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q447507",
@@ -10765,7 +11497,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Wiazemsky%20in%20Il%20seme%20dell%27uomo.png?width=500",
       "wikiLength": 25548,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q347950",
@@ -10778,7 +11511,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaspar%20No%C3%A9%20%282021%29.jpg?width=500",
       "wikiLength": 25143,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q528132",
@@ -10791,7 +11525,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexandreaja.jpg?width=500",
       "wikiLength": 25087,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q123476",
@@ -10804,7 +11539,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20P%C3%A9rez%20Cannes.jpg?width=500",
       "wikiLength": 24955,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q272183",
@@ -10817,7 +11553,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MarleneJobert-Italie-1978.png?width=500",
       "wikiLength": 24865,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q464616",
@@ -10830,7 +11567,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zar%20Amir%20Ebrahimi%20at%20the%202025%20Locarno%20Film%20Festival.jpg?width=500",
       "wikiLength": 24566,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q373034",
@@ -10843,7 +11581,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sa%C3%AFd%20Taghmaoui%202014.jpg?width=500",
       "wikiLength": 23976,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q291765",
@@ -10856,7 +11595,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Brigitte%20Fossey%20C%C3%A9sars.jpg?width=500",
       "wikiLength": 23934,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q238315",
@@ -10869,7 +11609,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claire%20Denis%20at%202026%20Cannes%20International%20Film%20Festival%2002.jpg?width=500",
       "wikiLength": 23805,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q18143",
@@ -10882,7 +11623,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Xingjian%20%282012%2C%20cropped%29.jpg?width=500",
       "wikiLength": 23739,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q60590137",
@@ -10895,7 +11637,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr385780%20Emma%20Mackey%20%28Alpha%2C%20Cannes%202025%29.jpg?width=500",
       "wikiLength": 23685,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q523144",
@@ -10908,7 +11651,19 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20T%C3%A9chin%C3%A9%20Cabourg%202018.jpg?width=500",
       "wikiLength": 23247,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.leparisien.fr/culture-loisirs/cinema/metoogarcons-lenquete-pour-harcelement-sexuel-visant-andre-techine-classee-sans-suite-13-06-2024-ZJQR5YJLPFH4HI6NXKVCBMHBQE.php",
+            "https://www.lemonde.fr/culture/article/2024/03/03/plainte-contre-le-realisateur-andre-techine-pour-harcelement-sexuel-le-parquet-ouvre-une-enquete_6219871_3246.html",
+            "https://www.huffingtonpost.fr/culture/article/andre-techine-conteste-les-accusations-de-francis-renaud-et-invoque-une-approche-maladroite_230476.html"
+          ],
+          "titre": "Accusations de harcèlement sexuel (affaire Francis Renaud)",
+          "annee": 2024,
+          "statut": "CLASSEMENT_SANS_SUITE"
+        }
+      ]
     },
     {
       "qid": "Q115206",
@@ -10921,7 +11676,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Imany.jpg?width=500",
       "wikiLength": 23152,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q982784",
@@ -10934,7 +11690,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kavinsky%202.jpg?width=500",
       "wikiLength": 23124,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q982049",
@@ -10947,7 +11704,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Thiollet%20%28cropped%29.jpg?width=500",
       "wikiLength": 22887,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q233968",
@@ -10960,7 +11718,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Gala%20du%20Disque%20in%20RAI%20Amsterdam.%20Frida%20Boccara%2C%20Bestanddeelnr%20923-3017.jpg?width=500",
       "wikiLength": 22081,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q350844",
@@ -10973,7 +11732,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Lacroix%20-%202018%20%28cropped%29.jpg?width=500",
       "wikiLength": 21922,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q525332",
@@ -10986,7 +11746,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Leterrier%20by%20Gage%20Skidmore%202.jpg?width=500",
       "wikiLength": 21886,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q467436",
@@ -10999,7 +11760,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Khatia%20Buniatishvili%20-%20Global%20Citizen%20Festival%20Hamburg%2013.jpg?width=500",
       "wikiLength": 21719,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q241043",
@@ -11012,7 +11774,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20Devos%2079th%20Locarno%20Film%20Festival%20-%20Photocall-4.jpg?width=500",
       "wikiLength": 21711,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q326837",
@@ -11025,7 +11788,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elodie%20Yung%20by%20Gage%20Skidmore.jpg?width=500",
       "wikiLength": 21594,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q239341",
@@ -11038,7 +11802,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Jos%C3%A9e%20Croze%20Deauville%202012.jpg?width=500",
       "wikiLength": 21560,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q30386985",
@@ -11051,7 +11816,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Muriel%20Ressiguier.jpg?width=500",
       "wikiLength": 21381,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q312280",
@@ -11064,7 +11830,18 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Corneau%20Cannes%201990.jpg?width=500",
       "wikiLength": 21280,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.liberation.fr/societe/droits-des-femmes/lactrice-sarah-grappin-accuse-le-cineaste-alain-corneau-de-violences-sexuelles-20240214_VNR5LZXN3JD2DCTY24K3XD2VPU/",
+            "https://fr.wikipedia.org/wiki/Alain_Corneau"
+          ],
+          "titre": "Accusations d'agressions sexuelles sur mineure (affaire Sarah Grappin)",
+          "annee": 2024,
+          "statut": "ACCUSATION_PUBLIQUE"
+        }
+      ]
     },
     {
       "qid": "Q220826",
@@ -11077,7 +11854,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jessy%20Matador.jpg?width=500",
       "wikiLength": 21164,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q106592",
@@ -11090,7 +11868,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sabine%20Az%C3%A9ma%20Deauville%202018.jpg?width=500",
       "wikiLength": 21111,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q269832",
@@ -11103,7 +11882,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Claudine%20Auger%201966.jpg?width=500",
       "wikiLength": 20152,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q356301",
@@ -11116,7 +11896,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Maunier%20Cabourg%202016%202.jpg?width=500",
       "wikiLength": 20106,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q461350",
@@ -11129,7 +11910,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9line%20Sciamma%20Lumi%C3%A8res%202015.jpg?width=500",
       "wikiLength": 19948,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q289054",
@@ -11142,7 +11924,19 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Breillat%20in%202023%20%28cropped%29.jpg?width=500",
       "wikiLength": 19808,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": [
+        {
+          "sources": [
+            "https://www.francetvinfo.fr/societe/harcelement-sexuel/la-comedienne-caroline-ducey-affirme-avoir-ete-victime-d-un-viol-pendant-le-tournage-du-film-romance-de-catherine-breillat_6748348.html",
+            "https://www.humanite.fr/societe/metoo/metoo-cinema-caroline-ducey-accuse-la-realisatrice-catherine-breillat-davoir-organise-un-viol-lors-dun-tournage",
+            "https://fr.wikipedia.org/wiki/Catherine_Breillat"
+          ],
+          "titre": "Accusations d'avoir organisé un viol lors du tournage de Romance (affaire Caroline Ducey)",
+          "annee": 2024,
+          "statut": "ACCUSATION_PUBLIQUE"
+        }
+      ]
     },
     {
       "qid": "Q504627",
@@ -11155,7 +11949,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbet%20Schroeder%20%282883902011%29%20cropped.jpg?width=500",
       "wikiLength": 19698,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q464305",
@@ -11168,7 +11963,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Desireless%202013.jpg?width=500",
       "wikiLength": 19541,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q217388",
@@ -11181,7 +11977,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Gavalda%2002.jpg?width=500",
       "wikiLength": 19427,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q171557",
@@ -11194,7 +11991,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Belmondo%202018.jpg?width=500",
       "wikiLength": 18852,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q240157",
@@ -11207,7 +12005,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Depardieu%20Cannes%202016.jpg?width=500",
       "wikiLength": 18803,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q459299",
@@ -11220,7 +12019,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Raul%20Ruiz%20Memoria%20Chilena.jpg?width=500",
       "wikiLength": 18776,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q60304",
@@ -11233,7 +12033,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma%20de%20Caunes%20Cannes%202015.jpg?width=500",
       "wikiLength": 18751,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q236053",
@@ -11246,7 +12047,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MarieMyriam.jpg?width=500",
       "wikiLength": 18427,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q24061147",
@@ -11259,7 +12061,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr386059%20Julia%20Ducournau%20%28Alpha%2C%20Cannes%202025%29.jpg?width=500",
       "wikiLength": 18310,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q297794",
@@ -11272,7 +12075,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yasmina-reza.jpg?width=500",
       "wikiLength": 18305,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3395911",
@@ -11285,7 +12089,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20-Comic%20Con%20Germany%202019-%207d%20by-RaBoe%20037%20%28cropped%29.jpg?width=500",
       "wikiLength": 17818,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q235982",
@@ -11298,7 +12103,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorleac-Israel-1963-crop.png?width=500",
       "wikiLength": 17513,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q314969",
@@ -11311,7 +12117,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Littell%20P1200584.jpg?width=500",
       "wikiLength": 17336,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3592382",
@@ -11324,7 +12131,8 @@
       "photo": null,
       "wikiLength": 17256,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q461186",
@@ -11337,7 +12145,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20sorelle%20%281969%29%20Nathalie%20Delon%20%282%29.png?width=500",
       "wikiLength": 17029,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q258777",
@@ -11350,7 +12159,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sofia%20Boutella%202023%2002.jpg?width=500",
       "wikiLength": 16942,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3299073",
@@ -11363,7 +12173,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mati%20Diop%20at%20Berlinale%202024-2.jpg?width=500",
       "wikiLength": 16936,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q234890",
@@ -11376,7 +12187,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20Seigner%2C%202013%20%28cropped%29.jpg?width=500",
       "wikiLength": 16865,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q236370",
@@ -11389,7 +12201,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Souad-Massi.jpg?width=500",
       "wikiLength": 16847,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q569824",
@@ -11402,7 +12215,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Just-Jaeckin-1974.png?width=500",
       "wikiLength": 16557,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3528336",
@@ -11415,7 +12229,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tignous%2020080318%20Salon%20du%20livre%201.jpg?width=500",
       "wikiLength": 16537,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q127481",
@@ -11428,7 +12243,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Gatlif%20%282016%29.jpg?width=500",
       "wikiLength": 16258,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q291205",
@@ -11441,7 +12257,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Fontaine-3978.jpg?width=500",
       "wikiLength": 16192,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q30337284",
@@ -11454,7 +12271,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Trompille%2018881%20salle%204%20colonnes.jpg?width=500",
       "wikiLength": 16115,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q515904",
@@ -11467,7 +12285,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20%C5%BBu%C5%82awski%2003.jpg?width=500",
       "wikiLength": 16064,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q193273",
@@ -11480,7 +12299,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/20220710-Rudolstadt-Festival-2022-Goran-Bregovic-7849%20%28cropped%29.jpg?width=500",
       "wikiLength": 15726,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q302446",
@@ -11493,7 +12313,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lolo%20Ferrari%20-%20Mutter%20Courage%20%28cropped%29.JPG?width=500",
       "wikiLength": 15703,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3307854",
@@ -11506,7 +12327,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Seminci%202025%20-%20Mia%20Hansen-L%C3%B8ve-4%20%28cropped%29.jpg?width=500",
       "wikiLength": 15450,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3293222",
@@ -11519,7 +12341,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marine%20Vacth%202020%20%28cropped%29.jpg?width=500",
       "wikiLength": 15267,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1411012",
@@ -11532,7 +12355,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy%20Allen%20White%20Springsteen-33%20%28cropped%29.jpg?width=500",
       "wikiLength": 15019,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q117071",
@@ -11545,7 +12369,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurent%20Cantet%20Cannes%202008.jpg?width=500",
       "wikiLength": 14887,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q308097",
@@ -11558,7 +12383,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Abderrahmane%20Sissako%20C%C3%A9sar%202016.jpg?width=500",
       "wikiLength": 14878,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q230747",
@@ -11571,7 +12397,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacqueline%20Boyer%20%281960%29.jpg?width=500",
       "wikiLength": 14140,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q504886",
@@ -11584,7 +12411,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Olivier%20Martinez%20%28cropped%29.jpg?width=500",
       "wikiLength": 13837,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q299297",
@@ -11597,7 +12425,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/CES%202026%20-%20Simon%20Helberg%2002%20%28cropped%29.jpg?width=500",
       "wikiLength": 13822,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3554229",
@@ -11610,7 +12439,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Val%C3%A9rie%20Benguigui%20C%C3%A9sars%202013%202%20crop.jpg?width=500",
       "wikiLength": 13398,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q55211",
@@ -11623,7 +12453,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mohsen%20makhmalbaf.jpg?width=500",
       "wikiLength": 13238,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q291466",
@@ -11636,7 +12467,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nora%20Arnezeder%20%28cropped%29.jpg?width=500",
       "wikiLength": 13172,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q179801",
@@ -11649,7 +12481,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Atiq%20Rahimi%202010%20a.jpg?width=500",
       "wikiLength": 12835,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q15970956",
@@ -11662,7 +12495,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Honor%C3%A9%2C%20dessinateur%20de%20Charlie%20Hebdo%20%28crop%29.jpg?width=500",
       "wikiLength": 12787,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q231019",
@@ -11675,7 +12509,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MJK32681%20Agnieszka%20Holland%20%28Pokot%2C%20Berlinale%202017%29%20%28cropped%29.jpg?width=500",
       "wikiLength": 12624,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q234015",
@@ -11688,7 +12523,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/ASTRID%20BERGES-FRISBEY%20DEAUVILLE%202020%20%28cropped%29.jpg?width=500",
       "wikiLength": 12433,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q28736241",
@@ -11701,7 +12537,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alma%20%28Alexandra%20Maquet%29%20Kyiv%202017.jpg?width=500",
       "wikiLength": 12420,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q461132",
@@ -11714,7 +12551,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose%20Leslie%20%28March%202013%29%20%28headshot%29.jpg?width=500",
       "wikiLength": 12138,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3192216",
@@ -11727,7 +12565,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalki%20Koechlin%20launches%20beautifulhomes.jpg?width=500",
       "wikiLength": 12060,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q270660",
@@ -11740,7 +12579,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Vartan%202010%20cropped.jpg?width=500",
       "wikiLength": 11737,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q60837652",
@@ -11753,7 +12593,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Coralie%20Fargeat-2222.jpg?width=500",
       "wikiLength": 11192,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q6162887",
@@ -11766,7 +12607,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Musician%20Jason%20Kouchak.jpg?width=500",
       "wikiLength": 11054,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q954841",
@@ -11779,7 +12621,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Herve%20Villechaize%201977.jpg?width=500",
       "wikiLength": 10728,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q259123",
@@ -11792,7 +12635,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/CorinneClery-1973-Italie.png?width=500",
       "wikiLength": 10067,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q232884",
@@ -11805,7 +12649,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Annemariedavid.jpg?width=500",
       "wikiLength": 9710,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q28463",
@@ -11818,7 +12663,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/BereniceMarloheHWOFNov2012.jpg?width=500",
       "wikiLength": 9071,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q232963",
@@ -11831,7 +12677,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9verine%20-%20Un%20Banc...%20Une%20Arbre...%20Une%20Rue...%2C%201971%20%28cropped%29.jpg?width=500",
       "wikiLength": 9068,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q240802",
@@ -11844,7 +12691,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Clayderman.jpg?width=500",
       "wikiLength": 9050,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q465709",
@@ -11857,7 +12705,8 @@
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yvette%20Mimieux%20-%20still.jpg?width=500",
       "wikiLength": 8747,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q317730",
@@ -11870,7 +12719,8 @@
       "photo": null,
       "wikiLength": 8578,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q234903",
@@ -11883,7 +12733,8 @@
       "photo": null,
       "wikiLength": 8510,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q3167121",
@@ -11896,7 +12747,8 @@
       "photo": null,
       "wikiLength": 0,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     },
     {
       "qid": "Q1684727",
@@ -11909,7 +12761,8 @@
       "photo": null,
       "wikiLength": 0,
       "enrichedAt": "2026-10-21",
-      "affaires": []
+      "affaires": [],
+      "accusations": []
     }
   ]
 }

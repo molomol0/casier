@@ -184,5 +184,16 @@
         "https://www.lemonde.fr/police-justice/article/2020/10/01/enquete-ouverte-pour-provocation-a-la-haine-raciale-contre-eric-zemmour-apres-ses-propos-contre-les-migrants_6054386_1653578.html"
       ]
     }
+  ],
+  "accusations": [
+    {
+      "titre": "Accusations d'agressions sexuelles par plusieurs femmes (témoignages Mediapart, 2021-2022)",
+      "annee": 2021,
+      "statut": "ACCUSATION_PUBLIQUE",
+      "sources": [
+        "https://www.mediapart.fr/journal/france/080322/eric-zemmour-accuse-d-agressions-sexuelles-par-huit-femmes",
+        "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour#Accusations_d'agressions_sexuelles"
+      ]
+    }
   ]
 }

@@ -1,22 +1,23 @@
 {
-  "nom": "Louis Althapé",
-  "wikiTitle": "Louis Althapé",
-  "touched": "2026-10-20T17:28:13Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Condamnation pour banqueroute, faux et usage de faux, abus de biens sociaux et escroquerie (maison de retraite d'Aramits)",
-      "annee": 2005,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "ABUS_BIENS_SOCIAUX",
-      "prisonTotal": 24,
-      "prisonFerme": 0,
-      "amende": 50000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Louis_Althap%C3%A9",
-        "https://www.ici.fr/emissions/affaires-classees-racontees-par-thierry-sagardoytho/l-affaire-louis-althape-episode-ndeg5-destin-brise"
-      ]
-    }
-  ]
+ "nom": "Louis Althapé",
+ "wikiTitle": "Louis Althapé",
+ "touched": "2026-10-20T17:28:13Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Condamnation pour banqueroute, faux et usage de faux, abus de biens sociaux et escroquerie (maison de retraite d'Aramits)",
+   "annee": 2005,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "ABUS_BIENS_SOCIAUX",
+   "prisonTotal": 24,
+   "prisonFerme": 0,
+   "amende": 50000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Louis_Althap%C3%A9",
+    "https://www.ici.fr/emissions/affaires-classees-racontees-par-thierry-sagardoytho/l-affaire-louis-althape-episode-ndeg5-destin-brise"
+   ]
+  }
+ ],
+ "accusations": []
 }

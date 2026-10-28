@@ -1,22 +1,23 @@
 {
-  "nom": "Patrick Dewaere",
-  "wikiTitle": "Patrick Dewaere",
-  "touched": "2026-10-22T12:48:52Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire Nussac (violences volontaires sur un journaliste)",
-      "annee": 1981,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "VIOLENCE",
-      "prisonTotal": 12,
-      "prisonFerme": 0,
-      "amende": 1524,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lemonde.fr/archives/article/1981/10/02/le-comedien-patrick-dewaere-au-tribunal_2710871_1819218.html",
-        "https://fr.wikipedia.org/wiki/Patrick_Dewaere"
-      ]
-    }
-  ]
+ "nom": "Patrick Dewaere",
+ "wikiTitle": "Patrick Dewaere",
+ "touched": "2026-10-22T12:48:52Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire Nussac (violences volontaires sur un journaliste)",
+   "annee": 1981,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "VIOLENCE",
+   "prisonTotal": 12,
+   "prisonFerme": 0,
+   "amende": 1524,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lemonde.fr/archives/article/1981/10/02/le-comedien-patrick-dewaere-au-tribunal_2710871_1819218.html",
+    "https://fr.wikipedia.org/wiki/Patrick_Dewaere"
+   ]
+  }
+ ],
+ "accusations": []
 }

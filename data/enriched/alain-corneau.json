@@ -3,5 +3,16 @@
  "wikiTitle": "Alain Corneau",
  "touched": "2026-10-22T12:48:55Z",
  "enrichedAt": "2026-10-21",
- "affaires": []
+ "affaires": [],
+ "accusations": [
+  {
+   "titre": "Accusations d'agressions sexuelles sur mineure (affaire Sarah Grappin)",
+   "annee": 2024,
+   "statut": "ACCUSATION_PUBLIQUE",
+   "sources": [
+    "https://www.liberation.fr/societe/droits-des-femmes/lactrice-sarah-grappin-accuse-le-cineaste-alain-corneau-de-violences-sexuelles-20240214_VNR5LZXN3JD2DCTY24K3XD2VPU/",
+    "https://fr.wikipedia.org/wiki/Alain_Corneau"
+   ]
+  }
+ ]
 }

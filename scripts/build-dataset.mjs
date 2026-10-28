@@ -87,6 +87,9 @@ const politicians = rosterAll
         categorie: null, prisonTotal: 0, prisonFerme: 0, amende: 0,
         ineligibilite: 0, sources: [], ...a,
       })),
+      // Accusations hors périmètre pénal (plaintes classées/non-lieu/en cours),
+      // comptées uniquement dans le mode « Casier + accusations », jamais fusionnées.
+      accusations: (e.accusations ?? []).map((a) => ({ sources: [], ...a })),
     };
   })
   .filter(Boolean);

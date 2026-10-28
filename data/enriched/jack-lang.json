@@ -34,5 +34,16 @@
     "https://www.liberation.fr/politique/les-epstein-files-et-jack-lang-recit-dune-semaine-de-revelations-et-de-pressions-20260207_HO2HXPHO25EUVMG2UL4PIFSKS4/"
    ]
   }
+ ],
+ "accusations": [
+  {
+   "titre": "Accusations de participation à des actes pédocriminels (affaire du Coral)",
+   "annee": 1982,
+   "statut": "NON_LIEU",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Jack_Lang",
+    "https://fr.wikipedia.org/wiki/Affaire_du_Coral"
+   ]
+  }
  ]
 }

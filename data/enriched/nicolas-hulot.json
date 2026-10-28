@@ -1,7 +1,17 @@
 {
-  "nom": "Nicolas Hulot",
-  "wikiTitle": "Nicolas Hulot",
-  "touched": "2026-10-20T17:22:22Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": []
+ "nom": "Nicolas Hulot",
+ "wikiTitle": "Nicolas Hulot",
+ "touched": "2026-10-20T17:22:22Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [],
+ "accusations": [
+  {
+   "titre": "Accusations de viol et d'agressions sexuelles (plainte de Pascale Mitterrand, puis enquête de 2021)",
+   "annee": 2018,
+   "statut": "CLASSEMENT_SANS_SUITE",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Nicolas_Hulot"
+   ]
+  }
+ ]
 }

@@ -1,53 +1,54 @@
 {
-  "nom": "Thierry Gaubert",
-  "wikiTitle": "Thierry Gaubert",
-  "touched": "2026-10-20T17:27:50Z",
-  "enrichedAt": "2026-10-21",
-  "affaires": [
-    {
-      "titre": "Affaire du 1 % logement (abus de confiance et abus de biens sociaux)",
-      "annee": 2012,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "ABUS_BIENS_SOCIAUX",
-      "prisonTotal": 10,
-      "prisonFerme": 0,
-      "amende": 10000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://fr.wikipedia.org/wiki/Thierry_Gaubert",
-        "http://www.lefigaro.fr/flash-actu/2012/05/03/97001-20120503FILWWW00476-thierry-gaubert-condamne-a-10-mois-de-prison-avec-sursis.php",
-        "http://www.liberation.fr/societe/2012/02/06/thierry-gaubert-l-argent-immobilier_793800"
-      ]
-    },
-    {
-      "titre": "Affaire Karachi — volet financier (recel d'abus de biens sociaux)",
-      "annee": 2020,
-      "statut": "CONDAMNATION_EN_APPEL",
-      "categorie": "RECEL",
-      "prisonTotal": 48,
-      "prisonFerme": 24,
-      "amende": 120000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lemonde.fr/societe/article/2020/06/15/prison-ferme-pour-les-six-prevenus-dans-le-volet-financier-de-l-affaire-karachi_6042907_3224.html",
-        "https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/vente-des-sous-marins-agosta-au-pakistan-prison-ferme-pour-les-six-prevenus-850343.html",
-        "https://fr.wikipedia.org/wiki/Thierry_Gaubert"
-      ]
-    },
-    {
-      "titre": "Affaire de fraude fiscale et blanchiment dans des paradis fiscaux",
-      "annee": 2022,
-      "statut": "CONDAMNATION_DEFINITIVE",
-      "categorie": "FRAUDE_FISCALE",
-      "prisonTotal": 18,
-      "prisonFerme": 18,
-      "amende": 300000,
-      "ineligibilite": 0,
-      "sources": [
-        "https://www.lefigaro.fr/flash-actu/thierry-gaubert-condamne-a-18-mois-de-prison-en-appel-pour-fraude-fiscale-et-blanchiment-20220222",
-        "https://www.lepoint.fr/justice/fraude-fiscale-thierry-gaubert-condamne-a-3-ans-de-prison-24-06-2020-2381668_2386.php",
-        "https://fr.wikipedia.org/wiki/Thierry_Gaubert"
-      ]
-    }
-  ]
+ "nom": "Thierry Gaubert",
+ "wikiTitle": "Thierry Gaubert",
+ "touched": "2026-10-20T17:27:50Z",
+ "enrichedAt": "2026-10-21",
+ "affaires": [
+  {
+   "titre": "Affaire du 1 % logement (abus de confiance et abus de biens sociaux)",
+   "annee": 2012,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "ABUS_BIENS_SOCIAUX",
+   "prisonTotal": 10,
+   "prisonFerme": 0,
+   "amende": 10000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Thierry_Gaubert",
+    "http://www.lefigaro.fr/flash-actu/2012/05/03/97001-20120503FILWWW00476-thierry-gaubert-condamne-a-10-mois-de-prison-avec-sursis.php",
+    "http://www.liberation.fr/societe/2012/02/06/thierry-gaubert-l-argent-immobilier_793800"
+   ]
+  },
+  {
+   "titre": "Affaire Karachi — volet financier (recel d'abus de biens sociaux)",
+   "annee": 2020,
+   "statut": "CONDAMNATION_EN_APPEL",
+   "categorie": "RECEL",
+   "prisonTotal": 48,
+   "prisonFerme": 24,
+   "amende": 120000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lemonde.fr/societe/article/2020/06/15/prison-ferme-pour-les-six-prevenus-dans-le-volet-financier-de-l-affaire-karachi_6042907_3224.html",
+    "https://www.latribune.fr/entreprises-finance/industrie/aeronautique-defense/vente-des-sous-marins-agosta-au-pakistan-prison-ferme-pour-les-six-prevenus-850343.html",
+    "https://fr.wikipedia.org/wiki/Thierry_Gaubert"
+   ]
+  },
+  {
+   "titre": "Affaire de fraude fiscale et blanchiment dans des paradis fiscaux",
+   "annee": 2022,
+   "statut": "CONDAMNATION_DEFINITIVE",
+   "categorie": "FRAUDE_FISCALE",
+   "prisonTotal": 18,
+   "prisonFerme": 18,
+   "amende": 300000,
+   "ineligibilite": 0,
+   "sources": [
+    "https://www.lefigaro.fr/flash-actu/thierry-gaubert-condamne-a-18-mois-de-prison-en-appel-pour-fraude-fiscale-et-blanchiment-20220222",
+    "https://www.lepoint.fr/justice/fraude-fiscale-thierry-gaubert-condamne-a-3-ans-de-prison-24-06-2020-2381668_2386.php",
+    "https://fr.wikipedia.org/wiki/Thierry_Gaubert"
+   ]
+  }
+ ],
+ "accusations": []
 }
