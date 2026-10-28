@@ -8,7 +8,7 @@ judiciaires. Clic → les chiffres se dévoilent, la carte passe à gauche, une
 nouvelle apparaît. On ne perd jamais sur une égalité : les deux cartes ont
 toujours des valeurs différentes.
 
-➡️ **[Jouer en ligne](https://casier.pages.dev)**
+➡️ **[Jouer en ligne](https://casier-francais.com)**
 
 ---
 

@@ -156,8 +156,8 @@ function draw(excluded) {
 function cardHtml(p, { revealed }) {
   const mode = MODES[state.mode];
   const affaires = keptAffaires(p);
+  // On affiche TOUTES les affaires (la liste est scrollable dans la carte).
   const detailRows = affaires
-    .slice(0, 4)
     .map((a) => {
       const s = statutInfo(a.statut);
       return (
@@ -166,13 +166,11 @@ function cardHtml(p, { revealed }) {
       );
     })
     .join("");
-  const more = affaires.length > 4 ? `<li class="more">… et ${affaires.length - 4} autre(s)</li>` : "";
 
   // Dans le mode combiné, on ajoute les accusations avec un badge visuellement
   // distinct (nature + suite réelle), jamais confondues avec le casier pénal.
   const accRows = mode.withAccusations
     ? accusationsOf(p)
-        .slice(0, 4)
         .map(
           (a) =>
             `<li><span class="annee">${a.annee ?? "?"}</span> ${a.titre} ` +
@@ -189,7 +187,7 @@ function cardHtml(p, { revealed }) {
       ${
         revealed
           ? `<p class="value">${mode.unit(valueOf(p))}</p>
-             <ul class="details">${detailRows}${more}${accRows}</ul>`
+             <ul class="details">${detailRows}${accRows}</ul>`
           : `<p class="question">${mode.question}</p>
              <p class="tap-hint">Clique sur la personnalité qui en a le plus</p>`
       }

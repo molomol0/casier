@@ -42,6 +42,19 @@ a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .screen { min-height: 100vh; }
+/* L'écran de jeu reste figé à la taille de la fenêtre : jamais de scroll de page.
+   Layout flex en colonne pour que le duel remplisse EXACTEMENT l'espace restant
+   sous le HUD (et le bandeau d'avertissement s'il est visible). */
+#screen-game {
+  height: 100vh;
+  height: 100dvh;
+  min-height: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+#screen-game .hud { flex: 0 0 auto; }
+#accusation-warning { flex: 0 0 auto; }
 .wrap { max-width: var(--maxw); margin: 0 auto; padding: 2.4rem 1.3rem 4rem; }
 
 /* ---------- Accueil ---------- */
@@ -265,7 +278,9 @@ a:hover { text-decoration: underline; }
   display: grid;
   grid-template-columns: 1fr 1fr;
   position: relative;
-  min-height: calc(100vh - 52px);
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: hidden;
 }
 .duel-sep {
   position: absolute;
@@ -341,10 +356,24 @@ a:hover { text-decoration: underline; }
   letter-spacing: -0.02em;
 }
 
-.details { list-style: none; font-size: 0.8rem; color: var(--dim); max-width: 95%; text-align: left; }
+.details {
+  list-style: none;
+  font-size: 0.8rem;
+  color: var(--dim);
+  max-width: 95%;
+  text-align: left;
+  /* Toutes les affaires sont affichées ; la liste scrolle si elle dépasse. */
+  max-height: 34vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 6px;
+}
+/* Barre de défilement discrète */
+.details::-webkit-scrollbar { width: 5px; }
+.details::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+.details { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
 .details li { margin-bottom: 0.28rem; line-height: 1.45; }
 .details .annee { color: var(--accent); font-weight: 600; margin-right: 0.35rem; font-family: "Space Grotesk", sans-serif; }
-.details .more { color: var(--faint); font-style: italic; }
 
 .badge {
   font-size: 0.64rem;
@@ -480,8 +509,11 @@ a:hover { text-decoration: underline; }
 @media (max-width: 680px) {
   .duel { grid-template-columns: 1fr; grid-template-rows: 1fr 1fr; }
   .duel-sep { left: 0; right: 0; top: 50%; bottom: auto; width: auto; height: 1px; transform: translateY(-50%); }
-  .card { min-height: calc((100vh - 52px) / 2); }
+  .card { min-height: 0; }
   .card h3 { font-size: 1.4rem; }
   .card .value { font-size: 1.8rem; }
+  .card .overlay { padding: 1.2rem 1.1rem 1.4rem; }
+  /* Cartes empilées = moins de place : liste d'affaires plus courte mais scrollable. */
+  .details { max-height: 19vh; }
   .wordmark { font-size: 2.1rem; }
 }
