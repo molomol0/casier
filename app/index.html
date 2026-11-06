@@ -37,16 +37,24 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <!-- Filtre « encre de tampon » : bords irréguliers des empreintes -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <filter id="encre-grunge" x="-8%" y="-8%" width="116%" height="116%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.09 0.11" numOctaves="2" seed="7" result="bruit" />
+      <feDisplacementMap in="SourceGraphic" in2="bruit" scale="3.2" />
+    </filter>
+  </svg>
+
   <!-- Écran d'accueil -->
   <div id="screen-home" class="screen">
     <div class="wrap">
       <header class="brand">
         <h1 class="wordmark">Casier</h1>
-        <p class="tagline">Le casier judiciaire des personnalités françaises. Deux cartes, une question : qui en a le plus ?</p>
+        <p class="tagline">Le casier judiciaire des personnalités françaises. Deux dossiers, une question : qui en a le plus ?</p>
       </header>
 
       <div id="univers-row" class="univers hidden"></div>
@@ -127,10 +135,27 @@
       ⚠ Ce mode inclut des <strong>accusations</strong> — une accusation n'est ni une preuve ni une condamnation. Présomption d'innocence.
     </p>
     <main class="duel">
-      <section class="card revealed" id="card-left"></section>
-      <div class="duel-sep"><span>vs</span></div>
-      <section class="card" id="card-right"></section>
+      <div class="dossier ouvert-ref" id="card-left"></div>
+      <div class="dossier ferme" id="card-right"></div>
+      <div class="porte-tampons" id="porte-tampons">
+        <button class="tampon-outil plus" id="outil-plus" title="Ce dossier en a PLUS">
+          <span class="vue-dessus"><span class="signe">+</span></span>
+        </button>
+        <button class="tampon-outil moins" id="outil-moins" title="Ce dossier en a MOINS">
+          <span class="vue-dessus"><span class="signe">−</span></span>
+        </button>
+      </div>
     </main>
+
+    <!-- Défaite : bandeau non bloquant — le joueur peut encore lire les fiches -->
+    <div id="defeat-bar" class="defeat-bar hidden">
+      <span class="defeat-stamp">Perdu</span>
+      <span id="defeat-summary"></span>
+      <div class="defeat-actions">
+        <button id="btn-defeat-retry" class="btn-primary">Rejouer</button>
+        <button id="btn-defeat-home" class="btn-ghost">Menu</button>
+      </div>
+    </div>
   </div>
 
   <!-- Écran annuaire -->

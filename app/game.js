@@ -153,60 +153,179 @@ function draw(excluded) {
   return pick;
 }
 
-function cardHtml(p, { revealed }) {
-  const mode = MODES[state.mode];
-  const affaires = keptAffaires(p);
-  // On affiche TOUTES les affaires (la liste est scrollable dans la carte).
-  const detailRows = affaires
-    .map((a) => {
-      const s = statutInfo(a.statut);
-      return (
-        `<li><span class="annee">${a.annee ?? "?"}</span> ${a.titre} ` +
-        `<em class="badge ${s.groupe}">${s.label}</em></li>`
-      );
-    })
-    .join("");
+// Question de la couverture : « plus ou moins … que X ? » selon le mode
+const VS_QUESTIONS = {
+  affaires: (nom) => `<b>plus</b> ou <b>moins</b> d'affaires au casier que ${nom} ?`,
+  prison: (nom) => `<b>plus</b> ou <b>moins</b> de mois de prison que ${nom} ?`,
+  amende: (nom) => `<b>plus</b> ou <b>moins</b> d'amendes que ${nom} ?`,
+  ineligibilite: (nom) => `<b>plus</b> ou <b>moins</b> de mois d'inéligibilité que ${nom} ?`,
+  casier_accusations: (nom) => `<b>plus</b> ou <b>moins</b> d'affaires et d'accusations que ${nom} ?`,
+};
 
-  // Dans le mode combiné, on ajoute les accusations avec un badge visuellement
-  // distinct (nature + suite réelle), jamais confondues avec le casier pénal.
-  const accRows = mode.withAccusations
-    ? accusationsOf(p)
-        .map(
-          (a) =>
-            `<li><span class="annee">${a.annee ?? "?"}</span> ${a.titre} ` +
-            `<em class="badge accusation">accusation · ${accStatutLabel(a.statut)}</em></li>`
-        )
-        .join("")
-    : "";
-
-  return `
-    <div class="photo" style="background-image:url('${p.photo}')"></div>
-    <div class="overlay">
-      <h3>${p.nom}</h3>
-      <p class="sub">${p.poste ?? ""}${p.poste && p.parti ? " · " : ""}${p.parti ?? ""}</p>
-      ${
-        revealed
-          ? `<p class="value">${mode.unit(valueOf(p))}</p>
-             <ul class="details">${detailRows}${accRows}</ul>`
-          : `<p class="question">${mode.question}</p>
-             <p class="tap-hint">Clique sur la personnalité qui en a le plus</p>`
-      }
-    </div>`;
+// « Sarkozy, N. » pour l'onglet de la chemise
+function nomOnglet(p) {
+  const mots = p.nom.split(/\s+/);
+  if (mots.length < 2) return p.nom;
+  return `${mots.slice(1).join(" ")}, ${mots[0][0]}.`;
 }
 
-function renderDuel() {
+function affairesLis(p) {
+  const mode = MODES[state.mode];
+  const rows = keptAffaires(p).map((a) => {
+    const s = statutInfo(a.statut);
+    return (
+      `<li><span class="annee">${a.annee ?? "?"}</span> ${esc(a.titre)} ` +
+      `<em class="badge ${s.groupe}">${s.label}</em></li>`
+    );
+  });
+  // Dans le mode combiné, les accusations gardent leur badge distinct
+  if (mode.withAccusations)
+    rows.push(
+      ...accusationsOf(p).map(
+        (a) =>
+          `<li><span class="annee">${a.annee ?? "?"}</span> ${esc(a.titre)} ` +
+          `<em class="badge accusation">accusation · ${esc(accStatutLabel(a.statut))}</em></li>`
+      )
+    );
+  return rows.join("");
+}
+
+function sousTitre(p) {
+  return `${esc(p.poste ?? "")}${p.poste && p.parti ? " · " : ""}${esc(p.parti ?? "")}`;
+}
+
+// La chemise complète : feuilles (fiche + feuilleteur) et, si fermée, couverture
+function fardeHtml(p, piece, { ouvert }) {
+  const mode = MODES[state.mode];
+  const fiche = `
+    <div class="feuilles">
+      <div class="feuille decor"></div>
+      <div class="feuille page p1">
+        <div class="fiche-contenu">
+          <div class="fiche-photo" style="background-image:url('${p.photo}')"></div>
+          <h3>${esc(p.nom)}</h3>
+          <p class="sub">${sousTitre(p)}</p>
+          <div class="verdict"><div class="num">${mode.unit(valueOf(p))}</div></div>
+          <ul class="affaires">${affairesLis(p)}</ul>
+          <span class="tampon-verdict"></span>
+        </div>
+      </div>
+      <div class="pager">
+        <button class="pg-prev">‹</button>
+        <span class="pg-lbl"></span>
+        <button class="pg-next">›</button>
+      </div>
+    </div>`;
+  const couverture = ouvert
+    ? ""
+    : `
+    <div class="couverture">
+      <div class="face avant">
+        <span class="onglet">${esc(nomOnglet(p))}</span>
+        <span class="couv-cote">Pièce ${piece}</span>
+        <div class="photo-id" style="background-image:url('${p.photo}')" data-piece="PIÈCE ${piece}"></div>
+        <div class="couv-nom">${esc(p.nom)}</div>
+        <p class="couv-sub">${sousTitre(p)}</p>
+        <p class="couv-question">${VS_QUESTIONS[state.mode](esc(state.left.nom))}</p>
+        <p class="couv-hint">réponds avec les tampons</p>
+        <span class="marque-choix"></span>
+        <span class="tampon-conf">Confidentiel</span>
+      </div>
+      <div class="face arriere"></div>
+    </div>`;
+  return `<div class="farde">${fiche}${couverture}</div>`;
+}
+
+// Répartit les affaires sur plusieurs feuilles : la feuille 1 se remplit à
+// ras bord, le surplus passe sur des feuilles « suite » créées à la demande.
+// (Mesure réelle du débordement — l'écran doit être visible.)
+function paginate(dossier) {
+  const pile = dossier.querySelector(".feuilles");
+  let cur = pile.querySelector(".feuille.page.p1");
+  let num = 1;
+  let garde = 0;
+  while (cur && garde++ < 30) {
+    const contenu = cur.querySelector(".fiche-contenu");
+    const ul = contenu.querySelector("ul.affaires");
+    let suivante = null;
+    let g2 = 0;
+    while (ul && contenu.scrollHeight > contenu.clientHeight + 1 && ul.children.length > 1 && g2++ < 80) {
+      if (!suivante) {
+        suivante = document.createElement("div");
+        suivante.className = "feuille page pcont";
+        suivante.innerHTML =
+          `<div class="fiche-contenu"><h4>Feuille ${num + 1} — suite du casier</h4>` +
+          `<ul class="affaires cont"></ul></div>`;
+        // insérée SOUS les pages existantes (avant la première page du DOM)
+        pile.insertBefore(suivante, pile.querySelector(".feuille.page"));
+      }
+      suivante.querySelector("ul").prepend(ul.lastElementChild);
+    }
+    cur = suivante;
+    num++;
+  }
+}
+
+// Feuilleteur ‹ 1/2 › : navigation complète entre les feuilles.
+// Une seule feuille → pas de feuilleteur du tout.
+function initPager(dossier) {
+  const pager = dossier.querySelector(".pager");
+  if (!pager) return;
+  const pages = [...dossier.querySelectorAll(".feuille.page")].reverse(); // p1 d'abord
+  if (pages.length < 2) {
+    pager.remove();
+    return;
+  }
+  let idx = 0;
+  const lbl = pager.querySelector(".pg-lbl");
+  const prev = pager.querySelector(".pg-prev");
+  const next = pager.querySelector(".pg-next");
+  const maj = () => {
+    lbl.textContent = `Feuille ${idx + 1}/${pages.length}`;
+    prev.disabled = idx === 0;
+    next.disabled = idx === pages.length - 1;
+  };
+  next.addEventListener("click", () => {
+    if (idx < pages.length - 1) {
+      pages[idx].classList.add("tournee");
+      idx++;
+      maj();
+    }
+  });
+  prev.addEventListener("click", () => {
+    if (idx > 0) {
+      idx--;
+      pages[idx].classList.remove("tournee");
+      maj();
+    }
+  });
+  maj();
+}
+
+// Défaite non bloquante : le duel reste affiché, bandeau Rejouer / Menu.
+function defaite() {
+  $("defeat-summary").textContent =
+    `Score : ${state.score} · Record (${MODES[state.mode].label}) : ` +
+    (localStorage.getItem(bestKey()) ?? 0);
+  $("defeat-bar").classList.remove("hidden");
+}
+
+function renderDuel({ entree = false } = {}) {
   state.locked = false;
+  $("defeat-bar").classList.add("hidden");
   $("accusation-warning").classList.toggle("hidden", !MODES[state.mode]?.withAccusations);
   const left = $("card-left");
   const right = $("card-right");
-  left.innerHTML = cardHtml(state.left, { revealed: true });
-  right.classList.remove("revealed");
-  right.innerHTML = cardHtml(state.right, { revealed: false });
-  // On clique directement sur la carte qu'on pense être la plus élevée :
-  //  - clic à droite  = « la nouvelle en a plus » (plus)
-  //  - clic à gauche  = « l'actuelle en a plus »  (la nouvelle en a moins)
-  right.onclick = () => onGuess("plus");
-  left.onclick = () => onGuess("moins");
+  left.className = "dossier ouvert-ref";
+  left.style.cssText = "";
+  left.innerHTML = fardeHtml(state.left, "A", { ouvert: true });
+  right.className = "dossier ferme" + (entree ? " entree" : "");
+  right.style.cssText = "";
+  right.innerHTML = fardeHtml(state.right, "B", { ouvert: false });
+  paginate(left);
+  paginate(right);
+  initPager(left);
+  initPager(right);
   $("hud-score").textContent = state.score;
   if (state.zen) {
     $("hud-best-label").textContent = "Erreurs";
@@ -217,37 +336,69 @@ function renderDuel() {
   }
 }
 
+// Réponse au tampon : vol de l'outil → empreinte → ouverture → verdict → tour suivant
 function onGuess(guess) {
-  if (state.locked) return; // ignore les clics pendant la révélation
+  if (state.locked || screens.game.classList.contains("hidden")) return;
   state.locked = true;
+  const right = $("card-right");
   const vLeft = valueOf(state.left);
   const vRight = valueOf(state.right);
   const correct = guess === "plus" ? vRight > vLeft : vRight < vLeft;
 
-  // Révéler la carte de droite
-  const right = $("card-right");
-  right.classList.add("revealed");
-  right.innerHTML = cardHtml(state.right, { revealed: true });
+  // 1. le tampon vole jusqu'au dossier et le presse
+  const outil = $(guess === "plus" ? "outil-plus" : "outil-moins");
+  const farde = right.querySelector(".farde").getBoundingClientRect();
+  const or = outil.getBoundingClientRect();
+  outil.style.setProperty("--dx", `${farde.left + farde.width / 2 - (or.left + or.width / 2)}px`);
+  outil.style.setProperty("--dy", `${farde.top + farde.height * 0.56 - (or.top + or.height / 2)}px`);
+  outil.classList.add("presse");
+  setTimeout(() => outil.classList.remove("presse"), 1150);
 
+  // 2. l'empreinte + / − s'imprime (le délai CSS la cale sur la pression)
+  const marque = right.querySelector(".marque-choix");
+  marque.textContent = guess === "plus" ? "+" : "−";
+  marque.classList.add(guess, "actif");
+
+  // 3. la couverture s'ouvre quand le tampon se relève, le verdict se tamponne
   setTimeout(() => {
+    right.classList.replace("ferme", "ouvert");
+    const verdict = right.querySelector(".tampon-verdict");
+    verdict.textContent = correct ? "Bien vu" : "Raté";
+    verdict.classList.add(correct ? "correct" : "rate", "actif");
     if (correct) {
       state.score++;
+      $("hud-score").textContent = state.score;
       if (!state.zen) {
         const best = Number(localStorage.getItem(bestKey()) ?? 0);
         if (state.score > best) localStorage.setItem(bestKey(), state.score);
       }
-    } else {
-      if (!state.zen) return gameOver(false); // mode normal : une erreur = perdu
-      state.mistakes++; // mode zen : on continue
     }
-    // La carte de droite passe à gauche, celle préchargée arrive à droite
-    state.left = state.right;
-    state.right = state.next ?? draw(state.left);
-    if (!state.right) return gameOver(true); // plus personne à affronter : pool épuisé
-    state.next = draw(state.right);
-    preload(state.next);
-    renderDuel();
-  }, 1400);
+  }, 1000);
+
+  // 4. résolution : défaite, ou glissement vers le tour suivant
+  setTimeout(() => {
+    // Défaite : on NE quitte PAS l'écran — le joueur peut lire la fiche
+    // qui l'a fait perdre (et la feuilleter) ; un bandeau propose la suite.
+    if (!correct && !state.zen) return defaite();
+    if (!correct) {
+      state.mistakes++;
+      $("hud-best").textContent = state.mistakes;
+    }
+    const left = $("card-left");
+    const ra = left.getBoundingClientRect();
+    const rb = right.getBoundingClientRect();
+    left.classList.add("sortie");
+    right.classList.add("glisse");
+    right.style.transform = `translate(${ra.left - rb.left}px, ${ra.top - rb.top}px)`;
+    setTimeout(() => {
+      state.left = state.right;
+      state.right = state.next ?? draw(state.left);
+      if (!state.right) return gameOver(true); // pool épuisé : victoire
+      state.next = draw(state.right);
+      preload(state.next);
+      renderDuel({ entree: true });
+    }, 780);
+  }, 3400);
 }
 
 function gameOver(victory) {
@@ -297,8 +448,10 @@ function startGame() {
   state.next = draw(state.right);
   [state.left, state.right, state.next].forEach(preload);
   $("hud-mode").textContent = MODES[state.mode].label;
-  renderDuel();
+  // L'écran doit être visible AVANT le rendu : la pagination des feuilles
+  // mesure le débordement réel, impossible sur un écran en display:none.
   show("game");
+  renderDuel();
 }
 
 function renderUnivers() {
@@ -548,6 +701,20 @@ $("btn-browse-back").addEventListener("click", () => show("home"));
 $("btn-retry").addEventListener("click", () => startGame());
 $("btn-home").addEventListener("click", () => show("home"));
 $("btn-quit").addEventListener("click", () => show("home"));
+
+// Les tampons + / − : c'est avec eux qu'on répond
+$("outil-plus").addEventListener("click", () => onGuess("plus"));
+$("outil-moins").addEventListener("click", () => onGuess("moins"));
+
+// Bandeau de défaite
+$("btn-defeat-retry").addEventListener("click", () => {
+  $("defeat-bar").classList.add("hidden");
+  startGame();
+});
+$("btn-defeat-home").addEventListener("click", () => {
+  $("defeat-bar").classList.add("hidden");
+  show("home");
+});
 
 initHome();
 show("home");
